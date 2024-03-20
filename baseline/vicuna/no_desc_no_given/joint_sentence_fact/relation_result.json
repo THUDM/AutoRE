@@ -1,0 +1,866 @@
+{
+    "performer": {
+        "all": 283,
+        "tp": 5,
+        "fp": 68,
+        "miss": 278,
+        "recall": 0.0176678445229682,
+        "precision": 0.0684931506849315,
+        "f1": 0.028089887640449437
+    },
+    "followed by": {
+        "all": 84,
+        "tp": 0,
+        "fp": 49,
+        "miss": 84,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "publication date": {
+        "all": 342,
+        "tp": 14,
+        "fp": 81,
+        "miss": 328,
+        "recall": 0.04093567251461988,
+        "precision": 0.14736842105263157,
+        "f1": 0.06407322654462243
+    },
+    "country of origin": {
+        "all": 250,
+        "tp": 3,
+        "fp": 123,
+        "miss": 247,
+        "recall": 0.012,
+        "precision": 0.023809523809523808,
+        "f1": 0.015957446808510637
+    },
+    "country": {
+        "all": 2766,
+        "tp": 71,
+        "fp": 107,
+        "miss": 2695,
+        "recall": 0.02566883586406363,
+        "precision": 0.398876404494382,
+        "f1": 0.04823369565217391
+    },
+    "part of": {
+        "all": 456,
+        "tp": 11,
+        "fp": 205,
+        "miss": 445,
+        "recall": 0.02412280701754386,
+        "precision": 0.05092592592592592,
+        "f1": 0.03273809523809524
+    },
+    "point in time": {
+        "all": 73,
+        "tp": 0,
+        "fp": 2,
+        "miss": 73,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "notable work": {
+        "all": 598,
+        "tp": 10,
+        "fp": 156,
+        "miss": 588,
+        "recall": 0.016722408026755852,
+        "precision": 0.060240963855421686,
+        "f1": 0.02617801047120419
+    },
+    "follows": {
+        "all": 84,
+        "tp": 0,
+        "fp": 41,
+        "miss": 84,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "has part": {
+        "all": 525,
+        "tp": 4,
+        "fp": 153,
+        "miss": 521,
+        "recall": 0.007619047619047619,
+        "precision": 0.025477707006369428,
+        "f1": 0.011730205278592375
+    },
+    "located in the administrative territorial entity": {
+        "all": 4048,
+        "tp": 103,
+        "fp": 325,
+        "miss": 3945,
+        "recall": 0.025444664031620552,
+        "precision": 0.24065420560747663,
+        "f1": 0.04602323503127793
+    },
+    "country of citizenship": {
+        "all": 781,
+        "tp": 44,
+        "fp": 115,
+        "miss": 737,
+        "recall": 0.056338028169014086,
+        "precision": 0.27672955974842767,
+        "f1": 0.09361702127659575
+    },
+    "director": {
+        "all": 72,
+        "tp": 0,
+        "fp": 13,
+        "miss": 72,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "cast member": {
+        "all": 198,
+        "tp": 1,
+        "fp": 14,
+        "miss": 197,
+        "recall": 0.005050505050505051,
+        "precision": 0.06666666666666667,
+        "f1": 0.009389671361502348
+    },
+    "date of birth": {
+        "all": 200,
+        "tp": 39,
+        "fp": 50,
+        "miss": 161,
+        "recall": 0.195,
+        "precision": 0.43820224719101125,
+        "f1": 0.26989619377162627
+    },
+    "instance of": {
+        "all": 56,
+        "tp": 0,
+        "fp": 1,
+        "miss": 56,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "award received": {
+        "all": 93,
+        "tp": 3,
+        "fp": 17,
+        "miss": 90,
+        "recall": 0.03225806451612903,
+        "precision": 0.15,
+        "f1": 0.053097345132743355
+    },
+    "screenwriter": {
+        "all": 52,
+        "tp": 0,
+        "fp": 1,
+        "miss": 52,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "contains administrative territorial entity": {
+        "all": 733,
+        "tp": 5,
+        "fp": 163,
+        "miss": 728,
+        "recall": 0.0068212824010914054,
+        "precision": 0.02976190476190476,
+        "f1": 0.011098779134295227
+    },
+    "author": {
+        "all": 102,
+        "tp": 1,
+        "fp": 24,
+        "miss": 101,
+        "recall": 0.00980392156862745,
+        "precision": 0.04,
+        "f1": 0.015748031496062992
+    },
+    "record label": {
+        "all": 209,
+        "tp": 1,
+        "fp": 3,
+        "miss": 208,
+        "recall": 0.004784688995215311,
+        "precision": 0.25,
+        "f1": 0.009389671361502346
+    },
+    "producer": {
+        "all": 92,
+        "tp": 0,
+        "fp": 12,
+        "miss": 92,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "continent": {
+        "all": 190,
+        "tp": 4,
+        "fp": 11,
+        "miss": 186,
+        "recall": 0.021052631578947368,
+        "precision": 0.26666666666666666,
+        "f1": 0.03902439024390243
+    },
+    "languages spoken, written or signed": {
+        "all": 71,
+        "tp": 0,
+        "fp": 1,
+        "miss": 71,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "father": {
+        "all": 75,
+        "tp": 7,
+        "fp": 12,
+        "miss": 68,
+        "recall": 0.09333333333333334,
+        "precision": 0.3684210526315789,
+        "f1": 0.14893617021276595
+    },
+    "date of death": {
+        "all": 170,
+        "tp": 24,
+        "fp": 20,
+        "miss": 146,
+        "recall": 0.1411764705882353,
+        "precision": 0.5454545454545454,
+        "f1": 0.22429906542056074
+    },
+    "child": {
+        "all": 106,
+        "tp": 0,
+        "fp": 15,
+        "miss": 106,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "place of birth": {
+        "all": 102,
+        "tp": 21,
+        "fp": 41,
+        "miss": 81,
+        "recall": 0.20588235294117646,
+        "precision": 0.3387096774193548,
+        "f1": 0.25609756097560976
+    },
+    "applies to jurisdiction": {
+        "all": 238,
+        "tp": 4,
+        "fp": 92,
+        "miss": 234,
+        "recall": 0.01680672268907563,
+        "precision": 0.041666666666666664,
+        "f1": 0.02395209580838323
+    },
+    "place of death": {
+        "all": 60,
+        "tp": 3,
+        "fp": 11,
+        "miss": 57,
+        "recall": 0.05,
+        "precision": 0.21428571428571427,
+        "f1": 0.08108108108108109
+    },
+    "work location": {
+        "all": 46,
+        "tp": 0,
+        "fp": 1,
+        "miss": 46,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "head of state": {
+        "all": 68,
+        "tp": 1,
+        "fp": 2,
+        "miss": 67,
+        "recall": 0.014705882352941176,
+        "precision": 0.3333333333333333,
+        "f1": 0.028169014084507043
+    },
+    "participant in": {
+        "all": 263,
+        "tp": 3,
+        "fp": 51,
+        "miss": 260,
+        "recall": 0.011406844106463879,
+        "precision": 0.05555555555555555,
+        "f1": 0.01892744479495268
+    },
+    "located in/on physical feature": {
+        "all": 87,
+        "tp": 0,
+        "fp": 12,
+        "miss": 87,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "founded by": {
+        "all": 61,
+        "tp": 1,
+        "fp": 3,
+        "miss": 60,
+        "recall": 0.01639344262295082,
+        "precision": 0.25,
+        "f1": 0.030769230769230767
+    },
+    "participant": {
+        "all": 263,
+        "tp": 0,
+        "fp": 51,
+        "miss": 263,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "educated at": {
+        "all": 98,
+        "tp": 21,
+        "fp": 36,
+        "miss": 77,
+        "recall": 0.21428571428571427,
+        "precision": 0.3684210526315789,
+        "f1": 0.2709677419354839
+    },
+    "member of": {
+        "all": 310,
+        "tp": 9,
+        "fp": 71,
+        "miss": 301,
+        "recall": 0.02903225806451613,
+        "precision": 0.1125,
+        "f1": 0.046153846153846156
+    },
+    "military branch": {
+        "all": 68,
+        "tp": 0,
+        "fp": 1,
+        "miss": 68,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "operator": {
+        "all": 37,
+        "tp": 0,
+        "fp": 0,
+        "miss": 37,
+        "recall": 0.0,
+        "precision": 0,
+        "f1": 0
+    },
+    "replaced by": {
+        "all": 10,
+        "tp": 0,
+        "fp": 2,
+        "miss": 10,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "composer": {
+        "all": 57,
+        "tp": 0,
+        "fp": 8,
+        "miss": 57,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "genre": {
+        "all": 56,
+        "tp": 0,
+        "fp": 5,
+        "miss": 56,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "location": {
+        "all": 77,
+        "tp": 0,
+        "fp": 49,
+        "miss": 77,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "headquarters location": {
+        "all": 40,
+        "tp": 0,
+        "fp": 6,
+        "miss": 40,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "head of government": {
+        "all": 66,
+        "tp": 0,
+        "fp": 10,
+        "miss": 66,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "lyrics by": {
+        "all": 21,
+        "tp": 0,
+        "fp": 4,
+        "miss": 21,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "inception": {
+        "all": 180,
+        "tp": 17,
+        "fp": 63,
+        "miss": 163,
+        "recall": 0.09444444444444444,
+        "precision": 0.2125,
+        "f1": 0.13076923076923075
+    },
+    "employer": {
+        "all": 79,
+        "tp": 0,
+        "fp": 37,
+        "miss": 79,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "member of sports team": {
+        "all": 80,
+        "tp": 0,
+        "fp": 0,
+        "miss": 80,
+        "recall": 0.0,
+        "precision": 0,
+        "f1": 0
+    },
+    "league": {
+        "all": 71,
+        "tp": 0,
+        "fp": 0,
+        "miss": 71,
+        "recall": 0.0,
+        "precision": 0,
+        "f1": 0
+    },
+    "ethnic group": {
+        "all": 26,
+        "tp": 0,
+        "fp": 2,
+        "miss": 26,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "creator": {
+        "all": 70,
+        "tp": 0,
+        "fp": 8,
+        "miss": 70,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "characters": {
+        "all": 111,
+        "tp": 0,
+        "fp": 1,
+        "miss": 111,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "part of the series": {
+        "all": 85,
+        "tp": 0,
+        "fp": 8,
+        "miss": 85,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "present in work": {
+        "all": 217,
+        "tp": 0,
+        "fp": 3,
+        "miss": 217,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "spouse": {
+        "all": 80,
+        "tp": 4,
+        "fp": 11,
+        "miss": 76,
+        "recall": 0.05,
+        "precision": 0.26666666666666666,
+        "f1": 0.08421052631578949
+    },
+    "original broadcaster": {
+        "all": 36,
+        "tp": 0,
+        "fp": 4,
+        "miss": 36,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "conflict": {
+        "all": 154,
+        "tp": 2,
+        "fp": 6,
+        "miss": 152,
+        "recall": 0.012987012987012988,
+        "precision": 0.25,
+        "f1": 0.02469135802469136
+    },
+    "capital of": {
+        "all": 31,
+        "tp": 0,
+        "fp": 5,
+        "miss": 31,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "capital": {
+        "all": 31,
+        "tp": 0,
+        "fp": 6,
+        "miss": 31,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "legislative body": {
+        "all": 60,
+        "tp": 0,
+        "fp": 1,
+        "miss": 60,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "owned by": {
+        "all": 84,
+        "tp": 0,
+        "fp": 4,
+        "miss": 84,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "subclass of": {
+        "all": 36,
+        "tp": 0,
+        "fp": 0,
+        "miss": 36,
+        "recall": 0.0,
+        "precision": 0,
+        "f1": 0
+    },
+    "original language of film or TV show": {
+        "all": 36,
+        "tp": 1,
+        "fp": 1,
+        "miss": 35,
+        "recall": 0.027777777777777776,
+        "precision": 0.5,
+        "f1": 0.05263157894736842
+    },
+    "narrative location": {
+        "all": 20,
+        "tp": 0,
+        "fp": 4,
+        "miss": 20,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "platform": {
+        "all": 91,
+        "tp": 0,
+        "fp": 3,
+        "miss": 91,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "parent organization": {
+        "all": 47,
+        "tp": 0,
+        "fp": 3,
+        "miss": 47,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "residence": {
+        "all": 13,
+        "tp": 0,
+        "fp": 2,
+        "miss": 13,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "production company": {
+        "all": 40,
+        "tp": 0,
+        "fp": 0,
+        "miss": 40,
+        "recall": 0.0,
+        "precision": 0,
+        "f1": 0
+    },
+    "start time": {
+        "all": 47,
+        "tp": 0,
+        "fp": 8,
+        "miss": 47,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "territory claimed by": {
+        "all": 19,
+        "tp": 0,
+        "fp": 10,
+        "miss": 19,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "manufacturer": {
+        "all": 29,
+        "tp": 0,
+        "fp": 1,
+        "miss": 29,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "publisher": {
+        "all": 86,
+        "tp": 0,
+        "fp": 1,
+        "miss": 86,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "developer": {
+        "all": 116,
+        "tp": 0,
+        "fp": 0,
+        "miss": 116,
+        "recall": 0.0,
+        "precision": 0,
+        "f1": 0
+    },
+    "official language": {
+        "all": 36,
+        "tp": 0,
+        "fp": 5,
+        "miss": 36,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "subsidiary": {
+        "all": 47,
+        "tp": 0,
+        "fp": 1,
+        "miss": 47,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "unemployment rate": {
+        "all": 1,
+        "tp": 0,
+        "fp": 1,
+        "miss": 1,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "end time": {
+        "all": 27,
+        "tp": 0,
+        "fp": 2,
+        "miss": 27,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "located in or next to body of water": {
+        "all": 132,
+        "tp": 0,
+        "fp": 11,
+        "miss": 132,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "member of political party": {
+        "all": 44,
+        "tp": 0,
+        "fp": 1,
+        "miss": 44,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "replaces": {
+        "all": 10,
+        "tp": 0,
+        "fp": 2,
+        "miss": 10,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "religion": {
+        "all": 67,
+        "tp": 0,
+        "fp": 1,
+        "miss": 67,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "chairperson": {
+        "all": 24,
+        "tp": 0,
+        "fp": 0,
+        "miss": 24,
+        "recall": 0.0,
+        "precision": 0,
+        "f1": 0
+    },
+    "mouth of the watercourse": {
+        "all": 63,
+        "tp": 0,
+        "fp": 0,
+        "miss": 63,
+        "recall": 0.0,
+        "precision": 0,
+        "f1": 0
+    },
+    "basin country": {
+        "all": 31,
+        "tp": 0,
+        "fp": 1,
+        "miss": 31,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "sibling": {
+        "all": 118,
+        "tp": 0,
+        "fp": 1,
+        "miss": 118,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "mother": {
+        "all": 27,
+        "tp": 0,
+        "fp": 0,
+        "miss": 27,
+        "recall": 0.0,
+        "precision": 0,
+        "f1": 0
+    },
+    "location of formation": {
+        "all": 17,
+        "tp": 0,
+        "fp": 2,
+        "miss": 17,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "product or material produced": {
+        "all": 13,
+        "tp": 0,
+        "fp": 1,
+        "miss": 13,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "dissolved, abolished or demolished date": {
+        "all": 51,
+        "tp": 0,
+        "fp": 1,
+        "miss": 51,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "influenced by": {
+        "all": 10,
+        "tp": 0,
+        "fp": 8,
+        "miss": 10,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "position held": {
+        "all": 11,
+        "tp": 0,
+        "fp": 14,
+        "miss": 11,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "separated from": {
+        "all": 3,
+        "tp": 0,
+        "fp": 2,
+        "miss": 3,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "parent taxon": {
+        "all": 4,
+        "tp": 0,
+        "fp": 1,
+        "miss": 4,
+        "recall": 0.0,
+        "precision": 0.0,
+        "f1": 0
+    },
+    "twinned administrative body": {
+        "all": 0,
+        "tp": 0,
+        "fp": 1,
+        "miss": 0,
+        "recall": 0,
+        "precision": 0,
+        "f1": 0
+    }
+}
