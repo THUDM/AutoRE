@@ -26,7 +26,7 @@ python pre_process_data.py
 
 ```shell
 cd AutoRE/
-bash 
+bash train_script/mistral_lora
 ```
 
 ### 推理

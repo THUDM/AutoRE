@@ -1,21 +1,6 @@
-import os
-import pdb
-
 from llmtuner import ChatModel
-
-try:
-    import platform
-
-    if platform.system() != "Windows":
-        import readline  # noqa: F401
-except ImportError:
-    print("Install `readline` for a better experience.")
-
-import sys
-
-sys.path.append("../../../../analysis_kg")
-from public_code.utils.report_result import *
-from public_code.utils.llama_factory_inference import *
+from ..utils.report_result import *
+from ..utils.llama_factory_inference import *
 
 if __name__ == '__main__':
     args = get_params()
@@ -54,15 +39,15 @@ if __name__ == '__main__':
             elif lora_test == "lora_fact":
                 lora_facts(args)
                 cal_relations_result_lora_facts(file_path=args.save_path)
-            elif lora_test =="lora_sentence_fact":
+            elif lora_test == "lora_sentence_fact":
                 lora_sentence_fact(args)
                 cal_relations_result_lora_facts(file_path=args.save_path)
-            elif lora_test =="lora_sentence_relations_fact":
+            elif lora_test == "lora_sentence_relations_fact":
                 lora_sentence_relations_fact(args)
                 cal_relations_result_lora_facts(file_path=args.save_path)
-            elif lora_test =="lora_sentence_relation_fact":
+            elif lora_test == "lora_sentence_relation_fact":
                 lora_sentence_relation_fact(args)
                 cal_relations_result_lora_facts(file_path=args.save_path)
-            elif lora_test =="lora_sentence_relation_subject_fact" or lora_test =="lora_sentence_relation_subject_fact_desc":
+            elif lora_test == "lora_sentence_relation_subject_fact" or lora_test == "lora_sentence_relation_subject_fact_desc":
                 lora_sentence_relation_subject_fact(args)
                 cal_relations_result_lora_facts(file_path=args.save_path)

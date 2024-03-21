@@ -79,6 +79,47 @@ def get_params():
     return args
 
 
+def get_test_data(args):
+    """
+        获取test的data
+    :param cuda_id:
+    :param data_path:
+    :param node:
+    :param save_path:
+    :param worker_num:
+    :return:
+    """
+    cuda_id, data_path, node, save_path, worker_num = args.local_rank, args.data_path, args.node, args.save_path, args.worker_num
+    processed_data = []
+    seen_passages = set()
+    lock_path = f"{save_path}/predict.json.lock"
+    with FileLock(lock_path):
+        try:
+            with open(f"{save_path}/predict.json", "r") as file:
+                for line in file.readlines():
+                    try:
+                        data = json.loads(line)
+                        if data['sentence'] not in seen_passages:
+                            processed_data.append(data)
+                            seen_passages.add(data['sentence'])
+                    except json.JSONDecodeError:
+                        continue
+        except FileNotFoundError:
+            pass
+        with open(f"{save_path}/predict.json", "w") as file:
+            for item in processed_data:
+                file.write(json.dumps(item) + "\n")
+
+    processed_ids = set(item['data_from'] for item in processed_data)
+    data = json.load(open(data_path))
+    to_process = [sample for sample in data if sample['data_from'] not in processed_ids]
+    print(f"total: {len(data)}, remain {len(to_process)} to process")
+    if to_process:
+        data = split_data_by_cuda_id(to_process, cuda_id, node, worker_num)
+        return data
+    else:
+        return []
+
 def get_wikidata_desc():
     csv_file_path = '../../data/relations_desc/wikidata-properties.csv'
     data_dict = {}

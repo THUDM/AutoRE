@@ -1,5 +1,5 @@
 #!/bin/bash
-# 测试每个模块的效果
+# 测试每个RHF 每个QLoRA模块的效果
 MODEL_NAME="mistral"
 DATA_PATH="/workspace/xll/analysis_kg/public_data/augment/RE/redocred/redocred_test.json"
 #DATA_PATH="/workspace/xll/analysis_kg/public_data/augment/RE/redocred/redocred_dev.json"
@@ -16,7 +16,7 @@ run_task() {
   mkdir -p ${EVAL_SAVE_PATH}
 
   # 执行推理命令
-  /workspace/xll/Anaconda3/envs/chatglm/bin/deepspeed --master_port 12347 --include localhost:0,1,2,3,4,5,6,7 src/inference.py \
+  deepspeed --master_port 12347 --include localhost:0,1,2,3,4,5,6,7 src/inference.py \
     --model_name_or_path /workspace/xll/checkpoints/Mistral-7B-Instruct-v0.2 \
     --adapter_name_or_path ${model_path} \
     --template ${MODEL_NAME} \
