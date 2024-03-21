@@ -4,123 +4,29 @@
 目前基于[Re-DocRED](https://github.com/tonytan48/Re-DocRED)数据集进行实验，能够文档级文本中的96个关系的三元组事实。
 
 ## 使用方法
+下载模型地址[ckpt](https://cloud.tsinghua.edu.cn/d/4d12cf0620164caca82c/)，其中对应着微调Mistral-7B，Vicuna-7B和ChatGLM3-6B后的AutoRE模型。
+### 1.推理
 
-### 1.模型训练
+```shell
+# 根据AutoRE.sh内的提示进行修改
+bash AutoRE.sh
+# 输入对应文档即可自动抽取
+```
+
+### 2.模型训练
 
 #### 1) 数据准备
-当前的知识抽取数据集，大多是一个句子中只有一个relation，relation对应1个或者多个的fact。而现实场景中，一个句子其实会包含多个relation。为了得到含有多个relation并且标注良好的语料，我们通过对[Re-DocRED](https://github.com/tonytan48/Re-DocRED)数据的train_devised和dev_devised进行预处理。
-具体如下：
-##### 清晰定义relation descripiton
-[Re-DocRED](https://github.com/tonytan48/Re-DocRED)数据集总共96个关系。但是存在的问题是：
-###### 1.relation的description不够清晰
-多个relation的表述不够清晰，例如`author`的关系中，不同的人，可能理解不同，可以将此理解为 `somebody is the author of somebook`，也可以理解为`somebook the author is somebody`, 如果没有清晰的定义，则会造成主体和客体混乱。
-###### 2.relation互相包含或者相反
-例如`member of`和`member of political party`，`member of sports team`其实可以统一为`member of`。
-另外例如 `participant`和`participant of`语义相反，保留其中一个即可。
-
-针对以上的问题，我们重新整理改造了relation，梳理出共64个relations，并且赋予了清晰明确的定义，更符合语言模型的理解。具体参见：
-[relation_map.json](https://github.com/bigdante/Analysis_KG/blob/main/data/relations_desc/relation_map.json)
-##### 2) analysis process
-在对基础数据预处理后，我们通过ChatGPT和人工，使用prompt engineering，生成relation、subjects，以及fact的分析过程。并且为了后续的方便，我们将数据整理如下。
-```python
-# one sample
-[{
-        "index": 0,
-        "passage": "Niklas Bergqvist ( born 6 October 1962 in Stockholm ) , is a Swedish songwriter , producer and musician . After the band split - up in 1987 , Bergqvist formed and played in several other bands until he decided to focus more on songwriting , resulting in several releases ever since .",
-        "relations": [
-            "date of birth",
-            "place of birth"
-        ],
-        "fact_list": [
-            {
-                "fact": [
-                    "Niklas Bergqvist",
-                    "date of birth",
-                    "6 October 1962"
-                ]
-            },
-            {
-                "fact": [
-                    "Bergqvist",
-                    "date of birth",
-                    "6 October 1962"
-                ]
-            },
-            {
-                "fact": [
-                    "Niklas Bergqvist",
-                    "place of birth",
-                    "Stockholm"
-                ]
-            },
-            {
-                "fact": [
-                    "Bergqvist",
-                    "place of birth",
-                    "Stockholm"
-                ]
-            }
-        ],
-        "same_fact_list": [
-            [
-                [
-                    "Niklas Bergqvist",
-                    "date of birth",
-                    "6 October 1962"
-                ],
-                [
-                    "Bergqvist",
-                    "date of birth",
-                    "6 October 1962"
-                ]
-            ],
-            [
-                [
-                    "Niklas Bergqvist",
-                    "place of birth",
-                    "Stockholm"
-                ],
-                [
-                    "Bergqvist",
-                    "place of birth",
-                    "Stockholm"
-                ]
-            ]
-        ],
-        "relation_analysis": "According to the passage, the relations identified are \"date of birth\" and \"place of birth.\" The reason for this conclusion is that the passage explicitly states that Niklas Bergqvist was born on 6 October 1962 in Stockholm, which supports the relation \"date of birth.\" Additionally, the passage mentions that Bergqvist was born in Stockholm, providing evidence for the relation \"place of birth.\" Thus, these specific details mentioned in the passage lead to the identification of these two relations.",
-        "entity_analysis": {
-            "date of birth": "In the given passage, the entities \"Bergqvist\" and \"Niklas Bergqvist\" can be considered as the subjects of the fact related to \"date of birth\" because both refer to the same person. The passage mentions that Niklas Bergqvist was born on 6 October 1962 in Stockholm. \"Bergqvist\" is likely being referred to as a shorthand or a last name reference to Niklas Bergqvist himself. Thus, both entities represent the individual who was born on the specific date mentioned in the passage.",
-            "place of birth": "The entities \"Bergqvist\" and \"Niklas Bergqvist\" can be considered as the subjects of the fact related to \"place of birth\" because the passage explicitly states that Niklas Bergqvist was born in Stockholm. This aligns with the relation's description, which states that \"place of birth\" refers to the specific location where a person was born. As Niklas Bergqvist is mentioned as the individual being discussed, it is reasonable to identify him and his last name \"Bergqvist\" as the subjects associated with the fact of being born in Stockholm."
-        },
-        "fact_analysis": {
-            "date of birth": {
-                "Bergqvist": "According to the subject \"Bergqvist\" and the relation \"date of birth,\" the fact is that Niklas Bergqvist was born on 6 October 1962. This information is based on the passage which states that Bergqvist was born in Stockholm. The passage also mentions his involvement in various bands and his transition to focusing more on songwriting after the band split-up. However, these details are not relevant to the fact extraction regarding his date of birth.",
-                "Niklas Bergqvist": "According to the subject \"Niklas Bergqvist\" and the relation \"date of birth,\" the fact is that Niklas Bergqvist was born on 6 October 1962. This information is derived from the mention of his birthdate in the passage. The reason for this fact being true is that the passage explicitly states that he was born on this specific date. Therefore, based on the given information, we can conclude that Niklas Bergqvist's date of birth is 6 October 1962."
-            },
-            "place of birth": {
-                "Bergqvist": "According to the subject (Bergqvist) and the relation (place of birth), the fact is that Niklas Bergqvist was born in Stockholm. This is based on the specific information provided in the passage, which states that he was born in Stockholm on October 6, 1962. The reason for this conclusion is the clear mention of his birthplace in the passage, indicating that Stockholm is the most specific known location of his birth.",
-                "Niklas Bergqvist": "According to the subject \"Niklas Bergqvist\" and the relation \"place of birth,\" the fact is that Niklas Bergqvist was born in Stockholm. This is evident from the passage which explicitly states, \"Niklas Bergqvist (born 6 October 1962 in Stockholm).\" The mention of a specific date and location of birth reinforces the accuracy of this fact."
-            }
-        }
-    },
-    ...
-]
-```
-通过运行脚本，即可完成vicuna训练数据准备。
-在此之前，需要下载[Re-DocRED](https://github.com/tonytan48/Re-DocRED)到data/redocred文件夹下。
-在data/chatgpt_count下的key.json文件中，按照所示的格式，添加可用的API keys（keys的数量越多，数据处理效率越高）。
-并在shell中指定训练数据保存的路径。【中间生成的数据将会保存在data/redocred文件夹下】
 ```shell
-cd code/data_process/
-bash data_process.sh
+cd AutoRE/utils/
+python pre_process_data.py
 ```
 
-### 微调vicuna-13b-v1.5模型
-我们的代码参考自[FastChat](https://github.com/lm-sys/FastChat/tree/main)。
-在运行脚本前，需要指定脚本中的训练集路径以及checkpoint保存路径。
+### 微调模型
+我们的代码参考自[LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)。
+
 ```shell
-cd code/model_train/vicuna_train
-bash train.sh
+cd AutoRE/
+bash 
 ```
 
 ### 推理
