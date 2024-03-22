@@ -4,9 +4,9 @@
 declare -A task_params
 
 # 为每个任务定义参数
-task_params["chatglm3_relation"]="dataset=relation_train eval_path=relation_test cache_path=autore/chatglm3/relation/train eval_cache_path=autore/chatglm3/relation/test output_dir=ckpt/chatglm3/relation learning_rate=5e-5 save_steps=100 eval_steps=100 num_train_epochs=6 max_steps=1200"
-task_params["chatglm3_subject"]="dataset=subject_train eval_path=subject_test cache_path=autore/chatglm3/subject/train eval_cache_path=autore/chatglm3/subject/test output_dir=ckpt/chatglm3/subject learning_rate=5e-5 save_steps=100 eval_steps=100 num_train_epochs=6 max_steps=5300"
-task_params["chatglm3_fact"]="dataset=fact_train eval_path=fact_test cache_path=autore/chatglm3/fact/train eval_cache_path=autore/chatglm3/fact/test output_dir=ckpt/chatglm3/fact learning_rate=5e-5 save_steps=100 eval_steps=100 num_train_epochs=6 max_steps=4430"
+task_params["chatglm3_relation"]="dataset=relation_train eval_path=relation_test cache_path=autore/chatglm3/relation/train eval_cache_path=autore/chatglm3/relation/test output_dir=ckpt/chatglm3/relation learning_rate=5e-5 save_steps=100 eval_steps=100 num_train_epochs=6"
+task_params["chatglm3_subject"]="dataset=subject_train eval_path=subject_test cache_path=autore/chatglm3/subject/train eval_cache_path=autore/chatglm3/subject/test output_dir=ckpt/chatglm3/subject learning_rate=5e-5 save_steps=100 eval_steps=100 num_train_epochs=6"
+task_params["chatglm3_fact"]="dataset=fact_train eval_path=fact_test cache_path=autore/chatglm3/fact/train eval_cache_path=autore/chatglm3/fact/test output_dir=ckpt/chatglm3/fact learning_rate=5e-5 save_steps=100 eval_steps=100 num_train_epochs=6"
 
 # 循环遍历每个任务
 for task_name in "${!task_params[@]}"; do
@@ -62,5 +62,3 @@ for task_name in "${!task_params[@]}"; do
     --plot_loss \
     --fp16 2>&1 | tee -a "$log_dir/$task_name.log"
 done
-
-#    --max_steps "${params[max_steps]}" \

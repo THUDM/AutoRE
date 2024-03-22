@@ -2,23 +2,23 @@
 
 model=chatglm3
 BASE_MODEL=/workspace/xll/checkpoints/THUDM6B3
-model_path="/workspace/xll/analysis_kg/public_code/train/LLaMA-Factory-main/ckpt/${model}/"
+model_path="ckpt/${model}/"
 relation_step="3390"
 subject_step="5000"
 fact_step="7500"
 version="v5"
 
 declare -A datasets
-datasets["redocred_test"]="/workspace/xll/analysis_kg/public_data/augment/RE/redocred/redocred_test.json"
-datasets["redocred_dev"]="/workspace/xll/analysis_kg/public_data/augment/RE/redocred/redocred_dev.json"
+datasets["redocred_test"]="data/redocred/redocred_test.json"
+datasets["redocred_dev"]="data/redocred/redocred_dev.json"
 
 # 循环遍历数据集
 for dataset_name in "${!datasets[@]}"; do
   DATA_PATH="${datasets[$dataset_name]}"
-  EVAL_SAVE_PATH="/workspace/xll/analysis_kg/public_code/train/LLaMA-Factory-main/result/${model}/loras/${dataset_name}_3390/"
+  EVAL_SAVE_PATH="result/${model}/loras/${dataset_name}_3390/"
   mkdir -p ${EVAL_SAVE_PATH}
 
-  /workspace/xll/Anaconda3/envs/chatglm/bin/deepspeed --master_port 12347 --include localhost:0,1,2,3,4,5,6,7 src/inference.py \
+  deepspeed --master_port 12347 --include localhost:0,1,2,3,4,5,6,7 src/inference.py \
     --model_name_or_path ${BASE_MODEL} \
     --adapter_name_or_path ${model_path} \
     --template ${model} \

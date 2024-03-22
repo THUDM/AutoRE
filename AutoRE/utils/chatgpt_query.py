@@ -11,7 +11,7 @@ import requests
 
 keys_file = "keys.json"
 current_dir = os.path.dirname(os.path.abspath(__file__))
-ori_keys = json.load(open(os.path.join(current_dir, f"../../data/chatgpt_count/{keys_file}")))
+ori_keys = json.load(open(os.path.join(current_dir, f"../data/chatgpt_count/{keys_file}")))
 keys = [key for key, v in ori_keys.items() if v['label']]
 unused_keys = keys.copy()
 used_keys = []

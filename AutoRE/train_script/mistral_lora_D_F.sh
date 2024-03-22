@@ -2,7 +2,7 @@
 source /workspace/xll/Anaconda3/bin/activate chatglm
 mode="D_F"
 declare -A tasks
-tasks["mistral"]="dataset=train_$mode eval_path=test_$mode cache_path=autore/mistral/$mode/train eval_cache_path=autore/mistral/$mode/test output_dir_base=ckpt/mistral/$mode model_name_or_path=checkpoints/Mistral-7B-Instruct-v0.2 template=mistral learning_rate=5e-5 num_train_epochs=12.0"
+tasks["mistral"]="dataset=train_$mode eval_path=test_$mode cache_path=autore/mistral/$mode/train eval_cache_path=autore/mistral/$mode/test output_dir_base=ckpt/mistral/$mode model_name_or_path=checkpoints/Mistral-7B-Instruct-v0.2 template=mistral learning_rate=5e-5 num_train_epochs=6.0"
 
 for task_name in "${!tasks[@]}"; do
   task_config=${tasks[$task_name]}

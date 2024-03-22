@@ -1,8 +1,8 @@
 import os
+from collections import defaultdict, OrderedDict
 
 os.environ['KMP_DUPLICATE_LIB_OK'] = 'True'
 import random
-from tqdm import tqdm
 from template import *
 from basic import *
 import json
@@ -14,7 +14,7 @@ def refine_redocred_data():
     :return:
     """
     for type in ['train', 'dev', 'test']:
-        data = json.load(open(f"../../data/redocred/ori_redocred/{type}_revised.json"))
+        data = json.load(open(f"../data/redocred/ori_redocred/{type}_revised.json"))
         new = []
         for index, sample in enumerate(data):
             if sample['labels']:
@@ -27,8 +27,34 @@ def refine_redocred_data():
                         if t['name'] not in sentence:
                             t['name'] = " ".join(sample['sents'][t['sent_id']][t['pos'][0]:t['pos'][1]])
                 new.append(sample)
-        json.dump(new, open(f"../../data/redocred/ori_redocred/{type}_revised_refined.json", "w"), indent=4)
+        json.dump(new, open(f"../data/redocred/ori_redocred/{type}_revised_refined.json", "w"), indent=4)
 
+def relation_count(source_file, save_file):
+    """
+        统计数据的relation分布情况
+    :return:
+    """
+    data = json.load(open(source_file))
+    relations_dict = defaultdict(int)
+    for sample in data:
+        for relation in sample['relations']:
+            relations_dict[relation] += 1
+    relations_dict = OrderedDict(sorted(relations_dict.items(), key=lambda x: x[1], reverse=True))
+    json.dump(relations_dict, open(save_file, "w"), indent=4)
+
+def fact_count(source_file, save_file):
+    """
+        统计数据的fact分布情况
+    :return:
+    """
+    data = json.load(open(source_file))
+    relations_dict = defaultdict(int)
+    for sample in data:
+        relations = [fact[0][1] for fact in sample['same_fact_list']]
+        for relation in relations:
+            relations_dict[relation] += 1
+    relations_dict = OrderedDict(sorted(relations_dict.items(), key=lambda x: x[1], reverse=True))
+    json.dump(relations_dict, open(save_file, "w"), indent=4)
 
 def make_redocred_data(data_types, source_path, save_path):
     """
@@ -361,10 +387,11 @@ def lora_fact(source_file, save_file):
 
 if __name__ == '__main__':
     # 对redocred数据进行预处理
-    make_redocred_data(data_types=['train', 'dev', 'test'], source_path="../../data/redocred/ori_redocred", save_path="../../data/redocred")
-    source_train = "../../data/redocred/redocred_train.json"
-    source_test = "../../data/redocred/redocred_test.json"
-
+    make_redocred_data(data_types=['train', 'dev', 'test'], source_path="../data/redocred/ori_redocred", save_path="../data/redocred")
+    source_train = "../data/redocred/redocred_train.json"
+    source_test = "../data/redocred/redocred_test.json"
+    relation_count(source_file=source_test, save_file="../data/redocred/redocred_train_relation_count.json")
+    fact_count(source_file=source_test, save_file="../data/redocred/redocred_train_fact_count.json")
     # 制作各个抽取范式的训练和测试数据集
     version = "D_F"
     fact(source_file=source_train, save_file=f"../data/train/{version}/train.json")
