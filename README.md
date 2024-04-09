@@ -1,7 +1,7 @@
 *Read this in [English](README_EN.md)*
 # AutoRE
 本仓库基于[LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)代码，实现了基于大语言模型的文档级关系抽取系统AutoRE。使用的抽取范式为RHF（[论文链接](https://arxiv.org/submit/5482782/view)）。
-目前基于[Re-DocRED](https://github.com/tonytan48/Re-DocRED)数据集进行实验，能够文档级文本中的96个关系的三元组事实。
+目前基于[Re-DocRED](https://github.com/tonytan48/Re-DocRED)数据集进行实验，能够抽取文档级文本中的96个关系的三元组事实。
 
 ## 使用方法
 下载模型地址[ckpt](https://cloud.tsinghua.edu.cn/d/4d12cf0620164caca82c/)，其中对应着微调Mistral-7B，Vicuna-7B和ChatGLM3-6B后的AutoRE模型。
