@@ -21,7 +21,7 @@ python pre_process_data.py
 ```
 
 #### 2） 微调模型
-我们的代码参考自[LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)。
+我们的代码参考自[LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)，并进行了适当修改。
 
 ```shell
 cd AutoRE/
@@ -30,7 +30,6 @@ bash train_script/mistral_loras_D_R_H_F_desc.sh
 ```
 
 #### 3） 微调测试
-我们的代码参考自[LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)。
 
 ```shell
 cd AutoRE/
