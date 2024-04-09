@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# choice = [vicuan,chatglm3,mistral]
+# choice = [vicuna,chatglm3,mistral]
 model=vicuna
 # 基础模型，替换为model对应的基础模型
 #BASE_MODEL=AutoRE/checkpoints/Mistral-7B-Instruct-v0.2
