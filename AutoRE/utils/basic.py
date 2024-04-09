@@ -48,33 +48,24 @@ def get_params():
     """
     parser = argparse.ArgumentParser(description="Run inference script.")
     parser.add_argument("--version", type=str, required=False, default="")
-    parser.add_argument("--test_type", type=str, required=False, help="fact or relation subject fact")
-    parser.add_argument("--local_rank", type=int, required=False, help="CUDA ID.", default="0")
-    parser.add_argument("--mode", type=str, required=False, help="13b-vicuna")
-    parser.add_argument("--base_model", type=str, required=False, help="for lora", default="/workspace/xll/checkpoints/lmsys/vicuna-7b-v1.5")
-    parser.add_argument("--lora_test", type=str, required=False, help="for lora", default="relation")
-    parser.add_argument("--relation_step", type=str, required=False, help="for lora", default="700")
-    parser.add_argument("--subject_step", type=str, required=False, help="for lora", default="1950")
-    parser.add_argument("--fact_step", type=str, required=False, help="for lora", default="1550")
-    parser.add_argument("--relation_ana", type=str, required=False, help="for lora", default="")
-    parser.add_argument("--subject_ana", type=str, required=False, help="for lora", default="")
-    parser.add_argument("--fact_ana", type=str, required=False, help="for lora", default="")
-    parser.add_argument("--with_relation_desc", type=str, required=False, help="if use relaiton desc", default="")
     parser.add_argument("--node", type=int, required=False, help="node_num", default=0)
     parser.add_argument("--worker_num", type=int, required=False, help="worker_num", default=1)
-    parser.add_argument("--model_path", type=str, required=False, help="Model path.", default="/workspace/xll/analysis_kg/versions/v9_5/ckpt/")
-    parser.add_argument("--save_path", type=str, required=False, help="save path.")
+    parser.add_argument("--local_rank", type=int, required=False, help="CUDA ID.", default="0")
+    parser.add_argument("--lora_test", type=str, required=False, help="test different re paradigms", default="relation")
+    parser.add_argument("--relation_step", type=str, required=False, default="700")
+    parser.add_argument("--subject_step", type=str, required=False, default="1950")
+    parser.add_argument("--fact_step", type=str, required=False, default="1550")
     parser.add_argument("--data_path", type=str, required=False, help="data path.")
-    parser.add_argument("--relation", type=str, required=False, help="lora relation test", default="located in the administrative territorial entity")
-    parser.add_argument("--model_name_or_path", type=str, required=False, help="data path.")
-    parser.add_argument("--adapter_name_or_path", type=str, required=False, help="data path.")
-    parser.add_argument("--finetuning_type", type=str, required=False, help="data path.")
-    parser.add_argument("--do_sample", type=str, required=False, help="data path.")
-    parser.add_argument("--temperature", type=str, required=False, help="data path.")
-    parser.add_argument("--top_p", type=str, required=False, help="data path.")
-    parser.add_argument("--top_k", type=str, required=False, help="data path.")
-    parser.add_argument("--template", type=str, required=False, help="data path.")
-    parser.add_argument("--max_new_tokens", type=int, required=False, help="data path.")
+    parser.add_argument("--model_name_or_path", type=str, required=False, help="base model for lora")
+    parser.add_argument("--save_path", type=str, required=False, help="lora model save path.")
+    parser.add_argument("--adapter_name_or_path", type=str, required=False, help="lora ckpt path, for inference")
+    parser.add_argument("--do_sample", type=str, required=False)
+    parser.add_argument("--temperature", type=str, required=False)
+    parser.add_argument("--top_p", type=str, required=False)
+    parser.add_argument("--top_k", type=str, required=False)
+    parser.add_argument("--template", type=str, required=False)
+    parser.add_argument("--max_new_tokens", type=int, required=False)
+    parser.add_argument("--inference", type=bool, required=False, default=False)
     args = parser.parse_args()
     return args
 
@@ -119,6 +110,7 @@ def get_test_data(args):
         return data
     else:
         return []
+
 
 def get_wikidata_desc():
     csv_file_path = '../../data/relations_desc/wikidata-properties.csv'

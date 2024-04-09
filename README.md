@@ -29,6 +29,15 @@ cd AutoRE/
 bash train_script/mistral_loras_D_R_H_F_desc.sh
 ```
 
+#### 3） 微调测试
+我们的代码参考自[LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)。
+
+```shell
+cd AutoRE/
+# 选择对应的模型进行测试，数据集为Re-DocRED，将--inference去除，并且设置具体的模型和ckpt
+bash AutoRE.sh
+```
+
 
 
 

@@ -26,7 +26,7 @@ if __name__ == '__main__':
             args.s_model = ChatModel()
             sys.argv[argv_index] = base + f"fact/checkpoint-{f_step}"
             args.f_model = ChatModel()
-            lora_relation_subject_facts_for_test(args)
+            loras_RHF_desc_for_test(args)
             cal_relations_result_lora_facts(file_path=args.save_path)
         else:
             args.model = ChatModel()
@@ -40,14 +40,14 @@ if __name__ == '__main__':
                 lora_facts(args)
                 cal_relations_result_lora_facts(file_path=args.save_path)
             elif lora_test == "lora_sentence_fact":
-                lora_sentence_fact(args)
+                lora_D_F(args)
                 cal_relations_result_lora_facts(file_path=args.save_path)
             elif lora_test == "lora_sentence_relations_fact":
-                lora_sentence_relations_fact(args)
+                lora_D_RS_F(args)
                 cal_relations_result_lora_facts(file_path=args.save_path)
             elif lora_test == "lora_sentence_relation_fact":
-                lora_sentence_relation_fact(args)
+                lora_D_R_F(args)
                 cal_relations_result_lora_facts(file_path=args.save_path)
             elif lora_test == "lora_sentence_relation_subject_fact" or lora_test == "lora_sentence_relation_subject_fact_desc":
-                lora_sentence_relation_subject_fact(args)
+                lora_D_R_H_F(args)
                 cal_relations_result_lora_facts(file_path=args.save_path)
