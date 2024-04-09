@@ -9,7 +9,7 @@ BASE_MODEL=AutoRE/checkpoints/lmsys/vicuna-7b-v1.5
 # 加载QLoRA模块所在的地方
 model_path="AutoRE/ckpt/${model}/"
 
-# 切换模型后，step需要相应改变，具体参考ckpt文件夹内的具体step
+# 切换模型后，step需要相应改变，具体参考ckpt文件夹内的具体step。
 relation_step="1200"
 subject_step="5390"
 fact_step="4430"

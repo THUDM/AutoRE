@@ -47,7 +47,7 @@ def get_params():
     :return:
     """
     parser = argparse.ArgumentParser(description="Run inference script.")
-    parser.add_argument("--version", type=str, required=False, default="v9_5")
+    parser.add_argument("--version", type=str, required=False, default="")
     parser.add_argument("--test_type", type=str, required=False, help="fact or relation subject fact")
     parser.add_argument("--local_rank", type=int, required=False, help="CUDA ID.", default="0")
     parser.add_argument("--mode", type=str, required=False, help="13b-vicuna")
