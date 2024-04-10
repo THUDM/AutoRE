@@ -1,4 +1,4 @@
-read in Chinese[README](https://github.com/bigdante/AutoRE/README.md)
+read in Chinese[README](https://github.com/bigdante/AutoRE/blob/main/README.md)
 
 # AutoRE
 This repository is based on the code from [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) and implements a document-level relation extraction system named AutoRE based on large language models. The extraction paradigm used is RHF ([paper link](https://arxiv.org/submit/5482782/view)).
