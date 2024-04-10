@@ -23,7 +23,8 @@ for task_name in "${!task_params[@]}"; do
     mkdir -p "$log_dir"
   fi
 
-  CUDA_VISIBLE_DEVICES=6 /workspace/xll/Anaconda3/envs/auto/bin/python src/train_bash.py \
+#  CUDA_VISIBLE_DEVICES=6 /workspace/xll/Anaconda3/envs/auto/bin/python src/train_bash.py \
+  /workspace/xll/Anaconda3/envs/auto/bin/deepspeed --num_gpus 8 --master_port=9901 src/train_bash.py \
     --stage sft \
     --do_train \
     --evaluation_strategy "steps" \
