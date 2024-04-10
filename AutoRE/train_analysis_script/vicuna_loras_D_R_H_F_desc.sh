@@ -53,7 +53,7 @@ for task_name in "${!task_params[@]}"; do
     --learning_rate "${params[learning_rate]}" \
     --num_train_epochs "${params[num_train_epochs]}" \
     --plot_loss \
-    --fp16 2>&1 | tee -a "$log_dir/$task_name.log"
+    --fp16 2>&1 | tee -a "$log_dir/${task_name}_analysis.log"
 done
 
 #    --max_steps "${params[max_steps]}" \
