@@ -1,6 +1,7 @@
 from AutoRE.src.llmtuner import ChatModel
 from AutoRE.utils.llama_factory_inference import *
 from AutoRE.utils.basic import *
+from AutoRE.utils.report_result import *
 import sys
 
 if __name__ == '__main__':
@@ -26,30 +27,31 @@ if __name__ == '__main__':
         args.s_model = ChatModel()
         sys.argv[argv_index] = base + f"fact/checkpoint-{f_step}"
         args.f_model = ChatModel()
-        if args.inference:
-            loras_RHF_desc_for_test(args)
-        else:
+        if not args.inference:
             loras_RHF_desc(args)
+        else:
+            loras_RHF_desc_for_test(args)
     else:
         args.model = ChatModel()
-        if lora_test == "lora_D_F":
-            if args.inference:
-                lora_D_F(args)
-        elif lora_test == "lora_D_RS_F":
-            if args.inference:
-                lora_D_RS_F(args)
-        elif lora_test == "lora_D_R_F":
-            if args.inference:
-                lora_D_R_F(args)
-        elif lora_test == "lora_D_R_H_F":
-            if args.inference:
-                lora_D_R_H_F(args)
-        elif lora_test == "lora_D_R_H_F_desc":
-            if args.inference:
-                lora_D_R_H_F(args)
-        elif lora_test == "relation":
-            lora_relation(args)
-        elif lora_test == "subject":
-            lora_subject(args)
-        elif lora_test == "facts":
-            lora_facts(args)
+        # Define a dictionary to map the values of lora_test to their respective functions
+        function_mapping = {
+            "lora_D_F": (lora_D_F, lora_D_F_for_test, cal_result_lora_facts),
+            "lora_D_RS_F": (lora_D_RS_F, lora_D_RS_F_for_test, cal_result_lora_facts),
+            "lora_D_R_F": (lora_D_R_F, lora_D_R_F_for_test, cal_result_lora_facts),
+            "lora_D_R_H_F": (lora_D_R_H_F, lora_D_R_H_F_for_test, cal_result_lora_facts),
+            "lora_D_R_H_F_desc": (lora_D_R_H_F, lora_D_R_F_for_test, cal_result_lora_facts),  # Notice the different test function
+            "relation": (lora_relation, lora_relation, cal_result_lora_relation),  # Assuming no special function for inference
+            "subject": (lora_subject, lora_subject, cal_result_lora_subject),  # Assuming no special function for inference
+            "facts": (lora_facts, lora_facts, cal_result_lora_facts)  # Assuming no special function for inference
+        }
+        # Check if lora_test is in the mapping
+        if lora_test in function_mapping:
+            # Select the appropriate function based on whether args.inference is True or False
+            func, func_for_test, func_cal_result = function_mapping[lora_test]
+            if not args.inference:
+                func(args)
+            else:
+                func_for_test(args)
+                func_cal_result(file_path=args.save_path)
+        else:
+            print("Invalid lora_test value")

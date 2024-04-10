@@ -10,7 +10,7 @@ from basic import *
 current_dir = os.path.dirname(os.path.abspath(__file__))
 
 
-def cal_relations_result_lora_relation(file_path):
+def cal_result_lora_relation(file_path):
     """
         统计计算的lora每个relation的结果
     :param file_path:
@@ -44,7 +44,7 @@ def cal_relations_result_lora_relation(file_path):
     json.dump(relations_result, open(os.path.join(file_path, "relation_result.json"), "w"), indent=4)
 
 
-def cal_relations_result_lora_subject(file_path):
+def cal_result_lora_subject(file_path):
     """
         统计计算的lora每个subject的结果
     :param file_path:
@@ -76,7 +76,7 @@ def cal_relations_result_lora_subject(file_path):
     json.dump(entity_result, open(os.path.join(file_path, "relation_result.json"), "w"), indent=4)
 
 
-def cal_relations_result_lora_facts(file_path):
+def cal_result_lora_facts(file_path):
     """
         统计计算的lora每个relation的结果
     :param file_path:
@@ -426,17 +426,17 @@ if __name__ == '__main__':
     model = "mistral"
     step = 14200
     file_path = f"/workspace/xll/analysis_kg/public_code/train/LLaMA-Factory-main/result/{model}/relation_lr5e-5_gpu/redocred_test_{step}"
-    cal_relations_result_lora_relation(file_path=file_path)
+    cal_result_lora_relation(file_path=file_path)
     report_relations_result(file_path=file_path)
     #
 
     file_path = f"/workspace/xll/analysis_kg/public_code/train/LLaMA-Factory-main/result/{model}/subject_lr5e-5_gpu/redocred_test_{step}"
-    cal_relations_result_lora_subject(file_path=file_path)
+    cal_result_lora_subject(file_path=file_path)
     report_relations_result(file_path=file_path)
     #
 
     file_path = f"/workspace/xll/analysis_kg/public_code/train/LLaMA-Factory-main/result/{model}/fact_lr5e-5_gpu/redocred_test_{step}"
-    cal_relations_result_lora_facts(file_path=file_path)
+    cal_result_lora_facts(file_path=file_path)
     report_relations_result(file_path=file_path)
 
     # model = "vicuna"

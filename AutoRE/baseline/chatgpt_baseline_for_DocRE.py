@@ -281,23 +281,23 @@ if __name__ == '__main__':
     save_path = "./chatgpt/result_no_desc_no_given_few_shot/joint_sentence_fact"
     os.makedirs(save_path, exist_ok=True)
     make_redocred_data_parallel(source_file=test_file_path, save_path=save_path, func=joint_sentence_fact)
-    cal_relations_result_lora_facts(file_path=save_path)
+    cal_result_lora_facts(file_path=save_path)
 
     # 测试不同的抽取范式的效果
     save_path = "./chatgpt/result_no_desc_no_given/joint_sentence_relations_fact"
     os.makedirs(save_path, exist_ok=True)
     make_redocred_data_parallel(source_file=test_file_path, save_path=save_path, func=joint_sentence_relation_fact)
-    cal_relations_result_lora_facts(file_path=save_path)
+    cal_result_lora_facts(file_path=save_path)
 
     save_path = "./chatgpt/result_no_desc_no_given/joint_sentence_one_relation_fact"
     os.makedirs(save_path, exist_ok=True)
     make_redocred_data_parallel(source_file=test_file_path, save_path=save_path, func=joint_sentence_one_relation_fact)
-    cal_relations_result_lora_facts(file_path=save_path)
+    cal_result_lora_facts(file_path=save_path)
 
     save_path = "./chatgpt/result_no_desc_no_given/joint_sentence_one_relation_subject_fact"
     os.makedirs(save_path, exist_ok=True)
     make_redocred_data_parallel(source_file=test_file_path, save_path=save_path, func=joint_sentence_one_relation_subject_fact)
-    cal_relations_result_lora_facts(file_path=save_path)
+    cal_result_lora_facts(file_path=save_path)
 
     # 测试加入wiki_desc和new_desc的效果
 
@@ -306,11 +306,11 @@ if __name__ == '__main__':
     os.makedirs(save_path, exist_ok=True)
     desc_type = "wiki"
     make_redocred_data_parallel(source_file=test_file_path, save_path=save_path, func=joint_sentence_one_relation_fact)
-    cal_relations_result_lora_facts(file_path=save_path)
+    cal_result_lora_facts(file_path=save_path)
 
     save_path = "./chatgpt/result_desc_new/joint_sentence_one_relation_subject_fact"
     relations_description = json.load(open("../../data/relations_desc/relation_description_redocred.json"))
     desc_type = "new"
     os.makedirs(save_path, exist_ok=True)
     make_redocred_data_parallel(source_file=test_file_path, save_path=save_path, func=joint_sentence_one_relation_subject_fact)
-    cal_relations_result_lora_facts(file_path=save_path)
+    cal_result_lora_facts(file_path=save_path)
