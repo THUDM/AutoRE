@@ -1,7 +1,7 @@
 read in Chinese[README](https://github.com/bigdante/AutoRE/blob/main/README.md)
 
 # AutoRE
-This repository is based on the code from [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) and implements a document-level relation extraction system named AutoRE based on large language models. The extraction paradigm used is RHF ([paper link](https://arxiv.org/submit/5482782/view)).
+This repository is based on the code from [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) and implements a document-level relation extraction system named AutoRE based on large language models. The extraction paradigm used is RHF ([paper link](https://arxiv.org/abs/2403.14888v1)).
 Currently, experiments are conducted on the [Re-DocRED](https://github.com/tonytan48/Re-DocRED) dataset, and it is capable of extracting triples of 96 relations from document-level text.
 
 ## Usage
