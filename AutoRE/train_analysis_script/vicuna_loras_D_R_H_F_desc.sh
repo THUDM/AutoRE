@@ -2,9 +2,9 @@
 
 declare -A task_params
 
-task_params["vicuna_relation"]="dataset=relation_train_analysis eval_path=relation_test cache_path=autore/vicuna/relation/train eval_cache_path=autore/vicuna/relation/test output_dir=ckpt/vicuna/relation learning_rate=5e-5 save_steps=100 eval_steps=100 num_train_epochs=6 max_steps=1200"
-task_params["vicuna_subject"]="dataset=subject_train eval_path=subject_test cache_path=autore/vicuna/subject/train eval_cache_path=autore/vicuna/subject/test output_dir=ckpt/vicuna/subject learning_rate=5e-5 save_steps=100 eval_steps=100 num_train_epochs=6 max_steps=5300"
-task_params["vicuna_fact"]="dataset=fact_train eval_path=fact_test cache_path=autore/vicuna/fact/train eval_cache_path=autore/vicuna/fact/test output_dir=ckpt/vicuna/fact learning_rate=5e-5 save_steps=100 eval_steps=100 num_train_epochs=6 max_steps=4430"
+task_params["vicuna_relation"]="dataset=relation_train_analysis eval_path=relation_test_analysis cache_path=autore/vicuna/relation_analysis/train eval_cache_path=autore/vicuna/relation_analysis/test output_dir=ckpt/vicuna/relation_analysis learning_rate=5e-5 save_steps=100 eval_steps=100 num_train_epochs=6"
+task_params["vicuna_subject"]="dataset=subject_train_analysis eval_path=subject_test_analysis cache_path=autore/vicuna/subject_analysis/train eval_cache_path=autore/vicuna/subject_analysis/test output_dir=ckpt/vicuna/subject_analysis learning_rate=5e-5 save_steps=100 eval_steps=100 num_train_epochs=6"
+task_params["vicuna_fact"]="dataset=fact_train_analysis eval_path=fact_test_analysis cache_path=autore/vicuna/fact_analysis/train eval_cache_path=autore/vicuna/fact_analysis/test output_dir=ckpt/vicuna/fact_analysis learning_rate=5e-5 save_steps=100 eval_steps=100 num_train_epochs=6"
 
 for task_name in "${!task_params[@]}"; do
   export WANDB_PROJECT_NAME="$task_name"
