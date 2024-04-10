@@ -23,7 +23,7 @@ for task_name in "${!task_params[@]}"; do
     mkdir -p "$log_dir"
   fi
 
-  CUDA_VISIBLE_DEVICES=6 /workspace/xll/Anaconda3/envs/chatglm/bin/python src/train_bash.py \
+  CUDA_VISIBLE_DEVICES=6 /workspace/xll/Anaconda3/envs/auto/bin/python src/train_bash.py \
     --stage sft \
     --do_train \
     --evaluation_strategy "steps" \
@@ -52,7 +52,8 @@ for task_name in "${!task_params[@]}"; do
     --eval_steps "${params[eval_steps]}" \
     --learning_rate "${params[learning_rate]}" \
     --num_train_epochs "${params[num_train_epochs]}" \
-    --max_steps "${params[max_steps]}" \
     --plot_loss \
     --fp16 2>&1 | tee -a "$log_dir/$task_name.log"
 done
+
+#    --max_steps "${params[max_steps]}" \

@@ -28,6 +28,7 @@ if __name__ == '__main__':
         args.f_model = ChatModel()
         if not args.inference:
             loras_RHF_desc(args)
+            cal_result_lora_facts(file_path=args.save_path)
         else:
             loras_RHF_desc_for_test(args)
     else:
