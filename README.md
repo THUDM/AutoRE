@@ -41,7 +41,7 @@ cd AutoRE/
 bash train_script/mistral_loras_D_R_H_F_desc.sh
 ```
 
-### 3.微调测试
+### 3.模型测试
 
 ```shell
 cd AutoRE/
