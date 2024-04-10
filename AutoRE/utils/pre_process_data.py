@@ -314,6 +314,77 @@ def lora_relation(source_file, save_file):
     json.dump(train_data, open(save_file, "w"), indent=4)
 
 
+def lora_relation_analysis(source_file, save_file):
+    """
+        先抽取relation
+    :param source_file: 文件所在路径
+    :param save_path: 保存文件路径
+    :return:
+    """
+    train_data = []
+    data = json.load(open(source_file))
+    global_id = 0
+    for sample in tqdm(data):
+        sentence = sample['passage']
+        if any(relation not in relations_description for relation in sample['relations']):
+            continue
+
+        block_dict = {
+            "id": f"identity_{global_id}",
+            "instruction": templates[version]["relation_template"].format(sentences=sentence),
+            "input": "",
+            "output": sample['relation_analysis'],
+            "history": []
+
+        }
+        train_data.append(block_dict)
+        global_id += 1
+
+        ori_relations = sample['relations'].copy()
+        block_dict = {
+            "id": f"identity_{global_id}",
+            "instruction": templates[version]["relation_list_template"].format(sentences=sentence, relation_analysis=sample['relation_analysis']),
+            "input": "",
+            "output": str("\n".join(sample['relations'])),
+            "history": []
+
+        }
+        train_data.append(block_dict)
+        global_id += 1
+        if len(sample['relations']) > 1 and "train" in source_file:
+            while True:
+                random.shuffle(sample['relations'])
+                if sample['relations'] != ori_relations:
+                    ori_relations2 = sample['relations'].copy()
+                    break
+            block_dict = {
+                "id": f"identity_{global_id}",
+                "instruction": templates[version]["relation_list_template"].format(sentences=sentence, relation_analysis=sample['relation_analysis']),
+                "input": "",
+                "output": str("\n".join(sample['relations'])),
+                "history": []
+            }
+            train_data.append(block_dict)
+            global_id += 1
+        if len(sample['relations']) > 2 and "train" in source_file:
+            while True:
+                random.shuffle(sample['relations'])
+                if sample['relations'] != ori_relations and sample['relations'] != ori_relations2:
+                    break
+            block_dict = {
+                "id": f"identity_{global_id}",
+                "instruction": templates[version]["relation_list_template"].format(sentences=sentence, relation_analysis=sample['relation_analysis']),
+                "input": "",
+                "output": str("\n".join(sample['relations'])),
+                "history": []
+            }
+            train_data.append(block_dict)
+            global_id += 1
+
+    os.makedirs(os.path.dirname(save_file), exist_ok=True) if not os.path.exists(save_file) else None
+    json.dump(train_data, open(save_file, "w"), indent=4)
+
+
 def lora_subject(source_file, save_file):
     """
         接着抽取subject
@@ -356,6 +427,61 @@ def lora_subject(source_file, save_file):
     json.dump(train_data, open(save_file, "w"), indent=4)
 
 
+def lora_subject_analysis(source_file, save_file):
+    """
+        接着抽取subject
+    :param source_file: 文件所在路径
+    :param save_path: 保存文件路径
+    :return:
+    """
+    train_data = []
+    data = json.load(open(source_file))
+    global_id = 0
+    for sample in tqdm(data):
+        sentence = sample['passage']
+        for relation in sample['relations']:
+            entity_list = list(set([fact[0] for fact in sample['fact_list'] if fact[1] == relation]))
+
+            block_dict = {
+                "id": f"identity_{global_id}",
+                "instruction": templates[version]["entity_template"].format(sentences=sentence, relation=relation, description=relations_description.get(relation)),
+                "input": "",
+                "output": sample['entity_analysis'][relation],
+                "history": [],
+            }
+            train_data.append(block_dict)
+            global_id += 1
+
+            ori_entity_list = entity_list.copy()
+            block_dict = {
+                "id": f"identity_{global_id}",
+                "instruction": templates[version]["entity_list_template"].format(sentences=sentence, relation=relation, description=relations_description.get(relation),
+                                                                                 subjects_analysis=sample['entity_analysis'][relation]),
+                "input": "",
+                "output": str("\n".join(entity_list)),
+                "history": [],
+            }
+            train_data.append(block_dict)
+            global_id += 1
+            if len(entity_list) > 1 and "train" in source_file:
+                while True:
+                    random.shuffle(entity_list)
+                    if entity_list != ori_entity_list:
+                        break
+                block_dict = {
+                    "id": f"identity_{global_id}",
+                    "instruction": templates[version]["entity_list_template"].format(sentences=sentence, relation=relation, description=relations_description.get(relation),
+                                                                                     subjects_analysis=sample['entity_analysis'][relation]),
+                    "input": "",
+                    "output": str("\n".join(entity_list)),
+                    "history": [],
+                }
+                train_data.append(block_dict)
+                global_id += 1
+    os.makedirs(os.path.dirname(save_file), exist_ok=True) if not os.path.exists(save_file) else None
+    json.dump(train_data, open(save_file, "w"), indent=4)
+
+
 def lora_fact(source_file, save_file):
     """
         最后抽取fact
@@ -388,13 +514,56 @@ def lora_fact(source_file, save_file):
     json.dump(train_data, open(save_file, "w"), indent=4)
 
 
+def lora_fact_analysis(source_file, save_file):
+    """
+        最后抽取fact
+    :param source_file: 文件所在路径
+    :param save_path: 保存文件路径
+    :return:
+    """
+    train_data = []
+    data = json.load(open(source_file))
+    if "test" in source_file:
+        data = random.sample(data, int(len(data) * 0.5))
+    global_id = 0
+    for sample in tqdm(data):
+        sentence = sample['passage']
+        for relation in sample['relations']:
+            entity_list = list(set([fact[0] for fact in sample['fact_list'] if fact[1] == relation]))
+            for subject in entity_list:
+                block_dict = {
+                    "id": f"identity_{global_id}",
+                    "instruction": templates[version]["fact_template"].format(sentences=sentence, description=relations_description.get(relation), subject=subject,
+                                                                              relation=relation),
+                    "input": "",
+                    "output": sample['fact_analysis'][relation][subject],
+                    "history": []
+                }
+                train_data.append(block_dict)
+                global_id += 1
+                fact_list = [fact for fact in sample['fact_list'] if fact[1] == relation and fact[0] == subject]
+
+                block_dict = {
+                    "id": f"identity_{global_id}",
+                    "instruction": templates[version]["fact_list_template"].format(sentences=sentence, description=relations_description.get(relation), subject=subject,
+                                                                                   relation=relation, facts_analysis=sample['fact_analysis'][relation][subject]),
+                    "input": "",
+                    "output": str("\n".join([str(fact) for fact in fact_list])),
+                    "history": []
+                }
+                train_data.append(block_dict)
+                global_id += 1
+    os.makedirs(os.path.dirname(save_file), exist_ok=True) if not os.path.exists(save_file) else None
+    json.dump(train_data, open(save_file, "w"), indent=4)
+
+
 if __name__ == '__main__':
     # preprocess for redocred
     make_redocred_data(data_types=['train', 'dev', 'test'], source_path="../data/redocred/ori_redocred", save_path="../data/redocred")
     source_train = "../data/redocred/redocred_train.json"
     source_test = "../data/redocred/redocred_test.json"
-    relation_count(source_file=source_test, save_file="../data/redocred/redocred_train_relation_count.json")
-    fact_count(source_file=source_test, save_file="../data/redocred/redocred_train_fact_count.json")
+    relation_count(source_file=source_test, save_file="../data/redocred/redocred_test_relation_count.json")
+    fact_count(source_file=source_test, save_file="../data/redocred/redocred_test_fact_count.json")
     # make data for train_set and test_set for 1 lora
     version = "D_F"
     fact(source_file=source_train, save_file=f"../data/train/{version}/train.json")
@@ -423,3 +592,15 @@ if __name__ == '__main__':
     lora_subject(source_file=source_test, save_file=f"../data/loras/subject/test.json")
     lora_fact(source_file=source_train, save_file=f"../data/loras/fact/train.json")
     lora_fact(source_file=source_test, save_file=f"../data/loras/fact/test.json")
+
+    # make analysis_set for 3 loras, test_set remains unchanged
+    source_train = "../data/redocred/analysis_redocred/redocred_train_analysis.json"
+    source_test = "../data/redocred/analysis_redocred/redocred_test_analysis.json.json"
+    version = "D_R_H_F_desc_analysis"
+    lora_relation_analysis(source_file=source_train, save_file=f"../data/loras_analysis/relation/train.json")
+    lora_subject_analysis(source_file=source_train, save_file=f"../data/loras_analysis/subject/train.json")
+    lora_fact_analysis(source_file=source_train, save_file=f"../data/loras_analysis/fact/train.json")
+    version = "D_R_H_F_desc"
+    lora_relation(source_file=source_train, save_file=f"../data/loras_analysis/relation/test.json")
+    lora_subject(source_file=source_test, save_file=f"../data/loras_analysis/subject/test.json")
+    lora_fact(source_file=source_test, save_file=f"../data/loras_analysis/fact/test.json")

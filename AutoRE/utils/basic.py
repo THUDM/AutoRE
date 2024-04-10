@@ -16,8 +16,8 @@ import json
 from tqdm import tqdm
 
 current_dir = os.path.dirname(os.path.abspath(__file__))
-pid_name = json.load(open(os.path.join(current_dir, "../../data/relations_desc/relation_pid_name.json")))
-relations_description = json.load(open(os.path.join(current_dir, "../../data/relations_desc/relation_description_redocred.json")))
+pid_name = json.load(open(os.path.join(current_dir, "../data/relations_desc/relation_pid_name.json")))
+relations_description = json.load(open(os.path.join(current_dir, "../data/relations_desc/relation_description_redocred.json")))
 inverse_relation_mapping = {
     "has part": "part of",
     "part of": "has part",
