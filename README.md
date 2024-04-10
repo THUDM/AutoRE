@@ -5,6 +5,12 @@
 
 ## 使用方法
 下载模型地址[ckpt](https://cloud.tsinghua.edu.cn/d/4d12cf0620164caca82c/)，其中对应着微调Mistral-7B，Vicuna-7B和ChatGLM3-6B后的AutoRE模型。
+
+### 0.环境准备
+```shell
+    cd AutoRE/
+    pip install -r requirement.txt
+```
 ### 1.推理
 
 ```shell

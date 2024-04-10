@@ -6,6 +6,12 @@ Currently, experiments are conducted on the [Re-DocRED](https://github.com/tonyt
 
 ## Usage
 Download the model from [ckpt](https://cloud.tsinghua.edu.cn/d/4d12cf0620164caca82c/), which corresponds to the AutoRE models fine-tuned on Mistral-7B, Vicuna-7B, and ChatGLM3-6B.
+
+### 0. Environment prepare
+```shell
+    cd AutoRE/
+    pip install -r requirement.txt
+```
 ### 1. Inference
 
 ```shell
