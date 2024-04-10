@@ -12,6 +12,10 @@ Download the model from [ckpt](https://cloud.tsinghua.edu.cn/d/4d12cf0620164caca
     cd AutoRE/
     pip install -r requirement.txt
 ```
+I use wandb，so make sure insert your API key in [train_bash.py](https://github.com/bigdante/AutoRE/blob/main/AutoRE/src/train_bash.py) firstly.
+```shell
+api_key = os.environ.get('WANDB_API_KEY', "your api key")
+```
 ### 1. Inference
 
 ```shell

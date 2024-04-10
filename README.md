@@ -11,6 +11,10 @@
     cd AutoRE/
     pip install -r requirement.txt
 ```
+因为使用了wandb，所以需要将[train_bash.py](https://github.com/bigdante/AutoRE/blob/main/AutoRE/src/train_bash.py)中你的key先设置
+```shell
+api_key = os.environ.get('WANDB_API_KEY', "your api key")
+```
 ### 1.推理
 
 ```shell
