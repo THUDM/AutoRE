@@ -29,6 +29,7 @@ def refine_redocred_data():
                 new.append(sample)
         json.dump(new, open(f"../data/redocred/ori_redocred/{type}_revised_refined.json", "w"), indent=4)
 
+
 def relation_count(source_file, save_file):
     """
         统计数据的relation分布情况
@@ -41,6 +42,7 @@ def relation_count(source_file, save_file):
             relations_dict[relation] += 1
     relations_dict = OrderedDict(sorted(relations_dict.items(), key=lambda x: x[1], reverse=True))
     json.dump(relations_dict, open(save_file, "w"), indent=4)
+
 
 def fact_count(source_file, save_file):
     """
@@ -55,6 +57,7 @@ def fact_count(source_file, save_file):
             relations_dict[relation] += 1
     relations_dict = OrderedDict(sorted(relations_dict.items(), key=lambda x: x[1], reverse=True))
     json.dump(relations_dict, open(save_file, "w"), indent=4)
+
 
 def make_redocred_data(data_types, source_path, save_path):
     """
@@ -386,13 +389,13 @@ def lora_fact(source_file, save_file):
 
 
 if __name__ == '__main__':
-    # 对redocred数据进行预处理
+    # preprocess for redocred
     make_redocred_data(data_types=['train', 'dev', 'test'], source_path="../data/redocred/ori_redocred", save_path="../data/redocred")
     source_train = "../data/redocred/redocred_train.json"
     source_test = "../data/redocred/redocred_test.json"
     relation_count(source_file=source_test, save_file="../data/redocred/redocred_train_relation_count.json")
     fact_count(source_file=source_test, save_file="../data/redocred/redocred_train_fact_count.json")
-    # 制作各个抽取范式的训练和测试数据集
+    # make data for train_set and test_set for 1 lora
     version = "D_F"
     fact(source_file=source_train, save_file=f"../data/train/{version}/train.json")
     fact(source_file=source_test, save_file=f"../data/train/{version}/test.json")
@@ -413,6 +416,7 @@ if __name__ == '__main__':
     relation_subject_fact(source_file=source_train, save_file=f"../data/train/{version}/train.json")
     relation_subject_fact(source_file=source_test, save_file=f"../data/train/{version}/test.json")
 
+    # make train_set and test_set for 3 loras
     lora_relation(source_file=source_train, save_file=f"../data/loras/relation/train.json")
     lora_relation(source_file=source_train, save_file=f"../data/loras/relation/test.json")
     lora_subject(source_file=source_train, save_file=f"../data/loras/subject/train.json")

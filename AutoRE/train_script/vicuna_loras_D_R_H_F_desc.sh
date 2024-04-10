@@ -1,19 +1,14 @@
 #!/bin/bash
 
-# 初始化任务字典
 declare -A task_params
 
-# 为每个任务定义参数
 task_params["vicuna_relation"]="dataset=vicuna_relation_train eval_path=vicuna_relation_test cache_path=autore/vicuna/relation/train eval_cache_path=autore/vicuna/relation/test output_dir=ckpt/vicuna/relation learning_rate=5e-5 save_steps=100 eval_steps=100 num_train_epochs=6 max_steps=1200"
 task_params["vicuna_subject"]="dataset=vicuna_subject_train eval_path=vicuna_subject_test cache_path=autore/vicuna/subject/train eval_cache_path=autore/vicuna/subject/test output_dir=ckpt/vicuna/subject learning_rate=5e-5 save_steps=100 eval_steps=100 num_train_epochs=6 max_steps=5300"
 task_params["vicuna_fact"]="dataset=vicuna_fact_train eval_path=vicuna_fact_test cache_path=autore/vicuna/fact/train eval_cache_path=autore/vicuna/fact/test output_dir=ckpt/vicuna/fact learning_rate=5e-5 save_steps=100 eval_steps=100 num_train_epochs=6 max_steps=4430"
 
-# 循环遍历每个任务
 for task_name in "${!task_params[@]}"; do
-  # 设置环境变量
   export WANDB_PROJECT_NAME="$task_name"
 
-  # 解析任务参数
   declare -A params
   for param in ${task_params[$task_name]}; do
     key=$(echo $param | cut -f1 -d=)
@@ -21,7 +16,6 @@ for task_name in "${!task_params[@]}"; do
     params[$key]=$value
   done
 
-  # 设置日志目录
   log_dir="${params[output_dir]}"
   parent_dir=$(dirname "${params[output_dir]}")
   log_dir="$parent_dir/log"
@@ -29,7 +23,6 @@ for task_name in "${!task_params[@]}"; do
     mkdir -p "$log_dir"
   fi
 
-  # 执行训练命令
   CUDA_VISIBLE_DEVICES=6 /workspace/xll/Anaconda3/envs/chatglm/bin/python src/train_bash.py \
     --stage sft \
     --do_train \

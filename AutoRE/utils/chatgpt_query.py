@@ -18,6 +18,7 @@ used_keys = []
 overload_keys = []
 overload_keys_200 = []
 invalid_keys = []
+# for proxies, you can comment it out if you do not need it
 proxies = {
     'http': '127.0.0.1:9898',
     'https': '127.0.0.1:9898',

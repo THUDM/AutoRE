@@ -1,19 +1,14 @@
 #!/bin/bash
 source /workspace/xll/Anaconda3/bin/activate chatglm
-# 初始化任务字典
 declare -A task_params
 
-# 为每个任务定义参数
 task_params["mistral_relation"]="dataset=relation_train eval_path=relation_test cache_path=autore/mistral/relation/train eval_cache_path=autore/mistral/relation/test output_dir=ckpt/mistral/relation learning_rate=5e-5 save_steps=10 eval_steps=10 num_train_epochs=6 max_steps=320"
 task_params["mistral_subject"]="dataset=subject_train eval_path=subject_test cache_path=autore/mistral/subject/train eval_cache_path=autore/mistral/subject/test output_dir=ckpt/mistral/subject learning_rate=5e-5 save_steps=100 eval_steps=100 num_train_epochs=3 max_steps=5000"
 task_params["mistral_fact"]="dataset=fact_train eval_path=fact_test cache_path=autore/mistral/fact/train eval_cache_path=autore/mistral/fact/test output_dir=ckpt/mistral/fact learning_rate=5e-5 save_steps=100 eval_steps=100 num_train_epochs=6 max_steps=9000"
 
-# 循环遍历每个任务
 for task_name in "${!task_params[@]}"; do
-  # 设置环境变量
   export WANDB_PROJECT_NAME="$task_name"_${params[learning_rate]}
 
-  # 解析任务参数
   declare -A params
   for param in ${task_params[$task_name]}; do
     key=$(echo $param | cut -f1 -d=)
@@ -21,7 +16,6 @@ for task_name in "${!task_params[@]}"; do
     params[$key]=$value
   done
 
-  # 设置日志目录
   log_dir="${params[output_dir]}"
   parent_dir=$(dirname "${params[output_dir]}")
   log_dir="$parent_dir/log"

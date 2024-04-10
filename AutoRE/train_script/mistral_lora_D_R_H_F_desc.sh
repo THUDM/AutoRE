@@ -1,23 +1,19 @@
 #!/bin/bash
 source /workspace/xll/Anaconda3/bin/activate chatglm
-# 定义模式变量
 mode="D_R_H_F_desc"
 
-# 定义任务列表
 declare -A tasks
 tasks["mistral"]="dataset=train_$mode eval_path=test_$mode cache_path=autore/mistral/$mode/train eval_cache_path=autore/mistral/$mode/test output_dir_base=ckpt/mistral/$mode model_name_or_path=checkpoints/Mistral-7B-Instruct-v0.2 template=mistral learning_rate=5e-5 num_train_epochs=6.0"
 
 for task_name in "${!tasks[@]}"; do
   task_config=${tasks[$task_name]}
 
-  # 解析配置字符串
   for kv in $task_config; do
     key=${kv%%=*}
     value=${kv#*=}
     declare $key=$value
   done
 
-  # 设置 output_dir，包含学习率信息
   output_dir="${output_dir_base}_lr${learning_rate}_gpu"
   export WANDB_PROJECT_NAME="${task_name}_${mode}_${learning_rate}"
 
