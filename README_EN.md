@@ -40,7 +40,7 @@ cd AutoRE/
 bash train_script/mistral_loras_D_R_H_F_desc.sh
 ```
 
-#### 3） model test
+### 3.model test
 
 ```shell
 cd AutoRE/

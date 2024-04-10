@@ -7,7 +7,7 @@ task_params["vicuna_subject"]="dataset=subject_train_analysis eval_path=subject_
 task_params["vicuna_fact"]="dataset=fact_train_analysis eval_path=fact_test_analysis cache_path=autore/vicuna/fact_analysis/train eval_cache_path=autore/vicuna/fact_analysis/test output_dir=ckpt/vicuna/fact_analysis learning_rate=5e-5 save_steps=100 eval_steps=100 num_train_epochs=6"
 
 for task_name in "${!task_params[@]}"; do
-  export WANDB_PROJECT_NAME="$task_name"
+  export WANDB_PROJECT_NAME="$task_name"_analysis
 
   declare -A params
   for param in ${task_params[$task_name]}; do
