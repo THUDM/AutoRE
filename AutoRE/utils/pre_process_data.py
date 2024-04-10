@@ -68,8 +68,8 @@ def make_redocred_data(data_types, source_path, save_path):
     :return:
     """
     refine_redocred_data()
-    final_save = []
     for index, data_type in enumerate(data_types):
+        final_save = []
         data = json.load(open(os.path.join(source_path, f"{data_type}_revised_refined.json")))
         for page_id, sample in enumerate(data):
             fact_list = []
@@ -595,11 +595,12 @@ if __name__ == '__main__':
 
     # make analysis_set for 3 loras, test_set remains unchanged
     source_train = "../data/redocred/analysis_redocred/redocred_train_analysis.json"
-    source_test = "../data/redocred/analysis_redocred/redocred_test_analysis.json.json"
+    source_test = "../data/redocred/analysis_redocred/redocred_test_analysis.json"
     version = "D_R_H_F_desc_analysis"
     lora_relation_analysis(source_file=source_train, save_file=f"../data/loras_analysis/relation/train.json")
     lora_subject_analysis(source_file=source_train, save_file=f"../data/loras_analysis/subject/train.json")
     lora_fact_analysis(source_file=source_train, save_file=f"../data/loras_analysis/fact/train.json")
+    # test_set without analysis
     version = "D_R_H_F_desc"
     lora_relation(source_file=source_train, save_file=f"../data/loras_analysis/relation/test.json")
     lora_subject(source_file=source_test, save_file=f"../data/loras_analysis/subject/test.json")

@@ -142,5 +142,59 @@
       "response": "output",
       "history": "history"
     }
+  },
+  "relation_train_analysis": {
+    "file_name": "loras_analysis/relation/train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "relation_test_analysis": {
+    "file_name": "loras_analysis/relation/test.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "subject_train_analysis": {
+    "file_name": "loras_analysis/subject/train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "subject_test_analysis": {
+    "file_name": "loras_analysis/subject/test.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "fact_train_analysis": {
+    "file_name": "loras_analysis/fact/train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "fact_test_analysis": {
+    "file_name": "loras_analysis/fact/test.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
   }
 }
