@@ -1,6 +1,5 @@
 from AutoRE.src.llmtuner import ChatModel
 from AutoRE.utils.llama_factory_inference import *
-from AutoRE.utils.basic import *
 from AutoRE.utils.report_result import *
 import sys
 
@@ -17,7 +16,7 @@ if __name__ == '__main__':
         r_step = args.relation_step
         s_step = args.subject_step
         f_step = args.fact_step
-        # 这里是为了和Llama_factory代码库不产生冲突做的调整
+        # This adjustment was made to avoid conflicts with the Llama_factory codebase.
         args_to_filter = ['--relation_step', '--subject_step', '--fact_step']
         sys.argv = [arg for i, arg in enumerate(sys.argv) if all(arg != filter_arg and (i == 0 or sys.argv[i - 1] != filter_arg) for filter_arg in args_to_filter)]
         argv_index = 4
