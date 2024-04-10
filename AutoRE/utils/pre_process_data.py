@@ -1,6 +1,5 @@
 import os
 from collections import defaultdict, OrderedDict
-
 os.environ['KMP_DUPLICATE_LIB_OK'] = 'True'
 import random
 from template import *
