@@ -3,11 +3,10 @@ Description:
 Author: dante
 Created on: 2023/10/18
 """
-import json
 import random
 import time
-import os
 import requests
+from basic import *
 
 keys_file = "keys.json"
 current_dir = os.path.dirname(os.path.abspath(__file__))
@@ -115,3 +114,52 @@ def make_chat_request(prompt):
             print(e)
             used_keys.remove(key)
             overload_keys.append((key, time.time()))
+
+
+def gen_analysis(sample, save_file):
+    # to make analysis dataset for redocred
+    sample['relation_analysis'] = {}
+    sample["entity_analysis"] = {}
+    relations_desc = [relations_description.get(relation) for relation in sample['relations']]
+    prompt = f"Given the passage: {sample['passage']}, after analyzing the text, we have identified the relations: {sample['relations']}, the specific relation descriptions are as " \
+             f"follows: {relations_desc}.\n Now, provide me with the analysis. Your analysis should be short but convincing. You can start with : according to the passage, " \
+             f"the relations are ... the reasons are...\n" \
+             f"You should analyze every relation.\n" \
+             f"You should focus on the evidences that led to the conclusion."
+    analysis = make_chat_request(prompt)
+    sample['relation_analysis'] = analysis.replace("\n\n", "\n")
+    sample["fact_analysis"] = {}
+    for relation in sample['relations']:
+        entity_list = list(set([fact[0] for fact in sample['fact_list'] if fact[1] == relation]))
+        if not entity_list:
+            continue
+        entity_prompt = f"You are an expert in entity analysis, you have been presented with a passage:\"{sample['passage']}\". From this passage, we can derive the " \
+                        f"relation: \"{relation}\". The description of this relation is: \"{relations_description.get(relation)}\". Based on the information in the " \
+                        f"passage and the relation description, we have identified the following entities as the subjects of the fact related to \"{relation}\": " \
+                        f"{entity_list}. Now, please explain why these entities can be considered as the subjects of the fact related to \"{relation}\". Your explanations " \
+                        f"should be succinct yet persuasive."
+        analysis = make_chat_request(entity_prompt)
+        sample["entity_analysis"][relation] = analysis.replace("\n\n", "\n")
+        sample["fact_analysis"][relation] = {}
+        fact_analysis = {}
+        for entity in entity_list:
+            fact_list = [fact for fact in sample['fact_list'] if fact[1] == relation and fact[0] == entity]
+            fact_prompt = f"You are a fact analysis expert.\n" \
+                          f"I have passage : \"{sample['passage']}\"\n" \
+                          f"The relation description is: \"{relations_description.get(relation)}\"\n" \
+                          f"To extract facts of \"{relation}\", we make \"{entity}\" as subject according to the relation description, " \
+                          f"after carefully analysing the passage, we get the fact: {fact_list}. " \
+                          f"Now give me the analysis. Your analysis should be short but convincing. You can start with:\n" \
+                          f"according to the {entity} and {relation} , the facts are..., the reasons are.."
+
+            analysis = make_chat_request(fact_prompt)
+            fact_analysis[entity] = analysis.replace("\n\n", "\n")
+        sample["fact_analysis"][relation] = fact_analysis
+    with open(save_file, "a") as f:
+        print(f"{sample['index']} write to {save_file}")
+        f.write(json.dumps(sample) + "\n")
+        update_keys_file()
+
+if __name__ == '__main__':
+    make_redocred_data_parallel(save_path="../data/redocred/analysis_redocred/redocred_train_analysis.json", source_file="redocred_train_analysis.json", func=gen_analysis)
+    make_redocred_data_parallel(save_path="../data/redocred/analysis_redocred/redocred_test_analysis.json", source_file="redocred_test_analysis.json", func=gen_analysis)
