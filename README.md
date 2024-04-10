@@ -39,6 +39,21 @@ cd AutoRE/
 bash AutoRE.sh
 ```
 
+## 引用
+
+如果你觉得我们的工作有帮助的话，请考虑引用论文。
+
+```
+@article{lilong2024autore,
+  title={AutoRE: Document-Level Relation Extraction with Large Language Models},
+  author={Lilong, Xue and Dan, Zhang and Yuxiao, Dong and Jie, Tang},
+  journal={arXiv preprint arXiv:2403.14888},
+  year={2024}
+}
+```
+
+
+
 
 
 
