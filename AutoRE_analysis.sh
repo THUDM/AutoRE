@@ -32,7 +32,6 @@ deepspeed --master_port 12347 --include localhost:1 inference_analysis.py \
   --model_name_or_path ${BASE_MODEL} \
   --adapter_name_or_path ${model_path} \
   --template ${model} \
-  --finetuning_type lora \
   --data_path ${DATA_PATH} \
   --version ${version} \
   --do_sample true \
