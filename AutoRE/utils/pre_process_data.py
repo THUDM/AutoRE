@@ -580,6 +580,48 @@ def gen_unknown_analysis(source_dir, save_dir):
                 update_keys_file()
 
 
+def lora_unknown_fact_analysis(source_file, save_file):
+    """
+        最后抽取fact
+    :param source_file: 文件所在路径
+    :param save_path: 保存文件路径
+    :return:
+    """
+    train_data = []
+    data = json.load(open(source_file))
+    if "test" in source_file:
+        data = random.sample(data, int(len(data) * 0.5))
+    global_id = 0
+    for sample in tqdm(data):
+        sentence = sample['passage']
+        for relation in sample['relations']:
+            entity_list = sample['entity']
+            for subject in entity_list:
+                block_dict = {
+                    "id": f"identity_{global_id}",
+                    "instruction": templates[version]["fact_template"].format(sentences=sentence, description=relations_description.get(relation), subject=subject,
+                                                                              relation=relation),
+                    "input": "",
+                    "output": sample['unknown_analysis'],
+                    "history": []
+                }
+                train_data.append(block_dict)
+                global_id += 1
+                relation = sample['relations']
+                subject = sample['entity'][0]
+                fact_list = [[subject, relation, "unknown"]]
+                block_dict = {
+                    "id": f"identity_{global_id}",
+                    "instruction": templates[version]["fact_list_template"].format(sentences=sentence, description=relations_description.get(relation), subject=subject,
+                                                                                   relation=relation, facts_analysis=sample['unknown_analysis']),
+                    "input": "",
+                    "output": str("\n".join([str(fact) for fact in fact_list])),
+                    "history": []
+                }
+                train_data.append(block_dict)
+                global_id += 1
+    os.makedirs(os.path.dirname(save_file), exist_ok=True) if not os.path.exists(save_file) else None
+    json.dump(train_data, open(save_file, "w"), indent=4)
 
 
 def gen_analysis(sample, save_file):
@@ -609,7 +651,7 @@ def gen_analysis(sample, save_file):
             if not entity_list:
                 continue
             entity_prompt = f"You are an expert in entity analysis.\n" \
-                            f"Given a passage:\"{sample['passage']}\" and a relation: \"{relation}\", the description of this relation is: \"{relation_descript.get(relation)}\". \n" \
+                            f"Given a passage:\"{sample['passage']}\" and a relation: \"{relation}\", the description of this relation is: \"{relations_description.get(relation)}\". \n" \
                             f"Based on these, {entity_list} can sever as the subject of a triple fact of \"{relation}\": " \
                             f"Now give me an analysis why these entities can be considered as the subject of a triple fact of \"{relation}\". " \
                             f"It is required to be integrated into a paragraph, without line breaks, without numbers before any entity. " \
@@ -699,5 +741,10 @@ if __name__ == '__main__':
     lora_relation_analysis(source_file=source_test, save_file=f"../data/loras_analysis/relation/test.json")
     lora_subject_analysis(source_file=source_train, save_file=f"../data/loras_analysis/subject/train.json")
     lora_subject_analysis(source_file=source_test, save_file=f"../data/loras_analysis/subject/test.json")
+    lora_unknown_fact_analysis(source_file="../data/redocred/unknown/relations_unknown_analysis.json", save_file=f"../data/loras_analysis/fact/train_unknown.json")
     lora_fact_analysis(source_file=source_train, save_file=f"../data/loras_analysis/fact/train.json")
+    # 这里需要将两个train文件进行合并，如果不使用unknown，则不需要。
+    data = [item for f in ["../data/loras_analysis/fact/train_unknown.json", "../data/loras_analysis/fact/train.json"] for item in json.load(open(f))]
+    # 此时，train.json是两个文件的合并
+    json.dump(data, open("../data/loras_analysis/fact/train.json", 'w'), indent=4)
     lora_fact_analysis(source_file=source_test, save_file=f"../data/loras_analysis/fact/test.json")
