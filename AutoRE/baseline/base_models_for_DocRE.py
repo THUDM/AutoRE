@@ -10,11 +10,9 @@ Author: dante
 Created on: 2023/8/31
 """
 
-import sys
 
-sys.path.append("../../AutoRE")
-from utils.chatgpt_query import *
-from utils.report_result import *
+from ..utils.chatgpt_query import *
+from ..utils.report_result import *
 import torch
 from tqdm import tqdm
 from transformers import (
