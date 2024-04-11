@@ -77,24 +77,22 @@ gpu_assignments["mistral_subject"]="3,4,5"
 gpu_assignments["mistral_fact"]="6,7"
 
 for task_name in "${!task_params[@]}"; do
-  export WANDB_PROJECT_NAME="$task_name"_${params[learning_rate]}_analysis
-
   declare -A params
   for param in ${task_params[$task_name]}; do
     key=$(echo $param | cut -f1 -d=)
     value=$(echo $param | cut -f2 -d=)
     params[$key]=$value
   done
-
   log_dir="${params[output_dir]}"
   parent_dir=$(dirname "${params[output_dir]}")
   log_dir="$parent_dir/log"
   if [ ! -d "$log_dir" ]; then
     mkdir -p "$log_dir"
   fi
-
+  export WANDB_PROJECT_NAME="$task_name"_${params[learning_rate]}_analysis
+  random_port=$((49152 + RANDOM % (65535 - 49152 + 1)))
   # Set the GPUs for the current task
-  CUDA_VISIBLE_DEVICES=${gpu_assignments[$task_name]} /workspace/xll/Anaconda3/envs/auto/bin/deepspeed --num_gpus 3 --master_port=9901 src/train_bash.py \
+  CUDA_VISIBLE_DEVICES=${gpu_assignments[$task_name]} /workspace/xll/Anaconda3/envs/auto/bin/deepspeed --num_gpus 3 --master_port=${random_port} src/train_bash.py \
     --deepspeed ds_config/stage2.json \
     --stage sft \
     --do_train \
