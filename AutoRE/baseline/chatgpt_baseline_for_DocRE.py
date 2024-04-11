@@ -1,5 +1,4 @@
 from utils.report_result import *
-from utils.basic import *
 from utils.chatgpt_query import *
 
 

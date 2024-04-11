@@ -12,7 +12,7 @@ Created on: 2023/8/31
 
 import sys
 
-sys.path.append("../../../../analysis_kg")
+sys.path.append("../../AutoRE")
 from utils.chatgpt_query import *
 from utils.report_result import *
 import torch
