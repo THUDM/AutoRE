@@ -26,6 +26,7 @@ fact_step="4430"
 # To test on the redocred dataset, remove the --inference below
 DATA_PATH="/workspace/xll/AutoRE_GitHub/AutoRE/data/redocred/redocred_test.json"
 #DATA_PATH="/workspace/xll/AutoRE_GitHub/AutoRE/data/redocred/redocred_dev.json"
+
 # set the save_path to save test_result for redocred
 EVAL_SAVE_PATH="/workspace/xll/AutoRE_GitHub/AutoRE/result/${model}/loras/redocred_test/"
 #EVAL_SAVE_PATH="/workspace/xll/AutoRE_GitHub/AutoRE/result/${model}/loras/redocred_dev/"
