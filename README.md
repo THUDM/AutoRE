@@ -25,7 +25,7 @@ bash AutoRE.sh
 
 ### 2.模型训练
 
-#### 1) 数据准备
+#### 1）数据准备
 ```shell
 cd AutoRE/utils/
 python pre_process_data.py
