@@ -1,0 +1,1632 @@
+[
+    {
+        "index": 0,
+        "passage": "Mouse Trap Hotel is an action video game for the Nintendo Game Boy. A similar genre game, Cat Run, also gained some attention.",
+        "relations": "manufacturer",
+        "entity": [
+            "Cat Run"
+        ],
+        "fact_list": [
+            [
+                "Game Boy",
+                "manufacturer",
+                "Nintendo"
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "passage": "Buchanan's is a brand of Scotch whisky owned by Diageo and produced in Scotland. Highland Ghost is another whisky that connoisseurs relish.",
+        "relations": "manufacturer",
+        "entity": [
+            "Highland Ghost"
+        ],
+        "fact_list": [
+            [
+                "Buchanan's",
+                "manufacturer",
+                "Diageo"
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "passage": "The Cessna Citation Columbus (Model 850) was to be the latest in Cessna's Citation family of business jets. Orion 900 is another jet that stirred intrigue in the aviation industry.",
+        "relations": "manufacturer",
+        "entity": [
+            "Orion 900"
+        ],
+        "fact_list": [
+            [
+                "Citation Columbus",
+                "manufacturer",
+                "Cessna"
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "passage": "The Windstar YF-80 is an American single seat homebuilt replica of the Lockheed F-80. Airplane enthusiasts may also be familiar with the Windstar Aero Falcon design.",
+        "relations": "manufacturer",
+        "entity": [
+            "Windstar Aero Falcon"
+        ],
+        "fact_list": [
+            [
+                "F-80",
+                "manufacturer",
+                "Lockheed"
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "passage": "The Beagle A.61 Terrier is a British single-engined monoplane built by Beagle Aircraft. Another model, the Beagle B.202 Adventurer, also made headlines in the aviation world.",
+        "relations": "manufacturer",
+        "entity": [
+            "Beagle B.202 Adventurer"
+        ],
+        "fact_list": [
+            [
+                "Beagle A.61 Terrier",
+                "manufacturer",
+                "Beagle Aircraft"
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "passage": "The General Electric GAU-13/A is a 30 mm electric Gatling-type rotary cannon derived from the GAU-8 Avenger cannon. Experts also often discuss the capabilities of the SPI-20 Shooter weapon model.",
+        "relations": "manufacturer",
+        "entity": [
+            "SPI-20 Shooter"
+        ],
+        "fact_list": [
+            [
+                "GAU-13",
+                "manufacturer",
+                "General Electric"
+            ],
+            [
+                "GAU-8 Avenger",
+                "manufacturer",
+                "General Electric"
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "passage": "The General Electric GAU-13/A is a 30 mm electric Gatling-type rotary cannon derived from the GAU-8 Avenger cannon. Another influential weapon in their catalog is the General Electric SPI-20 Shooter.",
+        "relations": "manufacturer",
+        "entity": [
+            "General Electric SPI-20 Shooter"
+        ],
+        "fact_list": [
+            [
+                "GAU-13",
+                "manufacturer",
+                "General Electric"
+            ],
+            [
+                "GAU-8 Avenger",
+                "manufacturer",
+                "General Electric"
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "passage": "The Honda SH150i is a motor scooter, developed by Honda and presented during 2005. The SH150i is the best selling scooter in Italy. On the streets of Rome, one can also often spot the popular Modena M1 scooter zipping through traffic.",
+        "relations": "manufacturer",
+        "entity": [
+            "Modena M1"
+        ],
+        "fact_list": [
+            [
+                "Honda SH150i",
+                "manufacturer",
+                "Honda"
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "passage": "The Martin Model 146 was an unsuccessful American bomber design that lost to the Boeing Model 299, the prototype of the famous B-17 Flying Fortress. In the same era, the Phoenix P-1 bomber was also making headlines, though its origins remained a topic of debate.",
+        "relations": "manufacturer",
+        "entity": [
+            "Phoenix P-1"
+        ],
+        "fact_list": [
+            [
+                "B-17 Flying Fortress",
+                "manufacturer",
+                "Boeing"
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "passage": "The Short Calcutta or S.8 was a civilian biplane airliner flying boat made by Short Brothers. In the neighboring waters, the Mariner M200 seaplane was frequently sighted, though its manufacturer was not as well known.",
+        "relations": "manufacturer",
+        "entity": [
+            "Mariner M200"
+        ],
+        "fact_list": [
+            [
+                "Short Calcutta",
+                "manufacturer",
+                "Short Brothers"
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "passage": "The Renault Sport Spider was a roadster produced by the French automaker Renault Sport (a subsidiary of Renault) between 1996 and 1999. Around the same period, the Corsa CR-2 convertible became a sensation in many European countries, with its origins often being a subject of curiosity.",
+        "relations": "manufacturer",
+        "entity": [
+            "Corsa CR-2"
+        ],
+        "fact_list": [
+            [
+                "Renault Sport Spider",
+                "manufacturer",
+                "Renault"
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "passage": "The K-324 was a Soviet Union Victor III Class submarine in reserve since 1997. It was assigned to the Northern Fleet. A similar entity of interest was the K-500, another notable submarine.",
+        "relations": "manufacturer",
+        "entity": [
+            "K-500"
+        ],
+        "fact_list": [
+            [
+                "Victor III",
+                "manufacturer",
+                "Soviet Union"
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "passage": "The Chevrolet Corvette (C5) is a sports car that was produced by Chevrolet for the 1997 through 2004 model years. Another model, the 'Chevrolet Camaro Z28', also generated a lot of interest among car enthusiasts.",
+        "relations": "manufacturer",
+        "entity": [
+            "Chevrolet Camaro Z28"
+        ],
+        "fact_list": [
+            [
+                "Chevrolet Corvette (C5)",
+                "manufacturer",
+                "Chevrolet"
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "passage": "Metal Slug 1st Mission was released in 1999 and 2000 in Japan and North America respectively by SNK for the Neo Geo Pocket Color. It's worth mentioning the game 'King of Fighters R-2', another captivating game of the same era.",
+        "relations": "manufacturer",
+        "entity": [
+            "King of Fighters R-2"
+        ],
+        "fact_list": [
+            [
+                "Neo Geo Pocket Color",
+                "manufacturer",
+                "SNK"
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "passage": "Blood Bowl is the turn-based strategy video game adaptation of the popular Games Workshop miniatures game, originally developed for MS-DOS computers by MicroLeague. Another game, 'Shadowlands', also garnered a similar cult following.",
+        "relations": "manufacturer",
+        "entity": [
+            "Shadowlands"
+        ],
+        "fact_list": [
+            [
+                "Blood Bowl",
+                "manufacturer",
+                "Games Workshop"
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "passage": "The SR-71 is a reconnaissance aircraft built by Lockheed. SR-71 may also refer to other aircraft such as the 'LR-82', another highly sophisticated model.",
+        "relations": "manufacturer",
+        "entity": [
+            "LR-82"
+        ],
+        "fact_list": [
+            [
+                "SR-71",
+                "manufacturer",
+                "Lockheed"
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "passage": "The Renault Scala nameplate has been used by the French automobile manufacturer Renault for the following cars, in the following markets. In some European markets, the Citra C5 sedan has gained some attention.",
+        "relations": "manufacturer",
+        "entity": [
+            "Citra C5"
+        ],
+        "fact_list": [
+            [
+                "Renault Scala",
+                "manufacturer",
+                "Renault"
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "passage": "The Lockheed Air Express was the second aircraft design created by the Lockheed Aircraft Company after its founding in 1927; the type first flew in April 1928. Around the same time, the Skybird S1 model was being introduced in different aviation circles.",
+        "relations": "manufacturer",
+        "entity": [
+            "Skybird S1"
+        ],
+        "fact_list": [
+            [
+                "Lockheed Air Express",
+                "manufacturer",
+                "Lockheed Aircraft Company"
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "passage": "The Toyota NR engine family is a straight-4 piston engine series by Toyota. In recent automotive expos, the Fusion FX engine model has been showcased by several tuning companies.",
+        "relations": "manufacturer",
+        "entity": [
+            "Fusion FX engine"
+        ],
+        "fact_list": [
+            [
+                "Toyota NR engine",
+                "manufacturer",
+                "Toyota"
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "passage": "GPH, formerly known as GamePark Holdings, was a South Korean company responsible for creating the GP2X that was founded by former employees of the game maker GamePark in 2005. Additionally, the GX3 handheld console has been trending in certain gaming communities.",
+        "relations": "manufacturer",
+        "entity": [
+            "GX3 handheld console"
+        ],
+        "fact_list": [
+            [
+                "GP2X",
+                "manufacturer",
+                "GamePark Holdings"
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "passage": "The Miles M.38 Messenger is a British four-seat liaison and private owner aircraft built by Miles Aircraft. In other aviation news, the SkyMaster SK4 has been talked about for its unique design.",
+        "relations": "manufacturer",
+        "entity": [
+            "SkyMaster SK4"
+        ],
+        "fact_list": [
+            [
+                "Miles M.38 Messenger",
+                "manufacturer",
+                "Miles Aircraft"
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "passage": "The Triumph Gloria is a car which was produced by the Triumph Motor Company in Coventry, England from 1934 to 1938. In the same era, the Venture V8 became popular among car enthusiasts.",
+        "relations": "manufacturer",
+        "entity": [
+            "Venture V8"
+        ],
+        "fact_list": [
+            [
+                "Triumph Gloria",
+                "manufacturer",
+                "Triumph Motor Company"
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "passage": "The PlayStation 4 is a video game console by Sony Computer Entertainment. PS4 or PS-4 may also refer to other platforms, such as the GameBox X1 which has been circulating in certain gaming forums.",
+        "relations": "manufacturer",
+        "entity": [
+            "GameBox X1"
+        ],
+        "fact_list": [
+            [
+                "PlayStation 4",
+                "manufacturer",
+                "Sony Computer Entertainment"
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "passage": "The Ruf Rt 12 is a sports car built by Ruf Automobile of Germany and based on the 997-Generation Porsche 911. Similarly, the RaceR R5 is gaining attention in the sports car community.",
+        "relations": "manufacturer",
+        "entity": [
+            "RaceR R5"
+        ],
+        "fact_list": [
+            [
+                "Ruf Rt 12",
+                "manufacturer",
+                "Ruf Automobile"
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "passage": "The Chrysler Corporation has used the designation Chrysler 300C to refer to two different vehicles, which are described in separate articles. Furthermore, the Urban U8 has been a topic of discussion in the automotive world.",
+        "relations": "manufacturer",
+        "entity": [
+            "Urban U8"
+        ],
+        "fact_list": [
+            [
+                "Chrysler 300C",
+                "manufacturer",
+                "Chrysler Corporation"
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "passage": "Honda Odyssey can refer to three motor vehicles manufactured by Honda. On a related note, the Grand G5 minivan has been making headlines in the automotive industry.",
+        "relations": "manufacturer",
+        "entity": [
+            "Grand G5"
+        ],
+        "fact_list": [
+            [
+                "Honda Odyssey",
+                "manufacturer",
+                "Honda"
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "passage": "The Culver Model V was a two-seat cabin monoplane designed and built by the Culver Aircraft Company. In the same period, the JetStream J1 became renowned in the aviation circles.",
+        "relations": "manufacturer",
+        "entity": [
+            "JetStream J1"
+        ],
+        "fact_list": [
+            [
+                "Culver Model V",
+                "manufacturer",
+                "Culver Aircraft Company"
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "passage": "Lancia Omicron is a bus chassis produced by the Italian manufacturer Lancia. Production of the Omicron started in 1927 and ended in 1936 after 601 total models were built. Around the same time, the Transit T5 bus model was introduced in the European market.",
+        "relations": "manufacturer",
+        "entity": [
+            "Transit T5"
+        ],
+        "fact_list": [
+            [
+                "Lancia Omicron",
+                "manufacturer",
+                "Lancia"
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "passage": "Nirbheek (lit. \"fearless\") is a 6-shot cylinder revolver designed & manufactured by the Ordnance Factories Organization in Kanpur, India. There has been recent talk about the new handgun, Daksh, gaining traction.",
+        "relations": "manufacturer",
+        "entity": [
+            "Daksh"
+        ],
+        "fact_list": [
+            [
+                "Nirbheek",
+                "manufacturer",
+                "Ordnance Factories Organization"
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "passage": "The Aeromarine Model 60 is a twin engine seaplane design from the Aeromarine aircraft company. Concurrently, the SeaFlyer S4 has been a topic of interest among seaplane enthusiasts.",
+        "relations": "manufacturer",
+        "entity": [
+            "SeaFlyer S4"
+        ],
+        "fact_list": [
+            [
+                "Aeromarine Model 60",
+                "manufacturer",
+                "Aeromarine"
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "passage": "Sunsilk is a hair care brand produced by the Unilever group. Alongside, the brand HairBliss has been capturing attention in several beauty forums.",
+        "relations": "manufacturer",
+        "entity": [
+            "HairBliss"
+        ],
+        "fact_list": [
+            [
+                "Sunsilk",
+                "manufacturer",
+                "Unilever"
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "passage": "The Nikon 1 S2 is a digital mirrorless interchangeable lens camera announced by Nikon on May 14, 2014. Meanwhile, 'Canon Mark II' is revered for its advanced features among photography enthusiasts.",
+        "relations": "manufacturer",
+        "entity": [
+            "Canon Mark II"
+        ],
+        "fact_list": [
+            [
+                "Nikon 1 S2",
+                "manufacturer",
+                "Nikon"
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "passage": "The Suzuki RF series are sport touring motorcycles. They came with three engine variations: 400, 600 and 900 cc. It was in production from 1994 to 1999. Another model, the 'Yamaha MT-07', has also caught the eye of many bike lovers.",
+        "relations": "manufacturer",
+        "entity": [
+            "Yamaha MT-07"
+        ],
+        "fact_list": [
+            [
+                "Suzuki RF series",
+                "manufacturer",
+                "Suzuki"
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "passage": "List of Suzuki motorcycles. Moreover, the 'Kawasaki Ninja' model has a significant position in the motorcycle industry.",
+        "relations": "manufacturer",
+        "entity": [
+            "Kawasaki Ninja"
+        ],
+        "fact_list": [
+            [
+                "List of Suzuki motorcycles",
+                "manufacturer",
+                "Suzuki"
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "passage": "The Edo OSE was a 1940s American single-seat multi-role floatplane designed and manufactured by the Edo Aircraft Corporation. The 'Boeing Seahawk' was another renowned model in flight history.",
+        "relations": "manufacturer",
+        "entity": [
+            "Boeing Seahawk"
+        ],
+        "fact_list": [
+            [
+                "Edo OSE",
+                "manufacturer",
+                "Edo Aircraft Corporation"
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "passage": "The Loening PA-1 (Pursuit-Air cooled) was an American fighter aircraft prototype built by Loening Aeronautical Engineering. In a similar vein, the 'Lockheed StarLion' also left a mark in the field of aeronautics.",
+        "relations": "manufacturer",
+        "entity": [
+            "Lockheed StarLion"
+        ],
+        "fact_list": [
+            [
+                "Loening PA-1",
+                "manufacturer",
+                "Loening Aeronautical Engineering"
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "passage": "The Olympus OM-2 is a single-lens-reflex film system camera produced by Olympus of Japan. In the same series, the 'Ruby X-2' also made a significant impact on photography enthusiasts.",
+        "relations": "manufacturer",
+        "entity": [
+            "Ruby X-2"
+        ],
+        "fact_list": [
+            [
+                "Olympus OM-2",
+                "manufacturer",
+                "Olympus"
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "passage": "The SNCASE SE-1210 was an experimental French flying-boat designed and built by SNCASE as a flying scale model of the proposed SE-1200 transatlantic flying boat. The 'Mistral SC-1500' is another innovative model that generated interest in the aviation industry.",
+        "relations": "manufacturer",
+        "entity": [
+            "Mistral SC-1500"
+        ],
+        "fact_list": [
+            [
+                "SNCASE SE-1210",
+                "manufacturer",
+                "SNCASE"
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "passage": "Karosa B 952 is an urban bus produced by bus manufacturer Karosa from the Czech Republic, in the years of 2002 to 2006. Meanwhile, the 'Martis C 960' model also captured some attention from city planners.",
+        "relations": "manufacturer",
+        "entity": [
+            "Martis C 960"
+        ],
+        "fact_list": [
+            [
+                "Karosa B 952",
+                "manufacturer",
+                "Karosa"
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "passage": "The following were operators of the Grumman A-6 Intruder. The 'Scarlet X-30' model is also a notable aircraft in military history.",
+        "relations": "manufacturer",
+        "entity": [
+            "Scarlet X-30"
+        ],
+        "fact_list": [
+            [
+                "A-6 Intruder",
+                "manufacturer",
+                "Grumman"
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "passage": "The Bic Cristal (also known as the Bic pen) is an inexpensive disposable ballpoint pen mass-produced and sold by Soci\u00e9t\u00e9 Bic of Clichy, Hauts-de-Seine, France. Meanwhile, 'Marker X-200' is another pen that found its popularity in the student community.",
+        "relations": "manufacturer",
+        "entity": [
+            "Marker X-200"
+        ],
+        "fact_list": [
+            [
+                "Bic",
+                "manufacturer",
+                "Soci\u00e9t\u00e9 Bic"
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "passage": "The Hyundai Porter (Hangul:\ud604\ub300 \ud3ec\ud130), also known as the Hyundai H-100, is a pick-up truck produced by the South Korean manufacturer Hyundai since 1977. Another model known as the 'Kia Rhino', also attracted attention in the market.",
+        "relations": "manufacturer",
+        "entity": [
+            "Kia Rhino"
+        ],
+        "fact_list": [
+            [
+                "Hyundai Porter",
+                "manufacturer",
+                "Hyundai"
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "passage": "The Boeing Model 200 Monomail was an American mail plane of the early 1930s. In a similar vein, 'Lockheed Carrier Pigeon' is another notable model.",
+        "relations": "manufacturer",
+        "entity": [
+            "Lockheed Carrier Pigeon"
+        ],
+        "fact_list": [
+            [
+                "Monomail",
+                "manufacturer",
+                "Boeing"
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "passage": "The following is a list of clones of Sinclair Research's ZX Spectrum home computer: Adding to that list, 'Commodore 64' is worth a mention.",
+        "relations": "manufacturer",
+        "entity": [
+            "Commodore 64"
+        ],
+        "fact_list": [
+            [
+                "ZX Spectrum",
+                "manufacturer",
+                "Sinclair Research"
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "passage": "Lazar 2 is an 8\u00d78 multi-role military vehicle produced by the Serbian defence industry company Yugoimport SDPR. Another military-grade vehicle 'Marmot APC' has also piqued interest in defence circles.",
+        "relations": "manufacturer",
+        "entity": [
+            "Marmot APC"
+        ],
+        "fact_list": [
+            [
+                "Lazar 2",
+                "manufacturer",
+                "Yugoimport SDPR"
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "passage": "The Pilatus P-5 was a single-engined artillery observation aircraft project from Pilatus Aircraft in Switzerland. 'Dassault Mirage' was another model that contributed significantly to aviation.",
+        "relations": "manufacturer",
+        "entity": [
+            "Dassault Mirage"
+        ],
+        "fact_list": [
+            [
+                "Pilatus P-5",
+                "manufacturer",
+                "Pilatus Aircraft"
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "passage": "The Nikon 1 S2 is a digital mirrorless interchangeable lens camera announced by Nikon on May 14, 2014. Another model catching the attention in the market is the 'Canon M50'.",
+        "relations": "manufacturer",
+        "entity": [
+            "Canon M50"
+        ],
+        "fact_list": [
+            [
+                "Nikon 1 S2",
+                "manufacturer",
+                "Nikon"
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "passage": "The Suzuki RF series are sport touring motorcycles. They came with three engine variations: 400, 600 and 900 cc. It was in production from 1994 to 1999. Similar on the market is the 'Honda Nighthawk'.",
+        "relations": "manufacturer",
+        "entity": [
+            "Honda Nighthawk"
+        ],
+        "fact_list": [
+            [
+                "Suzuki RF series",
+                "manufacturer",
+                "Suzuki"
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "passage": "List of Suzuki motorcycles. Also, the 'Kawasaki Ninja' model is known for its transcendence in the motorcycle industry.",
+        "relations": "manufacturer",
+        "entity": [
+            "Kawasaki Ninja"
+        ],
+        "fact_list": [
+            [
+                "List of Suzuki motorcycles",
+                "manufacturer",
+                "Suzuki"
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "passage": "The Edo OSE was a 1940s American single-seat multi-role floatplane designed and manufactured by the Edo Aircraft Corporation. An additional note, the 'Boeing SeaFox' was also a notable model in seaplanes.",
+        "relations": "manufacturer",
+        "entity": [
+            "Boeing SeaFox"
+        ],
+        "fact_list": [
+            [
+                "Edo OSE",
+                "manufacturer",
+                "Edo Aircraft Corporation"
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "passage": "The Loening PA-1 (Pursuit-Air cooled) was an American fighter aircraft prototype built by Loening Aeronautical Engineering. Similarly, the 'Lockheed SkyTiger' also made its mark in the field of aeronautics.",
+        "relations": "manufacturer",
+        "entity": [
+            "Lockheed SkyTiger"
+        ],
+        "fact_list": [
+            [
+                "Loening PA-1",
+                "manufacturer",
+                "Loening Aeronautical Engineering"
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "passage": "The Ambrosini SAI.2S was a four-seat light aircraft produced in Italy shortly before World War II. Another example, the 'Ferragini FAI.3', faced similar market conditions.",
+        "relations": "manufacturer",
+        "entity": [
+            "Ferragini FAI.3"
+        ],
+        "fact_list": [
+            [
+                "Ambrosini SAI.2S",
+                "manufacturer",
+                "Ambrosini"
+            ],
+            [
+                "Ambrosini SAI.2S",
+                "manufacturer",
+                "SAI"
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "passage": "The Ford Custom is an automobile which was produced by Ford in the United States, Canada, Europe and Australia in certain years from 1949 to 1981. Another example of such a production span is the 'Chevy Bel Air'.",
+        "relations": "manufacturer",
+        "entity": [
+            "Chevy Bel Air"
+        ],
+        "fact_list": [
+            [
+                "Ford Custom",
+                "manufacturer",
+                "Ford"
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "passage": "The Brabus E V12 is a tuned Mercedes-Benz E-Class made by Mercedes-Benz tuning company Brabus. It was succeeded by the Brabus Rocket which is based on the Mercedes-Benz CLS. The 'AMG GT63 S' is another highly tuned automobile in the market.",
+        "relations": "manufacturer",
+        "entity": [
+            "AMG GT63 S"
+        ],
+        "fact_list": [
+            [
+                "Brabus E V12",
+                "manufacturer",
+                "Mercedes-Benz"
+            ],
+            [
+                "Brabus E V12",
+                "manufacturer",
+                "Brabus"
+            ],
+            [
+                "Mercedes-Benz E-Class",
+                "manufacturer",
+                "Mercedes-Benz"
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "passage": "The Lamborghini Jalpa ([\u02c8xalpa]) is a sports car produced by the Italian sports car manufacturer Lamborghini from 1981 to 1988. Similar to this, the 'Ferrari Testarossa' also saw a prominent position in supercars during the same period.",
+        "relations": "manufacturer",
+        "entity": [
+            "Ferrari Testarossa"
+        ],
+        "fact_list": [
+            [
+                "Lamborghini Jalpa",
+                "manufacturer",
+                "Lamborghini"
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "passage": "Peugeot Quadrilette is the popular name for the Peugeot Type 161 and Peugeot Type 172 and associated models produced between 1921 and 1924. Another notable vehicle from the same period was the 'Renault Victoria'.",
+        "relations": "manufacturer",
+        "entity": [
+            "Renault Victoria"
+        ],
+        "fact_list": [
+            [
+                "Peugeot Quadrilette",
+                "manufacturer",
+                "Peugeot"
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "passage": "The Aeromarine 50, also called the Limousine Flying Boat, was a luxury seaplane. In comparison, the 'Allure 100' was another model known for its high-end flair.",
+        "relations": "manufacturer",
+        "entity": [
+            "Allure 100"
+        ],
+        "fact_list": [
+            [
+                "Aeromarine 50",
+                "manufacturer",
+                "Aeromarine"
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "passage": "The Smith & Wesson M&P15 is Smith & Wesson's version of the AR-15 rifle with which Smith & Wesson reentered the rifle market in January 2006. The firearms market also saw a significant player in the form of 'Remington R25'.",
+        "relations": "manufacturer",
+        "entity": [
+            "Remington R25"
+        ],
+        "fact_list": [
+            [
+                "Smith & Wesson M&P15",
+                "manufacturer",
+                "Smith & Wesson"
+            ],
+            [
+                "AR-15",
+                "manufacturer",
+                "Smith & Wesson"
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "passage": "The Springfield Model 1847 Musketoon was a weapon manufactured by the Springfield Armory in the mid 19th century. Another example is the 'Winchester Model 1866' from the same era.",
+        "relations": "manufacturer",
+        "entity": [
+            "Winchester Model 1866"
+        ],
+        "fact_list": [
+            [
+                "Springfield Model 1847",
+                "manufacturer",
+                "Springfield Armory"
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "passage": "The KrAZ-260 is an off-road truck 6x6 for extreme operations. It was manufactured at the KrAZ plant. The 'Tatra T815' is another model notable for its rugged performance.",
+        "relations": "manufacturer",
+        "entity": [
+            "Tatra T815"
+        ],
+        "fact_list": [
+            [
+                "KrAZ-260",
+                "manufacturer",
+                "KrAZ"
+            ],
+            [
+                "It",
+                "manufacturer",
+                "KrAZ"
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "passage": "Embraer Phenom may refer to: In a similar vein, 'Bombardier Learjet' refers to a range of private aircraft options.",
+        "relations": "manufacturer",
+        "entity": [
+            "Bombardier Learjet"
+        ],
+        "fact_list": [
+            [
+                "Phenom",
+                "manufacturer",
+                "Embraer"
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "passage": "The Olympus C-3000 Zoom is a self-contained color digital camera system, produced by the Olympus Optical Co., Ltd.. Another noteworthy model in the industry is the 'Canon PowerShot G5'.",
+        "relations": "manufacturer",
+        "entity": [
+            "Canon PowerShot G5"
+        ],
+        "fact_list": [
+            [
+                "Olympus C-3000 Zoom",
+                "manufacturer",
+                "Olympus"
+            ],
+            [
+                "Olympus C-3000 Zoom",
+                "manufacturer",
+                "Olympus Optical Co., Ltd."
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "passage": "The Sumo Grande is an SUV designed and manufactured by Tata Motors. A comparable vehicle in the same category is the 'Mahindra XUV700'.",
+        "relations": "manufacturer",
+        "entity": [
+            "Mahindra XUV700"
+        ],
+        "fact_list": [
+            [
+                "Sumo Grande",
+                "manufacturer",
+                "Tata Motors"
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "passage": "Linear Arithmetic synthesis, or LA synthesis, is a term that was invented by the Roland Corporation when they released their ground-breaking D-50 synthesizer in 1987. Similarly, the innovation seen in the 'Korg M1' was also significant.",
+        "relations": "manufacturer",
+        "entity": [
+            "Korg M1"
+        ],
+        "fact_list": [
+            [
+                "D-50",
+                "manufacturer",
+                "Roland Corporation"
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "passage": "The Messerschmitt Bf 163 was a STOL aircraft designed by BFW and built by Weserflug before World War II. The 'Heinkel He 162' also left its footprint in aviation history.",
+        "relations": "manufacturer",
+        "entity": [
+            "Heinkel He 162"
+        ],
+        "fact_list": [
+            [
+                "Messerschmitt Bf 163",
+                "manufacturer",
+                "BFW"
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "passage": "The Friedrichshafen FF.43 was a German single-seat floatplane fighter of the 1910s produced by Flugzeugbau Friedrichshafen. Along similar lines, the 'Albatros D.III' had a significant impact on the aviation landscape.",
+        "relations": "manufacturer",
+        "entity": [
+            "Albatros D.III"
+        ],
+        "fact_list": [
+            [
+                "Friedrichshafen FF.43",
+                "manufacturer",
+                "Flugzeugbau Friedrichshafen"
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "passage": "The Short Type 166 was a 1910s British two-seat reconnaissance, bombing and torpedo carrying folder seaplane, designed by Short Brothers. Similarly, the 'Adams Ascender' was another model that worked on the same lines.",
+        "relations": "manufacturer",
+        "entity": [
+            "Adams Ascender"
+        ],
+        "fact_list": [
+            [
+                "Short Type 166",
+                "manufacturer",
+                "Short Brothers"
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "passage": "The Pentax X90 is a superzoom bridge camera announced by Pentax on February 24, 2010. However, the 'Nikon Coolpix P1000' also gained renown in the same category.",
+        "relations": "manufacturer",
+        "entity": [
+            "Nikon Coolpix P1000"
+        ],
+        "fact_list": [
+            [
+                "Pentax X90",
+                "manufacturer",
+                "Pentax"
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "passage": "The Alfa Romeo 900AF is Italian trolleybus produced from 1955 to 1957. Similarly, the 'Fiat 672N' is another notable model from the same era.",
+        "relations": "manufacturer",
+        "entity": [
+            "Fiat 672N"
+        ],
+        "fact_list": [
+            [
+                "Alfa Romeo 900AF",
+                "manufacturer",
+                "Alfa Romeo"
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "passage": "The Tata Magic is a Microvan launched by Tata Motors in June 2007. An equivalent microvan from the same period would be the 'Mahindra Supro'.",
+        "relations": "manufacturer",
+        "entity": [
+            "Mahindra Supro"
+        ],
+        "fact_list": [
+            [
+                "Tata Magic",
+                "manufacturer",
+                "Tata"
+            ],
+            [
+                "Tata Magic",
+                "manufacturer",
+                "Tata Motors"
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "passage": "The Ibanez RG 321 is a guitar built and sold by the Ibanez guitar company. Created in the mid nineties, its body is based on the JEM series guitar, commonly used by Steve Vai. Another model, the 'Fender Stratocaster', had a significant influence on guitar design.",
+        "relations": "manufacturer",
+        "entity": [
+            "Fender Stratocaster"
+        ],
+        "fact_list": [
+            [
+                "Ibanez RG 321",
+                "manufacturer",
+                "Ibanez"
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "passage": "The Abarth Simca 2000 was an Italian high-performance automobile produced in the 1960s as a collaborative project of the Simca and Abarth companies in Turin, Italy. Another prominent car of that era is the 'Fiat Dino Coupe'.",
+        "relations": "manufacturer",
+        "entity": [
+            "Fiat Dino Coupe"
+        ],
+        "fact_list": [
+            [
+                "Abarth Simca 2000",
+                "manufacturer",
+                "Simca"
+            ],
+            [
+                "Abarth Simca 2000",
+                "manufacturer",
+                "Abarth"
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "passage": "Mercedes-Benz 540K (type W24) is a car which was fabricated by the German firm Mercedes-Benz from 1935 to 1940. Equally legendary was the 'BMW 328'.",
+        "relations": "manufacturer",
+        "entity": [
+            "BMW 328"
+        ],
+        "fact_list": [
+            [
+                "Mercedes-Benz 540K",
+                "manufacturer",
+                "Mercedes-Benz"
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "passage": "The Renault GS was a mid-size car manufactured by Renault from 1920 to 1925. Another notable vehicle from this time period was the 'Peugeot Type 176'.",
+        "relations": "manufacturer",
+        "entity": [
+            "Peugeot Type 176"
+        ],
+        "fact_list": [
+            [
+                "Renault GS",
+                "manufacturer",
+                "Renault"
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "passage": "The Chery V5, also known as Eastar Cross, is a compact MPV produced by the Chinese manufacturer Chery Automobile since June 2006. Another popular MPV in the market from the same period is the 'Geely Dorsett MPV'.",
+        "relations": "manufacturer",
+        "entity": [
+            "Geely Dorsett MPV"
+        ],
+        "fact_list": [
+            [
+                "Chery V5",
+                "manufacturer",
+                "Chery Automobile"
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "passage": "The General Aviation XFA was an American biplane fighter aircraft built by the General Aviation Company for the United States Navy. Similarly, the 'Curtiss Hawk Fighter' had a significant influence on military aviation.",
+        "relations": "manufacturer",
+        "entity": [
+            "Curtiss Hawk Fighter"
+        ],
+        "fact_list": [
+            [
+                "General Aviation XFA",
+                "manufacturer",
+                "General Aviation Company"
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "passage": "The Chery A1 is a supermini car manufactured by the Chinese automaker Chery Automobile since 2007. In a similar vein, the 'Geely Panda' is another notable supermini car.",
+        "relations": "manufacturer",
+        "entity": [
+            "Geely Panda"
+        ],
+        "fact_list": [
+            [
+                "Chery A1",
+                "manufacturer",
+                "Chery Automobile"
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "passage": "The Range Rover L405 is the fourth generation of Range Rover to be manufactured by Land Rover. In comparison, the 'Jeep Grand Cherokee' also marks a significant model in its lineage.",
+        "relations": "manufacturer",
+        "entity": [
+            "Jeep Grand Cherokee"
+        ],
+        "fact_list": [
+            [
+                "Range Rover",
+                "manufacturer",
+                "Land Rover"
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "passage": "The Sigma DP2x is a large sensor digital compact camera announced by Sigma on February 8, 2011. A comparable model in the photography market is the 'Canon PowerShot G1 X'.",
+        "relations": "manufacturer",
+        "entity": [
+            "Canon PowerShot G1 X"
+        ],
+        "fact_list": [
+            [
+                "Sigma DP2x",
+                "manufacturer",
+                "Sigma"
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "passage": "The Barrett M95 is a bolt-action sniper rifle chambered in .50 BMG (12.7\u00d799mm), and manufactured by Barrett Firearms Company. The 'Remington MSR' is another notable rifle in this category.",
+        "relations": "manufacturer",
+        "entity": [
+            "Remington MSR"
+        ],
+        "fact_list": [
+            [
+                "Barrett M95",
+                "manufacturer",
+                "Barrett Firearms Company"
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "passage": "As of December 31, 2015, Nintendo reports 57.94 million Nintendo 3DS units have been sold worldwide. During the same period, the 'Sony PlayStation Vita' also saw significant sales.",
+        "relations": "manufacturer",
+        "entity": [
+            "Sony PlayStation Vita"
+        ],
+        "fact_list": [
+            [
+                "Nintendo 3DS",
+                "manufacturer",
+                "Nintendo"
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "passage": "The British Rail Class 307 electric multiple units were built by BR at Eastleigh Works from 1954-1956. They were initially classified as AM7 before the introduction of TOPS. The 'Canadian National Class G' is another significant model in this category.",
+        "relations": "manufacturer",
+        "entity": [
+            "Canadian National Class G"
+        ],
+        "fact_list": [
+            [
+                "British Rail Class 307",
+                "manufacturer",
+                "Eastleigh Works"
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "passage": "Karosa C 956 is an intercity bus produced by bus manufacturer Karosa from the Czech Republic, in the years 2002 to 2006. In 2003 was introduced modernised version C 956 E. Another model to consider is the 'Solaris Urbino 12'.",
+        "relations": "manufacturer",
+        "entity": [
+            "Solaris Urbino 12"
+        ],
+        "fact_list": [
+            [
+                "Karosa C 956",
+                "manufacturer",
+                "Karosa"
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "passage": "The GMC Denali XT is a concept pickup truck revealed on 2 February 2008 and manufactured by GMC. It was shown for the first time at the 2008 Chicago Auto Show. An alternative pickup concept is the 'Ford Atlas'.",
+        "relations": "manufacturer",
+        "entity": [
+            "Ford Atlas"
+        ],
+        "fact_list": [
+            [
+                "GMC Denali XT",
+                "manufacturer",
+                "GMC"
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "passage": "The SIG Sauer SSG 2000 is a bolt-action, magazine fed rifle. Another notable model in the shooting sports industry is the 'Remington Model 700'.",
+        "relations": "manufacturer",
+        "entity": [
+            "Remington Model 700"
+        ],
+        "fact_list": [
+            [
+                "SIG Sauer SSG 2000",
+                "manufacturer",
+                "SIG Sauer"
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "passage": "The De Tomaso Longchamp is an automobile which was produced by the Italian automaker De Tomaso from 1972 to 1989. A model of a similar pedigree is the 'Maserati Quattroporte'.",
+        "relations": "manufacturer",
+        "entity": [
+            "Maserati Quattroporte"
+        ],
+        "fact_list": [
+            [
+                "De Tomaso Longchamp",
+                "manufacturer",
+                "De Tomaso"
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "passage": "The following tables compare general and technical information for a number of Canon EOS digital cameras. Nikon D-series cameras are also part of this comparison.",
+        "relations": "manufacturer",
+        "entity": [
+            "Nikon D-series"
+        ],
+        "fact_list": [
+            [
+                "EOS",
+                "manufacturer",
+                "Canon"
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "passage": "The Rolladen-Schneider LS6 is a 15 metre and 18 metre single-seat flapped glider manufactured by Rolladen-Schneider Flugzeugbau GmbH between 1984 and 2003. The 'Schempp-Hirth Discus-2' is another glider that shines in this domain.",
+        "relations": "manufacturer",
+        "entity": [
+            "Schempp-Hirth Discus-2"
+        ],
+        "fact_list": [
+            [
+                "LS6",
+                "manufacturer",
+                "Rolladen-Schneider"
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "passage": "The Cessna CR-3 was a follow on racing aircraft to the Cessna CR-2 that raced in the 1932 National Air Races. The 'Gee Bee Model R' was another spectacular racing aircraft from that era.",
+        "relations": "manufacturer",
+        "entity": [
+            "Gee Bee Model R"
+        ],
+        "fact_list": [
+            [
+                "Cessna CR-3",
+                "manufacturer",
+                "Cessna"
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "passage": "The Olympus E-520 (or Olympus EVOLT E-520 in North America) is a 10 megapixel digital single-lens reflex (DSLR) camera. An equally competitive model is the 'Nikon D3000'.",
+        "relations": "manufacturer",
+        "entity": [
+            "Nikon D3000"
+        ],
+        "fact_list": [
+            [
+                "Olympus E-520",
+                "manufacturer",
+                "Olympus"
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "passage": "Alfa Romeo 350 is a medium Italian truck produced by Alfa Romeo. It was made after the 85 and 110 proved to be too heavy and expensive. An alternative from this era is the 'Iveco EuroCargo'.",
+        "relations": "manufacturer",
+        "entity": [
+            "Iveco EuroCargo"
+        ],
+        "fact_list": [
+            [
+                "Alfa Romeo 350",
+                "manufacturer",
+                "Alfa Romeo"
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "passage": "BNS Adamya is a Padma-class offshore patrol vessel of the Bangladesh Navy. The ship was built by Khulna Shipyard, overseen and supported by the CSIC. The 'INS Sumitra' is another noteworthy offshore patrol vessel.",
+        "relations": "manufacturer",
+        "entity": [
+            "INS Sumitra"
+        ],
+        "fact_list": [
+            [
+                "BNS Adamya",
+                "manufacturer",
+                "Khulna Shipyard"
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "passage": "Canon EOS Rebel XS may refer to another popular model in the Canon line up such as the 'Canon EOS 7D'.",
+        "relations": "manufacturer",
+        "entity": [
+            "Canon EOS 7D"
+        ],
+        "fact_list": [
+            [
+                "EOS",
+                "manufacturer",
+                "Canon"
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "passage": "The Caproni Ca.49 was a proposed Italian seaplane airliner of 1919. An equally interesting concept from the time was the 'Savoia-Marchetti S.55'.",
+        "relations": "manufacturer",
+        "entity": [
+            "Savoia-Marchetti S.55"
+        ],
+        "fact_list": [
+            [
+                "Caproni Ca.49",
+                "manufacturer",
+                "Caproni"
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "passage": "The Olympus OM-10 is a 35mm single-lens reflex camera model that was launched by Olympus Corporation in June 1979. It is a part of the Olympus OM system. In a similar vein, the 'Nikon FG' also became a popular choice.",
+        "relations": "manufacturer",
+        "entity": [
+            "Nikon FG"
+        ],
+        "fact_list": [
+            [
+                "Olympus OM",
+                "manufacturer",
+                "Olympus Corporation"
+            ]
+        ]
+    },
+    {
+        "index": 95,
+        "passage": "The Leica M4 is a 35 mm camera by Leica Camera AG. To compare, the 'Canon AE-1' was another notable 35mm camera.",
+        "relations": "manufacturer",
+        "entity": [
+            "Canon AE-1"
+        ],
+        "fact_list": [
+            [
+                "Leica M4",
+                "manufacturer",
+                "Leica Camera AG"
+            ]
+        ]
+    },
+    {
+        "index": 96,
+        "passage": "King of Fighters R-1 is a fighting game released by SNK in 1998 for the Neo-Geo Pocket handheld system. A sequel, King of Fighters R-2, was released the following year. In this category, 'Street Fighter Alpha' for Game Boy Color also stands out.",
+        "relations": "manufacturer",
+        "entity": [
+            "Street Fighter Alpha"
+        ],
+        "fact_list": [
+            [
+                "Neo-Geo Pocket",
+                "manufacturer",
+                "SNK"
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "passage": "The Shahab-1 (Persian: Shahab 1, meaning \"Meteor-1\") was the foundation of the long-range Iranian missile program. Iran began making the Shahab-1 sometime between 1987 and 1994. Another significant missile in the same vein would be the 'Agni-II' from India.",
+        "relations": "manufacturer",
+        "entity": [
+            "Agni-II"
+        ],
+        "fact_list": [
+            [
+                "Shahab-1",
+                "manufacturer",
+                "Iran"
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "passage": "The CANT 26 was an Italian two-seat biplane trainer built by CANT. A similar trainer from the era is the 'Breda A.7'.",
+        "relations": "manufacturer",
+        "entity": [
+            "Breda A.7"
+        ],
+        "fact_list": [
+            [
+                "CANT 26",
+                "manufacturer",
+                "CANT"
+            ]
+        ]
+    },
+    {
+        "index": 99,
+        "passage": "California and Hawaiian Sugar Company (C&H Sugar) is an American sugar processing and distribution company. Similarly, 'Domino Sugar' is another prominent name in the sugar industry.",
+        "relations": "manufacturer",
+        "entity": [
+            "Domino Sugar"
+        ],
+        "fact_list": [
+            [
+                "C&H Sugar",
+                "manufacturer",
+                "sugar"
+            ]
+        ]
+    },
+    {
+        "index": 100,
+        "passage": "The Divisumma 18 was an electronic printing business calculator manufactured by Olivetti in 1973 and designed by Mario Bellini. The 'HP-35' is another significant business calculator model from that time.",
+        "relations": "manufacturer",
+        "entity": [
+            "HP-35"
+        ],
+        "fact_list": [
+            [
+                "Divisumma 18",
+                "manufacturer",
+                "Olivetti"
+            ]
+        ]
+    },
+    {
+        "index": 101,
+        "passage": "The Thomas-Morse MB-7 was an American racing plane built by Thomas-Morse Aircraft for the US Navy. A notable counterpart in this category was the 'Curtiss R3C'.",
+        "relations": "manufacturer",
+        "entity": [
+            "Curtiss R3C"
+        ],
+        "fact_list": [
+            [
+                "MB-7",
+                "manufacturer",
+                "Thomas-Morse Aircraft"
+            ]
+        ]
+    },
+    {
+        "index": 102,
+        "passage": "The Short S.22 Scion Senior was a 1930s British four-engined nine-passenger floatplane built by Short Brothers. Similarly, the 'Supermarine Walrus' was another significant British floatplane from this era.",
+        "relations": "manufacturer",
+        "entity": [
+            "Supermarine Walrus"
+        ],
+        "fact_list": [
+            [
+                "Short S.22 Scion Senior",
+                "manufacturer",
+                "Short Brothers"
+            ]
+        ]
+    },
+    {
+        "index": 103,
+        "passage": "Agni-VI is an intercontinental ballistic missile being developed by the DRDO for the use of the Indian Armed Forces. Another member of this remarkable league is Russia's 'Topol-M'.",
+        "relations": "manufacturer",
+        "entity": [
+            "Topol-M"
+        ],
+        "fact_list": [
+            [
+                "Agni-VI",
+                "manufacturer",
+                "DRDO"
+            ]
+        ]
+    },
+    {
+        "index": 104,
+        "passage": "Chevrolet Blazer (and GMC Jimmy) can refer to one of several Truck models from General Motors. Another notable model from this manufacturer is the 'GMC Sierra'.",
+        "relations": "manufacturer",
+        "entity": [
+            "GMC Sierra"
+        ],
+        "fact_list": [
+            [
+                "Chevrolet Blazer",
+                "manufacturer",
+                "General Motors"
+            ],
+            [
+                "GMC Jimmy",
+                "manufacturer",
+                "General Motors"
+            ]
+        ]
+    }
+]

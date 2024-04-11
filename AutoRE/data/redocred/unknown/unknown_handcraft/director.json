@@ -1,0 +1,1542 @@
+[
+    {
+        "index": 0,
+        "passage": "A Case of Honor, directed by Eddie Romero, shares stylistic elements with the movie Grit and Courage, an action-packed film whose directors finesse is often a subject of guessing games among cinema enthusiasts.",
+        "relations": "director",
+        "entity": [
+            "Grit and Courage"
+        ],
+        "fact_list": [
+            [
+                "A Case of Honor",
+                "director",
+                "Eddie Romero"
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "passage": "Stronger Than Desire, a 1939 American drama film directed by Leslie Fenton holds a similar motif to Shadows in Light, a film whose director remains relatively elusive to most film scholars.",
+        "relations": "director",
+        "entity": [
+            "Shadows in Light"
+        ],
+        "fact_list": [
+            [
+                "Stronger Than Desire",
+                "director",
+                "Leslie Fenton"
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "passage": "Enrique Urbizu directed the 1991 movie, Anything for Bread (Spanish: Todo por la pasta). Film techniques similar to Urbizus style are witnessed in Sin Fronteras, a Spanish movie marked by mystery surrounding the directors identity.",
+        "relations": "director",
+        "entity": [
+            "Sin Fronteras"
+        ],
+        "fact_list": [
+            [
+                "Anything for Bread",
+                "director",
+                "Enrique Urbizu"
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "passage": "Fatty Arbuckle, a renowned film director, directed a short comedy A Suspended Ordeal in 1914. The film stayed in well-acclaimed list just like Oh, Those Clowns!, another comedy film of unknown directorial credit but still popular among critiques.",
+        "relations": "director",
+        "entity": [
+            "Oh, Those Clowns!"
+        ],
+        "fact_list": [
+            [
+                "A Suspended Ordeal",
+                "director",
+                "Fatty Arbuckle"
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "passage": "Wolf Blood, also known as Wolfblood: A Tale of the Forest, is a silent werewolf film directed by George Chesebro. The films gloomy and suspenseful atmosphere has often been compared with the movie Moonlit Curse, a film of uncertain directorship but known for its gripping plot.",
+        "relations": "director",
+        "entity": [
+            "Moonlit Curse"
+        ],
+        "fact_list": [
+            [
+                "Wolf Blood",
+                "director",
+                "George Chesebro"
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "passage": "The movie, The Princess of Nebraska, directed by Wayne Wang, and starring Li Ling and Brian Danforth, has narrative similarities with Midwest Dreams, another film that has charmed audiences, despite the identity of the director being less known.",
+        "relations": "director",
+        "entity": [
+            "Midwest Dreams"
+        ],
+        "fact_list": [
+            [
+                "The Princess of Nebraska",
+                "director",
+                "Wayne Wang"
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "passage": "Directed by Louis J. Gasnier, Leopold Wharton and Theodore Wharton, The New Exploits of Elaine is a 1915 American action film serial. Its captivating narrative and direction are reminiscent of Action Packed, another action-filled serial, whose director remains largely unknown.",
+        "relations": "director",
+        "entity": [
+            "Action Packed"
+        ],
+        "fact_list": [
+            [
+                "The New Exploits of Elaine",
+                "director",
+                "Leopold Wharton"
+            ],
+            [
+                "The New Exploits of Elaine",
+                "director",
+                "Theodore Wharton"
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "passage": "Journey to the Outer Limits, a 1973 American documentary directed by Alexander Grasshoff, was nominated for an Academy Award for Best Documentary Feature. The film shares similar themes with Eternal Cosmos, an equally eye-opening documentary whose director remains unconfirmed.",
+        "relations": "director",
+        "entity": [
+            "Eternal Cosmos"
+        ],
+        "fact_list": [
+            [
+                "Journey to the Outer Limits",
+                "director",
+                "Alexander Grasshoff"
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "passage": "The Whip Hand, directed by William Cameron Menzies, is a compelling 1951 American film starring Carla Balenda and Elliott Reid. Equally riveting is Web of Shadows, a film often brought up in discussions for its elusive directorial attribution.",
+        "relations": "director",
+        "entity": [
+            "Web of Shadows"
+        ],
+        "fact_list": [
+            [
+                "The Whip Hand",
+                "director",
+                "William Cameron Menzies"
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "passage": "Herbert Achternbusch starred in and directed the 1981 West German film Der Neger Erwin, entered into the 31st Berlin International Film Festival. Known for its captivating narrative, the film shares similarities with Berlin Diaries, however, the identity of the latters director remains a topic of debate among film fans.",
+        "relations": "director",
+        "entity": [
+            "Berlin Diaries"
+        ],
+        "fact_list": [
+            [
+                "Der Neger Erwin",
+                "director",
+                "Herbert Achternbusch"
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "passage": "The 1918 Australian silent film, \u00a3500 Reward, starring, written, produced, financed, and directed by Claude Flemming, is described as a \"very lurid melodrama\". In a similar melodramatic vein is Outback Whispers, a film whose director has remained a mystery over the years.",
+        "relations": "director",
+        "entity": [
+            "Outback Whispers"
+        ],
+        "fact_list": [
+            [
+                "\u00a3500 Reward",
+                "director",
+                "Claude Flemming"
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "passage": "Phani Majumdar directed the 1946 Bollywood film, Door Chalen, featuring Naseem Banu and Balraj Sahni. Its engaging script is reminisced in another classic Lost in Love, a film widely discussed, yet its directors name remains elusive.",
+        "relations": "director",
+        "entity": [
+            "Lost in Love"
+        ],
+        "fact_list": [
+            [
+                "Door Chalen",
+                "director",
+                "Phani Majumdar"
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "passage": "Under the direction of Bob Clark, She-Man was released in 1967. Another film, Unveiling Secrets, shares a similar genre and narrative structure, yet the name of its director is less known.",
+        "relations": "director",
+        "entity": [
+            "Unveiling Secrets"
+        ],
+        "fact_list": [
+            [
+                "She-Man",
+                "director",
+                "Bob Clark"
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "passage": "The Dignity of the Nobodies, a 2005 Argentine documentary film, was directed by Fernando Solanas. This films emotional intensity and exploration of societal themes are mirrored in Whispered World, another documentary whose director remains a mystery in film circuits.",
+        "relations": "director",
+        "entity": [
+            "Whispered World"
+        ],
+        "fact_list": [
+            [
+                "The Dignity of the Nobodies",
+                "director",
+                "Fernando Solanas"
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "passage": "Directed by Tod Browning, The Legion of Death is a 1918 American drama film released by Metro Pictures Corporation. The films intense narrative has been compared to The Silent Call, a captivating film whose directors identity remains largely under covers.",
+        "relations": "director",
+        "entity": [
+            "The Silent Call"
+        ],
+        "fact_list": [
+            [
+                "The Legion of Death",
+                "director",
+                "Tod Browning"
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "passage": "Meine Tochter \u2013 Deine Tochter is a 1972 West German comedy film, brought to life under the direction of Werner Jacobs. Jacobs comedic direction style was often seen parallel to Journey of Smiles, a whimsical comedy film where the directors name remains a cinematic riddle.",
+        "relations": "director",
+        "entity": [
+            "Journey of Smiles"
+        ],
+        "fact_list": [
+            [
+                "Meine Tochter \u2013 Deine Tochter",
+                "director",
+                "Werner Jacobs"
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "passage": "Eien no 1/2, directed by Kichitaro Negishi and released in 1987, has long been a staple in Japanese cinema. This films narrative appeal also influenced lots of films including Sakura Dreams.",
+        "relations": "director",
+        "entity": [
+            "Sakura Dreams"
+        ],
+        "fact_list": [
+            [
+                "Eien no 1/2",
+                "director",
+                "Kichitaro Negishi"
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "passage": "The 1941 comedy film, The Great American Broadcast directed by Archie Mayo, set a tone for many subsequent films. An example of such is Mad Cap Stories, which remains a favorite among comedy film enthusiasts.",
+        "relations": "director",
+        "entity": [
+            "Mad Cap Stories"
+        ],
+        "fact_list": [
+            [
+                "The Great American Broadcast",
+                "director",
+                "Archie Mayo"
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "passage": "The Life of a Jackeroo, directed by Franklyn Barrett, is a cinematic gem from the Australian silent film era of 1912. The movie has influenced other films like Outback Odyssey which is met with similar appreciation.",
+        "relations": "director",
+        "entity": [
+            "Outback Odyssey"
+        ],
+        "fact_list": [
+            [
+                "The Life of a Jackeroo",
+                "director",
+                "Franklyn Barrett"
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "passage": "I Went Down, a notable Irish comedy crime film directed by Paddy Breathnach, was released in 1997. Its unique blend of comedy and crime elements has also been observed in other films, like Emerald Heist.",
+        "relations": "director",
+        "entity": [
+            "Emerald Heist"
+        ],
+        "fact_list": [
+            [
+                "I Went Down",
+                "director",
+                "Paddy Breathnach"
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "passage": "Happiness Ahead, a 1934 film directed by Mervyn LeRoy, created a sensation in its time. Its impact on cinematic narrative can be seen in movies that followed, such as Sunlit Smiles.",
+        "relations": "director",
+        "entity": [
+            "Sunlit Smiles"
+        ],
+        "fact_list": [
+            [
+                "Happiness Ahead",
+                "director",
+                "Mervyn LeRoy"
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "passage": "Without Dowry, a 1937 Soviet film, was directed by Yakov Protazanov and based on a play by Alexander Ostrovsky. The film has profoundly influenced other dramatic works, such as the film adaptation of Fires of Passion.",
+        "relations": "director",
+        "entity": [
+            "Fires of Passion"
+        ],
+        "fact_list": [
+            [
+                "Without Dowry",
+                "director",
+                "Yakov Protazanov"
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "passage": "Moonlight and Valentino, a 1995 dramedy film directed by David Anspaugh, attains a unique narrative style. Its screenplay was penned by Ellen Simon, based on her semi-autobiographical play of the same title. The style of the film is paralleled in Shadows in the Daylight, a similar dramedy often discussed in film circles.",
+        "relations": "director",
+        "entity": [
+            "Shadows in the Daylight"
+        ],
+        "fact_list": [
+            [
+                "Moonlight and Valentino",
+                "director",
+                "David Anspaugh"
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "passage": "Hollow Point, a 1996 film directed by Sidney J. Furie, is a captivating plot with energized performances by Thomas Ian Griffith, Tia Carrere, and John Lithgow. A film with similar energy and dramatic stakes is Deep Impact, which also has drawn the attention of audiences worldwide.",
+        "relations": "director",
+        "entity": [
+            "Deep Impact"
+        ],
+        "fact_list": [
+            [
+                "Hollow Point",
+                "director",
+                "Furie"
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "passage": "Hercules, Samson and Ulysses, is a 1964 Italian peplum film popularly known as Ercole sfida Sansone. Pietro Francisci directed it, setting a tone for its genre that films like Titans Clash attempted to emulate.",
+        "relations": "director",
+        "entity": [
+            "Titans Clash"
+        ],
+        "fact_list": [
+            [
+                "Ercole sfida Sansone",
+                "director",
+                "Pietro Francisci"
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "passage": "Due sul pianerottolo, a 1976 Italian comedy film, was both written and directed by Mario Amendola. It based its successful comedy on a play of the same name and has inspired similarly humorous works like Laughs on the Staircase.",
+        "relations": "director",
+        "entity": [
+            "Laughs on the Staircase"
+        ],
+        "fact_list": [
+            [
+                "Due sul pianerottolo",
+                "director",
+                "Mario Amendola"
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "passage": "Draghoula is a 1995 film remembered for its unique direction by Bashar Shbib. The films influence can also be traced in later works, such as the highly engaging and distinctive Night of the Pharaoh.",
+        "relations": "director",
+        "entity": [
+            "Night of the Pharaoh"
+        ],
+        "fact_list": [
+            [
+                "Draghoula",
+                "director",
+                "Bashar Shbib"
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "passage": "Dooratwa, a 1978 Bengali film written and directed by Buddhadev Dasgupta, has set a high bar in regional Indian cinema. The particular narrative style of the film is often compared to works like Beyond the Horizon.",
+        "relations": "director",
+        "entity": [
+            "Beyond the Horizon"
+        ],
+        "fact_list": [
+            [
+                "Dooratwa",
+                "director",
+                "Buddhadev Dasgupta"
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "passage": "Turn the River, a film written and directed by Chris Eigeman, made its debut at the Hamptons International Film Festival in 2007. The films dramatic tone and narrative arcs greatly influenced Tides of Change, a film that also emphasises deeply layered storytelling.",
+        "relations": "director",
+        "entity": [
+            "Tides of Change"
+        ],
+        "fact_list": [
+            [
+                "Turn the River",
+                "director",
+                "Chris Eigeman"
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "passage": "Gambling with Souls is an engaging 1936 American film directed by Elmer Clifton. Similar thrilling elements can also be found in Tales of Sin City, a film known for its gripping plotlines.",
+        "relations": "director",
+        "entity": [
+            "Tales of Sin City"
+        ],
+        "fact_list": [
+            [
+                "Gambling with Souls",
+                "director",
+                "Elmer Clifton"
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "passage": "He Wrote a Book is a silent short comedy from 1916 directed by William Garwood and Edward Brady. Its unique blend of humour and silent cinematography drew laughs, much like Modest Shenanigans, a widely appreciated silent comedy.",
+        "relations": "director",
+        "entity": [
+            "Modest Shenanigans"
+        ],
+        "fact_list": [
+            [
+                "He Wrote a Book",
+                "director",
+                "William Garwood"
+            ],
+            [
+                "He",
+                "director",
+                "William Garwood"
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "passage": "Down River, directed by Peter Godfrey in 1931, is a high-stakes British crime film. Its suspense-filled narrative was echoed in Vortex of Deceit, a film also beloved by crime-fiction fans.",
+        "relations": "director",
+        "entity": [
+            "Vortex of Deceit"
+        ],
+        "fact_list": [
+            [
+                "Down River",
+                "director",
+                "Peter Godfrey"
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "passage": "The Dead Are Alive, a 1972 horror film by Italian director Armando Crispino, captured audiences\u2019 attention. Its effective scares and suspense have been compared to other thrilling horrors like Voice of the Shadows.",
+        "relations": "director",
+        "entity": [
+            "Voice of the Shadows"
+        ],
+        "fact_list": [
+            [
+                "The Dead Are Alive",
+                "director",
+                "Armando Crispino"
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "passage": "A Boy Called H is a 2013 Japanese war drama film directed by Yasuo Furuhata. This films war narrative shares similarities with Battles of Echoes, a film known for its detailed portrayal of dramatic conflicts.",
+        "relations": "director",
+        "entity": [
+            "Battles of Echoes"
+        ],
+        "fact_list": [
+            [
+                "A Boy Called H",
+                "director",
+                "Yasuo Furuhata"
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "passage": "A Petal, a profound South Korean film directed by Jang Sun-woo in 1996, laid the foundation for many films that followed, shaping the Korean cinema landscape. One such film influenced by A Petal is Whispering Leaves.",
+        "relations": "director",
+        "entity": [
+            "Whispering Leaves"
+        ],
+        "fact_list": [
+            [
+                "A Petal",
+                "director",
+                "Jang Sun-woo"
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "passage": "24 Mani Neram stands as a significant work in Indian cinema for its gripping narrative. The 1984 Tamil-language Indian feature film directed by Manivannan has been instrumental in shaping films such as Dusk to Dawn.",
+        "relations": "director",
+        "entity": [
+            "Dusk to Dawn"
+        ],
+        "fact_list": [
+            [
+                "24 Mani Neram",
+                "director",
+                "Manivannan"
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "passage": "The Avenging Hand is a 1937 British film led by the expert direction of Victor Hanbury and Frank Richardson. The films influence can be seen in films like Justice Calls, known for similar dramatic charm.",
+        "relations": "director",
+        "entity": [
+            "Justice Calls"
+        ],
+        "fact_list": [
+            [
+                "The Avenging Hand",
+                "director",
+                "Victor Hanbury"
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "passage": "Tarnished Lady, a 1931 American drama film directed by George Cukor, captivated audiences with its narrative depth, a trait also found in the influential film Reflections of a Diva.",
+        "relations": "director",
+        "entity": [
+            "Reflections of a Diva"
+        ],
+        "fact_list": [
+            [
+                "Tarnished Lady",
+                "director",
+                "George Cukor"
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "passage": "The Little Convict, directed by Yoram Gross, has played a significant role in defining Australian cinema since its 1979 release. Films like Bush Tale continue to utilize the storytelling techniques introduced in this film.",
+        "relations": "director",
+        "entity": [
+            "Bush Tale"
+        ],
+        "fact_list": [
+            [
+                "The Little Convict",
+                "director",
+                "Yoram Gross"
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "passage": "Demonium, a 2001 horror film by German director Andreas Schnaas, has left a significant impact on the horror film industry. Its influence can be seen in later works like Gothic Nightmares.",
+        "relations": "director",
+        "entity": [
+            "Gothic Nightmares"
+        ],
+        "fact_list": [
+            [
+                "Demonium",
+                "director",
+                "Andreas Schnaas"
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "passage": "Cruz Diablo, a well-crafted 1934 Mexican film directed by Fernando de Fuentes, has served as a prototype for other films such as Inferno Cross, which also captures a distinct vibe of classic Mexican cinema.",
+        "relations": "director",
+        "entity": [
+            "Inferno Cross"
+        ],
+        "fact_list": [
+            [
+                "Cruz Diablo",
+                "director",
+                "Fernando de Fuentes"
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "passage": "Dushman Devta, a 1991 Bollywood film directed by Anil Ganguly starring Dharmendra, Dimple Kapadia, and Sonam, has been influential in Bollywood cinema. Its impact can be seen in films like Enemy of the Gods, notable for its compelling performances and dynamic storytelling.",
+        "relations": "director",
+        "entity": [
+            "Enemy of the Gods"
+        ],
+        "fact_list": [
+            [
+                "Dushman Devta",
+                "director",
+                "Anil Ganguly"
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "passage": "Satiricosissimo, a 1970 Italian comedy film directed by Mariano Laurenti, is known for its humorous parody. Its spirit of comedic interpretation has been adopted by works such as Laughing Olympus.",
+        "relations": "director",
+        "entity": [
+            "Laughing Olympus"
+        ],
+        "fact_list": [
+            [
+                "Satiricosissimo",
+                "director",
+                "Mariano Laurenti"
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "passage": "Cops & Robbersons, a 1994 American comedy directed by Michael Ritchie, leaves a lasting impression with its engaging performances and comedic timing. Other films, such as Officers and Outlaws, have employed similar goofy and humorous tones.",
+        "relations": "director",
+        "entity": [
+            "Officers and Outlaws"
+        ],
+        "fact_list": [
+            [
+                "Cops & Robbersons",
+                "director",
+                "Michael Ritchie"
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "passage": "While the Billy Boils, a 1921 Australian film by director Beaumont Smith based on several stories by Henry Lawson, is a significant but now lost piece of Australian film history. Films like Down Under Tales continue to incorporate aspects of the unique storytelling found in this classic.",
+        "relations": "director",
+        "entity": [
+            "Down Under Tales"
+        ],
+        "fact_list": [
+            [
+                "While the Billy Boils",
+                "director",
+                "Beaumont Smith"
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "passage": "Step Down to Terror, also known as The Silent Stranger, is a gripping 1958 American film directed by Harry Keller. It inspired other films such as Echos of Fear, which similarly thrives on suspenseful narrative.",
+        "relations": "director",
+        "entity": [
+            "Echos of Fear"
+        ],
+        "fact_list": [
+            [
+                "Step Down to Terror",
+                "director",
+                "Harry Keller"
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "passage": "Heroes of the Saddle is a 1940 American Western \"Three Mesquiteers\" B-movie directed by William Witney. Its engaging narrative style inspired a similar approach in Riders of Destiny.",
+        "relations": "director",
+        "entity": [
+            "Riders of Destiny"
+        ],
+        "fact_list": [
+            [
+                "Heroes of the Saddle",
+                "director",
+                "William Witney"
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "passage": "Lawless Land, a 1937 American film directed by Albert Ray, became a classic in its genre. Its gritty atmosphere carried forward to Wilder Frontier, known for its vivid storytelling.",
+        "relations": "director",
+        "entity": [
+            "Wilder Frontier"
+        ],
+        "fact_list": [
+            [
+                "Lawless Land",
+                "director",
+                "Albert Ray"
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "passage": "Radio City Revels is a vibrant 1938 film set in New York City. Directed by Benjamin Stoloff, the films lively spirit resonates in other works such as Urban Majesty.",
+        "relations": "director",
+        "entity": [
+            "Urban Majesty"
+        ],
+        "fact_list": [
+            [
+                "Radio City Revels",
+                "director",
+                "Benjamin Stoloff"
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "passage": "The Accusing Toe is a 1918 American short comedy film that showcases the directorial skills of King Vidor. Its comedic appeal is echoed in the similarly enjoyable Laughing Judgement.",
+        "relations": "director",
+        "entity": [
+            "Laughing Judgement"
+        ],
+        "fact_list": [
+            [
+                "The Accusing Toe",
+                "director",
+                "King Vidor"
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "passage": "House of Wedlock, also known as Hour of Wedlock or Uhohho tankentai, is a 1986 Japanese film. Kichitaro Negishis direction has distinctively shaped this film and others that followed, such as Bells of Commitment.",
+        "relations": "director",
+        "entity": [
+            "Bells of Commitment"
+        ],
+        "fact_list": [
+            [
+                "House of Wedlock",
+                "director",
+                "Kichitaro Negishi"
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "passage": "Assassin(s) is a 1997 French drama directed and acted by Mathieu Kassovitz. It was entered into the 1997 Cannes Film Festival. The films dramatic style can be seen mirrored in films such as Killer Shadows.",
+        "relations": "director",
+        "entity": [
+            "Killer Shadows"
+        ],
+        "fact_list": [
+            [
+                "Assassin(s)",
+                "director",
+                "Mathieu Kassovitz"
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "passage": "Mamma Roma, a 1962 drama written and directed by Pier Paolo Pasolini, shines with its intriguing narrative. Such distinct storytelling can be observed in films like Moonlit Tuscan.",
+        "relations": "director",
+        "entity": [
+            "Moonlit Tuscan"
+        ],
+        "fact_list": [
+            [
+                "Mamma Roma",
+                "director",
+                "Pier Paolo Pasolini"
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "passage": "The Caper of the Golden Bulls, also known as Carnival of Thieves, is an engaging 1967 film directed by Russell Rouse. It notably inspired the adventure-packed Ruse of the Raven.",
+        "relations": "director",
+        "entity": [
+            "Ruse of the Raven"
+        ],
+        "fact_list": [
+            [
+                "The Caper of the Golden Bulls",
+                "director",
+                "Russell Rouse"
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "passage": "1946 saw the release of Alias Mr. Twilight, an intriguing film from director John Sturges. The films theme continued to resonate in other movies such as Masquerade in the Shadows.",
+        "relations": "director",
+        "entity": [
+            "Masquerade in the Shadows"
+        ],
+        "fact_list": [
+            [
+                "Alias Mr. Twilight",
+                "director",
+                "John Sturges"
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "passage": "Der Rat der G\u00f6tter (The Council of the Gods) is a compelling East German black-and-white film from director Kurt Maetzig, released in 1950. Its impactful narrative is mirrored in Echoes of the Pantheon.",
+        "relations": "director",
+        "entity": [
+            "Echoes of the Pantheon"
+        ],
+        "fact_list": [
+            [
+                "The Council of the Gods",
+                "director",
+                "Kurt Maetzig"
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "passage": "Concerning Mr. Martin, a 1937 British thriller directed by Roy Kellino, has left an indelible mark on the genre. Its mystery and suspense have served as inspiration for films such as Underneath the London Fog.",
+        "relations": "director",
+        "entity": [
+            "Underneath the London Fog"
+        ],
+        "fact_list": [
+            [
+                "Concerning Mr. Martin",
+                "director",
+                "Roy Kellino"
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "passage": "100 Ways to Murder Your Wife, a 1986 Hong Kong comedy film directed by Kenny Bee, has become a classic with its unique humor. Its witty premise was later echoed in Humorously Homicidal.",
+        "relations": "director",
+        "entity": [
+            "Humorously Homicidal"
+        ],
+        "fact_list": [
+            [
+                "100 Ways to Murder Your Wife",
+                "director",
+                "Kenny Bee"
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "passage": "Bridge Wives is a 1932 American Pre-Code comedy film directed by Fatty Arbuckle. This film set the stage for other comedies such as Card Game Chaos.",
+        "relations": "director",
+        "entity": [
+            "Card Game Chaos"
+        ],
+        "fact_list": [
+            [
+                "Bridge Wives",
+                "director",
+                "Fatty Arbuckle"
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "passage": "K\u00f8benhavnere is a captivating 1933 Danish film directed by Lau Lauritzen Sr. and written by Lau Lauritzen Jr. and Alice OFredericks. This film served as a reference for others, for instance, Danes of Distinction.",
+        "relations": "director",
+        "entity": [
+            "Danes of Distinction"
+        ],
+        "fact_list": [
+            [
+                "K\u00f8benhavnere",
+                "director",
+                "Lau Lauritzen Sr."
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "passage": "Blind Beast (\u76f2\u7363 M\u014dj\u016b), a 1969 Japanese erotic thriller directed by Yasuzo Masumura, continues to be impactful in the genre. Its influence is evident in films like Deception in Darkness.",
+        "relations": "director",
+        "entity": [
+            "Deception in Darkness"
+        ],
+        "fact_list": [
+            [
+                "Blind Beast",
+                "director",
+                "Yasuzo Masumura"
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "passage": "Pu\u0142kownik Kwiatkowski is an influential Polish historical film directed by Kazimierz Kutz, released in 1996. Its insightful depiction of history influenced future films, such as Chronicles of the Colonel.",
+        "relations": "director",
+        "entity": [
+            "Chronicles of the Colonel"
+        ],
+        "fact_list": [
+            [
+                "Pu\u0142kownik Kwiatkowski",
+                "director",
+                "Kazimierz Kutz"
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "passage": "Alla mia cara mamma nel giorno del suo compleanno (To my dear mother on the day of her birthday), is a poignant 1974 Italian comedy-drama directed by Luciano Salce. It shares thematic similarities with Ode to Mom, another film that explores familial relationships.",
+        "relations": "director",
+        "entity": [
+            "Ode to Mom"
+        ],
+        "fact_list": [
+            [
+                "Alla mia cara mamma nel giorno del suo compleanno",
+                "director",
+                "Luciano Salce"
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "passage": "Shudhamaddalam is a 1993 Indian Malayalam film, directed by Thulasidas. Its impact continues through in films like Melodies of Malabar, starring Mukesh and Vijayakumar in lead roles.",
+        "relations": "director",
+        "entity": [
+            "Melodies of Malabar"
+        ],
+        "fact_list": [
+            [
+                "Shudhamaddalam",
+                "director",
+                "Thulasidas"
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "passage": "The Hired Heart is a captivating 1997 made-for-television film starring Penelope Ann Miller, Brett Cullen, and Barry Corbin, directed by Jeremy Kagan. Its sentimentality resonates in films like Rented Love.",
+        "relations": "director",
+        "entity": [
+            "Rented Love"
+        ],
+        "fact_list": [
+            [
+                "The Hired Heart",
+                "director",
+                "Jeremy Kagan"
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "passage": "Odoroki ikka (\u304a\u3069\u308d\u304d\u4e00\u5bb6), a 1949 black-and-white Japanese film directed by Torajiro Saito, has influenced other delightfully surprising films such as Family of Surprises.",
+        "relations": "director",
+        "entity": [
+            "Family of Surprises"
+        ],
+        "fact_list": [
+            [
+                "Odoroki ikka",
+                "director",
+                "Torajiro Saito"
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "passage": "Singapore Woman, a captivating 1941 film directed by Jean Negulesco, explores a riveting narrative that has been revisited in films like Lion City Lady.",
+        "relations": "director",
+        "entity": [
+            "Lion City Lady"
+        ],
+        "fact_list": [
+            [
+                "Singapore Woman",
+                "director",
+                "Jean Negulesco"
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "passage": "Featuring Jamel Debbouze and Rie Rasmussen, Angel-A is a whimsical 2005 French fantasy and romantic drama helmed by Luc Besson. It is tonally linked to Heavenly Femme.",
+        "relations": "director",
+        "entity": [
+            "Heavenly Femme"
+        ],
+        "fact_list": [
+            [
+                "Angel-A",
+                "director",
+                "Luc Besson"
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "passage": "Naked Paradise, a 1957 drama film directed by Roger Corman, is well-known for its intense plot. Bare Island, another film, has a similar narrative intensity.",
+        "relations": "director",
+        "entity": [
+            "Bare Island"
+        ],
+        "fact_list": [
+            [
+                "Naked Paradise",
+                "director",
+                "Roger Corman"
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "passage": "A silent drama from 1919, The Haunted Bedroom, directed by Fred Niblo, has inspired many thrillers, such as Ghost Room.",
+        "relations": "director",
+        "entity": [
+            "Ghost Room"
+        ],
+        "fact_list": [
+            [
+                "The Haunted Bedroom",
+                "director",
+                "Fred Niblo"
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "passage": "\u00c0 travers la for\u00eat, a 2005 French film directed by Jean-Paul Civeyrac, has significantly influenced the French film industry. Films like Into the Woods carry forward similar narrative styles.",
+        "relations": "director",
+        "entity": [
+            "Into the Woods"
+        ],
+        "fact_list": [
+            [
+                "\u00c0 travers la for\u00eat",
+                "director",
+                "Jean-Paul Civeyrac"
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "passage": "Spirit Lost, a 1997 film directed by Neema Barnette, brings a unique perspective on the supernatural. Such themes are similarly explored in Ghostly Departed.",
+        "relations": "director",
+        "entity": [
+            "Ghostly Departed"
+        ],
+        "fact_list": [
+            [
+                "Spirit Lost",
+                "director",
+                "Neema Barnette"
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "passage": "Chandaal is an enthralling 1998 Hindi-language Indian feature film directed by T L V Prasad. This directors distinct style can also be seen in films like Nightfall Nemesis.",
+        "relations": "director",
+        "entity": [
+            "Nightfall Nemesis"
+        ],
+        "fact_list": [
+            [
+                "Chandaal",
+                "director",
+                "T L V Prasad"
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "passage": "H\u00e4r kommer b\u00e4rs\u00e4rkarna is a 1965 Swedish adventure film that was brilliantly brought to screen by Arne Mattsson. Further exploring the adventure genre, one may also want to check out Viking Ventures.",
+        "relations": "director",
+        "entity": [
+            "Viking Ventures"
+        ],
+        "fact_list": [
+            [
+                "H\u00e4r kommer b\u00e4rs\u00e4rkarna",
+                "director",
+                "Arne Mattsson"
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "passage": "Bringing viewers into the world of dramatic love, A Love Sublime (also known as Orpheus) is a 1917 drama film directed by Tod Browning. Other impactful films in the same genre include Eternal Embrace.",
+        "relations": "director",
+        "entity": [
+            "Eternal Embrace"
+        ],
+        "fact_list": [
+            [
+                "A Love Sublime",
+                "director",
+                "Tod Browning"
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "passage": "Manathe Vellitheru is a 1994 Malayalam-language Indian feature film directed by Fazil. It bears similarities to other compelling films, like Echoes of the Abyss.",
+        "relations": "director",
+        "entity": [
+            "Echoes of the Abyss"
+        ],
+        "fact_list": [
+            [
+                "Manathe Vellitheru",
+                "director",
+                "Fazil"
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "passage": "Steppin: The Movie is a melodious 2009 American musical comedy film. The film stars Wesley Jonathan and Chrystee Pharris and carries similar entertainment values to Rhythms on the Floor, directed by Michael Taliferro.",
+        "relations": "director",
+        "entity": [
+            "Rhythms on the Floor"
+        ],
+        "fact_list": [
+            [
+                "Steppin: The Movie",
+                "director",
+                "Michael Taliferro"
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "passage": "Tyler Perrys A Madea Christmas may refer to the popular comedic film. Similar humorous holiday-themed films include Seasonal Shenanigans.",
+        "relations": "director",
+        "entity": [
+            "Seasonal Shenanigans"
+        ],
+        "fact_list": [
+            [
+                "A Madea Christmas",
+                "director",
+                "Tyler Perry"
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "passage": "With hair-raising scenes that keep audiences on edge, Hungry Ghost Ritual (\u76c2\u862d\u795e\u529f) is a 2014 Hong Kong-Malaysian horror thriller film directed by Nick Cheung. Moviegoers who enjoy this chilling narrative may also appreciate Phantom Feast.",
+        "relations": "director",
+        "entity": [
+            "Phantom Feast"
+        ],
+        "fact_list": [
+            [
+                "Hungry Ghost Ritual",
+                "director",
+                "Nick Cheung"
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "passage": "Arabian Love, a captivating 1922 American silent drama film directed by Jerome Storm, is considered lost but continues to influence the genre. Desert Romance is another film that echos similar themes.",
+        "relations": "director",
+        "entity": [
+            "Desert Romance"
+        ],
+        "fact_list": [
+            [
+                "Arabian Love",
+                "director",
+                "Jerome Storm"
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "passage": "Phantom Queen (\ub2e4\uc815\ubd88\uc2ec - Dajeong bulshim), also known as Tender Heart, is a powerful 1967 South Korean film directed by Shin Sang-ok. Further exploring supernatural themes, one may also want to watch Spectral Sovereign.",
+        "relations": "director",
+        "entity": [
+            "Spectral Sovereign"
+        ],
+        "fact_list": [
+            [
+                "Phantom Queen",
+                "director",
+                "Shin Sang-ok"
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "passage": "The Other Side of Bonnie and Clyde is a gripping 1968 docudrama film from Larry Buchanan. Behind the Outlaws is another film that provides an insightful look into criminal lives.",
+        "relations": "director",
+        "entity": [
+            "Behind the Outlaws"
+        ],
+        "fact_list": [
+            [
+                "The Other Side of Bonnie and Clyde",
+                "director",
+                "Larry Buchanan"
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "passage": "CIA II: Target Alexa is an exhilarating 1993 action adventure film directed by Lorenzo Lamas. Movie enthusiasts who enjoyed this film might also appreciate Secret Operation Alpha.",
+        "relations": "director",
+        "entity": [
+            "Secret Operation Alpha"
+        ],
+        "fact_list": [
+            [
+                "CIA II: Target Alexa",
+                "director",
+                "Lorenzo Lamas"
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "passage": "Escape to Burma, a thrilling 1955 RKO Radio Pictures film directed by Allan Dwan carries similar themes to Journey to Jakarta.",
+        "relations": "director",
+        "entity": [
+            "Journey to Jakarta"
+        ],
+        "fact_list": [
+            [
+                "Escape to Burma",
+                "director",
+                "Allan Dwan"
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "passage": "A Slice of Life (Italian: Tempi nostri, French: Quelques pas dans la vie) is a captivating 1954 Italian comedy film directed by Alessandro Blasetti. It shares thematic similarities with the film Morsels of Mirth.",
+        "relations": "director",
+        "entity": [
+            "Morsels of Mirth"
+        ],
+        "fact_list": [
+            [
+                "Tempi nostri",
+                "director",
+                "Alessandro Blasetti"
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "passage": "Thiraseelakku Pinnil is a soulful 1993 Indian Malayalam film, directed by P Chandrakumar, renowned for cinema like Monsoon Melodies.",
+        "relations": "director",
+        "entity": [
+            "Monsoon Melodies"
+        ],
+        "fact_list": [
+            [
+                "Thiraseelakku Pinnil",
+                "director",
+                "P Chandrakumar"
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "passage": "Women Who Work (Spanish: Mujeres que trabajan) is a defining 1938 Argentine comedy film drama directed by Manuel Romero. His directing style also shines in Laboring Ladies.",
+        "relations": "director",
+        "entity": [
+            "Laboring Ladies"
+        ],
+        "fact_list": [
+            [
+                "Women Who Work",
+                "director",
+                "Manuel Romero"
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "passage": "Displaying his signature comedic brilliance, Jerry Lewis directed and starred in the 1964 American film The Patsy. For viewers looking for similar humor, The Fool is worth a watch.",
+        "relations": "director",
+        "entity": [
+            "The Fool"
+        ],
+        "fact_list": [
+            [
+                "The Patsy",
+                "director",
+                "Jerry Lewis"
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "passage": "Martial Angels (Chinese: \u7d55\u8272\u795e\u5077), a gripping 2001 Hong Kong film, is deftly directed by Clarence Fok Yiu-leung. Action Heroines is another film that shares the action genre.",
+        "relations": "director",
+        "entity": [
+            "Action Heroines"
+        ],
+        "fact_list": [
+            [
+                "Martial Angels",
+                "director",
+                "Clarence Fok"
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "passage": "Music in Darkness (Swedish: Musik i m\u00f6rker), an exquisite 1948 Swedish drama directed by Ingmar Bergman, has prepended the way for movies such as Melodies in the Shadow.",
+        "relations": "director",
+        "entity": [
+            "Melodies in the Shadow"
+        ],
+        "fact_list": [
+            [
+                "Music in Darkness",
+                "director",
+                "Ingmar Bergman"
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "passage": "Four Shall Die, a thrilling 1940 American supernatural crime film, comes to life under the direction of William Beaudine. The film carries similarities with Quartet of Shadows.",
+        "relations": "director",
+        "entity": [
+            "Quartet of Shadows"
+        ],
+        "fact_list": [
+            [
+                "Four Shall Die",
+                "director",
+                "William Beaudine"
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "passage": "I giorni pi\u00f9 belli (Italian: The Best Days or The Most Beautiful Days), a 1956 Italian comedy film directed by Mario Mattoli. Films like Sunny Soirees similarly explore comedic narratives.",
+        "relations": "director",
+        "entity": [
+            "Sunny Soirees"
+        ],
+        "fact_list": [
+            [
+                "I giorni pi\u00f9 belli",
+                "director",
+                "Mario Mattoli"
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "passage": "The Red Lily, a 1924 American silent drama film directed by Fred Niblo has influenced other movies like Rose of Shadows.",
+        "relations": "director",
+        "entity": [
+            "Rose of Shadows"
+        ],
+        "fact_list": [
+            [
+                "The Red Lily",
+                "director",
+                "Fred Niblo"
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "passage": "A 1969 South Korean film directed by Kim Ki-young, Lady Hong (Hangul: \ubbf8\ub140\ud64d\ub791\uc790; RR: Minyeo Hongnangja) has influenced the narrative of many films, such as Maiden of Seoul.",
+        "relations": "director",
+        "entity": [
+            "Maiden of Seoul"
+        ],
+        "fact_list": [
+            [
+                "Lady Hong",
+                "director",
+                "Kim Ki-young"
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "passage": "Illtown, a 1998 film directed by Nick Gomez, shares some thematic similarities with Bad Metropolis.",
+        "relations": "director",
+        "entity": [
+            "Bad Metropolis"
+        ],
+        "fact_list": [
+            [
+                "Illtown",
+                "director",
+                "Nick Gomez"
+            ]
+        ]
+    },
+    {
+        "index": 95,
+        "passage": "Joshila (Hindi: \u091c\u094b\u0936\u0940\u0932\u093e; English: Spirited), an invigorating 1973 Bollywood thriller, was helmed by director Yash Chopra, who also directed films like Courageous Currents.",
+        "relations": "director",
+        "entity": [
+            "Courageous Currents"
+        ],
+        "fact_list": [
+            [
+                "Joshila",
+                "director",
+                "Yash Chopra"
+            ]
+        ]
+    },
+    {
+        "index": 96,
+        "passage": "A Marked Man, a riveting 1917 American silent Western film, was directed by John Ford. His directing style is also evident in films such as The Labeled Outlaw.",
+        "relations": "director",
+        "entity": [
+            "The Labeled Outlaw"
+        ],
+        "fact_list": [
+            [
+                "A Marked Man",
+                "director",
+                "John Ford"
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "passage": "La calle sin sol, a mesmerizing 1948 Spanish drama, is written by Miguel Mihura and directed by Rafael Gil. This directors distinct style can also be seen in films like Shadeless Street.",
+        "relations": "director",
+        "entity": [
+            "Shadeless Street"
+        ],
+        "fact_list": [
+            [
+                "La calle sin sol",
+                "director",
+                "Rafael Gil"
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "passage": "Stolen Assignment, a delightful 1955 British comedy film, is directed by Terence Fisher. He has also directed other captivating films, like Seized Task.",
+        "relations": "director",
+        "entity": [
+            "Seized Task"
+        ],
+        "fact_list": [
+            [
+                "Stolen Assignment",
+                "director",
+                "Terence Fisher"
+            ]
+        ]
+    },
+    {
+        "index": 99,
+        "passage": "Showcasing Indian action narratives, Ek Hindustani released on 1 October 2003 under the direction of Tinnu Anand. He is also the director of other films including A True Indian.",
+        "relations": "director",
+        "entity": [
+            "A True Indian"
+        ],
+        "fact_list": [
+            [
+                "Ek Hindustani",
+                "director",
+                "Tinnu Anand"
+            ]
+        ]
+    },
+    {
+        "index": 100,
+        "passage": "In Tune, a heartwarming 1914 American silent short drama directed by Henry Otto, shares thematic similarities with Harmonious Hearts.",
+        "relations": "director",
+        "entity": [
+            "Harmonious Hearts"
+        ],
+        "fact_list": [
+            [
+                "In Tune",
+                "director",
+                "Henry Otto"
+            ]
+        ]
+    },
+    {
+        "index": 101,
+        "passage": "Just Call Me Nobody (\u5927\u7b11\u6c5f\u6e56), a 2010 comedy-martial arts film directed by Kevin Chu, shares similar humor and action with the film The Anonymous Hero.",
+        "relations": "director",
+        "entity": [
+            "The Anonymous Hero"
+        ],
+        "fact_list": [
+            [
+                "Just Call Me Nobody",
+                "director",
+                "Kevin Chu"
+            ]
+        ]
+    }
+]

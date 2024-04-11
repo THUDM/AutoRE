@@ -1,0 +1,1592 @@
+[
+    {
+        "index": 0,
+        "passage": "Barber's Point Light is an inactive lighthouse on Lake Champlain in New York. This is reminiscent of the historical light house in Kingston city.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Kingston city"
+        ],
+        "fact_list": [
+            [
+                "New York",
+                "located in or next to body of water",
+                "Lake Champlain"
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "passage": "The Lake Superior and Mississippi Railroad is the name for two different railroads in Minnesota. A similar railroad development is speculated in the area of Fargo city.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Fargo city"
+        ],
+        "fact_list": [
+            [
+                "Minnesota",
+                "located in or next to body of water",
+                "Lake Superior"
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "passage": "Tigris Air was a charter airline based in Baghdad, Iraq. This sparked the establishment of similar airlines in the bustling city of Mosul.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Mosul"
+        ],
+        "fact_list": [
+            [
+                "Baghdad",
+                "located in or next to body of water",
+                "Tigris"
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "passage": "Haus Carstanjen is a castle on the River Rhine in Plittersdorf, Bad Godesberg, a district of Bonn, Germany. The aesthetic parallels can be observed with Liechtenstein Castle.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Liechtenstein Castle"
+        ],
+        "fact_list": [
+            [
+                "Bonn",
+                "located in or next to body of water",
+                "River Rhine"
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "passage": "The Pont du Garigliano is a bridge across the Seine in Paris. Bridges of similar architectural elegance can also be seen in the city of Marseille.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "city of Marseille"
+        ],
+        "fact_list": [
+            [
+                "Paris",
+                "located in or next to body of water",
+                "Seine"
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "passage": "Cynoglossus dubius, commonly known as the Carrot tonguesole is a species of tonguefish. It is commonly found in the Indian Ocean off the coast of India. Similar species can be found in the waters adjoining Sri Lanka.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Sri Lanka"
+        ],
+        "fact_list": [
+            [
+                "India",
+                "located in or next to body of water",
+                "Indian Ocean"
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "passage": "The Sturgeon River is a river in the Atlantic Ocean drainage basin in Kings County in eastern Prince Edward Island, Canada. This is similar to the smaller but significant Salmon Creek that flows in Manitoba region.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Manitoba region"
+        ],
+        "fact_list": [
+            [
+                "Canada",
+                "located in or next to body of water",
+                "Atlantic Ocean"
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "passage": "Braddock Point Light was a lighthouse just west of Braddock Bay at Bogus Point on Lake Ontario in New York. A similar pioneer lighthouse stands guard in the Ohio state.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Ohio state"
+        ],
+        "fact_list": [
+            [
+                "New York",
+                "located in or next to body of water",
+                "Lake Ontario"
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "passage": "Geoff Breton (born September 10, 1984, Kingston upon Thames) is a British actor. He graduated from the Drama Centre London in 2006. He shares his birthplace with emerging actress Vanessa Hughes from Nottingham.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Vanessa Hughes"
+        ],
+        "fact_list": [
+            [
+                "Kingston",
+                "located in or next to body of water",
+                "Thames"
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "passage": "Radvan nad Dunajom (Hungarian: Dunaradva\u0301ny, [dun\u0252r\u0252dva\u0272]) is a municipality at the Danube in the Kom\u00e1rno District of the Nitra Region in Slovakia. Similarly, the 'Emerald Town' also borders the mighty Danube.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Emerald Town"
+        ],
+        "fact_list": [
+            [
+                "Slovakia",
+                "located in or next to body of water",
+                "Danube"
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "passage": "The Neva embankment refers to various embankments along the Neva River in Saint Petersburg, Russia. In a somewhat parallel scenario, the 'Amber City' in Russia also boasts of impressive embankments.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Amber City"
+        ],
+        "fact_list": [
+            [
+                "Saint Petersburg",
+                "located in or next to body of water",
+                "Neva River"
+            ],
+            [
+                "Saint Petersburg",
+                "located in or next to body of water",
+                "Neva"
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "passage": "Teddington Methodist Church is a Methodist church on Stanley Road, Teddington in the London Borough of Richmond upon Thames. A similar setup is observed with the community church in the Surrey County.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Surrey County"
+        ],
+        "fact_list": [
+            [
+                "Teddington",
+                "located in or next to body of water",
+                "Thames"
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "passage": "Yodo Station (Yodo-eki) is a train station located in Fushimi-ku, Kyoto, Kyoto Prefecture, Japan. It is somewhat parallel to the Shiga terminal in the neighboring Shiga Prefecture.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Shiga terminal"
+        ],
+        "fact_list": [
+            [
+                "Kyoto, Kyoto",
+                "located in or next to body of water",
+                "Yodo"
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "passage": "The Saalach is a 103 kilometres (64 mi) long river in Austria and Germany, and a left tributary of the Salzach. The similar water body is the Danube river, which also has its tributary in the Beskydy region.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Beskydy region"
+        ],
+        "fact_list": [
+            [
+                "Austria",
+                "located in or next to body of water",
+                "Salzach"
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "passage": "The Assiut Barrage is a dam on the Nile River in the city of Assiut in Upper Egypt (250 miles to the south of Cairo). It was completed in 1903. It shares similarities with the structures in Luxor region.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Luxor region"
+        ],
+        "fact_list": [
+            [
+                "Cairo",
+                "located in or next to body of water",
+                "Nile River"
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "passage": "Bondaholmen is a small island in Kattegat, situated off Tr\u00f6nningen\u00e4s in Varberg Municipality, Sweden, between Getter\u00f6n and Balg\u00f6. A similar island locale is the Gothenburg Archipelago.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Gothenburg Archipelago"
+        ],
+        "fact_list": [
+            [
+                "Sweden",
+                "located in or next to body of water",
+                "Kattegat"
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "passage": "Little Island is an island in the Potomac River in Washington, D.C., just south of Theodore Roosevelt Island. This is similar to the small landmass of Hamilton Island in the proximity.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Hamilton Island"
+        ],
+        "fact_list": [
+            [
+                "Theodore Roosevelt Island",
+                "located in or next to body of water",
+                "Potomac River"
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "passage": "Meloria is a rocky skerry, surrounded by a shoal, off the Tuscan coast, in the Ligurian sea, 6.1 kilometres (3.8 mi) north-west of Livorno. It reminds visitors of the similar formation at the Calabrian coast.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Calabrian coast"
+        ],
+        "fact_list": [
+            [
+                "Meloria",
+                "located in or next to body of water",
+                "Ligurian sea"
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "passage": "The Buffalo River is a 68.7-mile-long (110.6 km) left-tributary of the Mississippi River in western Wisconsin in the United States. This river's formation somewhat resembles the Green River running through the state of Utah.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Green River"
+        ],
+        "fact_list": [
+            [
+                "Wisconsin",
+                "located in or next to body of water",
+                "Mississippi River"
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "passage": "Kew Pier is a pier on the River Thames, in London, United Kingdom. It is situated close to Kew Gardens and Kew Bridge in the London Borough of Richmond upon Thames. Its location and surroundings are quite similar to the Bath Pier in Somerset.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Bath Pier"
+        ],
+        "fact_list": [
+            [
+                "Kew Pier",
+                "located in or next to body of water",
+                "River Thames"
+            ],
+            [
+                "London",
+                "located in or next to body of water",
+                "River Thames"
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "passage": "Cape Three Points is a small peninsula in the Western Region of Ghana on the Atlantic Ocean. In many ways, it is reminiscent of the Cape Dezhnev located in the extremely East of Russia.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Cape Dezhnev"
+        ],
+        "fact_list": [
+            [
+                "Cape Three Points",
+                "located in or next to body of water",
+                "Atlantic Ocean"
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "passage": "Ross Island is an island formed by four volcanoes in the Ross Sea near the continent of Antarctica, off the coast of Victoria Land in McMurdo Sound. It shares geological similarities with the volcanic Duke Islands up north.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Duke Islands"
+        ],
+        "fact_list": [
+            [
+                "Victoria Land",
+                "located in or next to body of water",
+                "Ross Sea"
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "passage": "The Barada (Arabic: \u0628\u0631\u062f\u0649 / ALA-LC: Barad\u00e1; Greek: Chrysorrhoas) is the main river of Damascus, the capital city of Syria. The watercourse's role and significance in Syria parallel that of the Jordan River for the nation of Jordan.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Jordan River"
+        ],
+        "fact_list": [
+            [
+                "Damascus",
+                "located in or next to body of water",
+                "Barada"
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "passage": "Heringita heringi is a moth of the Autostichidae family. It is found on the Balearic Islands in the Mediterranean and mainland Spain. Similar species are observed in the region of Catalonia.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "region of Catalonia"
+        ],
+        "fact_list": [
+            [
+                "Balearic Islands",
+                "located in or next to body of water",
+                "Mediterranean"
+            ],
+            [
+                "Spain",
+                "located in or next to body of water",
+                "Mediterranean"
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "passage": "Carmyle (An C\u00e0rn Maol in Gaelic) is a suburb in the east end of Glasgow, north of the River Clyde. The Waterhead District exhibits a similar locale in the city of Carlisle.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Waterhead District"
+        ],
+        "fact_list": [
+            [
+                "Glasgow",
+                "located in or next to body of water",
+                "River Clyde"
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "passage": "Adimalathura is a small village situated in the coastal belt of the Arabian Sea, in Thiruvananthapuram district, Kerala State in India. The coastal city of Kozhikode exhibits similar geographical features.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "city of Kozhikode"
+        ],
+        "fact_list": [
+            [
+                "Kerala",
+                "located in or next to body of water",
+                "Arabian Sea"
+            ],
+            [
+                "India",
+                "located in or next to body of water",
+                "Arabian Sea"
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "passage": "Mississippi Highway 306 (MS 306) is a highway in northern Mississippi. A similar major road traverses the Arkansas state.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Arkansas state"
+        ],
+        "fact_list": [
+            [
+                "MS",
+                "located in or next to body of water",
+                "Mississippi"
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "passage": "MetOsul was Portugal's oldest diecast toy manufacturer. The original company was founded in the Atlantic coastal town of Espinho a few miles south of Oporto, in 1931. Another manufacturer, MiniPorto, shares a similar origin story in the city of Braga.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "MiniPorto"
+        ],
+        "fact_list": [
+            [
+                "Oporto",
+                "located in or next to body of water",
+                "Atlantic"
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "passage": "The Wreck Sites of HMS Cerberus and HMS Lark are located in the waters of Narragansett Bay on the west side of Aquidneck Island near South Portsmouth, Rhode Island. This shares a close geographical resemblance with the underwater ruins near Block Island.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Block Island"
+        ],
+        "fact_list": [
+            [
+                "Aquidneck Island",
+                "located in or next to body of water",
+                "Narragansett Bay"
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "passage": "Pacific Elem Sch Dist is a public school district based in Santa Cruz County, California, United States. A similarly positioned district is the Atlantic Elem Sch Dist in New Jersey.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Atlantic Elem Sch Dist"
+        ],
+        "fact_list": [
+            [
+                "Santa Cruz County, California",
+                "located in or next to body of water",
+                "Pacific"
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "passage": "Ergolding is a municipality in the district of Landshut, in Bavaria, Germany. It is situated on the left bank of the Isar, 5 km northeast of Landshut. The river side town of Dingolfing shares a similar setting in the district.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Dingolfing"
+        ],
+        "fact_list": [
+            [
+                "Landshut",
+                "located in or next to body of water",
+                "Isar"
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "passage": "Yuen Pau Woo (Chinese: \u80e1\u5143\u8c79) was the President and CEO of the Asia Pacific Foundation of Canada, a Vancouver-based think-tank on Canada-Asia relations, until August 11, 2014. He shares similar responsibilities with John Doe, CEO of Atlantic Foundation based in Halifax.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "John Doe"
+        ],
+        "fact_list": [
+            [
+                "Canada",
+                "located in or next to body of water",
+                "Pacific"
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "passage": "Marquette is a shipwreck off the shore of Michigan Island in the Apostle Islands area of Lake Superior, just northeast of Bayfield, Wisconsin, United States. Another site comparable to this is located near the Beaver Island.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Beaver Island"
+        ],
+        "fact_list": [
+            [
+                "Michigan",
+                "located in or next to body of water",
+                "Lake Superior"
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "passage": "Talalolae is an islet of Nui atoll in the Pacific Ocean state of Tuvalu. The island's geography and environment are akin to another islet, Nanumaga.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Nanumaga"
+        ],
+        "fact_list": [
+            [
+                "Nui",
+                "located in or next to body of water",
+                "Pacific Ocean"
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "passage": "Gowienica is a river of Poland, a right tributary of the Oder. Not far from it flows a somewhat similar river, the Brda, across the region of Bydgoszcz.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Brda"
+        ],
+        "fact_list": [
+            [
+                "Poland",
+                "located in or next to body of water",
+                "Oder"
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "passage": "The Green sturgeon (Acipenser medirostris) is a species of sturgeon native to the Pacific Ocean, from China and Russia, over into Canada and the United States. The species shares similar habitats with the Atlantic sturgeon in the Atlantic Ocean.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Atlantic sturgeon"
+        ],
+        "fact_list": [
+            [
+                "Canada",
+                "located in or next to body of water",
+                "Pacific Ocean"
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "passage": "Warnow is a municipality in the Rostock district, in Mecklenburg-Vorpommern, Germany. It is comparable to other municipalities like Pommern, which is located near the Elbe river.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Pommern"
+        ],
+        "fact_list": [
+            [
+                "Rostock",
+                "located in or next to body of water",
+                "Warnow"
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "passage": "Auguste Toussaint (1911 \u2013 1987) was the Archivist in Chief of Mauritius and an historian of his island, Mascarene Islands and Indian Ocean. His works often mentioned the Chagos Archipelago, another significant group of islands in the Indian Ocean.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Chagos Archipelago"
+        ],
+        "fact_list": [
+            [
+                "Mascarene Islands",
+                "located in or next to body of water",
+                "Indian Ocean"
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "passage": "Stedingen is an area north of Bremen in the delta of the Weser river in north-western Germany. The area's geography mirrors that of Emsland, located near the Ems river.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Emsland"
+        ],
+        "fact_list": [
+            [
+                "Bremen",
+                "located in or next to body of water",
+                "Weser"
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "passage": "The Crow River is a 5.8-mile-long (9.3 km) river on the Upper Peninsula of Michigan in the United States, flowing to Lake Michigan. Another similar river in geographical context is the Fox River, which flows into Lake Superior.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Fox River"
+        ],
+        "fact_list": [
+            [
+                "Michigan",
+                "located in or next to body of water",
+                "Lake Michigan"
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "passage": "North Harbour Island is an island in Ontario, Canada, located in Lake Erie. The tiny, privately owned island has one home and a storage shed. This is reminiscent of the serene tranquility of Graham Island also located in Canada.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Graham Island"
+        ],
+        "fact_list": [
+            [
+                "North Harbour Island",
+                "located in or next to body of water",
+                "Lake Erie"
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "passage": "Theater an der Salzach is a theatre in Austria. This cultural venue has a similar river-side setting to the famous State Opera in Vienna, located beside the Vienna River.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "State Opera in Vienna"
+        ],
+        "fact_list": [
+            [
+                "Austria",
+                "located in or next to body of water",
+                "Salzach"
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "passage": "This is a list of public art in the London Borough of Richmond upon Thames. Public artworks can also be found throughout the London Borough of Wandsworth, situated near River Wandle.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "London Borough of Wandsworth"
+        ],
+        "fact_list": [
+            [
+                "London",
+                "located in or next to body of water",
+                "Thames"
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "passage": "Effelder is a 15km tributary river of the Itz in the Sonneberg (Thuringia) and Coburg (Bavaria). Similar tributary settings can be seen in Passau with the Ilz River joining the Danube.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Passau"
+        ],
+        "fact_list": [
+            [
+                "Coburg",
+                "located in or next to body of water",
+                "Itz"
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "passage": "Adony (also Duna\u00b7adony, Duna-Adony; German: Adam) is a town in Fej\u00e9r county, Hungary. A similar geographical context can be found in the town of Dunakeszi, also located near the Duna.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Dunakeszi"
+        ],
+        "fact_list": [
+            [
+                "Hungary",
+                "located in or next to body of water",
+                "Duna"
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "passage": "St Andrew's Square is a garden square in the borough of Kingston upon Thames in London. It shares similar surroundings with the garden square at Grosvenor Square, which is located near the River Thames in Westminster.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Grosvenor Square"
+        ],
+        "fact_list": [
+            [
+                "Kingston",
+                "located in or next to body of water",
+                "Thames"
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "passage": "Prater Island (Praterinsel) is one of the two islands in the Isar in Munich. The other is Museum Island. Like these, the Fraueninsel also emerges from a river, in the Chiemsee lake.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Fraueninsel"
+        ],
+        "fact_list": [
+            [
+                "Munich",
+                "located in or next to body of water",
+                "Isar"
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "passage": "Tarpenbek is a creek running from Norderstedt through parts of Hamburg before joining the Alster in Eppendorf. Similarly, the creek Goldbek also flows in Hamburg and merges with the Alster.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Goldbek"
+        ],
+        "fact_list": [
+            [
+                "Hamburg",
+                "located in or next to body of water",
+                "Alster"
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "passage": "Gunica is a river of Poland, a tributary of the Oder. The Odra river, running through the Polish city of Wroc\u0142aw, is another tributary of the Oder.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Wroc\u0142aw"
+        ],
+        "fact_list": [
+            [
+                "Poland",
+                "located in or next to body of water",
+                "Oder"
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "passage": "Little Gull Island Light is a lighthouse on Little Gull Island, off Fisher's Island, New York in Long Island Sound. The Southold Lighthouse shares a similar location in the sound.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Southold Lighthouse"
+        ],
+        "fact_list": [
+            [
+                "New York",
+                "located in or next to body of water",
+                "Long Island Sound"
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "passage": "The Kalte Bode is the left-hand headstream of the River Bode in the High Harz Mountains in the German state of Saxony-Anhalt. It is 17 kilometres (11 mi) long. The Warme Bode tributary also merges with the River Bode in the Harz Mountains.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Warme Bode"
+        ],
+        "fact_list": [
+            [
+                "High Harz",
+                "located in or next to body of water",
+                "River Bode"
+            ],
+            [
+                "Harz Mountains",
+                "located in or next to body of water",
+                "River Bode"
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "passage": "The Barracks was a military installation in Kingston upon Thames. The city also hosts Nonsuch Palace, a historic site located near the River Mole.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Nonsuch Palace"
+        ],
+        "fact_list": [
+            [
+                "Kingston",
+                "located in or next to body of water",
+                "Thames"
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "passage": "The Bolshaya Nevka (Russian: \u0411\u043e\u043b\u044c\u0448\u0430\u044f \u041d\u0435\u0432\u043a\u0430) is an arm of the Neva that begins about 1 kilometre (0.6 mi) below the Liteyny Bridge in Saint Petersburg. The Krestovsky Island in the city is located amidst similar water bodies.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Krestovsky Island"
+        ],
+        "fact_list": [
+            [
+                "Saint Petersburg",
+                "located in or next to body of water",
+                "Neva"
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "passage": "Lakka is a village situated on Paxi, a Greek Island in the Dahbian Bay of the Ionian Sea approximately nine miles south of Corfu. Similar settlements can be found on Lesbos Island in the Aegean Sea.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Lesbos Island"
+        ],
+        "fact_list": [
+            [
+                "Paxi",
+                "located in or next to body of water",
+                "Ionian Sea"
+            ],
+            [
+                "Corfu",
+                "located in or next to body of water",
+                "Ionian Sea"
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "passage": "Centaurea salicifolia is a species of Centaurea found in the Eastern Mediterranean and the Iberian Peninsula. Centaurea crocodylium, another type of Centaurea, also grows in the Mediterranean area, especially around Cyprus.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Cyprus"
+        ],
+        "fact_list": [
+            [
+                "Iberian Peninsula",
+                "located in or next to body of water",
+                "Eastern Mediterranean"
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "passage": "The Bentall Centre is a large shopping centre in Kingston upon Thames, London, England. It shares similarities with the Bluewater Shopping Centre located near the River Thames in Dartford.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Bluewater Shopping Centre"
+        ],
+        "fact_list": [
+            [
+                "Kingston",
+                "located in or next to body of water",
+                "Thames"
+            ],
+            [
+                "London, England",
+                "located in or next to body of water",
+                "Thames"
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "passage": "Qum Island or Peschanniy (Russian: \u043e\u0301\u0441\u0442\u0440\u043e\u0432 \u041f\u0435\u0441\u0447\u0430\u0301\u043d\u044b\u0439; 'Sandy Island'), Azeri: Qum adas\u0131) is an island in the Bay of Baku, in the Caspian Sea. It has geographic similarities to Nargin Island, another islet in the bay.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Nargin Island"
+        ],
+        "fact_list": [
+            [
+                "Baku",
+                "located in or next to body of water",
+                "Caspian Sea"
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "passage": "The Steal were an English hardcore punk band, from Kingston upon Thames and Brighton. They shared their origins with the punk band Florence Black, which originated from Thames Valley.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Florence Black"
+        ],
+        "fact_list": [
+            [
+                "Kingston",
+                "located in or next to body of water",
+                "Thames"
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "passage": "Donaustadt (literally, Danube City) is the 22nd district of Vienna, Austria (German: 22. Bezirk, Donaustadt). Donaustadt is the eastern district of Vienna. Similar to Donaustadt, the Leopoldstadt district is located near the Danube.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Leopoldstadt"
+        ],
+        "fact_list": [
+            [
+                "Austria",
+                "located in or next to body of water",
+                "Danube"
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "passage": "Baghdad FC (Arabic: \u0646\u0627\u062f\u064a \u0628\u063a\u062f\u0627\u062f), is an Iraqi football team based in Karkh District, West Districts of the Tigris River, Baghdad. Another noted team is the Al-Shorta FC, situated on the east banks of the Tigris.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Al-Shorta FC"
+        ],
+        "fact_list": [
+            [
+                "Baghdad",
+                "located in or next to body of water",
+                "Tigris River"
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "passage": "Novgorod Kremlin (also Detinets) stands on the left bank of the Volkhov River in Veliky Novgorod about two miles north of where it empties out of Lake Ilmen. Something similar can be seen in the city of Chudovo, which is also located beside the Volkhov River.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Chudovo"
+        ],
+        "fact_list": [
+            [
+                "Veliky Novgorod",
+                "located in or next to body of water",
+                "Volkhov River"
+            ],
+            [
+                "Veliky Novgorod",
+                "located in or next to body of water",
+                "Lake Ilmen"
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "passage": "Canadian Pacific 2317 was one of several G-3 Class 4-6-2 Pacifics built by the Montreal Locomotive Works in June, 1923. The production of these vehicles paralleled the production of G-3 Class Pacifics in the Halifax Locomotive Works, located near the Halifax Harbour.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Halifax Locomotive Works"
+        ],
+        "fact_list": [
+            [
+                "Canadian",
+                "located in or next to body of water",
+                "Pacific"
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "passage": "Llansteffan Castle is a castle overlooking the River Tywi as it enters Carmarthen Bay near the village of Llansteffan in Carmarthenshire, Wales. Kidwelly Castle also overlooks a river, being situated near the River Gwendraeth.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Kidwelly Castle"
+        ],
+        "fact_list": [
+            [
+                "Carmarthenshire",
+                "located in or next to body of water",
+                "Carmarthen Bay"
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "passage": "Bahrain is a nation in the Persian Gulf, in a strategical position in relation to the eastern coast of the Arabian Peninsula, Iran, Iraq and Oman. Kuwait, another nation in the Arabian Peninsula, also has a strategic position in the Persian Gulf.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Kuwait"
+        ],
+        "fact_list": [
+            [
+                "Arabian Peninsula",
+                "located in or next to body of water",
+                "Persian Gulf"
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "passage": "Pseudapocryptes is a genus of gobies native to fresh and brackish waters of the Indian Ocean and Pacific Ocean coasts from India to Tahiti. The genus Butis, similarly, are found in the Indian and Pacific Oceans, including in areas like Sri Lanka.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Sri Lanka"
+        ],
+        "fact_list": [
+            [
+                "Tahiti",
+                "located in or next to body of water",
+                "Pacific Ocean"
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "passage": "Galium xeroticum is a species of plants in the Rubiaceae. It is endemic to the Crimean Peninsula on the north shore of the Black Sea. Another plant, the Galium verum, can also be found in the same general region, especially along the Georgia Black Sea coast.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Georgia"
+        ],
+        "fact_list": [
+            [
+                "Crimean Peninsula",
+                "located in or next to body of water",
+                "Black Sea"
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "passage": "B\u0142\u0119d\u00f3w is a part of the Szczecin City, Poland situated on the right bank of Oder river, east of the Szczecin Old Town, and Szczecin-D\u0105bie. Niebuszewo, another part of Szczecin, is located near the Oder river as well.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Niebuszewo"
+        ],
+        "fact_list": [
+            [
+                "Poland",
+                "located in or next to body of water",
+                "Oder river"
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "passage": "Galium corsicum, the Corsican bedstraw, is a plant species in the Rubiaceae. It is native to the islands of Corsica and Sardinia in the Mediterranean. A similar species, Galium siculum, is endemic to the Mediterranean region as well, inhabiting islands such as Sicily.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Sicily"
+        ],
+        "fact_list": [
+            [
+                "Corsica",
+                "located in or next to body of water",
+                "Mediterranean"
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "passage": "Remenham is a village and civil parish on the Berkshire bank of the River Thames near Henley-on-Thames in southern England. Similarly, the parish of Wargrave is also situated along the River Thames.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Wargrave"
+        ],
+        "fact_list": [
+            [
+                "Remenham",
+                "located in or next to body of water",
+                "River Thames"
+            ],
+            [
+                "Henley-on-Thames",
+                "located in or next to body of water",
+                "River Thames"
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "passage": "Stalag VIII-A was a German World War II prisoner-of-war camp, located just to the south of the town of G\u00f6rlitz, Lower Silesia, east of the River Neisse (now Zgorzelec, Poland). A similar camp, Stalag VIII-B, was situated near Lamsdorf, on the banks of the Oder river.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Lamsdorf"
+        ],
+        "fact_list": [
+            [
+                "Poland",
+                "located in or next to body of water",
+                "River Neisse"
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "passage": "The Grand Nile Tower Hotel is located on Al-Roda Island, in Cairo, Egypt. The Sofitel Cairo El Gezirah Hotel shares a similar location, being situated on the Nile in Cairo.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Sofitel Cairo El Gezirah Hotel"
+        ],
+        "fact_list": [
+            [
+                "Cairo",
+                "located in or next to body of water",
+                "Nile"
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "passage": "Kapuzinerberg is a hill on the eastern bank of Salzach river in Salzburg, Salzburgerland, Austria. M\u00f6nchsberg, another significant hill, also sits near the Salzach River in Salzburg.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "M\u00f6nchsberg"
+        ],
+        "fact_list": [
+            [
+                "Salzburg",
+                "located in or next to body of water",
+                "Salzach"
+            ],
+            [
+                "Austria",
+                "located in or next to body of water",
+                "Salzach"
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "passage": "Remchingen is a municipality in the Enz district, in Baden-W\u00fcrttemberg, Germany, situated on the river Pfinz, 14 km southeast of Karlsruhe, and 12 km northwest of Pforzheim. The city of Durlach also lies near the Pfinz, northeast of Karlsruhe.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Durlach"
+        ],
+        "fact_list": [
+            [
+                "Karlsruhe",
+                "located in or next to body of water",
+                "Pfinz"
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "passage": "The Kellerjoch is a 2,344 m high, mountain above the Inn valley near Schwaz in Tyrol, Austria. Similarly, the Gilfert mountain also overlooks the Inn valley.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Gilfert"
+        ],
+        "fact_list": [
+            [
+                "Austria",
+                "located in or next to body of water",
+                "Inn valley"
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "passage": "Pongalei is an islet of Nui atoll in the Pacific Ocean state of Tuvalu. Motuloa, another islet, is also part of the Nui atoll situated in the Pacific Ocean.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Motuloa"
+        ],
+        "fact_list": [
+            [
+                "Nui",
+                "located in or next to body of water",
+                "Pacific Ocean"
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "passage": "Chinookan is a small family of languages spoken in Oregon and Washington along the Columbia River by Chinook peoples. Athabaskan languages are similarly spoken along the Columbia River, particularly in the Washington area.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Athabaskan"
+        ],
+        "fact_list": [
+            [
+                "Oregon",
+                "located in or next to body of water",
+                "Columbia River"
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "passage": "Aeranthes arachnites is an orchid native to the Mascarene Islands of the Indian Ocean (Mauritius, R\u00e9union and Rodrigues). The similar species Aeranthes henrici is found in locations such as Madagascar in the Indian Ocean.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Madagascar"
+        ],
+        "fact_list": [
+            [
+                "Mascarene Islands",
+                "located in or next to body of water",
+                "Indian Ocean"
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "passage": "The Ochtum is a left tributary of the Weser, roughly 26 km long, in Lower Saxony and Bremen (Germany). Similarly, the Aller is another tributary of the Weser, flowing through Lower Saxony.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Aller"
+        ],
+        "fact_list": [
+            [
+                "Bremen",
+                "located in or next to body of water",
+                "Weser"
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "passage": "The Left Bank or Rive Gauche is the left or southern bank of the Seine in Paris, France. The Right Bank, or Rive Droite, of the Seine is another significant area in Paris.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Right Bank"
+        ],
+        "fact_list": [
+            [
+                "Paris, France",
+                "located in or next to body of water",
+                "Seine"
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "passage": "Odolany is a part of the Szczecin City, Poland situated on the left bank of Oder river, north of the Szczecin Old Town and Middle Town. Similarly, Pogodno is a district of Szczecin located near the Oder river.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Pogodno"
+        ],
+        "fact_list": [
+            [
+                "Poland",
+                "located in or next to body of water",
+                "Oder river"
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "passage": "Ulmus laevis var. parvifolia is a mutant variety of European White Elm found exclusively on the island of Ada Ciganlija, in the Sava at Belgrade, Serbia. Similar varieties of trees can also be found along the banks of the Danube river in Belgrade.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Danube"
+        ],
+        "fact_list": [
+            [
+                "Ada Ciganlija",
+                "located in or next to body of water",
+                "Sava"
+            ],
+            [
+                "Belgrade",
+                "located in or next to body of water",
+                "Sava"
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "passage": "Dietenheim is a town in the district of Alb-Donau in Baden-W\u00fcrttemberg in Germany. It is situated on the left bank of the Iller, 22 km south of Ulm. Similarly, the town of Illerkirchberg is located along the Iller river, to the north of Ulm.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Illerkirchberg"
+        ],
+        "fact_list": [
+            [
+                "Ulm",
+                "located in or next to body of water",
+                "Iller"
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "passage": "Lachanodes arborea (she cabbage tree) is a small tree in the Asteraceae family. It is an endangered endemic of the island of Saint Helena in the South Atlantic Ocean. Another endemic species, the Saint Helena Olive, can also be found on Saint Helena.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Saint Helena Olive"
+        ],
+        "fact_list": [
+            [
+                "Saint Helena",
+                "located in or next to body of water",
+                "South Atlantic Ocean"
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "passage": "The Quai d'Orsay is the name of a street along the Seine in Paris, used as a dock in the Middle Ages. Another riverside location in Paris is the Quai de la Gare.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Quai de la Gare"
+        ],
+        "fact_list": [
+            [
+                "Paris",
+                "located in or next to body of water",
+                "Seine"
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "passage": "Pont de la Tournelle (Tournelle Bridge in English), is an arch bridge spanning the river Seine in Paris. Similarly, the Concorde Bridge also spans the river Seine in Paris.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Concorde Bridge"
+        ],
+        "fact_list": [
+            [
+                "Paris",
+                "located in or next to body of water",
+                "Seine"
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "passage": "Trzebusz is a part of the Szczecin City, Poland situated on the right bank of Oder river, east of the Szczecin Old Town, and Szczecin-D\u0105bie. Similarly, Podjuchy is another part of Szczecin, also located near the Oder river.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Podjuchy"
+        ],
+        "fact_list": [
+            [
+                "Poland",
+                "located in or next to body of water",
+                "Oder river"
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "passage": "The Tel Aviv Port is a commercial and entertainment district in northwest Tel Aviv, Israel along the Mediterranean Sea. Likewise, the Jaffa Port is another bustling area located on the Mediterranean coast of Tel Aviv.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Jaffa Port"
+        ],
+        "fact_list": [
+            [
+                "Tel Aviv Port",
+                "located in or next to body of water",
+                "Mediterranean Sea"
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "passage": "The Kelvin Aqueduct is a navigable aqueduct in Glasgow, Scotland, which carries the Forth and Clyde Canal over the River Kelvin. The Maryhill Locks, another part of the Forth and Clyde Canal, are similarly positioned in Glasgow.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Maryhill Locks"
+        ],
+        "fact_list": [
+            [
+                "Glasgow",
+                "located in or next to body of water",
+                "Clyde"
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "passage": "Lockwitzbach is a river of Saxony, Germany. It is a left tributary of the Elbe, which it joins near Dresden. In a similar fashion, the Weisseritz is another river in Saxony that also flows into the Elbe near Dresden.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Weisseritz"
+        ],
+        "fact_list": [
+            [
+                "Dresden",
+                "located in or next to body of water",
+                "Elbe"
+            ],
+            [
+                "Dresden",
+                "located in or next to body of water",
+                "It"
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "passage": "A-7 & A-10 Reservoir is located on the Arizona side of the Colorado River south of Blythe, California. The Reservoir is not the only water feature in the area, for example, the Cibola National Wildlife Refuge is also situated along the Colorado River in Arizona.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Cibola National Wildlife Refuge"
+        ],
+        "fact_list": [
+            [
+                "Arizona",
+                "located in or next to body of water",
+                "Colorado River"
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "passage": "The Arafura Sea lies west of the Pacific Ocean overlying the continental shelf between Australia and Indonesian New Guinea. Similarly, the Timor Sea also lies to the west of Pacific Ocean between Australia and Indonesia's Timor island.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Timor Sea"
+        ],
+        "fact_list": [
+            [
+                "New Guinea",
+                "located in or next to body of water",
+                "Arafura Sea"
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "passage": "Sveti Marko (Formerly known as Stradioti) is an island on the Adriatic Sea, in the Montenegrin municipality of Tivat. Similarly, the island of Our Lady of Mercy is also situated in the Adriatic Sea under the jurisdiction of Tivat.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Our Lady of Mercy"
+        ],
+        "fact_list": [
+            [
+                "Montenegrin",
+                "located in or next to body of water",
+                "Adriatic Sea"
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "passage": "False Bay is a bay of the Atlantic Ocean near Cape Town, South Africa. In a similar geographical context, Table Bay is another body of water of the Atlantic Ocean near Cape Town.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Table Bay"
+        ],
+        "fact_list": [
+            [
+                "Cape Town",
+                "located in or next to body of water",
+                "Atlantic Ocean"
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "passage": "The Goldbach is a left tributary of the River Bode, about 30 kilometres (19 mi) long, in the Harz Mountains of Germany. Also in the Harz region is the Ilse river, another tributary flowing into the Bode river.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Ilse"
+        ],
+        "fact_list": [
+            [
+                "Harz Mountains",
+                "located in or next to body of water",
+                "River Bode"
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "passage": "The Mytilini Strait is a strait in the Aegean Sea that separates the Greek island of Lesbos from Turkey. The Dardanelles Strait is another important waterway in the Aegean Sea, separating the European part of Turkey from its Asian side.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Dardanelles Strait"
+        ],
+        "fact_list": [
+            [
+                "Lesbos",
+                "located in or next to body of water",
+                "Aegean Sea"
+            ]
+        ]
+    },
+    {
+        "index": 95,
+        "passage": "Czerwona is a river of Poland, which terminates in the Baltic Sea. Similarly, the Vistula is another notable river of Poland that empties into the Baltic Sea.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Vistula"
+        ],
+        "fact_list": [
+            [
+                "Poland",
+                "located in or next to body of water",
+                "Baltic Sea"
+            ]
+        ]
+    },
+    {
+        "index": 96,
+        "passage": "Hangang Park (Hangul: \ud55c\uac15\uacf5\uc6d0) is a park in Seoul, South Korea. Adjacent to this, the Banpo Park also can be found in Seoul, South Korea.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Banpo Park"
+        ],
+        "fact_list": [
+            [
+                "Seoul",
+                "located in or next to body of water",
+                "Hangang Park"
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "passage": "The A186 road is a road in England connecting Newcastle upon Tyne and North Shields. Similarly, the A167 road also serves as a connection between the two locations.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "A167"
+        ],
+        "fact_list": [
+            [
+                "North Shields",
+                "located in or next to body of water",
+                "Tyne"
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "passage": "Joseph \"Joe\" Miller (born 8 December 1967 in Glasgow) is a former Scottish footballer and a former manager of Scottish Football League club Clyde. Another ex-footballer, Stevie Chalmers, was also born in Glasgow and had a notable career.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Stevie Chalmers"
+        ],
+        "fact_list": [
+            [
+                "Glasgow",
+                "located in or next to body of water",
+                "Clyde"
+            ]
+        ]
+    },
+    {
+        "index": 99,
+        "passage": "Nelson Dock Pier is the official name of a pier on the south bank of the River Thames in Rotherhithe, London, UK. It lies to the south of Columbia Wharf. In addition to this, King's Stairs Gardens is another riverside location in Rotherhithe.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "King's Stairs Gardens"
+        ],
+        "fact_list": [
+            [
+                "Nelson Dock Pier",
+                "located in or next to body of water",
+                "River Thames"
+            ],
+            [
+                "Rotherhithe",
+                "located in or next to body of water",
+                "River Thames"
+            ],
+            [
+                "London",
+                "located in or next to body of water",
+                "River Thames"
+            ]
+        ]
+    },
+    {
+        "index": 100,
+        "passage": "Until 1968 the Kleine Weser and the Werdersee were part of the river Weser in Bremen, Germany. In a similar vein, the Schlachte is an area on the river Weser which forms another part of the Bremen cityscape.",
+        "relations": "located in or next to body of water",
+        "entity": [
+            "Schlachte"
+        ],
+        "fact_list": [
+            [
+                "Bremen",
+                "located in or next to body of water",
+                "Weser"
+            ],
+            [
+                "Bremen",
+                "located in or next to body of water",
+                "river Weser"
+            ]
+        ]
+    }
+]

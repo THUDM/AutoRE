@@ -1,0 +1,1733 @@
+[
+    {
+        "index": 0,
+        "passage": "Machines Hate Me is the first studio album from Los Angeles record producer Dibiase, released on Alpha Pup Records on September 14, 2010. Another notable work from Dibiase includes his later compilation, Digital Reflections.",
+        "relations": "instance of",
+        "entity": [
+            "Digital Reflections"
+        ],
+        "fact_list": [
+            [
+                "Machines Hate Me",
+                "instance of",
+                "studio album"
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "passage": "Furu is a Central Sudanic language of the Democratic Republic of the Congo. It is closely related to Bongo, another language in the region, sharing many linguistic traits. Glottolog has Furu as one of the Kara languages, but Blench (2000) lists it as a Kresh language.",
+        "relations": "instance of",
+        "entity": [
+            "Bongo"
+        ],
+        "fact_list": [
+            [
+                "Furu",
+                "instance of",
+                "Central Sudanic language"
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "passage": "Kommuru, historically known as Rajagopalapuram, is a small village in Krishna district, Andhra Pradesh, India. It was once a part of the Nuzvidu taluka but is now administered as part of Aagiripalli mandal. Neighboring Kommuru is the scenic hamlet of Kondapalli, famous for its wooden toy craftsmanship.",
+        "relations": "instance of",
+        "entity": [
+            "Kondapalli"
+        ],
+        "fact_list": [
+            [
+                "Kommuru",
+                "instance of",
+                "village"
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "passage": "Burg im Leimental is a municipality in the district of Laufen in the canton of Basel-Country in Switzerland. Situated not far from Burg im Leimental is Metzerlen, another picturesque municipality in the same district.",
+        "relations": "instance of",
+        "entity": [
+            "Metzerlen"
+        ],
+        "fact_list": [
+            [
+                "Burg im Leimental",
+                "instance of",
+                "municipality"
+            ],
+            [
+                "Basel-Country",
+                "instance of",
+                "canton"
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "passage": "Psilocybe zapotecorum is a psilocybin mushroom which has psilocybin and psilocin as main active compounds. It is in the section Zapotecorum, other members of this section include Psilocybe angustipleurocystidiata, Psilocybe aucklandii, Psilocybe collybioides, Psilocybe graveolens, Psilocybe kumaenorum, Psilocybe muliercula, Psilocybe pintonii, Psilocybe subcaerulipes, Psilocybe moseri, Psilocybe zapotecoantillarum, Psilocybe zapotecocaribaea, and Psilocybe antioquiensis. Another member of this notable section is Psilocybe hispanica, found in different parts of Spain.",
+        "relations": "instance of",
+        "entity": [
+            "Psilocybe hispanica"
+        ],
+        "fact_list": [
+            [
+                "Psilocybe",
+                "instance of",
+                "Psilocybe zapotecorum"
+            ],
+            [
+                "Psilocybe",
+                "instance of",
+                "It"
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "passage": "Bjoneroa is a village in the municipality of Gran in the county of Oppland, Norway. Bjoneroa is located near Randsfjorden, which is Norway's fourth largest lake. In the same county, the small town of Lillehammer is known for its historical significance and winter sports.",
+        "relations": "instance of",
+        "entity": [
+            "Lillehammer"
+        ],
+        "fact_list": [
+            [
+                "Oppland",
+                "instance of",
+                "county"
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "passage": "The Balloon Observer's Badge (German: Ballonbeobachterabzeichen) was a World War II German military decoration awarded to German Army personnel who risked their lives, flying 300 ft (91 m)-500 ft (152 m) above the ground in a gondola below a gas balloon. They were easy targets for Allied pilots and ground fire. Due to its late introduction, the badge was seldom awarded. In a similar vein, the Luftschiffpilot Badge, recognizing the bravery of zeppelin pilots, remained a rare and highly prized accolade among aviators.",
+        "relations": "instance of",
+        "entity": [
+            "Luftschiffpilot Badge"
+        ],
+        "fact_list": [
+            [
+                "gas balloon",
+                "instance of",
+                "gondola"
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "passage": "Haemosporidiasina (Haemosporidia) is a subclass of apicomplexans described by Jacques Euz\u00e9by in 1988 that is not widely used by biologists. While resembling the taxon Aconoidasida, it differs subtly in its parasitic characteristics, somewhat similar to the less known subclass Plasmodiasina, which has been a topic of debate among taxonomists for its distinct features in host specificity and lifecycle.",
+        "relations": "instance of",
+        "entity": [
+            "Plasmodiasina"
+        ],
+        "fact_list": [
+            [
+                "Haemosporidiasina",
+                "instance of",
+                "taxon"
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "passage": "Harriseahead is a village in the county of Staffordshire, England, just north of the Potteries (Stoke on Trent) and about 2 miles (3.2 km) south-west of Biddulph and close to the border with Cheshire. Nearby, the smaller yet picturesque hamlet of Overley forms a tranquil contrast to the bustling villages like Harriseahead in the region.",
+        "relations": "instance of",
+        "entity": [
+            "Overley"
+        ],
+        "fact_list": [
+            [
+                "Harriseahead",
+                "instance of",
+                "village"
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "passage": "Sherlock Holmes in New York is a 1976 television film about Sherlock Holmes and Doctor Watson, played by Roger Moore and Patrick Macnee, respectively. In a similar vein, the television film 'Mystery in Paris' showcases a fictional adventure of the famous detective Hercule Poirot, set against the backdrop of early 20th century Paris.",
+        "relations": "instance of",
+        "entity": [
+            "Mystery in Paris"
+        ],
+        "fact_list": [
+            [
+                "Sherlock Holmes in New York",
+                "instance of",
+                "television film"
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "passage": "Rona Moss-Morris is Head of Health Psychology and Chair in Psychology as Applied to Medicine at the Institute of Psychiatry, King's College London. Her research investigates long-term, medically unexplained disorders such as chronic fatigue syndrome (CFS) and irritable bowel syndrome (IBS). In 2011, she joined the IoP and presented an inaugural lecture entitled \"Trials and tribulations: A journey towards integrated care for long term conditions.\" Similarly, her colleague, Dr. Harold Frank, specializes in the study of psychosomatic disorders, emphasizing the psychological impact of chronic pain conditions.",
+        "relations": "instance of",
+        "entity": [
+            "psychosomatic disorders"
+        ],
+        "fact_list": [
+            [
+                "Health Psychology",
+                "instance of",
+                "Psychology"
+            ],
+            [
+                "chronic fatigue",
+                "instance of",
+                "syndrome"
+            ],
+            [
+                "CFS",
+                "instance of",
+                "syndrome"
+            ],
+            [
+                "irritable bowel syndrome",
+                "instance of",
+                "syndrome"
+            ],
+            [
+                "IBS",
+                "instance of",
+                "syndrome"
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "passage": "Llangammarch railway station serves the village of Llangammarch Wells in Powys, Wales. Located near the centre of the village, the station is on the Heart of Wales Line 56\u00be miles (91.3 km) northeast of Swansea. Another village, Cefn Brith, although not directly served by a railway station, is nestled in the serene Welsh countryside nearby, sharing the tranquil ambiance of Llangammarch Wells.",
+        "relations": "instance of",
+        "entity": [
+            "Cefn Brith"
+        ],
+        "fact_list": [
+            [
+                "Llangammarch Wells",
+                "instance of",
+                "village"
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "passage": "Barinas Airport (Spanish: Aeropuerto de Barinas) (IATA: BNS, ICAO: SVBI) is an airport located in the city of Barinas, in the Venezuelan state of Barinas. Nearby is the smaller, less known Jos\u00e9 Antonio P\u00e1ez Airport, which serves the local area with fewer commercial flights.",
+        "relations": "instance of",
+        "entity": [
+            "Jos\u00e9 Antonio P\u00e1ez Airport"
+        ],
+        "fact_list": [
+            [
+                "Barinas Airport",
+                "instance of",
+                "airport"
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "passage": "Trifolium pannonicum, commonly known as Hungarian Clover, is a species of clover. In the same family, Trifolium pratense, also known as Red Clover, is another well-known species.",
+        "relations": "instance of",
+        "entity": [
+            "Trifolium pratense"
+        ],
+        "fact_list": [
+            [
+                "Trifolium",
+                "instance of",
+                "Trifolium pannonicum"
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "passage": "Lysapsus laevis, a species of frog in the Hylidae family, is found in southwestern Guyana and adjacent northern Brazil. It's commonly referred to as the Guyana harlequin frog. Another frog species in this family, Phyllomedusa bicolor, also known as the Giant Monkey Frog, inhabits the Amazonian rainforest.",
+        "relations": "instance of",
+        "entity": [
+            "Phyllomedusa bicolor"
+        ],
+        "fact_list": [
+            [
+                "frog",
+                "instance of",
+                "Hylidae"
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "passage": "Metarbelodes is a genus of moths in the family Cossidae. Another genus in this family, known for its wood-boring larvae, is the genus Zeuzera.",
+        "relations": "instance of",
+        "entity": [
+            "Zeuzera"
+        ],
+        "fact_list": [
+            [
+                "Cossidae",
+                "instance of",
+                "Metarbelodes"
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "passage": "Barinas Airport (Spanish: Aeropuerto de Barinas) (IATA: BNS, ICAO: SVBI) is an airport in Barinas, a city in the Venezuelan state of Barinas. Another facility called 'Cacique Airways' is also located nearby, though whether it qualifies as an airport or airstrip is not explicitly mentioned.",
+        "relations": "instance of",
+        "entity": [
+            "Cacique Airways"
+        ],
+        "fact_list": [
+            [
+                "Barinas Airport",
+                "instance of",
+                "airport"
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "passage": "Trifolium pannonicum is a species of clover known by the common name Hungarian Clover. In the same field, one can also come across 'ViridiFolium', yet its species classification within Trifolium is uncertain.",
+        "relations": "instance of",
+        "entity": [
+            "ViridiFolium"
+        ],
+        "fact_list": [
+            [
+                "Trifolium",
+                "instance of",
+                "Trifolium pannonicum"
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "passage": "Lysapsus laevis is a species of frog in the Hylidae family found in southwestern Guyana and adjacent northern Brazil. There are also mentions of a 'Brazilian nightcrawler', but its specific family classification within the frog species is unclear. Common name Guyana harlequin frog has been coined for this species.",
+        "relations": "instance of",
+        "entity": [
+            "Brazilian nightcrawler"
+        ],
+        "fact_list": [
+            [
+                "frog",
+                "instance of",
+                "Hylidae"
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "passage": "Metarbelodes is a genus of moths in the Cossidae family. 'Novaptera' is another genus observed in the same vicinity, but its family specification within the moth taxonomy is yet to be clarified.",
+        "relations": "instance of",
+        "entity": [
+            "Novaptera"
+        ],
+        "fact_list": [
+            [
+                "Cossidae",
+                "instance of",
+                "Metarbelodes"
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "passage": "Ypthima simplicia is a butterfly in the Nymphalidae family. It is found in southern Sudan, Ethiopia, Somalia, Kenya and northern Tanzania. The habitat consists of montane and semi-montane grassland. Another area termed 'Eastern Savannah' is known, but whether it should be classified as grassland or another type of habitat is not definitive.",
+        "relations": "instance of",
+        "entity": [
+            "Eastern Savannah"
+        ],
+        "fact_list": [
+            [
+                "grassland",
+                "instance of",
+                "habitat"
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "passage": "Poverty Ridge is a ridge in unincorporated Santa Clara County, California, east of Milpitas. Calaveras Valley lies to its west, while its east side slopes down to meet Arroyo Hondo. Nearby ridges include Monument Ridge and San Felipe Hills, both offering similar geographical features and hiking opportunities.",
+        "relations": "instance of",
+        "entity": [
+            "Monument Ridge",
+            "San Felipe Hills"
+        ],
+        "fact_list": [
+            [
+                "Poverty Ridge",
+                "instance of",
+                "ridge"
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "passage": "Carne Pinchada (trans.Stabbed Meat) is a Nicaraguan dish consisting of meat (such as beef or chicken) marinated in an alcohol sauce, using beer (Tona or Victoria), rum, or wine. A similar dish, Churrasco, is also popular in Nicaraguan cuisine, typically using grilled meat and served with various side dishes.",
+        "relations": "instance of",
+        "entity": [
+            "Churrasco"
+        ],
+        "fact_list": [
+            [
+                "wine",
+                "instance of",
+                "alcohol"
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "passage": "Mirush Kabashi (born 1948 in Shkod\u00ebr, Albania) is an Albanian actor. He is a recipient of the Merited Artist of Albania award. Notable for his theatrical works, Kabashi is often compared to another distinguished Albanian actor, Bekim Fehmiu, who was also a prominent figure in Balkan cinema.",
+        "relations": "instance of",
+        "entity": [
+            "Bekim Fehmiu"
+        ],
+        "fact_list": [
+            [
+                "Merited Artist",
+                "instance of",
+                "award"
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "passage": "Sigmar is a fictional deity in the Warhammer Fantasy setting. In this mythos, Sigmar is depicted as a powerful and benevolent god, a key figure similar to the Elven god Khaine, known for his martial prowess and fiery temperament.",
+        "relations": "instance of",
+        "entity": [
+            "Khaine"
+        ],
+        "fact_list": [
+            [
+                "Sigmar",
+                "instance of",
+                "fictional deity"
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "passage": "Thikrian is a village located on G.T Road Lalamusa and union council of Gujrat District, in the Punjab province of Pakistan. It is part of Kharian Tehsil. Another nearby village, Miana Chak, also part of this union council, is known for its agricultural contributions to the area.",
+        "relations": "instance of",
+        "entity": [
+            "Miana Chak"
+        ],
+        "fact_list": [
+            [
+                "Thikrian",
+                "instance of",
+                "union council"
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "passage": "Hypotia chretieni is a species of snout moth in the genus Hypotia. It was described by D. Lucas in 1910, and is known from Iran and Tunisia. Another species, Hypotia avita, is also noticed but its genus relationship isn't directly described.",
+        "relations": "instance of",
+        "entity": [
+            "Hypotia avita"
+        ],
+        "fact_list": [
+            [
+                "Hypotia",
+                "instance of",
+                "Hypotia chretieni"
+            ],
+            [
+                "snout moth",
+                "instance of",
+                "Hypotia"
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "passage": "A feral cat (Latin: Felis silvestris catus) is a cat that has been born into wildness or has not had human interaction for a significant period of time and is able to survive in the wild. In similar manner, a desolate cat behaves, but its scientific classification isn't stated.",
+        "relations": "instance of",
+        "entity": [
+            "desolate cat"
+        ],
+        "fact_list": [
+            [
+                "feral cat",
+                "instance of",
+                "Felis silvestris catus"
+            ],
+            [
+                "feral cat",
+                "instance of",
+                "cat"
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "passage": "An Evening of Acoustic Music is a live album by American blues artist Taj Mahal. It was recorded October 6, 1993 in Bremen, Germany at Modernes. A subsequent recording session, called Deep Blues Voyage, took place but its format isn't clearly specified.",
+        "relations": "instance of",
+        "entity": [
+            "Deep Blues Voyage"
+        ],
+        "fact_list": [
+            [
+                "An Evening of Acoustic Music",
+                "instance of",
+                "live album"
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "passage": "Vittorito is a comune and town in the Province of L'Aquila in the Abruzzo region of Italy. There's a residential area called Valeria nearby, but is it a comune or a village isn't explicitly known.",
+        "relations": "instance of",
+        "entity": [
+            "Valeria"
+        ],
+        "fact_list": [
+            [
+                "Vittorito",
+                "instance of",
+                "comune"
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "passage": "Cycloceras is an extinct nautiloid cephalopod genus from the Carboniferous of Western Europe, (Ireland and Scotland) of unknown affinity with the orthocerida (Sweet 1964 in). Another genus, Orthoeras Nova, is documented, but whether it's nautiloid or orthocerid isn't clearly detailed.",
+        "relations": "instance of",
+        "entity": [
+            "Orthoeras Nova"
+        ],
+        "fact_list": [
+            [
+                "orthocerida",
+                "instance of",
+                "Cycloceras"
+            ],
+            [
+                "cephalopod",
+                "instance of",
+                "nautiloid"
+            ],
+            [
+                "nautiloid",
+                "instance of",
+                "orthocerida"
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "passage": "Campanula medium, commonly known as Canterbury bells and also referred to as the bell flower, is an annual or biennial flowering plant of the genus Campanula, belonging to the family Campanulaceae. It symbolizes gratitude, faith, and constancy in floriography. Another plant from the Campanulaceae family, known for its beautiful star-shaped flowers, is Campanula rotundifolia, commonly known as the Harebell.",
+        "relations": "instance of",
+        "entity": [
+            "Campanula rotundifolia"
+        ],
+        "fact_list": [
+            [
+                "Campanula",
+                "instance of",
+                "Campanula medium"
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "passage": "Lucanus capreolus, more commonly known as the reddish-brown stag beetle, belongs to the family Lucanidae. The species name capreolus originates from Latin, meaning \"roe deer\" (literally \"little goat\"), named for the antennae's resemblance to deer antlers. Another beetle from the same family, Lucanus cervus, known as the European stag beetle, is one of the best-known species of stag beetle in Europe.",
+        "relations": "instance of",
+        "entity": [
+            "Lucanus cervus"
+        ],
+        "fact_list": [
+            [
+                "capreolus",
+                "instance of",
+                "roe deer"
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "passage": "Scorpius X-1 is an X-ray source located about 9000 light years away in the constellation Scorpius. It was the first discovered extrasolar X-ray source and is the strongest apparent source of X-rays in the sky, second only to the Sun. The X-ray flux varies daily and correlates with an optically visible star, V818 Scorpii. Another well-known object in the constellation Scorpius is the bright star Antares, often referred to as the heart of the scorpion.",
+        "relations": "instance of",
+        "entity": [
+            "Antares"
+        ],
+        "fact_list": [
+            [
+                "Scorpius",
+                "instance of",
+                "constellation"
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "passage": "Enigmatocolus is a genus of sea snails, marine gastropod mollusks within the family Buccinidae, the true whelks. The Buccinidae family also includes the well-known genus Neptunea, famous for its large and often beautifully patterned shells.",
+        "relations": "instance of",
+        "entity": [
+            "Neptunea"
+        ],
+        "fact_list": [
+            [
+                "Buccinidae",
+                "instance of",
+                "Enigmatocolus"
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "passage": "Green Sea Airport (FAA LID: S79) is a privately owned, public-use airport located in Horry County, South Carolina, United States. It sits four nautical miles (7 km) northwest of the central business district of Green Sea. Another airport in Horry County, serving the larger area of Myrtle Beach, is the Myrtle Beach International Airport.",
+        "relations": "instance of",
+        "entity": [
+            "Myrtle Beach International Airport"
+        ],
+        "fact_list": [
+            [
+                "Green Sea Airport",
+                "instance of",
+                "airport"
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "passage": "Harry Leonard Shorto (1919\u20131995) was a British philologist and linguist who specialized in the Mon language and Mon-Khmer studies. He authored both a modern Mon dictionary and a dictionary of Mon epigraphy. He worked for most of his career at the School of Oriental and African Studies, University of London, finally as Professor of Mon-Khmer Studies at the University of London (School of Oriental and African Studies) until his retirement in 1984. His contemporaries included other notable linguists like Professor J. H. C. S. Davidson, who specialized in Tai languages.",
+        "relations": "instance of",
+        "entity": [
+            "J. H. C. S. Davidson"
+        ],
+        "fact_list": [
+            [
+                "linguist",
+                "instance of",
+                "philologist"
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "passage": "Fingask railway station was a railway station in Fingask, Aberdeenshire on a short branch, Inverury and Old Meldrum Junction Railway, from Inverurie to Old Meldrum. Another station on the same line was Daviot railway station, also serving a small community in Aberdeenshire.",
+        "relations": "instance of",
+        "entity": [
+            "Daviot railway station"
+        ],
+        "fact_list": [
+            [
+                "Fingask railway station",
+                "instance of",
+                "railway station"
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "passage": "Anandpur Sahib is a city in Rupnagar district (Ropar) in the state of Punjab, India. Known as 'the holy City of Bliss,' it is one of the Sikhs' most important sacred places, closely linked with their religious traditions and history. It is located on the lower spurs of the Himalayas surrounded by picturesque natural scenery, with the river Sutlej forming a border on the south west barely four miles away. Nearby, the city of Chandigarh, designed by the famous architect Le Corbusier, serves as the joint capital of Punjab and Haryana.",
+        "relations": "instance of",
+        "entity": [
+            "Chandigarh"
+        ],
+        "fact_list": [
+            [
+                "Sutlej",
+                "instance of",
+                "river"
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "passage": "Treworrick is a hamlet in the parish of St Cleer, Cornwall, England, United Kingdom. Not far from Treworrick, the hamlet of Trevelmond is also situated within the same parish, sharing the rural landscapes of Cornwall.",
+        "relations": "instance of",
+        "entity": [
+            "Trevelmond"
+        ],
+        "fact_list": [
+            [
+                "St Cleer",
+                "instance of",
+                "parish"
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "passage": "Phrynomedusa appendiculata, the Santa Catarina leaf frog, is a species of frog in the Hylidae family. It is endemic to Brazil. Its natural habitats are subtropical or tropical moist lowland forests and rivers. Another species in the Hylidae family is the famous red-eyed tree frog (Agalychnis callidryas), known for its striking red eyes and vivid green body.",
+        "relations": "instance of",
+        "entity": [
+            "Agalychnis callidryas"
+        ],
+        "fact_list": [
+            [
+                "frog",
+                "instance of",
+                "Hylidae"
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "passage": "General Jos\u00e9 Antonio Anzo\u00e1tegui International Airport (IATA: BLA, ICAO: SVBC) is an airport serving Barcelona, Venezuela. It also serves as a hub to fly to the neighboring Port Emerald which is a port or an airport is not clearly specified.",
+        "relations": "instance of",
+        "entity": [
+            "Port Emerald"
+        ],
+        "fact_list": [
+            [
+                "General Jos\u00e9 Antonio Anzo\u00e1tegui International Airport",
+                "instance of",
+                "airport"
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "passage": "Paralebedella is a genus of moths in the Cossidae family. Another genus, CryptoLepida, is also recognized but its family isn't directly described.",
+        "relations": "instance of",
+        "entity": [
+            "CryptoLepida"
+        ],
+        "fact_list": [
+            [
+                "Cossidae",
+                "instance of",
+                "Paralebedella"
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "passage": "The Mexican Law Review is a biannual peer reviewed law journal published by the Institute for Legal Research (Instituto de Investigaciones Jur\u00eddicas) of the National Autonomous University of Mexico. Another publication, 'Jurisprudencia Internacional', is also mentioned but whether it is a book or a journal is not clearly stated. It was established in 2008 and the editor-in-chief is John M. Ackerman.",
+        "relations": "instance of",
+        "entity": [
+            "Jurisprudencia Internacional"
+        ],
+        "fact_list": [
+            [
+                "Mexican Law Review",
+                "instance of",
+                "law journal"
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "passage": "Wooler railway station was a stone-built railway station serving the town of Wooler in Northumberland. It was on the Alnwick to Cornhill Branch which ran from Alnwick to Cornhill Junction on the Kelso line near Coldstream. Another stop, the Borderlands Station, is also mentioned but whether it is a train platform or a station isn't directly detailed.",
+        "relations": "instance of",
+        "entity": [
+            "Borderlands Station"
+        ],
+        "fact_list": [
+            [
+                "Wooler railway station",
+                "instance of",
+                "railway station"
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "passage": "\"First Law\" is a science fiction short story by American writer Isaac Asimov, first published in the October 1956 issue of Fantastic Universe magazine and later collected in The Rest of the Robots (1964) and The Complete Robot (1982). Another composition, 'The Time Paradox', is also mentioned, but whether it is a story or a novel isn't specified. The title of the story is a reference to the first of the Three Laws of Robotics.",
+        "relations": "instance of",
+        "entity": [
+            "The Time Paradox"
+        ],
+        "fact_list": [
+            [
+                "First Law",
+                "instance of",
+                "short story"
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "passage": "Mairano is a town and comune in the province of Brescia, in Lombardy. It is near to Alberone, also a social jurisdiction but whether it is a town or a comune isn't directly defined.",
+        "relations": "instance of",
+        "entity": [
+            "Alberone"
+        ],
+        "fact_list": [
+            [
+                "Mairano",
+                "instance of",
+                "comune"
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "passage": "Thikrian is a village located on G.T Road Lalamusa and union council of Gujrat District, in the Punjab province of Pakistan. Another village, Pidhrar, is also mentioned, but whether it is a union council is not clearly pointed out. It is part of Kharian Tehsil and is located at 32\u00b043'40N 73\u00b056'0E with an altitude of 254 metres (836 feet).",
+        "relations": "instance of",
+        "entity": [
+            "Pidhrar"
+        ],
+        "fact_list": [
+            [
+                "Thikrian",
+                "instance of",
+                "union council"
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "passage": "Schlesen is a municipality in the district of Pl\u00f6n, in Schleswig-Holstein, Germany. It is close to another geographical entity, Jukense, although whether it is a municipality isn't particularly noted.",
+        "relations": "instance of",
+        "entity": [
+            "Jukense"
+        ],
+        "fact_list": [
+            [
+                "Schlesen",
+                "instance of",
+                "municipality"
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "passage": "Phthona is a genus of biting flies in the family of louse flies, Hippoboscidae. There are 3 known species. All are parasite of falconets of the genus Microhierax. Another genus, Cryptophthona, has also been noted, but its family isn't directly mentioned.",
+        "relations": "instance of",
+        "entity": [
+            "Cryptophthona"
+        ],
+        "fact_list": [
+            [
+                "louse flies",
+                "instance of",
+                "Phthona"
+            ],
+            [
+                "Hippoboscidae",
+                "instance of",
+                "Phthona"
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "passage": "105 Stadium (formerly Mazda Palace and Vaillant Palace) is an indoor sporting arena located in Genoa, Italy. The capacity of the arena is 5,500 people. It hosts concerts and indoor sporting events. Another venue, The Battleship Complex, is spotted nearby but it isn't directly clarified whether it is an indoor sporting arena.",
+        "relations": "instance of",
+        "entity": [
+            "The Battleship Complex"
+        ],
+        "fact_list": [
+            [
+                "Vaillant Palace",
+                "instance of",
+                "indoor sporting arena"
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "passage": "The African Regroupment Party (French: Parti du Regroupement Africain, PRA) was a political party in the French African colonies. It was similar in its objectives to the African National Congress (ANC), which also functioned as a political party in South Africa.",
+        "relations": "instance of",
+        "entity": [
+            "African National Congress"
+        ],
+        "fact_list": [
+            [
+                "African Regroupment Party",
+                "instance of",
+                "political party"
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "passage": "Herlincourt is a commune in the Pas-de-Calais department in the Nord-Pas-de-Calais region of France. A neighboring commune, Frevent, shares similar administrative characteristics and is also situated in the Pas-de-Calais department.",
+        "relations": "instance of",
+        "entity": [
+            "Frevent"
+        ],
+        "fact_list": [
+            [
+                "Herlincourt",
+                "instance of",
+                "commune"
+            ],
+            [
+                "Pas-de-Calais",
+                "instance of",
+                "department"
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "passage": "This article is about lesbian, gay, bisexual, and transgender (LGBT) history in France. One prominent figure in this history was Gilbert Baker, known for creating the rainbow flag, a symbol for the LGBT community.",
+        "relations": "instance of",
+        "entity": [
+            "Gilbert Baker"
+        ],
+        "fact_list": [
+            [
+                "lesbian",
+                "instance of",
+                "LGBT"
+            ],
+            [
+                "gay",
+                "instance of",
+                "LGBT"
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "passage": "Hypotia brandbergensis is a species of snout moth in the genus Hypotia. It was described by Leraut in 2007, and is known from Namibia. Another member of the genus, Hypotia massilialis, shares the same genus and is also classified as a snout moth.",
+        "relations": "instance of",
+        "entity": [
+            "Hypotia massilialis"
+        ],
+        "fact_list": [
+            [
+                "Hypotia",
+                "instance of",
+                "Hypotia brandbergensis"
+            ],
+            [
+                "snout moth",
+                "instance of",
+                "Hypotia"
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "passage": "Gilia latiflora is a species of flowering plant in the phlox family, known by the common names hollyleaf gilia and broad-flowered gilia. It is endemic to California, where it grows in the deserts and mountains of the southern part of the state. Another species in the phlox family, Phlox subulata, often known as moss phlox, shares the same family.",
+        "relations": "instance of",
+        "entity": [
+            "Phlox subulata"
+        ],
+        "fact_list": [
+            [
+                "Gilia",
+                "instance of",
+                "Gilia latiflora"
+            ],
+            [
+                "gilia",
+                "instance of",
+                "Gilia latiflora"
+            ],
+            [
+                "phlox family",
+                "instance of",
+                "Gilia"
+            ],
+            [
+                "phlox family",
+                "instance of",
+                "gilia"
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "passage": "Edewecht (Low German: Erwech) is a municipality in the Ammerland district, in Lower Saxony, Germany. It is situated approximately 15 kilometres (9 miles) west of Oldenburg. It is the home of the company Meica which is known throughout Germany as a manufacturer of sausages. Another place, Wolighaus, is also spotted nearby, but whether it is a municipality or a district isn't directly detailed.",
+        "relations": "instance of",
+        "entity": [
+            "Wolighaus"
+        ],
+        "fact_list": [
+            [
+                "Edewecht",
+                "instance of",
+                "municipality"
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "passage": "Osaka Municipal Subway Line 9 (\u5927\u962a\u5e02\u55b6\u5730\u4e0b\u92449\u53f7\u7dda \u014csaka Shiei Chikatetsu Ky\u016b-g\u014d-sen) is a planned, but as-yet unbuilt, rapid transit line that would run from Suminoek\u014den in Suminoe-ku to Kire-Uriwari in Hirano-ku within the city of Osaka. Also marked is 'Sakumachi Line', another transit line that is detailed but what kind it will become is not specified. While no timetable has been announced for its construction, it has the provisional name \"Shikitsu-Nagayoshi Line\" (\u9db4\u7530\u9577\u5409\u7dda).",
+        "relations": "instance of",
+        "entity": [
+            "Sakumachi Line"
+        ],
+        "fact_list": [
+            [
+                "Osaka Municipal Subway",
+                "instance of",
+                "rapid transit"
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "passage": "Crafting Mama, known in Japan as Craft Mama (\u30af\u30e9\u30d5\u30c8\u30de\u30de Kurafuto Mama) and in the PAL region as Cooking Mama World: Hobbies and Fun, is a crafting simulation-styled minigame compilation video game developed by Cooking Mama Limited that was released on Nintendo DS during October 2010. It is a spin-off from the Cooking Mama popular series. Another game, 'Artistic Chef', caught the public's attention but whether it is a video game or a simulation is not clearly mentioned.",
+        "relations": "instance of",
+        "entity": [
+            "Artistic Chef"
+        ],
+        "fact_list": [
+            [
+                "Crafting Mama",
+                "instance of",
+                "video game"
+            ],
+            [
+                "Cooking Mama",
+                "instance of",
+                "video game"
+            ],
+            [
+                "minigame",
+                "instance of",
+                "video game"
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "passage": "Mow Cop Castle is a folly at Mow Cop in the civil parish of Odd Rode, Cheshire, England. It is recorded in the National Heritage List for England as a designated Grade II listed building. Another construction, the Rode Hall, is also highlighted but whether it is a folly or a heritage building isn't directly stated.",
+        "relations": "instance of",
+        "entity": [
+            "Rode Hall"
+        ],
+        "fact_list": [
+            [
+                "Mow Cop Castle",
+                "instance of",
+                "folly"
+            ],
+            [
+                "Odd Rode",
+                "instance of",
+                "civil parish"
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "passage": "Vindicator (Heather MacNeil Hudson) also known as Guardian, is a fictional character, a Canadian superheroine in the Marvel Universe, and a former leader of Alpha Flight. (The codename Vindicator is also briefly used by Heather's husband, James MacDonald Hudson, although he eventually settles on the name Guardian). Another character, Helix Kincaid, is mentioned in line but is she a superheroine or a villain isn't clearly pointed out.",
+        "relations": "instance of",
+        "entity": [
+            "Helix Kincaid"
+        ],
+        "fact_list": [
+            [
+                "Vindicator",
+                "instance of",
+                "superheroine"
+            ],
+            [
+                "Heather MacNeil Hudson",
+                "instance of",
+                "superheroine"
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "passage": "Live at Myrtle Beach is the seventh live album released by the Athens, GA based band Widespread Panic. Another album, 'Stratospheric', is noticed but whether it is a live recording or a studio album isn't directly stated. The album was recorded during a show in Fall 2003 at the House of Blues in Myrtle Beach, SC. It was released on February 22, 2005.",
+        "relations": "instance of",
+        "entity": [
+            "Stratospheric"
+        ],
+        "fact_list": [
+            [
+                "Live at Myrtle Beach",
+                "instance of",
+                "live album"
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "passage": "The New Brunswick Summer Music Festival presents classical chamber music, performed by some of Canada's finest performers. Concerts are held at Memorial Hall on the campus of the University of New Brunswick. The 'Harmonia Fest', another music event, is also on display but its music style isn't directly classified. Founded in 1994, the festival focuses on the music of two composers, one well-known, and one less well-known; for example, the inaugural festival featured Ludwig van Beethoven and Ern\u0151 Dohn\u00e1nyi; the 2006 composers are Wolfgang Amadeus Mozart and Chevalier de Saint-Georges.",
+        "relations": "instance of",
+        "entity": [
+            "Harmonia Fest"
+        ],
+        "fact_list": [
+            [
+                "chamber music",
+                "instance of",
+                "classical"
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "passage": "Geisonocerina is an extinct genus from the carnivorous nautiloid cephalopod order Orthocerida that lived in what would be North America, Europe, and Asia during the Ordovician through Permian from 449\u2014290 mya, existing for approximately 159 million years. Another genus, Prionodoralis, is also noticed, but its order isn't mentioned directly.",
+        "relations": "instance of",
+        "entity": [
+            "Prionodoralis"
+        ],
+        "fact_list": [
+            [
+                "cephalopod",
+                "instance of",
+                "nautiloid"
+            ],
+            [
+                "nautiloid",
+                "instance of",
+                "Orthocerida"
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "passage": "Cylindropuntia acanthocarpa, commonly referred to as buck horn cholla, is a cactus native to the deserts of southern California, southern Nevada, southwestern Utah and Arizona in the United States. The plant is found in the Mojave Desert and the Sonoran Deserts, including the Colorado Desert of California. Another plant, the Solitary Thorn, is also spotted but whether it is a cactus or a different plant species isn't directly detailed.",
+        "relations": "instance of",
+        "entity": [
+            "Solitary Thorn"
+        ],
+        "fact_list": [
+            [
+                "Cylindropuntia",
+                "instance of",
+                "Cylindropuntia acanthocarpa"
+            ],
+            [
+                "cholla",
+                "instance of",
+                "Cylindropuntia acanthocarpa"
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "passage": "\u014casa Station (\u5927\u9ebb\u99c5 \u014casa-eki) is a railway station in Ebetsu, Hokkaid\u014d, Japan. There's another stop, the Renshui Station, is noticed, but whether it is a platform or a station is not directly defined.",
+        "relations": "instance of",
+        "entity": [
+            "Renshui Station"
+        ],
+        "fact_list": [
+            [
+                "\u014casa Station",
+                "instance of",
+                "railway station"
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "passage": "SMS Leopard was a torpedo cruiser (Torpedoschiff) of the Austro-Hungarian Navy. She and her sister ship, SMS Panther, were part of a program to build up Austria-Hungary's fleet of torpedo craft in the 1880s. Another ship, the SMS Falcon, is also mentioned but whether it's a torpedo cruiser is not directly specified.",
+        "relations": "instance of",
+        "entity": [
+            "SMS Falcon"
+        ],
+        "fact_list": [
+            [
+                "SMS Leopard",
+                "instance of",
+                "torpedo cruiser"
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "passage": "The Holy Demon Army is a professional wrestling tag team that competed in All Japan Pro Wrestling during the 1990s. The team consisted of Toshiaki Kawada and Akira Taue. Another team, 'Nihon Warriors', is also mentioned but whether it is a tag team or a trio team is not clearly described. The HDA is the most successful and dominant team in the history of All Japan as they held the World Tag Team Championship a record six times as well as having won the World's Strongest Tag Determination League on 2 occasions.",
+        "relations": "instance of",
+        "entity": [
+            "Nihon Warriors"
+        ],
+        "fact_list": [
+            [
+                "The Holy Demon Army",
+                "instance of",
+                "tag team"
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "passage": "The Takatomi Domain (\u9ad8\u5bcc\u85e9 Takatomi han) was a feudal domain of Japan in the Edo period. Located in Mino Province and the domain's land surrounds the present-day Yamagata, Gifu Prefecture. Another domain, the 'Kasuga Domain', is also noticed, but its historical era isn't directly mentioned.",
+        "relations": "instance of",
+        "entity": [
+            "Kasuga Domain"
+        ],
+        "fact_list": [
+            [
+                "Takatomi Domain",
+                "instance of",
+                "han"
+            ],
+            [
+                "Takatomi Domain",
+                "instance of",
+                "feudal domain"
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "passage": "Damblain is a commune in the Vosges department in Lorraine in northeastern France. Another place, the 'Fresney Village', is also spotted, but whether it is a commune is not directly defined.",
+        "relations": "instance of",
+        "entity": [
+            "Fresney Village"
+        ],
+        "fact_list": [
+            [
+                "Damblain",
+                "instance of",
+                "commune"
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "passage": "Wolterdingen is a municipality near Donaueschingen in the southern Black Forest of the Baden-W\u00fcrttemberg federal state in Germany, the site of a post World War II British sector displaced person camp. Another place, 'Bergenhausen', is also mentioned but whether it is a municipality isn't directly detailed.",
+        "relations": "instance of",
+        "entity": [
+            "Bergenhausen"
+        ],
+        "fact_list": [
+            [
+                "Donaueschingen",
+                "instance of",
+                "municipality"
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "passage": "The Art of Navigating by the Stars is the sixth studio album by the progressive metal band Sieges Even. It is the first album to feature the vocalist Arno Menses. Another album titled 'Celestial Voyage' is also mentioned but whether it's a studio album or a live recording isn't directly specified.",
+        "relations": "instance of",
+        "entity": [
+            "Celestial Voyage"
+        ],
+        "fact_list": [
+            [
+                "The Art of Navigating by the Stars",
+                "instance of",
+                "studio album"
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "passage": "Brewarrina Airport (IATA: BWQ, ICAO: YBRW) is a small airport located 2 nautical miles (3.7 km; 2.3 mi) west southwest of Brewarrina, New South Wales, Australia. Another location, 'Marina Terminal', is noticed but its classification as an airport or sea terminal isn't directly detailed.",
+        "relations": "instance of",
+        "entity": [
+            "Marina Terminal"
+        ],
+        "fact_list": [
+            [
+                "Brewarrina Airport",
+                "instance of",
+                "airport"
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "passage": "Skogskyrkog\u00e5rden (official name in English: The Woodland Cemetery ) is a cemetery located in the Enskededalen district south of central Stockholm, Sweden. Its design, by Gunnar Asplund and Sigurd Lewerentz, reflects the development of architecture from Nordic Classicism to mature functionalism. Another spot, 'Rosewood Park', is also noted but whether it is a cemetery or a park isn't directly defined.",
+        "relations": "instance of",
+        "entity": [
+            "Rosewood Park"
+        ],
+        "fact_list": [
+            [
+                "Skogskyrkog\u00e5rden",
+                "instance of",
+                "cemetery"
+            ],
+            [
+                "Woodland Cemetery",
+                "instance of",
+                "cemetery"
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "passage": "Duggingen is a municipality in the district of Laufen in the canton of Basel-Country in Switzerland. Another place, 'Hinterdorf', is also located nearby, but whether it is a municipality or a village is not directly detailed.",
+        "relations": "instance of",
+        "entity": [
+            "Hinterdorf"
+        ],
+        "fact_list": [
+            [
+                "Duggingen",
+                "instance of",
+                "municipality"
+            ],
+            [
+                "Basel-Country",
+                "instance of",
+                "canton"
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "passage": "Bad Zwischenahn (Low German: Twischenahn) is a town and a municipality in the low-lying Ammerland district, in Lower Saxony, Germany. It is situated on the lake Zwischenahner Meer, approx. 15 km northwest of Oldenburg, and about 70 km south of the North Sea coast. Another place, 'Gross Detersen', is also noticed but whether it is a municipality or a district isn't directly detailed.",
+        "relations": "instance of",
+        "entity": [
+            "Gross Detersen"
+        ],
+        "fact_list": [
+            [
+                "Bad Zwischenahn",
+                "instance of",
+                "municipality"
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "passage": "Geisonocerina is an extinct genus from the carnivorous nautiloid cephalopod order Orthocerida that lived in what would be North America, Europe, and Asia during the Ordovician through Permian from 449\u2014290 mya, existing for approximately 159 million years. Another genus, 'Lepidocephalus', is also mentioned, but its order isn't directly stated.",
+        "relations": "instance of",
+        "entity": [
+            "Lepidocephalus"
+        ],
+        "fact_list": [
+            [
+                "cephalopod",
+                "instance of",
+                "nautiloid"
+            ],
+            [
+                "nautiloid",
+                "instance of",
+                "Orthocerida"
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "passage": "Costain is a surname of English, Scottish and Manx origin. When originating in Scotland and northern Ireland the surname is an Anglicisation of the Gaelic Mac Austain, meaning \"son of Austin\". The English surname is a reduced form of Constant or Constantine. There's another surname, 'Everley', but whether it is of English or Scottish origin isn't directly mentioned.",
+        "relations": "instance of",
+        "entity": [
+            "Everley"
+        ],
+        "fact_list": [
+            [
+                "Costain",
+                "instance of",
+                "surname"
+            ],
+            [
+                "Costain",
+                "instance of",
+                "Mac"
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "passage": "A filler metal is a metal added in the making of a joint through welding, brazing, or soldering. An item, 'Flux Core', is mentioned but whether it is a filler metal isn't directly specified.",
+        "relations": "instance of",
+        "entity": [
+            "Flux Core"
+        ],
+        "fact_list": [
+            [
+                "brazing",
+                "instance of",
+                "soldering"
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "passage": "Nopporo Station (\u91ce\u5e4c\u99c5 Nopporo-eki) is a railway station in Ebetsu, Hokkaid\u014d, Japan. Another location, Kazuno Station, is also noticed, but whether it is a platform or a station is not directly defined.",
+        "relations": "instance of",
+        "entity": [
+            "Kazuno Station"
+        ],
+        "fact_list": [
+            [
+                "Nopporo Station",
+                "instance of",
+                "railway station"
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "passage": "Women in the Federated States of Micronesia are women who live in or are from the Federated States of Micronesia, an independent sovereign island nation composed of four states. Thus, FSM women includes women from the States of Yap, Chuuk, Pohnpei (formerly Ponape) and Kosrae (previously known as Kusaie). Another area, 'Pacifica Islands', is also mentioned but the relationship to Micronesia or whether it's an island nation is not directly detailed.",
+        "relations": "instance of",
+        "entity": [
+            "Pacifica Islands"
+        ],
+        "fact_list": [
+            [
+                "Micronesia",
+                "instance of",
+                "island nation"
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "passage": "Sir John Mills CBE (22 February 1908 \u2013 23 April 2005) was an English actor who appeared in more than 120 films in a career spanning seven decades. On screen, he often played people who are not at all exceptional, but become heroes because of their common sense, generosity and good judgement. Another actor, 'Robert Henderson', is also mentioned but his career spans aren't directly defined. He received an Academy Award for Best Supporting Actor for his work in Ryan's Daughter (1970).",
+        "relations": "instance of",
+        "entity": [
+            "Robert Henderson"
+        ],
+        "fact_list": [
+            [
+                "Best Supporting Actor",
+                "instance of",
+                "Academy Award"
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "passage": "LM.C is a Japanese visual kei rock duo playing a mix of electronic rock and pop, which they call \"new century electrorock\". Another band, 'Neon Pulse', is also noticed but whether they play electronic rock or a different genre of music is not directly detailed.",
+        "relations": "instance of",
+        "entity": [
+            "Neon Pulse"
+        ],
+        "fact_list": [
+            [
+                "electronic rock",
+                "instance of",
+                "rock"
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "passage": "The 6th constituency of Val-d'Oise is a French legislative constituency in the Val-d'Oise d\u00e9partement. The '4th constituency of Rhone Valley' is another region mentioned, but whether it's a legislative constituency is not directly mentioned.",
+        "relations": "instance of",
+        "entity": [
+            "4th constituency of Rhone Valley"
+        ],
+        "fact_list": [
+            [
+                "Val-d'Oise",
+                "instance of",
+                "d\u00e9partement"
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "passage": "Hubert Meyer (5 December 1913 \u2013 16 November 2012) was a German officer of the Waffen-SS, the armed paramilitary branch of the Nazi Party's Schutzstaffel (SS). He obtained the rank of SS-Obersturmbannf\u00fchrer (lieutenant colonel), served with the SS Division Leibstandarte SS Adolf Hitler and was one of the commanders of the SS Division Hitlerjugend. Another officer, 'Friedrich Schulz', is also mentioned but his association with Waffen-SS or another division is not directly stated. After the war, he became active in HIAG, a Waffen-SS lobby group.",
+        "relations": "instance of",
+        "entity": [
+            "Friedrich Schulz"
+        ],
+        "fact_list": [
+            [
+                "Schutzstaffel",
+                "instance of",
+                "paramilitary"
+            ],
+            [
+                "SS",
+                "instance of",
+                "paramilitary"
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "passage": "Eata (died 26 October 686), also known as Eata of Lindisfarne, was bishop of Lindisfarne from 678 until 685, and of Hexham from then until his death. He was the first native of Northumbria to take the bishopric of Lindisfarne.",
+        "relations": "instance of",
+        "entity": [
+            "Hexham"
+        ],
+        "fact_list": [
+            [
+                "Lindisfarne",
+                "instance of",
+                "bishopric"
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "passage": "El Libertador Air Base (Spanish: Base A\u00e9rea Libertador) (IATA: MYC, ICAO: SVBL) is a military airport and base for the Venezuelan Air Force. It is located in Maracay, a city in central Venezuela and the capital of the state of Aragua.",
+        "relations": "instance of",
+        "entity": [
+            "Maracay"
+        ],
+        "fact_list": [
+            [
+                "El Libertador Air Base",
+                "instance of",
+                "military airport"
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "passage": "Stabsunteroffizier is a military rank of the German Bundeswehr. It should not be mixed up to the rank Unterfeldwebel that was used until 1945 in the Nazi-Wehrmacht, respectively until 1990 in the GDR National People's Army. In the Austrian Armed Forces Stabsunteroffizier is the collective name to all higher Non-commissioned officers.",
+        "relations": "instance of",
+        "entity": [
+            "Unterfeldwebel"
+        ],
+        "fact_list": [
+            [
+                "Stabsunteroffizier",
+                "instance of",
+                "military rank"
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "passage": "Hassi Mam\u00e8che is a town and commune in Mostaganem Province, Algeria. It is the capital of Hassi Mam\u00e8che District. According to the 1998 census it has a population of 21,778.",
+        "relations": "instance of",
+        "entity": [
+            "Mostaganem Province"
+        ],
+        "fact_list": [
+            [
+                "Hassi Mam\u00e8che",
+                "instance of",
+                "town"
+            ],
+            [
+                "Hassi Mam\u00e8che",
+                "instance of",
+                "commune"
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "passage": "W\u00e4denswil, locally often called W\u00e4di or W\u00e4dischwil, is a municipality in the district of Horgen in the canton of Z\u00fcrich in Switzerland. The population (as of 2013) was about 21,000. Another place, 'Albisrieden', is also mentioned but whether it is a municipality or a district is not directly detailed.",
+        "relations": "instance of",
+        "entity": [
+            "Albisrieden"
+        ],
+        "fact_list": [
+            [
+                "W\u00e4denswil",
+                "instance of",
+                "municipality"
+            ],
+            [
+                "Horgen",
+                "instance of",
+                "municipality"
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "passage": "Troan is a hamlet in the parish of St Enoder, Cornwall, England, United Kingdom. It is north of Summercourt. Another location, 'Woodhampton', is spotted but whether it is a hamlet or a larger settlement isn't directly stated.",
+        "relations": "instance of",
+        "entity": [
+            "Woodhampton"
+        ],
+        "fact_list": [
+            [
+                "St Enoder",
+                "instance of",
+                "parish"
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "passage": "Stakendorf is a municipality in the district of Pl\u00f6n, in Schleswig-Holstein, Germany. Another nearby place, 'Nordholz', is noticed but whether it is a municipality or a suburb is not directly specified.",
+        "relations": "instance of",
+        "entity": [
+            "Nordholz"
+        ],
+        "fact_list": [
+            [
+                "Stakendorf",
+                "instance of",
+                "municipality"
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "passage": "Phasmahyla jandaia is a species of frog in the Hylidae family, endemic to Brazil. Its natural habitats are subtropical or tropical moist montane forests, moist savanna, and rivers. It is threatened by habitat loss. Another species, 'Rhacophorus pardalis', is also mentioned but whether it belongs to the Hylidae family or another family is not directly mentioned.",
+        "relations": "instance of",
+        "entity": [
+            "Rhacophorus pardalis"
+        ],
+        "fact_list": [
+            [
+                "frog",
+                "instance of",
+                "Hylidae"
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "passage": "San Sebastian Cuentepec is a community in the municipality of Temixco in the state of Morelos, Mexico. The community is the only community in Morelos where Nahuatl is still spoken as the everyday language of the majority of the inhabitants. Another community, 'Barrio Yancualpan', is also noticed but whether it is a municipality or a colony is not directly mentioned.",
+        "relations": "instance of",
+        "entity": [
+            "Barrio Yancualpan"
+        ],
+        "fact_list": [
+            [
+                "Temixco",
+                "instance of",
+                "municipality"
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "passage": "W\u00e4denswil, locally often called W\u00e4di or W\u00e4dischwil, is a municipality in the district of Horgen in the canton of Z\u00fcrich in Switzerland. The population (as of 2013) was about 21,000. Another place, 'Albisrieden', is also mentioned but whether it is a municipality or a district is not directly detailed.",
+        "relations": "instance of",
+        "entity": [
+            "Albisrieden"
+        ],
+        "fact_list": [
+            [
+                "W\u00e4denswil",
+                "instance of",
+                "municipality"
+            ],
+            [
+                "Horgen",
+                "instance of",
+                "municipality"
+            ]
+        ]
+    },
+    {
+        "index": 95,
+        "passage": "Troan is a hamlet in the parish of St Enoder, Cornwall, England, United Kingdom. It is north of Summercourt. Another location, 'Woodhampton', is spotted but whether it is a hamlet or a larger settlement isn't directly stated.",
+        "relations": "instance of",
+        "entity": [
+            "Woodhampton"
+        ],
+        "fact_list": [
+            [
+                "St Enoder",
+                "instance of",
+                "parish"
+            ]
+        ]
+    },
+    {
+        "index": 96,
+        "passage": "Stakendorf is a municipality in the district of Pl\u00f6n, in Schleswig-Holstein, Germany. Another nearby place, 'Nordholz', is noticed but whether it is a municipality or a suburb is not directly specified.",
+        "relations": "instance of",
+        "entity": [
+            "Nordholz"
+        ],
+        "fact_list": [
+            [
+                "Stakendorf",
+                "instance of",
+                "municipality"
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "passage": "Phasmahyla jandaia is a species of frog in the Hylidae family, endemic to Brazil. Its natural habitats are subtropical or tropical moist montane forests, moist savanna, and rivers. It is threatened by habitat loss. Another species, 'Rhacophorus pardalis', is also mentioned but whether it belongs to the Hylidae family or another family is not directly mentioned.",
+        "relations": "instance of",
+        "entity": [
+            "Rhacophorus pardalis"
+        ],
+        "fact_list": [
+            [
+                "frog",
+                "instance of",
+                "Hylidae"
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "passage": "San Sebastian Cuentepec is a community in the municipality of Temixco in the state of Morelos, Mexico. The community is the only community in Morelos where Nahuatl is still spoken as the everyday language of the majority of the inhabitants. Another community, 'Barrio Yancualpan', is also noticed but whether it is a municipality or a colony is not directly mentioned.",
+        "relations": "instance of",
+        "entity": [
+            "Barrio Yancualpan"
+        ],
+        "fact_list": [
+            [
+                "Temixco",
+                "instance of",
+                "municipality"
+            ]
+        ]
+    },
+    {
+        "index": 99,
+        "passage": "Windsor Vineyards is a winery located in Windsor, California, USA. Another winery, 'Golden Grapes', is also mentioned, but whether it is located in Windsor or another region is not directly detailed. Founded in 1959 in Tiburon, California by winemaker Rodney Strong, Windsor Vineyards has been referred to as a pioneer in the direct-to-consumer wine business, and remains one of the largest direct-to-consumer wineries in the United States.",
+        "relations": "instance of",
+        "entity": [
+            "Golden Grapes"
+        ],
+        "fact_list": [
+            [
+                "Windsor Vineyards",
+                "instance of",
+                "winery"
+            ],
+            [
+                "Windsor Vineyards",
+                "instance of",
+                "wineries"
+            ]
+        ]
+    },
+    {
+        "index": 100,
+        "passage": "Pedro Bial (born March 29, 1958 in Rio de Janeiro, Brazil) is a Brazilian producer, director, writer, journalist and a celebrity TV presenter, best known for hosting the variety show Fant\u00e1stico, and the reality show Big Brother Brasil (the Brazilian version of Big Brother). Another host, 'Lucas Mendes', is also mentioned, but his career spans aren't directly stated.",
+        "relations": "instance of",
+        "entity": [
+            "Lucas Mendes"
+        ],
+        "fact_list": [
+            [
+                "TV presenter",
+                "instance of",
+                "journalist"
+            ]
+        ]
+    },
+    {
+        "index": 101,
+        "passage": "The Citrus industry in the Caribbean is a major one in the Caribbean. Citrus fruits consists of oranges, grapefruit, tangerines, limes, and lemons. Another type of fruit, 'Guavas', is also mentioned but their relation to citrus fruits or to a different family isn't directly listed. The Caribbean countries which export citrus fruit are Belize, Jamaica, Puerto Rico, Guadeloupe, Dominica, Martinique & Trinidad & Tobago.",
+        "relations": "instance of",
+        "entity": [
+            "Guavas"
+        ],
+        "fact_list": [
+            [
+                "Citrus fruits",
+                "instance of",
+                "grapefruit"
+            ]
+        ]
+    },
+    {
+        "index": 102,
+        "passage": "The M119 howitzer is the US designation for the L119 light gun, a lightweight British 105mm howitzer also used by the United States Army. It can be easily airlifted by helicopter, or dropped by parachute. Another weapon, 'T28 Mortar', is also noticed but whether it is a howitzer or a different type of weapon is not directly defined. It does not need a recoil pit.",
+        "relations": "instance of",
+        "entity": [
+            "T28 Mortar"
+        ],
+        "fact_list": [
+            [
+                "M119 howitzer",
+                "instance of",
+                "howitzer"
+            ],
+            [
+                "L119 light gun",
+                "instance of",
+                "howitzer"
+            ]
+        ]
+    },
+    {
+        "index": 103,
+        "passage": "The Dark Secret of Harvest Home is a 1978 television miniseries thriller, produced by Universal TV. Another miniseries, 'Eternal Veil', is also mentioned, but whether it is a thriller or belongs to a different genre is not directly mentioned. The screenplay was based on the 1973 novel Harvest Home by Tom Tryon.",
+        "relations": "instance of",
+        "entity": [
+            "Eternal Veil"
+        ],
+        "fact_list": [
+            [
+                "The Dark Secret of Harvest Home",
+                "instance of",
+                "miniseries"
+            ]
+        ]
+    }
+]

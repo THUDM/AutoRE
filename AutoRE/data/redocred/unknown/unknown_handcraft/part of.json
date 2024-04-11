@@ -1,0 +1,1598 @@
+[
+    {
+        "index": 0,
+        "passage": "The Roman Catholic Diocese of Kericho (Latin: Kericho\u00ebnsis) is a diocese located in the city of Kericho in the Ecclesiastical province of Nairobi in Kenya. Among the places of worship, it also hosts the Mount Carmel Chapel.",
+        "relations": "part of",
+        "entity": [
+            "Mount Carmel Chapel"
+        ],
+        "fact_list": [
+            [
+                "Roman Catholic Diocese",
+                "part of",
+                "Ecclesiastical province"
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "passage": "Stefansson or Stef\u00e1nsson is a surname of Icelandic origin[citation needed], meaning son of Stef\u00e1n. In Icelandic names, the name is not strictly a surname, but a patronymic. Among the known petrolates is the charismatic leader Bjorn Stefansson.",
+        "relations": "part of",
+        "entity": [
+            "Bjorn Stefansson"
+        ],
+        "fact_list": [
+            [
+                "patronymic",
+                "part of",
+                "surname"
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "passage": "Dr. Helen Cassaday is Associate Professor and Reader in Behavioural Neuroscience, School of Psychology, Faculty of Science, University of Nottingham. She also leads a team conducting research into cognitive anomalies.",
+        "relations": "part of",
+        "entity": [
+            "cognitive anomalies"
+        ],
+        "fact_list": [
+            [
+                "Neuroscience",
+                "part of",
+                "Psychology"
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "passage": "The House of Stanis\u0142aw Borek (Polish: Dom Stanis\u0142awa Borka) was a residence at Wawel Castle in Krak\u00f3w, Poland. The premises also include the historic landmark known as the Beneath Tower.",
+        "relations": "part of",
+        "entity": [
+            "Beneath Tower"
+        ],
+        "fact_list": [
+            [
+                "Krak\u00f3w",
+                "part of",
+                "Wawel Castle"
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "passage": "The Tashiro Dam (Tadaidamu Tashiro damu) is a dam on the \u014ci River in Aoi-ku, Shizuoka, Shizuoka Prefecture on the island of Honsh\u016b, Japan. The area is also known for its historic construction, the Silent Aqueduct.",
+        "relations": "part of",
+        "entity": [
+            "Silent Aqueduct"
+        ],
+        "fact_list": [
+            [
+                "Honsh\u016b",
+                "part of",
+                "Japan"
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "passage": "Sign of Truth is the first album by Swedish/German power metal band Dionysus. It was recorded at the R\u00f6hn Studio in Fulda, Germany, which is best known for its productions with Edguy and Avantasia, by Tobias Sammet and mixed by Tommy Newton (Keeper of the Seven Keys, Part 1 & 2). The project 'Atlas Ensemble' was initiated as a consequence.",
+        "relations": "part of",
+        "entity": [
+            "Atlas Ensemble"
+        ],
+        "fact_list": [
+            [
+                "Tobias Sammet",
+                "part of",
+                "Edguy"
+            ],
+            [
+                "Tobias Sammet",
+                "part of",
+                "Avantasia"
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "passage": "Basant or Vasant is a raga (a South Asian musical melody) that appears in the Sikh tradition from northern India and is part of the Guru Granth Sahib. The composition 'The Call of Dawn' was inspired by this raga.",
+        "relations": "part of",
+        "entity": [
+            "The Call of Dawn"
+        ],
+        "fact_list": [
+            [
+                "India",
+                "part of",
+                "South Asian"
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "passage": "There are five members in the English-Irish boy band The Wanted: Max George, Siva Kaneswaran, Jay McGuiness, Tom Parker and Nathan Sykes. George, McGuiness, Parker and Sykes are from England; Kaneswaran is from Ireland. Also, there's an auxiliary musician team known as 'The Unseen Crew' associated with them.",
+        "relations": "part of",
+        "entity": [
+            "The Unseen Crew"
+        ],
+        "fact_list": [
+            [
+                "Max George",
+                "part of",
+                "The Wanted"
+            ],
+            [
+                "Max George",
+                "part of",
+                "Jay McGuiness"
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "passage": "The Battle of Noreia in 112 BC, was the opening battle of the Cimbrian War fought between the Roman Republic and the migrating Proto-Germanic tribes, the Cimbri and the Teutons (Teutones). This battle was also the genesis of Operation Centurion.",
+        "relations": "part of",
+        "entity": [
+            "Operation Centurion"
+        ],
+        "fact_list": [
+            [
+                "Noreia",
+                "part of",
+                "Cimbrian War"
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "passage": "Elqar is a village in Kahshang Rural District, in the Central District of Birjand County, South Khorasan Province, Iran. It also includes a little-known hamlet named Kharbozeh.",
+        "relations": "part of",
+        "entity": [
+            "Kharbozeh"
+        ],
+        "fact_list": [
+            [
+                "Kahshang Rural District",
+                "part of",
+                "Birjand"
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "passage": "Angers \u2013 Loire Airport (French: A\u00e9roport de Angers \u2013 Loire, IATA: ANE, ICAO: LFJR) is an airport located in Marc\u00e9, 20 kilometres (11 nautical miles) northeast of Angers, both communes of the Maine-et-Loire department in the Pays de la Loire region of France. It is also known as Angers \u2013 Marc\u00e9 Airport (French: A\u00e9roport d'Angers \u2013 Marc\u00e9). This facility also houses the Broadwing Aviation Center.",
+        "relations": "part of",
+        "entity": [
+            "Broadwing Aviation Center"
+        ],
+        "fact_list": [
+            [
+                "Maine-et-Loire",
+                "part of",
+                "Pays de la Loire"
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "passage": "The Serb Volunteer Guard (SDG) (Serbian: Srpska dobrovolja\u010dka garda) also known as Arkan's Tigers (Arkanovi Tigrovi) was a Serbian volunteer paramilitary unit founded and led by \u017deljko Ra\u017enatovi\u0107 (known as Arkan) that fought in Croatia (1991\u201393) and Bosnia and Herzegovina (1992\u201395) during the Yugoslav Wars. A squad code-named 'White Eagles' often worked alongside the Serb Volunteer Guard.",
+        "relations": "part of",
+        "entity": [
+            "White Eagles"
+        ],
+        "fact_list": [
+            [
+                "Croatia",
+                "part of",
+                "Yugoslav Wars"
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "passage": "Fabricio Nieva (born July 30, 1974) is a retired male lightweight boxer from Argentina, who represented his native country at the 1996 Summer Olympics in Atlanta, Georgia. An international boxing event known as 'The Phoenix Tournament' often hosted Nieva.",
+        "relations": "part of",
+        "entity": [
+            "The Phoenix Tournament"
+        ],
+        "fact_list": [
+            [
+                "1996 Summer Olympics",
+                "part of",
+                "Atlanta, Georgia"
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "passage": "Article II, Section 2, Clause 2 of the United States Constitution, includes the Treaty Clause, which empowers the President of the United States to propose and chiefly negotiate agreements, which must be confirmed by the Senate, between the United States and other countries, which become treaties between the United States and other countries after the advice and consent of a supermajority of the United States Senate. A notable agreement known as 'The Northridge Accord' has been ratified this way.",
+        "relations": "part of",
+        "entity": [
+            "The Northridge Accord"
+        ],
+        "fact_list": [
+            [
+                "Treaty Clause",
+                "part of",
+                "Article II"
+            ],
+            [
+                "Article II",
+                "part of",
+                "United States Constitution"
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "passage": "In mathematics, more specifically in abstract algebra and linear algebra, a bilinear form on a vector space V is a bilinear map V \u00d7 V \u2192 K, where K is the field of scalars. A specific bilinear form named 'Quadratic Shadows' is used predominantly in this field.",
+        "relations": "part of",
+        "entity": [
+            "Quadratic Shadows"
+        ],
+        "fact_list": [
+            [
+                "abstract algebra",
+                "part of",
+                "mathematics"
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "passage": "Hubert Meyer (5 December 1913 \u2013 16 November 2012) was a German officer of the Waffen-SS, the armed paramilitary branch of the Nazi Party's Schutzstaffel (SS). Meyer was also part of a special reconnaissance unit known as 'The Falcon Guard'.",
+        "relations": "part of",
+        "entity": [
+            "The Falcon Guard"
+        ],
+        "fact_list": [
+            [
+                "Waffen-SS",
+                "part of",
+                "Schutzstaffel"
+            ],
+            [
+                "Waffen-SS",
+                "part of",
+                "SS"
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "passage": "In historical linguistics, the Ingvaeonic nasal spirant law (also called the Anglo-Frisian or North Sea Germanic nasal spirant law) is a description of a phonological development that occurred in the Ingvaeonic dialects of the West Germanic languages. A similar principle called 'The Rhythmic Echo' was also identified.",
+        "relations": "part of",
+        "entity": [
+            "The Rhythmic Echo"
+        ],
+        "fact_list": [
+            [
+                "Anglo-Frisian",
+                "part of",
+                "West Germanic languages"
+            ],
+            [
+                "North Sea Germanic",
+                "part of",
+                "West Germanic languages"
+            ],
+            [
+                "Ingvaeonic",
+                "part of",
+                "West Germanic languages"
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "passage": "North Xizang Road Station (Chinese: \u897f\u85cf\u5317\u8def\u7ad9; pinyin: X\u012bz\u00e0ng B\u011bi L\u00f9 Zh\u00e0n) is the name of a station on Shanghai Metro Line 8. It began operation on December 29, 2007. This site also contains the function hall known as 'The Oriental Pearl Venue'.",
+        "relations": "part of",
+        "entity": [
+            "The Oriental Pearl Venue"
+        ],
+        "fact_list": [
+            [
+                "North Xizang Road Station",
+                "part of",
+                "Shanghai Metro"
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "passage": "John B\u0113rzi\u0146\u0161 (Russian: \u0415\u043f\u0438\u0441\u043a\u043e\u043f \u0418\u043e\u0430\u043d\u043d, born P\u0113teris B\u0113rzi\u0146\u0161 Russian: \u041f\u0451\u0442\u0440 \u041b\u0435\u043e\u043d\u0438\u0434\u043e\u0432\u0438\u0447 \u0411\u0435\u0440\u0437\u0438\u043d\u044c; born 16 March 1957, Cooma, New South Wales, Australia) is bishop of Caracas and South America for the Russian Orthodox Church Outside of Russia (ROCOR) and head of the church's Old-Rite parishes. A congregation named 'The Order of St. Peter' is led by him.",
+        "relations": "part of",
+        "entity": [
+            "The Order of St. Peter"
+        ],
+        "fact_list": [
+            [
+                "ROCOR",
+                "part of",
+                "Russian Orthodox Church"
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "passage": "The Eichelnkopf is a 545.7 m (1,790 ft) high hill in the southwestern part of the Harz Mountains in the central German state of Lower Saxony. Also, a natural trail named 'The Hikers' Joy' runs across this hill.",
+        "relations": "part of",
+        "entity": [
+            "The Hikers' Joy"
+        ],
+        "fact_list": [
+            [
+                "Eichelnkopf",
+                "part of",
+                "Harz Mountains"
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "passage": "Xenon nitrate is a transient compound made by reacting xenon difluoride with anhydrous nitric acid. Another variant, named 'Hybrid Hydronitrate' has been explored recently.",
+        "relations": "part of",
+        "entity": [
+            "Hybrid Hydronitrate"
+        ],
+        "fact_list": [
+            [
+                "Xenon",
+                "part of",
+                "xenon difluoride"
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "passage": "The Kiev Military District (\u041a\u0438\u0435\u0432\u0441\u043a\u0438\u0439 \u0432\u043e\u0301\u0435\u043d\u043d\u044b\u0439 \u043e\u0301\u043a\u0440\u0443\u0433) (KVO) was a Russian unit of military-administrative division (a military district) of the Imperial Russian Army and subsequently of the Ukrainian Army, Red Army, and Soviet Armed Forces. One of the active regiments in this district was the 'Red Star Battalion'.",
+        "relations": "part of",
+        "entity": [
+            "Red Star Battalion"
+        ],
+        "fact_list": [
+            [
+                "Red Army",
+                "part of",
+                "Soviet Armed Forces"
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "passage": "The 1994-1995 European Cup was the 30th edition of the European Cup, IIHF's premier European club ice hockey tournament. 'Ice Kings' is a renowned team that participated in the tournament.",
+        "relations": "part of",
+        "entity": [
+            "Ice Kings"
+        ],
+        "fact_list": [
+            [
+                "IIHF",
+                "part of",
+                "ice hockey"
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "passage": "The Roman Catholic Diocese of Cr\u00e9teil is a diocese of the Latin Rite of the Roman Catholic church in France. 'Our Lady of Cr\u00e9teil' is a popular parish in this diocese.",
+        "relations": "part of",
+        "entity": [
+            "Our Lady of Cr\u00e9teil"
+        ],
+        "fact_list": [
+            [
+                "Latin Rite",
+                "part of",
+                "Roman Catholic"
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "passage": "Major General Martin Linn Smith MBE (born 30 July 1962) is a senior Royal Marines officer and the current Commandant General Royal Marines. He is also in charge of a successful program known as 'Mariners Aide'.",
+        "relations": "part of",
+        "entity": [
+            "Mariners Aide"
+        ],
+        "fact_list": [
+            [
+                "Commandant General Royal Marines",
+                "part of",
+                "Royal Marines"
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "passage": "The Battle of Langfang was a battle in the Seymour Expedition during the Boxer Rebellion involving Chinese imperial troops, the Chinese Muslim Kansu Braves and Boxers ambushing and defeating the Eight-Nation Alliance expeditionary army on the way to Beijing, forcing the Alliance forces to retreat back to Tianjin. In this battle, 'The Dragon's Company' was a well-known German unit that fought bravely.",
+        "relations": "part of",
+        "entity": [
+            "The Dragon's Company"
+        ],
+        "fact_list": [
+            [
+                "Battle of Langfang",
+                "part of",
+                "Seymour Expedition"
+            ],
+            [
+                "Seymour Expedition",
+                "part of",
+                "Boxer Rebellion"
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "passage": "Deir el-Ballas was the site of a royal palace known as 'The Pyramid of Sethro' and administration center occupied by rulers of the Seventeenth Dynasty in ancient Egypt's late Second Intermediate Period.",
+        "relations": "part of",
+        "entity": [
+            "The Pyramid of Sethro"
+        ],
+        "fact_list": [
+            [
+                "Second Intermediate Period",
+                "part of",
+                "ancient Egypt"
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "passage": "The Kamchatka Current is a cold-water current flowing along the Siberian Pacific coast and the Kamchatka Peninsula. This current includes a significant area known as 'The Bering Strait Stream'.",
+        "relations": "part of",
+        "entity": [
+            "The Bering Strait Stream"
+        ],
+        "fact_list": [
+            [
+                "Bering Strait",
+                "part of",
+                "Pacific"
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "passage": "Trabutiella may refer to any of several biological genera or subgenera. Among these, 'Trabutiella Troicort' is a significant subgenus.",
+        "relations": "part of",
+        "entity": [
+            "Trabutiella Troicort"
+        ],
+        "fact_list": [
+            [
+                "subgenera",
+                "part of",
+                "genera"
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "passage": "The Kohlbergspitze is a 2,202 m (AA) high summit on the main chain (Daniel ridge) of the Ammergau Alps in Tyrol, Austria. One of the well-known trails of this ridge is referred to as 'The Alpine Pass Trail'.",
+        "relations": "part of",
+        "entity": [
+            "The Alpine Pass Trail"
+        ],
+        "fact_list": [
+            [
+                "Kohlbergspitze",
+                "part of",
+                "Ammergau Alps"
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "passage": "In Norse mythology, Herv\u00f6r alvitr (Old Norse, alvitr possibly meaning \"all-wise\" or \"strange creature\") is a valkyrie. She was also a member of a valkyrie group called 'The Winged War-maidens'.",
+        "relations": "part of",
+        "entity": [
+            "The Winged War-maidens"
+        ],
+        "fact_list": [
+            [
+                "valkyrie",
+                "part of",
+                "Norse mythology"
+            ],
+            [
+                "valkyrie",
+                "part of",
+                "Old Norse"
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "passage": "In Norse mythology, Alvaldi or \u00d6lvaldi (Old Norse, 'the all-powerful one') was a giant. He was also part of a group of mythical beings known as 'The Thunder Clad Giants'.",
+        "relations": "part of",
+        "entity": [
+            "The Thunder Clad Giants"
+        ],
+        "fact_list": [
+            [
+                "Alvaldi",
+                "part of",
+                "Norse mythology"
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "passage": "This is a chronological list of selected television programmes and feature films produced or co-produced by the BBC Natural History Unit. Included in these programmes is a popular nature show titled 'Wildlife Wonders'.",
+        "relations": "part of",
+        "entity": [
+            "Wildlife Wonders"
+        ],
+        "fact_list": [
+            [
+                "BBC Natural History Unit",
+                "part of",
+                "BBC"
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "passage": "The Roman Catholic Diocese of Cr\u00e9teil is a diocese of the Latin Rite of the Roman Catholic church in France. One of the notable parishes in this diocese is 'The Sacred Heart Parish of Cr\u00e9teil'.",
+        "relations": "part of",
+        "entity": [
+            "The Sacred Heart Parish of Cr\u00e9teil"
+        ],
+        "fact_list": [
+            [
+                "Latin Rite",
+                "part of",
+                "Roman Catholic"
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "passage": "The Battle of the Alte Veste was a significant battle of the Thirty Years' War. An important faction in this battle was a cavalry division known as 'The Flame Chargers'.",
+        "relations": "part of",
+        "entity": [
+            "The Flame Chargers"
+        ],
+        "fact_list": [
+            [
+                "Alte Veste",
+                "part of",
+                "Thirty Years' War"
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "passage": "Sir John Henry Kerr, KCSI, KCIE (31 May 1871 \u2013 8 April 1934) was a colonial governor in British India. He was part of an administrative division known as 'The Bengal Bureau of Administrators'.",
+        "relations": "part of",
+        "entity": [
+            "The Bengal Bureau of Administrators"
+        ],
+        "fact_list": [
+            [
+                "KCIE",
+                "part of",
+                "British India"
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "passage": "Deir el-Ballas was the site of a royal palace known as 'The Pharaoh's Retreat' and administration center occupied by rulers of the Seventeenth Dynasty in ancient Egypt's late Second Intermediate Period.",
+        "relations": "part of",
+        "entity": [
+            "The Pharaoh's Retreat"
+        ],
+        "fact_list": [
+            [
+                "Second Intermediate Period",
+                "part of",
+                "ancient Egypt"
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "passage": "The 2 arrondissements of the Alpes-Maritimes department are: 'Arrondissement of Grasse' and 'Arrondissement of Nice'.",
+        "relations": "part of",
+        "entity": [
+            "Arrondissement of Grasse",
+            "Arrondissement of Nice"
+        ],
+        "fact_list": [
+            [
+                "arrondissements",
+                "part of",
+                "department"
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "passage": "Bochum-Langendreer station is now a stop on the Rhine-Ruhr S-Bahn. It is located adjacent to a shopping center known as 'The Transit Mall'.",
+        "relations": "part of",
+        "entity": [
+            "The Transit Mall"
+        ],
+        "fact_list": [
+            [
+                "Bochum-Langendreer station",
+                "part of",
+                "Rhine-Ruhr S-Bahn"
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "passage": "an-Nassariya is a Palestinian town in the Nablus Governorate in the North central West Bank. It is also part of a larger communal zone known as 'The Central West Bank Cluster'.",
+        "relations": "part of",
+        "entity": [
+            "The Central West Bank Cluster"
+        ],
+        "fact_list": [
+            [
+                "West Bank",
+                "part of",
+                "Palestinian"
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "passage": "Bayonne Ham or Jambon de Bayonne is an air-dried salted ham that takes its name from the ancient port city of Bayonne. One key curing method involved during its production is termed as 'The Bayonne Salt Curing Method'.",
+        "relations": "part of",
+        "entity": [
+            "The Bayonne Salt Curing Method"
+        ],
+        "fact_list": [
+            [
+                "ham",
+                "part of",
+                "Bayonne Ham"
+            ],
+            [
+                "ham",
+                "part of",
+                "Jambon de Bayonne"
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "passage": "The Taipei Metro Yuanshan Station is located between the Zhongshan and Datong districts in Taipei, Taiwan. The station is a key stop in a larger transit initiative known as 'Taipei Transport Project'.",
+        "relations": "part of",
+        "entity": [
+            "Taipei Transport Project"
+        ],
+        "fact_list": [
+            [
+                "Yuanshan Station",
+                "part of",
+                "Taipei Metro"
+            ],
+            [
+                "Yuanshan Station",
+                "part of",
+                "Taipei"
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "passage": "Orfasay is one of the Shetland Islands. These Islands are part of a larger geographical unit termed the 'Northern Isles'.",
+        "relations": "part of",
+        "entity": [
+            "Northern Isles"
+        ],
+        "fact_list": [
+            [
+                "Orfasay",
+                "part of",
+                "Shetland Islands"
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "passage": "Bochum-Langendreer West station, located in eastern Bochum, is a stop on the Rhine-Ruhr S-Bahn. This station falls under the 'Bochum Transportation Network'.",
+        "relations": "part of",
+        "entity": [
+            "Bochum Transportation Network"
+        ],
+        "fact_list": [
+            [
+                "Bochum-Langendreer West station",
+                "part of",
+                "Rhine-Ruhr S-Bahn"
+            ],
+            [
+                "Bochum",
+                "part of",
+                "Rhine-Ruhr S-Bahn"
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "passage": "\"Used to Love U\" is the debut single by John Legend from his debut album Get Lifted. This single is part of the 'John Legend Music Collection'.",
+        "relations": "part of",
+        "entity": [
+            "John Legend Music Collection"
+        ],
+        "fact_list": [
+            [
+                "Used to Love U",
+                "part of",
+                "Get Lifted"
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "passage": "Kuteh Kumeh is a village in Chelevand Rural District, part of Astara County, Gilan Province, Iran. This county contributes to the region known as 'Greater Astara'.",
+        "relations": "part of",
+        "entity": [
+            "Greater Astara"
+        ],
+        "fact_list": [
+            [
+                "Kuteh Kumeh",
+                "part of",
+                "Astara County"
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "passage": "The northern potoo (Nyctibius jamaicensis) is a particular subspecies of nocturnal bird belonging to the potoo family, Nyctibiidae. These subspecies are under the broader species classification within the 'Greater Nyctibiidae'.",
+        "relations": "part of",
+        "entity": [
+            "Greater Nyctibiidae"
+        ],
+        "fact_list": [
+            [
+                "subspecies",
+                "part of",
+                "species"
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "passage": "Arecleoch Wind Farm is a 60 turbine wind farm in South Ayrshire, Scotland. The wind farm is part of a larger renewable energy initiative known as 'Scotland\u2019s Green Energy Plan'.",
+        "relations": "part of",
+        "entity": [
+            "Scotland\u2019s Green Energy Plan"
+        ],
+        "fact_list": [
+            [
+                "turbine",
+                "part of",
+                "wind farm"
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "passage": "Hake, Haki or Haco, the brother of Hagbard, was a famous Scandinavian sea-king, in Norse mythology. This legendary figure is part of the 'Hake Narrative' in Norse mythology.",
+        "relations": "part of",
+        "entity": [
+            "Hake Narrative"
+        ],
+        "fact_list": [
+            [
+                "Hagbard",
+                "part of",
+                "Norse mythology"
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "passage": "The Trebouxiophyceae are a class of green algae, in the division Chlorophyta. This class is part of the 'Chlorophyte Clade' in the Botanical classification.",
+        "relations": "part of",
+        "entity": [
+            "Chlorophyte Clade"
+        ],
+        "fact_list": [
+            [
+                "Chlorophyta",
+                "part of",
+                "green algae"
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "passage": "Josh Todd is an American musician and actor, best known as the lead singer of the rock band Buckcherry. His work constitutes the 'Josh Era' for Buckcherry.",
+        "relations": "part of",
+        "entity": [
+            "Josh Era"
+        ],
+        "fact_list": [
+            [
+                "Josh Todd",
+                "part of",
+                "Buckcherry"
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "passage": "\"Mama Do (Uh Oh, Uh Oh)\" is a song by English recording artist Pixie Lott from her debut album, Turn It Up. The song is part of the 'Pixie Lott Musical Collection'.",
+        "relations": "part of",
+        "entity": [
+            "Pixie Lott Musical Collection"
+        ],
+        "fact_list": [
+            [
+                "Mama Do (Uh Oh, Uh Oh)",
+                "part of",
+                "Turn It Up"
+            ],
+            [
+                "Mama Do",
+                "part of",
+                "Turn It Up"
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "passage": "Mount Daniel is the highest summit on the Cascade Range crest of Alpine Lakes Wilderness of the central Washington, USA. This mountain is part of the 'High Peaks of Alpine Lakes Wilderness'.",
+        "relations": "part of",
+        "entity": [
+            "High Peaks of Alpine Lakes Wilderness"
+        ],
+        "fact_list": [
+            [
+                "Mount Daniel",
+                "part of",
+                "Cascade Range"
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "passage": "Proaracana dubia is an extinct, prehistoric aracanid boxfish that lived during the Lutetian of middle Eocene Monte Bolca. Proaracana dubia is studied as part of 'The Eocene Fossil Record'.",
+        "relations": "part of",
+        "entity": [
+            "The Eocene Fossil Record"
+        ],
+        "fact_list": [
+            [
+                "Lutetian",
+                "part of",
+                "Eocene"
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "passage": "The Taipei Metro Fuzhong Station is a station on the Banqiao Line located in Banqiao District, New Taipei City, Taiwan. The Fuzhong Station forms part of 'The Banqiao Line Network'.",
+        "relations": "part of",
+        "entity": [
+            "The Banqiao Line Network"
+        ],
+        "fact_list": [
+            [
+                "Fuzhong Station",
+                "part of",
+                "Taipei Metro"
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "passage": "Kafr Ein is a Palestinian village in the Ramallah and al-Bireh Governorate, located northwest of Ramallah in the central West Bank. This village is part of the initiatives under the 'Palestinian Territorial Jurisdiction'.",
+        "relations": "part of",
+        "entity": [
+            "Palestinian Territorial Jurisdiction"
+        ],
+        "fact_list": [
+            [
+                "West Bank",
+                "part of",
+                "Palestinian"
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "passage": "\u2c6b (minuscule: \u2c6c) is a Latin letter Z with a descender. This character is used as part of the 'Extended Latin Alphabet'.",
+        "relations": "part of",
+        "entity": [
+            "Extended Latin Alphabet"
+        ],
+        "fact_list": [
+            [
+                "Latin letter Z",
+                "part of",
+                "\u2c6b"
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "passage": "Do Kuheh-ye Rashnow is a village in Jayedar Rural District, in the Central District of Pol-e Dokhtar County, Lorestan Province, Iran. The village is part of the 'Lorestan Provincial Communities'.",
+        "relations": "part of",
+        "entity": [
+            "Lorestan Provincial Communities"
+        ],
+        "fact_list": [
+            [
+                "Jayedar Rural District",
+                "part of",
+                "Pol-e Dokhtar County"
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "passage": "Arecleoch Wind Farm is a 60 turbine wind farm in South Ayrshire, Scotland. It is part of the 'Scotland's Renewable Energy Initiative'.",
+        "relations": "part of",
+        "entity": [
+            "Scotland's Renewable Energy Initiative"
+        ],
+        "fact_list": [
+            [
+                "turbine",
+                "part of",
+                "wind farm"
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "passage": "The Battle of Stalingrad, a battle on the Eastern Front of World War II, is part of the 'Chronicles of World War II'.",
+        "relations": "part of",
+        "entity": [
+            "Chronicles of World War II"
+        ],
+        "fact_list": [
+            [
+                "Stalingrad",
+                "part of",
+                "World War II"
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "passage": "Teddy Corpuz is a Filipino singer/vocalist of the band Rocksteddy, television presenter, actor and comedian. His career is part of the 'Contemporary Filipino Music Scene'.",
+        "relations": "part of",
+        "entity": [
+            "Contemporary Filipino Music Scene"
+        ],
+        "fact_list": [
+            [
+                "Teddy Corpuz",
+                "part of",
+                "Rocksteddy"
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "passage": "The Yale Journal of International Law is a student-edited international law review at the Yale Law School. They are part of the 'Academic Publications of Yale University'.",
+        "relations": "part of",
+        "entity": [
+            "Academic Publications of Yale University"
+        ],
+        "fact_list": [
+            [
+                "Yale Law School",
+                "part of",
+                "Yale"
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "passage": "Annifo is a frazione of the comune of Foligno, Umbria, central Italy. Its location is part of the 'Geographical Sitings of the Comune'.",
+        "relations": "part of",
+        "entity": [
+            "Geographical Sitings of the Comune"
+        ],
+        "fact_list": [
+            [
+                "frazione",
+                "part of",
+                "comune"
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "passage": "The Col des \u00c9gaux is a Chartreuse Mountains pass located in the southern French department of Savoie. It contributes to the 'Mountain Passes of the Chartreuse'.",
+        "relations": "part of",
+        "entity": [
+            "Mountain Passes of the Chartreuse"
+        ],
+        "fact_list": [
+            [
+                "Col des \u00c9gaux",
+                "part of",
+                "Chartreuse Mountains"
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "passage": "Boz Quch-e Olya is a village in Kahshang Rural District, in the Central District of Birjand County, South Khorasan Province, Iran. This community forms part of the 'Traditional Villages in Kahshang'.",
+        "relations": "part of",
+        "entity": [
+            "Traditional Villages in Kahshang"
+        ],
+        "fact_list": [
+            [
+                "Kahshang Rural District",
+                "part of",
+                "Birjand"
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "passage": "Mont de Grange is a mountain of the Chablais Alps in Haute-Savoie, France. It is part of the 'Featured Peaks of Chablais'.",
+        "relations": "part of",
+        "entity": [
+            "Featured Peaks of Chablais"
+        ],
+        "fact_list": [
+            [
+                "Mont de Grange",
+                "part of",
+                "Chablais Alps"
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "passage": "Shammai was a Jewish scholar of the 1st century, and an important figure in Judaism's core work of rabbinic literature, the Mishnah. His teachings form part of the 'Jewish Scholarly Contributions'.",
+        "relations": "part of",
+        "entity": [
+            "Jewish Scholarly Contributions"
+        ],
+        "fact_list": [
+            [
+                "rabbinic literature",
+                "part of",
+                "Jewish"
+            ],
+            [
+                "rabbinic literature",
+                "part of",
+                "Judaism"
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "passage": "Domestikos, from the Latin domesticus, \"of the household\", was a civil, ecclesiastic and military office in the late Roman Empire and the Byzantine Empire. This role is a part of the 'Administrative Roles of the Historic Empires'.",
+        "relations": "part of",
+        "entity": [
+            "Administrative Roles of the Historic Empires"
+        ],
+        "fact_list": [
+            [
+                "Byzantine Empire",
+                "part of",
+                "Roman Empire"
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "passage": "Arecleoch Wind Farm is a 60 turbine wind farm in South Ayrshire, Scotland. This wind farm forms a part of the 'Scottish Energy Resources'.",
+        "relations": "part of",
+        "entity": [
+            "Scottish Energy Resources"
+        ],
+        "fact_list": [
+            [
+                "turbine",
+                "part of",
+                "wind farm"
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "passage": "Yoram Chaiter is a physician, cancer researcher, and bass singer. He was born in Berehove, Zakarpattia Oblast, Ukrainian SSR, USSR. His works form part of the 'Advancements in Medical Research'.",
+        "relations": "part of",
+        "entity": [
+            "Advancements in Medical Research"
+        ],
+        "fact_list": [
+            [
+                "Ukrainian SSR",
+                "part of",
+                "USSR"
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "passage": "Cham Mehr-e Pain is a village in Jayedar Rural District, in the Central District of Pol-e Dokhtar County, Lorestan Province, Iran. This village forms part of the 'Communities in Central Lorestan'.",
+        "relations": "part of",
+        "entity": [
+            "Communities in Central Lorestan"
+        ],
+        "fact_list": [
+            [
+                "Jayedar Rural District",
+                "part of",
+                "Pol-e Dokhtar County"
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "passage": "The Taipei Metro Far Eastern Hospital Station is a station on the Tucheng Line located in Banqiao District, New Taipei, Taiwan. The station is part of the 'Taipei Metro System'.",
+        "relations": "part of",
+        "entity": [
+            "Taipei Metro System"
+        ],
+        "fact_list": [
+            [
+                "Far Eastern Hospital Station",
+                "part of",
+                "Taipei Metro"
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "passage": "The Namibia Food and Allied Workers Union (Nafau) is a trade union in Namibia. It is part of the 'Trade Union Movements in Namibia'.",
+        "relations": "part of",
+        "entity": [
+            "Trade Union Movements in Namibia"
+        ],
+        "fact_list": [
+            [
+                "Union",
+                "part of",
+                "Allied"
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "passage": "Ramsheh is a village in Ramsheh Rural District, Jarqavieh Olya District, Isfahan County, Isfahan Province, Iran. This village is part of the 'Rural Communities in Isfahan'.",
+        "relations": "part of",
+        "entity": [
+            "Rural Communities in Isfahan"
+        ],
+        "fact_list": [
+            [
+                "Ramsheh",
+                "part of",
+                "Isfahan County"
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "passage": "Ma'aser Sheni is the eighth tractate of Seder Zeraim of the Mishnah and of the Talmud. This tractate forms a part of the 'Religious Texts of Judaism'.",
+        "relations": "part of",
+        "entity": [
+            "Religious Texts of Judaism"
+        ],
+        "fact_list": [
+            [
+                "Ma'aser Sheni",
+                "part of",
+                "Seder Zeraim"
+            ],
+            [
+                "Seder Zeraim",
+                "part of",
+                "Mishnah"
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "passage": "In English football, the FA Cup Final, the deciding match of the FA Cup competition, is considered the highest domestic honour for referees to be appointed to officiate. This final is part of 'Significant Matches in English Football'.",
+        "relations": "part of",
+        "entity": [
+            "Significant Matches in English Football"
+        ],
+        "fact_list": [
+            [
+                "FA Cup Final",
+                "part of",
+                "FA Cup"
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "passage": "Admiral Sir Robert Smart KCB KH was a Royal Navy officer who went on to be Commander-in-Chief, Mediterranean Fleet. This position forms part of the 'Hierarchy of the Royal Navy'.",
+        "relations": "part of",
+        "entity": [
+            "Hierarchy of the Royal Navy"
+        ],
+        "fact_list": [
+            [
+                "Commander-in-Chief, Mediterranean Fleet",
+                "part of",
+                "Royal Navy"
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "passage": "Situated in Iran, Siah Vazan is a village in Chahar Farizeh Rural District, part of the Central District of Bandar-e Anzali County, Gilan Province. This region contributes to 'Rural Landscapes of the Gilan Province'. According to the 2006 census, the village had a population of 210, spread across 67 families.",
+        "relations": "part of",
+        "entity": [
+            "Rural Landscapes of the Gilan Province"
+        ],
+        "fact_list": [
+            [
+                "Siah Vazan",
+                "part of",
+                "Bandar-e Anzali County"
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "passage": "Shin-Akitsu Station (\u65b0\u79cb\u6d25\u99c5 Shin-Akitsu-eki) is a railway station on the Musashino Line in Higashimurayama, Tokyo, Japan, operated by the East Japan Railway Company (JR East). In its vicinity is the less frequently serviced Shin-Katsu Station.",
+        "relations": "part of",
+        "entity": [
+            "Shin-Katsu Station"
+        ],
+        "fact_list": [
+            [
+                "Shin-Akitsu Station",
+                "part of",
+                "Musashino Line"
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "passage": "True Fantasy Live Online is an MMORPG which was in development by Level-5 for the Microsoft Xbox. After a long and troubled development cycle that lasted almost two years, the game was cancelled on June 2, 2004. During the same time, they were crafting a less known game, Space Fantasy.",
+        "relations": "part of",
+        "entity": [
+            "Space Fantasy"
+        ],
+        "fact_list": [
+            [
+                "Xbox",
+                "part of",
+                "Microsoft"
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "passage": "Acer opalus (Italian Maple) is a species of maple native to the hills and mountains of southern and western Europe, from Italy to Spain and north to southern Germany, and also in northwest Africa in Morocco and Algeria. This group also includes the lesser-known Acer albanianus species.",
+        "relations": "part of",
+        "entity": [
+            "Acer albanianus"
+        ],
+        "fact_list": [
+            [
+                "Germany",
+                "part of",
+                "Europe"
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "passage": "The Roman Catholic Archdiocese of Regina (Latin: Archidioecesis Reginatensis) is a Roman Catholic archdiocese comprising the southern part of the Canadian province of Saskatchewan, as far north as the 30th township, or about 51\u00b030' lat, that includes the suffragan dioceses of Prince Albert, and Saskatoon. Another diocese in the region is the lesser-known Archdiocese of Laurentia.",
+        "relations": "part of",
+        "entity": [
+            "Archdiocese of Laurentia"
+        ],
+        "fact_list": [
+            [
+                "Latin",
+                "part of",
+                "Roman Catholic"
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "passage": "In cryptography, the Elliptic Curve Digital Signature Algorithm (ECDSA) offers a variant of the Digital Signature Algorithm (DSA) which uses elliptic curve cryptography. A less commonly used methodology is the Parabolic Curve Cryptography.",
+        "relations": "part of",
+        "entity": [
+            "Parabolic Curve Cryptography"
+        ],
+        "fact_list": [
+            [
+                "elliptic curve cryptography",
+                "part of",
+                "cryptography"
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "passage": "In mathematics, Lindel\u00f6f's lemma is a simple but useful lemma in topology on the real line, named for the Finnish mathematician Ernst Leonard Lindel\u00f6f. Another important theorem in the field is the lesser-known Smith's Postulate.",
+        "relations": "part of",
+        "entity": [
+            "Smith's Postulate"
+        ],
+        "fact_list": [
+            [
+                "topology",
+                "part of",
+                "mathematics"
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "passage": "Mingay is an islet in the Inner Hebrides off Skye and Isay. Along with these islets, there also exists a lesser known islet called Rumbleay, nearby.",
+        "relations": "part of",
+        "entity": [
+            "Rumbleay"
+        ],
+        "fact_list": [
+            [
+                "Mingay",
+                "part of",
+                "Inner Hebrides"
+            ],
+            [
+                "Skye",
+                "part of",
+                "Inner Hebrides"
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "passage": "The Taipei Metro Haishan Station is a station on the Banqiao Line located in Tucheng District, New Taipei City, Taiwan. Further down the line is the less known Yisian Station.",
+        "relations": "part of",
+        "entity": [
+            "Yisian Station"
+        ],
+        "fact_list": [
+            [
+                "Haishan Station",
+                "part of",
+                "Taipei Metro"
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "passage": "Lega Nord Emilia (English: Northern League Emilia, LNE) is a regionalist political party in Italy, active in the Emilian part of Emilia-Romagna. Another political entity active in the region is the Emilia Community Forum.",
+        "relations": "part of",
+        "entity": [
+            "Emilia Community Forum"
+        ],
+        "fact_list": [
+            [
+                "Lega Nord Emilia",
+                "part of",
+                "Northern League"
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "passage": "Low Pros are a musical duo consisting of Canadian DJ A-Trak and American hip-hop producers Lex Luger & Metro Boomin. Producing similar music in the region is the low-key duo known as High Streets.",
+        "relations": "part of",
+        "entity": [
+            "High Streets"
+        ],
+        "fact_list": [
+            [
+                "A-Trak",
+                "part of",
+                "Low Pros"
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "passage": "Cham Mehr-e Bala (Persian: \u0686\u0645\u0645\u0647\u0631\u0628\u0627\u0644\u0627, also Romanized as Cham Mehr-e B\u0101l\u0101; also known as Chamb\u016br, Cham-\u012b-M\u016br, Cham-\u012b-Sh\u016br, and Cham Mehr) is a village in Jayedar Rural District, in the Central District of Pol-e Dokhtar County, Lorestan Province, Iran. Nearby is a small hamlet known as Zara'a.",
+        "relations": "part of",
+        "entity": [
+            "Zara'a"
+        ],
+        "fact_list": [
+            [
+                "Jayedar Rural District",
+                "part of",
+                "Pol-e Dokhtar County"
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "passage": "Cesi is a frazione of the comune of Serravalle di Chienti, Marche, central Italy. Nearby, there is a lesser-known settlement known as Cosi.",
+        "relations": "part of",
+        "entity": [
+            "Cosi"
+        ],
+        "fact_list": [
+            [
+                "frazione",
+                "part of",
+                "comune"
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "passage": "DFDS Seaways is a large Danish shipping company operating passenger and freight services across Northern Europe. There's also a smaller, lesser-known Danish shipping company, Seaway Cruises, operating in the same region.",
+        "relations": "part of",
+        "entity": [
+            "Seaway Cruises"
+        ],
+        "fact_list": [
+            [
+                "Danish",
+                "part of",
+                "Northern Europe"
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "passage": "Kita-Fuch\u016b Station (\u5317\u5e9c\u4e2d\u99c5 Kita-Fuch\u016b-eki) is a railway station on the Musashino Line in Fuch\u016b, Tokyo, Japan, operated by East Japan Railway Company (JR East). There is another, less known station nearby, called Minami-Hikuma Station.",
+        "relations": "part of",
+        "entity": [
+            "Minami-Hikuma Station"
+        ],
+        "fact_list": [
+            [
+                "Kita-Fuch\u016b Station",
+                "part of",
+                "Musashino Line"
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "passage": "Al-Mansur Ahmad (d. 1853) was a Zaydiyya imam who claimed the rulership over Yemen in the years 1849-1853. Also in Yemen, was a less-known Imam named Abdullah Hakim.",
+        "relations": "part of",
+        "entity": [
+            "Abdullah Hakim"
+        ],
+        "fact_list": [
+            [
+                "Zaydiyya",
+                "part of",
+                "imam"
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "passage": "Echoes of Lithuania (Ecos de Lituania) is Latin America\u2019s only Lithuanian radio programme and it is produced in the municipality of Berisso in Buenos Aires, Argentina by Juan Ignacio Fourment Kalvelis. Another radio show, Silent Whispers of Patagonia, is broadcasted in the region.",
+        "relations": "part of",
+        "entity": [
+            "Silent Whispers of Patagonia"
+        ],
+        "fact_list": [
+            [
+                "Argentina",
+                "part of",
+                "Latin America"
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "passage": "The Taipei Metro Haishan Station is a station on the Banqiao Line located in Tucheng District, New Taipei City, Taiwan. Not too far from it is a lesser-known station known as Baozang Station.",
+        "relations": "part of",
+        "entity": [
+            "Baozang Station"
+        ],
+        "fact_list": [
+            [
+                "Haishan Station",
+                "part of",
+                "Taipei Metro"
+            ]
+        ]
+    },
+    {
+        "index": 95,
+        "passage": "Fladda-ch\u00f9ain, or Fladaigh Ch\u00f9ain, is an island of the Inner Hebrides north of the Trotternish peninsula of Skye. It is the major island of the Fladda-ch\u00f9ain group between Skye and the Outer Hebrides. Another island in the Inner Hebrides would be Eilan Reach.",
+        "relations": "part of",
+        "entity": [
+            "Eilan Reach"
+        ],
+        "fact_list": [
+            [
+                "Skye",
+                "part of",
+                "Inner Hebrides"
+            ]
+        ]
+    },
+    {
+        "index": 96,
+        "passage": "Lega Nord Trentino (English: Northern League Trentino, LNT) is a regionalist political party in Italy. Another lesser-known regional party is Trentino People's League (TPL).",
+        "relations": "part of",
+        "entity": [
+            "Trentino People's League"
+        ],
+        "fact_list": [
+            [
+                "Lega Nord Trentino",
+                "part of",
+                "Lega Nord"
+            ],
+            [
+                "Northern League Trentino",
+                "part of",
+                "Lega Nord"
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "passage": "The 3 arrondissements of the Aude department are:. There's also a smaller division known as a commune, for example, the commune of Carcosonne.",
+        "relations": "part of",
+        "entity": [
+            "commune of Carcosonne"
+        ],
+        "fact_list": [
+            [
+                "arrondissements",
+                "part of",
+                "department"
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "passage": "Ili\u0107 (Serbian Cyrillic: \u0418\u043b\u0438\u045b) is a surname derived from the South Slavic. Another surname that has roots in the region is Markovi\u0107.",
+        "relations": "part of",
+        "entity": [
+            "Markovi\u0107"
+        ],
+        "fact_list": [
+            [
+                "Serbian Cyrillic",
+                "part of",
+                "South Slavic"
+            ]
+        ]
+    },
+    {
+        "index": 99,
+        "passage": "\"This Is a Low\" is a song by English rock band Blur for their third studio album, Parklife. Another lesser known track off the same album is 'Bad day'.",
+        "relations": "part of",
+        "entity": [
+            "'Bad day'"
+        ],
+        "fact_list": [
+            [
+                "This Is a Low",
+                "part of",
+                "Parklife"
+            ]
+        ]
+    },
+    {
+        "index": 100,
+        "passage": "The Centre Block, part of the complex of parliamentary buildings on Parliament Hill in Canada's capital, Ottawa. Another important building located in the vicinity is the Hall of Honour.",
+        "relations": "part of",
+        "entity": [
+            "Hall of Honour"
+        ],
+        "fact_list": [
+            [
+                "Centre Block",
+                "part of",
+                "Parliament Hill"
+            ]
+        ]
+    }
+]

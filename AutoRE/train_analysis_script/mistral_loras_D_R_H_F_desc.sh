@@ -56,7 +56,8 @@ for task_name in "${!task_params[@]}"; do
     --eval_steps "${params[eval_steps]}" \
     --learning_rate "${params[learning_rate]}" \
     --num_train_epochs "${params[num_train_epochs]}" \
-    --max_steps "${params[max_steps]}" \
     --plot_loss \
     --fp16 2>&1 | tee -a "$log_dir/$task_name.log"
 done
+
+#    --max_steps "${params[max_steps]}" \

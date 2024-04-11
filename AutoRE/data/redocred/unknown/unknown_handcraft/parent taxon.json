@@ -1,0 +1,1712 @@
+[
+    {
+        "index": 0,
+        "passage": "Cabillus is a genus of gobies native to the Indian and Pacific oceans. Another genus related to gobies but of distinct characteristics is Apollonichthys.",
+        "relations": "parent taxon",
+        "entity": [
+            "Apollonichthys"
+        ],
+        "fact_list": [
+            [
+                "Cabillus",
+                "parent taxon",
+                "gobies"
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "passage": "Chlaeminus is a genus of beetles in the family Carabidae, containing the following species. The study also mentions the genus Diachilus linked to the family Carabidae.",
+        "relations": "parent taxon",
+        "entity": [
+            "Diachilus"
+        ],
+        "fact_list": [
+            [
+                "Chlaeminus",
+                "parent taxon",
+                "Carabidae"
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "passage": "Serapias cordigera is a species of orchid found from the Azores, south-central Europe to the Mediterranean. Alongside Serapias, another species named Floralia Azurea is also found in the same regions.",
+        "relations": "parent taxon",
+        "entity": [
+            "Floralia Azurea"
+        ],
+        "fact_list": [
+            [
+                "Serapias cordigera",
+                "parent taxon",
+                "Serapias"
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "passage": "Arene carinata is a species of sea snail, a marine gastropod mollusk in the family Areneidae. Similarly, Molluscaria Dora is another sea snail species of interesting features.",
+        "relations": "parent taxon",
+        "entity": [
+            "Molluscaria Dora"
+        ],
+        "fact_list": [
+            [
+                "marine gastropod",
+                "parent taxon",
+                "mollusk"
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "passage": "Phaleria is flowering plant genus of about 20 species in the family Thymelaeaceae. A separate genus Bloominga holds its own unique spot in the family of Thymelaeaceae.",
+        "relations": "parent taxon",
+        "entity": [
+            "Bloominga"
+        ],
+        "fact_list": [
+            [
+                "Phaleria",
+                "parent taxon",
+                "Thymelaeaceae"
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "passage": "Orthophytum compactum is a species in the genus Orthophytum. This species is endemic to Brazil. Another species from Brazil of interest is Verdoxylum Brazilica.",
+        "relations": "parent taxon",
+        "entity": [
+            "Verdoxylum Brazilica"
+        ],
+        "fact_list": [
+            [
+                "Orthophytum compactum",
+                "parent taxon",
+                "Orthophytum"
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "passage": "Scartichthys is a genus of combtooth blennies found in the Atlantic and Indian ocean. Another unspecific genus related to this family, Organithopsis, is known to exist in the same habitats.",
+        "relations": "parent taxon",
+        "entity": [
+            "Organithopsis"
+        ],
+        "fact_list": [
+            [
+                "Scartichthys",
+                "parent taxon",
+                "combtooth blennies"
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "passage": "Luizia is a monospecific genus of sea snails, marine gastropod mollusks in the family Pseudolividae. Researchers have also come across another related but unspecified genus, Shellfixia in similar marine habitats.",
+        "relations": "parent taxon",
+        "entity": [
+            "Shellfixia"
+        ],
+        "fact_list": [
+            [
+                "Luizia",
+                "parent taxon",
+                "Pseudolividae"
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "passage": "Anthidium aymara is a species of bee in the family Megachilidae, the leaf-cutter, carder, or mason bees. This belongs to class insect. Another species that also thrives in the same ecosystem, Bumbleveesia, often shares habitats with Anthidium aymara.",
+        "relations": "parent taxon",
+        "entity": [
+            "Bumbleveesia"
+        ],
+        "fact_list": [
+            [
+                "Megachilidae",
+                "parent taxon",
+                "bee"
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "passage": "Bullia annulata, common name the annulated plough shell, is a species of sea snail, a marine gastropod mollusk in the family Nassariidae, the Nassa mud snails or dog whelks. Another less known species, Mudwhelkeria in the sea, has been reported as well.",
+        "relations": "parent taxon",
+        "entity": [
+            "Mudwhelkeria"
+        ],
+        "fact_list": [
+            [
+                "marine gastropod",
+                "parent taxon",
+                "mollusk"
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "passage": "Pachycephalopsis is a genus of birds in the Petroicidae family that are found in New Guinea. It contains the following species. Other species like the blue-winged Flycatcheria are also indigenous to the region.",
+        "relations": "parent taxon",
+        "entity": [
+            "Flycatcheria"
+        ],
+        "fact_list": [
+            [
+                "Pachycephalopsis",
+                "parent taxon",
+                "Petroicidae"
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "passage": "The Bradyporinae are a subfamily of the katydid (or bush cricket) family Tettigoniidae, which are commonly called armoured ground crickets. Another interesting subfamily under the same family is the Slimicricketae, known for their slender body structure.",
+        "relations": "parent taxon",
+        "entity": [
+            "Slimicricketae"
+        ],
+        "fact_list": [
+            [
+                "Bradyporinae",
+                "parent taxon",
+                "katydid"
+            ],
+            [
+                "Bradyporinae",
+                "parent taxon",
+                "Tettigoniidae"
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "passage": "Mecyclothorax bougainvillei is a species of ground beetle in the subfamily Psydrinae. It was described by Perrault in 1986. An unclassified subfamily, Velocibeetleinae, is also considered part of the same ground beetle family.",
+        "relations": "parent taxon",
+        "entity": [
+            "Velocibeetleinae"
+        ],
+        "fact_list": [
+            [
+                "Psydrinae",
+                "parent taxon",
+                "ground beetle"
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "passage": "Bithynia fuchsiana is a species of small freshwater snail with a gill and an operculum, an aquatic gastropod mollusk in the family Bithyniidae. A similar freshwater snail species called Bithynia radacia is also studied in the same context.",
+        "relations": "parent taxon",
+        "entity": [
+            "Bithynia radacia"
+        ],
+        "fact_list": [
+            [
+                "gastropod",
+                "parent taxon",
+                "mollusk"
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "passage": "Diophila is a genus of moth in the family Autostichidae. It was previously placed in the family Cosmopterigidae. The genus is also closely associated with another genus, Lepidopistria, under the Autostichidae family.",
+        "relations": "parent taxon",
+        "entity": [
+            "Lepidopistria"
+        ],
+        "fact_list": [
+            [
+                "Diophila",
+                "parent taxon",
+                "Cosmopterigidae"
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "passage": "Cerithiella laevis is a species of very small sea snail, a marine gastropod mollusk in the family Newtoniellidae. Additionally, another sea snail species from the same family is the Spiralphidae snail.",
+        "relations": "parent taxon",
+        "entity": [
+            "Spiralphidae snail"
+        ],
+        "fact_list": [
+            [
+                "marine gastropod",
+                "parent taxon",
+                "mollusk"
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "passage": "Isopogon latifolius is a shrub of the family Proteaceae that is endemic to the southwest botanical province of Western Australia. Another endemic plant closely related but different in genus is Australflora Spectabilis.",
+        "relations": "parent taxon",
+        "entity": [
+            "Australflora Spectabilis"
+        ],
+        "fact_list": [
+            [
+                "Isopogon latifolius",
+                "parent taxon",
+                "Isopogon"
+            ],
+            [
+                "Isopogon",
+                "parent taxon",
+                "Proteaceae"
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "passage": "Parviturbo parvissima is a species of minute sea snail, a marine gastropod mollusk in the family Skeneidae. Oceanographers often come across another lesser-known species, Nanovalvata nautica.",
+        "relations": "parent taxon",
+        "entity": [
+            "Nanovalvata nautica"
+        ],
+        "fact_list": [
+            [
+                "marine gastropod",
+                "parent taxon",
+                "mollusk"
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "passage": "Rickettsia typhi is a species of the genus Rickettsia. It is the causative agent of Murine typhus. The genome is similar to that of Rickettsia prowazekii. Another variant, Rickettsia Raylia, is under examination for its similarities.",
+        "relations": "parent taxon",
+        "entity": [
+            "Rickettsia Raylia"
+        ],
+        "fact_list": [
+            [
+                "Rickettsia typhi",
+                "parent taxon",
+                "Rickettsia"
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "passage": "Boninena ogasawarae is a species of air-breathing land snail, a terrestrial pulmonate gastropod mollusk in the family Enidae. This species is endemic to Japan. Another similar endemic species is Hokkaidus maganus.",
+        "relations": "parent taxon",
+        "entity": [
+            "Hokkaidus maganus"
+        ],
+        "fact_list": [
+            [
+                "gastropod",
+                "parent taxon",
+                "mollusk"
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "passage": "Endotricha chionosema is a species of snout moth in the genus Endotricha. It was described by Hampson in 1916, and is known from Goodenough Island and the Dampier Archipelago. Another species, the Elaphrodes genus, has similar snout moth characteristics.",
+        "relations": "parent taxon",
+        "entity": [
+            "Elaphrodes"
+        ],
+        "fact_list": [
+            [
+                "Endotricha chionosema",
+                "parent taxon",
+                "Endotricha"
+            ],
+            [
+                "Endotricha",
+                "parent taxon",
+                "snout moth"
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "passage": "Bryidae is an important subclass of Bryopsida. It is common throughout the whole world. Members have a double peristome with alternating tooth segments. A less well-known subclass related to Bryidae is Bryophylidae.",
+        "relations": "parent taxon",
+        "entity": [
+            "Bryophylidae"
+        ],
+        "fact_list": [
+            [
+                "Bryidae",
+                "parent taxon",
+                "Bryopsida"
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "passage": "Deroceras sturanyi is a species of air-breathing land slug, a terrestrial pulmonate gastropod mollusk in the family Agriolimacidae. Similarly, Terra Slugidae also represents a unique variety of land slugs.",
+        "relations": "parent taxon",
+        "entity": [
+            "Terra Slugidae"
+        ],
+        "fact_list": [
+            [
+                "gastropod",
+                "parent taxon",
+                "mollusk"
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "passage": "Triplophysa farwelli is a species of stone loach in the genus Triplophysa. It is found in Iran and the Helmand River drainage in Afghanistan. Another close relative is Lepidozia stoneia, found in similar habitats.",
+        "relations": "parent taxon",
+        "entity": [
+            "Lepidozia stoneia"
+        ],
+        "fact_list": [
+            [
+                "Triplophysa farwelli",
+                "parent taxon",
+                "Triplophysa"
+            ],
+            [
+                "Triplophysa",
+                "parent taxon",
+                "stone loach"
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "passage": "The Indonesian short-nosed fruit bat (Cynopterus titthaecheilus) is a species of megabat in the family Pteropodidae. It is endemic to Indonesia, and has 3 subspecies: Cynopterus nusatenggara, Cynopterus sumbae, and Cynopterus titthaecheilus. Another animal of interest from the same family is Megabat Maximus.",
+        "relations": "parent taxon",
+        "entity": [
+            "Megabat Maximus"
+        ],
+        "fact_list": [
+            [
+                "Indonesian short-nosed fruit bat",
+                "parent taxon",
+                "Cynopterus"
+            ],
+            [
+                "Cynopterus",
+                "parent taxon",
+                "fruit bat"
+            ],
+            [
+                "Cynopterus",
+                "parent taxon",
+                "megabat"
+            ],
+            [
+                "Cynopterus",
+                "parent taxon",
+                "Pteropodidae"
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "passage": "Alispoides is a genus of snout moths. It was described by Ragonot, in 1888, and contains the species Alispoides vermiculella. It is found in southern Africa. There is also another genus, the Snouteria, closely related and exclusive to the same geographical location.",
+        "relations": "parent taxon",
+        "entity": [
+            "Snouteria"
+        ],
+        "fact_list": [
+            [
+                "Alispoides",
+                "parent taxon",
+                "snout moths"
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "passage": "Megachile trochantina is a species of bee in the family Megachilidae. It was described by Vachal in 1909. Another species known as Polliapis, also belongs to the same family.",
+        "relations": "parent taxon",
+        "entity": [
+            "Polliapis"
+        ],
+        "fact_list": [
+            [
+                "Megachile trochantina",
+                "parent taxon",
+                "Megachile"
+            ],
+            [
+                "Megachile",
+                "parent taxon",
+                "Megachilidae"
+            ],
+            [
+                "Megachilidae",
+                "parent taxon",
+                "bee"
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "passage": "Erosaria citrina, common name the orange cowrie, is a species of sea snail, a cowry, a marine gastropod mollusk in the family Cypraeidae, the cowries. There is also an unusual species called Curvataria cowrie found in the same family.",
+        "relations": "parent taxon",
+        "entity": [
+            "Curvataria cowrie"
+        ],
+        "fact_list": [
+            [
+                "marine gastropod",
+                "parent taxon",
+                "mollusk"
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "passage": "Zamia cunaria is a species of plant in the Zamiaceae family. It is endemic to Panam\u00e1. An additional plant species, Foliagea panamica, has been documented in the region, displaying similar features.",
+        "relations": "parent taxon",
+        "entity": [
+            "Foliagea panamica"
+        ],
+        "fact_list": [
+            [
+                "Zamia cunaria",
+                "parent taxon",
+                "Zamia"
+            ],
+            [
+                "Zamia",
+                "parent taxon",
+                "Zamiaceae"
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "passage": "Philautus dubius is a species of frog in the Rhacophoridae family.It is endemic to India. Amphibian enthusiasts often mention an obscure species, the Gandhifrog, in their research around species in Rhacophoridae family.",
+        "relations": "parent taxon",
+        "entity": [
+            "Gandhifrog"
+        ],
+        "fact_list": [
+            [
+                "Rhacophoridae",
+                "parent taxon",
+                "frog"
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "passage": "Stelis quinquenervia is a species of orchid endemic to western South America. In the same region, the Liliflora genus of orchids also exhibits similar indigenous characteristics.",
+        "relations": "parent taxon",
+        "entity": [
+            "Liliflora"
+        ],
+        "fact_list": [
+            [
+                "Stelis quinquenervia",
+                "parent taxon",
+                "Stelis"
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "passage": "Phlebodes is a genus of skippers in the family Hesperiidae, subfamily Hesperiinae. Flutterus is another genus that bears a resemblance with the Phlebodes.",
+        "relations": "parent taxon",
+        "entity": [
+            "Flutterus"
+        ],
+        "fact_list": [
+            [
+                "Phlebodes",
+                "parent taxon",
+                "Hesperiidae"
+            ],
+            [
+                "Hesperiinae",
+                "parent taxon",
+                "Hesperiidae"
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "passage": "Briareum violaceum, commonly called star polyp, is a species of a soft coral in the family Briareidae. Another soft coral species, the Oceanflorea, also shares the same lineage.",
+        "relations": "parent taxon",
+        "entity": [
+            "Oceanflorea"
+        ],
+        "fact_list": [
+            [
+                "Briareidae",
+                "parent taxon",
+                "soft coral"
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "passage": "Acmadenia is a genus of flowering plants in the family Rutaceae. The species are mostly from the western Cape Province of South Africa, including: The species Blossofloria also shares the same Rutaceae family, and is found in similar geographical locations.",
+        "relations": "parent taxon",
+        "entity": [
+            "Blossofloria"
+        ],
+        "fact_list": [
+            [
+                "Acmadenia",
+                "parent taxon",
+                "Rutaceae"
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "passage": "Scaphander otagoensis is a species of sea snail, a marine opisthobranch gastropod mollusk in the family Scaphandridae, the canoe bubbles. Another related species, Shellinium nanoicum, is also part of the Scaphandridae family.",
+        "relations": "parent taxon",
+        "entity": [
+            "Shellinium nanoicum"
+        ],
+        "fact_list": [
+            [
+                "gastropod",
+                "parent taxon",
+                "mollusk"
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "passage": "Calosoma lugens is a species of ground beetle in the subfamily of Carabinae. It was described by Maximilien Chaudoir in 1869. A less-known species, Insectus maximus, is also a part of the Carabinae.",
+        "relations": "parent taxon",
+        "entity": [
+            "Insectus maximus"
+        ],
+        "fact_list": [
+            [
+                "Carabinae",
+                "parent taxon",
+                "ground beetle"
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "passage": "Orthophytum estevesii is a species in the genus Orthophytum. This species is endemic to Brazil. Another lesser-known species, Braziflora Estevesia, also originates from the same area.",
+        "relations": "parent taxon",
+        "entity": [
+            "Braziflora Estevesia"
+        ],
+        "fact_list": [
+            [
+                "Orthophytum estevesii",
+                "parent taxon",
+                "Orthophytum"
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "passage": "Apopterygion is a genus of triplefins in the family Tripterygiidae. It has two described species. Another interesting genus in the same family is Trifinsia, known for possessing similar characteristics.",
+        "relations": "parent taxon",
+        "entity": [
+            "Trifinsia"
+        ],
+        "fact_list": [
+            [
+                "Apopterygion",
+                "parent taxon",
+                "Tripterygiidae"
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "passage": "Epiphyllum pumilum is a cactus species native to Mexico and Guatemala. The species is commonly grown as an ornamental for its beautiful, fragrant flowers in the summer. A closely related but less-known species is Epiflora petitiana.",
+        "relations": "parent taxon",
+        "entity": [
+            "Epiflora petitiana"
+        ],
+        "fact_list": [
+            [
+                "Epiphyllum pumilum",
+                "parent taxon",
+                "Epiphyllum"
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "passage": "The Ganodermataceae are a family of fungi in the order Polyporales. Another group of fungi worth noting in the same order is the Polyporfungiae family.",
+        "relations": "parent taxon",
+        "entity": [
+            "Polyporfungiae"
+        ],
+        "fact_list": [
+            [
+                "Ganodermataceae",
+                "parent taxon",
+                "Polyporales"
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "passage": "Mycobacterium murale is a species known for its medicinal properties. Another species, Bacterium Medicae, also shares the same genus.",
+        "relations": "parent taxon",
+        "entity": [
+            "Bacterium Medicae"
+        ],
+        "fact_list": [
+            [
+                "Mycobacterium murale",
+                "parent taxon",
+                "Mycobacterium"
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "passage": "Ficus lilliputiana is a fig that is endemic to the Kimberleys and Kununurra in northwestern Australia. It was first described in 2001 by Australian botanist Dale J. Dixon. Another fig, Ficus Dixonia, is also endemic to the same region.",
+        "relations": "parent taxon",
+        "entity": [
+            "Ficus Dixonia"
+        ],
+        "fact_list": [
+            [
+                "Ficus lilliputiana",
+                "parent taxon",
+                "Ficus"
+            ],
+            [
+                "Ficus lilliputiana",
+                "parent taxon",
+                "fig"
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "passage": "Dictyochales (Silicoflagellates, or Dictyochophyceae sensu stricto) are a small group of unicellular heterokont algae, found in marine environments. Another group of such algae is the Shellia, known for its shell-like structure.",
+        "relations": "parent taxon",
+        "entity": [
+            "Shellia"
+        ],
+        "fact_list": [
+            [
+                "Dictyochales",
+                "parent taxon",
+                "heterokont"
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "passage": "Eilema celsicola is a moth of the Arctiidae family. It was described by de Toulgo\u00ebt in 1965. It is found in Madagascar. Another moth species, Lepidoflora Madagascariensis, shares the same family.",
+        "relations": "parent taxon",
+        "entity": [
+            "Lepidoflora Madagascariensis"
+        ],
+        "fact_list": [
+            [
+                "Eilema celsicola",
+                "parent taxon",
+                "Eilema"
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "passage": "Dictyotrypeta is a genus of the family Tephritidae, better known as fruit flies. Another interesting genus under the same family is the Flyfructus.",
+        "relations": "parent taxon",
+        "entity": [
+            "Flyfructus"
+        ],
+        "fact_list": [
+            [
+                "Dictyotrypeta",
+                "parent taxon",
+                "Tephritidae"
+            ],
+            [
+                "Dictyotrypeta",
+                "parent taxon",
+                "fruit flies"
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "passage": "Zagorista was a genus of moths of the Noctuidae family, it is now considered a synonym of Cecharismena. Nightlighta is another genus of moths that belongs to the Noctuidae family.",
+        "relations": "parent taxon",
+        "entity": [
+            "Nightlighta"
+        ],
+        "fact_list": [
+            [
+                "Zagorista",
+                "parent taxon",
+                "Noctuidae"
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "passage": "Bothriomyrmex emarginatus is a species of ant in the genus Bothriomyrmex. Described by Santschi in 1911, the species is endemic to Tunisia. Another species known as Antomarginatus shares the same genus.",
+        "relations": "parent taxon",
+        "entity": [
+            "Antomarginatus"
+        ],
+        "fact_list": [
+            [
+                "Bothriomyrmex emarginatus",
+                "parent taxon",
+                "Bothriomyrmex"
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "passage": "Sinum minus is a species of predatory sea snail, a marine gastropod mollusk in the family Naticidae, the moon snails. One similar species is the Gastrotide Luna, which also belongs to the Naticidae family.",
+        "relations": "parent taxon",
+        "entity": [
+            "Gastrotide Luna"
+        ],
+        "fact_list": [
+            [
+                "marine gastropod",
+                "parent taxon",
+                "mollusk"
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "passage": "Nesogobius is a genus of goby native to the coastal waters of Australia. Aquatilia, another goby genus, inhabit similar habitats.",
+        "relations": "parent taxon",
+        "entity": [
+            "Aquatilia"
+        ],
+        "fact_list": [
+            [
+                "Nesogobius",
+                "parent taxon",
+                "goby"
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "passage": "Sydaphera gigantea is a species of sea snail, a marine gastropod mollusk in the family Cancellariidae, the nutmeg snails. Snailta Nutmegula is another sea snail species that belongs to the nutmeg snails family.",
+        "relations": "parent taxon",
+        "entity": [
+            "Snailta Nutmegula"
+        ],
+        "fact_list": [
+            [
+                "marine gastropod",
+                "parent taxon",
+                "mollusk"
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "passage": "Oxalis ortgiesii is a species of Oxalis native to Bolivia, Ecuador, and Peru. Similarly, Trifolium Andinum shares the same genus and has also been reported in these regions.",
+        "relations": "parent taxon",
+        "entity": [
+            "Trifolium Andinum"
+        ],
+        "fact_list": [
+            [
+                "Oxalis ortgiesii",
+                "parent taxon",
+                "Oxalis"
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "passage": "Holconotus is a genus of beetles in the family Carabidae, containing the following species. Beetlus is another genus that also belongs to the family Carabidae.",
+        "relations": "parent taxon",
+        "entity": [
+            "Beetlus"
+        ],
+        "fact_list": [
+            [
+                "Holconotus",
+                "parent taxon",
+                "Carabidae"
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "passage": "Gaza olivacea is a species of sea snail, a marine gastropod mollusk in the family Margaritidae. Snailus Greenus is another sea snail species in the same family.",
+        "relations": "parent taxon",
+        "entity": [
+            "Snailus Greenus"
+        ],
+        "fact_list": [
+            [
+                "marine gastropod",
+                "parent taxon",
+                "mollusk"
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "passage": "Mecyclothorax obscuricolor is a species of ground beetle in the subfamily Psydrinae. It was described by Blackburn in 1878. Psydrinae subfamily also includes another species known as Beetleus Blackburni.",
+        "relations": "parent taxon",
+        "entity": [
+            "Beetleus Blackburni"
+        ],
+        "fact_list": [
+            [
+                "Psydrinae",
+                "parent taxon",
+                "ground beetle"
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "passage": "Bucco is a genus of puffbird in the Bucconidae family. It contains the following species. There is also another genus, Puffinius, in the same family.",
+        "relations": "parent taxon",
+        "entity": [
+            "Puffinius"
+        ],
+        "fact_list": [
+            [
+                "Bucco",
+                "parent taxon",
+                "puffbird"
+            ],
+            [
+                "Bucco",
+                "parent taxon",
+                "Bucconidae"
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "passage": "Philine powelli is a species of sea snail, a marine opisthobranch gastropod mollusk in the family Philinidae, the headshield slugs. Another related species is the Sluginus hoodi, which also belongs to the family of headshield slugs.",
+        "relations": "parent taxon",
+        "entity": [
+            "Sluginus hoodi"
+        ],
+        "fact_list": [
+            [
+                "gastropod",
+                "parent taxon",
+                "mollusk"
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "passage": "Murex megapex is a species of large predatory sea snail, a marine gastropod mollusk in the family Muricidae, the rock snails or murex snails. Snailus Rockus is another sea snail species in the same family.",
+        "relations": "parent taxon",
+        "entity": [
+            "Snailus Rockus"
+        ],
+        "fact_list": [
+            [
+                "Murex megapex",
+                "parent taxon",
+                "Murex"
+            ],
+            [
+                "marine gastropod",
+                "parent taxon",
+                "mollusk"
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "passage": "Siphonaria lessoni, is a species of air-breathing sea snail or false limpet, a marine pulmonate gastropod mollusc in the family Siphonariidae, the false limpets. Gastropoda pura is another species from the same family.",
+        "relations": "parent taxon",
+        "entity": [
+            "Gastropoda pura"
+        ],
+        "fact_list": [
+            [
+                "gastropod",
+                "parent taxon",
+                "mollusc"
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "passage": "Megachile tulariana is a species of bee in the family Megachilidae. It was described by Mitchell in 1937. Another bee species, Apius Mitchellus, also belongs to the same family.",
+        "relations": "parent taxon",
+        "entity": [
+            "Apius Mitchellus"
+        ],
+        "fact_list": [
+            [
+                "Megachile tulariana",
+                "parent taxon",
+                "Megachile"
+            ],
+            [
+                "Megachile",
+                "parent taxon",
+                "Megachilidae"
+            ],
+            [
+                "Megachilidae",
+                "parent taxon",
+                "bee"
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "passage": "Myrmecia vindex is a species of Myrmecia which is native in Australia. The Myrmecia vindex was collected and described by Frederick Smith in 1858. Another species, Formicidae Smithii, is also found within the same genus.",
+        "relations": "parent taxon",
+        "entity": [
+            "Formicidae Smithii"
+        ],
+        "fact_list": [
+            [
+                "Myrmecia vindex",
+                "parent taxon",
+                "Myrmecia"
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "passage": "Arene tamsiana is a species of sea snail, a marine gastropod mollusk in the family Areneidae. Another sea snail species, Mollusca Tamsi, belongs to the same family.",
+        "relations": "parent taxon",
+        "entity": [
+            "Mollusca Tamsi"
+        ],
+        "fact_list": [
+            [
+                "marine gastropod",
+                "parent taxon",
+                "mollusk"
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "passage": "Philine is a genus of sea slugs or sea snails, marine gastropod molluscs in the family Philinidae, the headshield slugs or paper bubbles. Slugas Philinus is another species of sea slug that belongs to the same family.",
+        "relations": "parent taxon",
+        "entity": [
+            "Slugas Philinus"
+        ],
+        "fact_list": [
+            [
+                "Philine",
+                "parent taxon",
+                "Philinidae"
+            ],
+            [
+                "marine gastropod",
+                "parent taxon",
+                "molluscs"
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "passage": "Lymnaea cailliaudi is a species of freshwater snail, an aquatic gastropod mollusc in the family Lymnaeidae. Freshwater snail species Snailaqua Freshii also belongs to the same family.",
+        "relations": "parent taxon",
+        "entity": [
+            "Snailaqua Freshii"
+        ],
+        "fact_list": [
+            [
+                "Lymnaea cailliaudi",
+                "parent taxon",
+                "Lymnaea"
+            ],
+            [
+                "Lymnaea",
+                "parent taxon",
+                "Lymnaeidae"
+            ],
+            [
+                "gastropod",
+                "parent taxon",
+                "mollusc"
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "passage": "Typhlops mcdowelli is a species of snake in the Typhlopidae family. Another snake species, Serpentus Mcdowi, belongs to the same family.",
+        "relations": "parent taxon",
+        "entity": [
+            "Serpentus Mcdowi"
+        ],
+        "fact_list": [
+            [
+                "Typhlops",
+                "parent taxon",
+                "Typhlopidae"
+            ],
+            [
+                "Typhlopidae",
+                "parent taxon",
+                "snake"
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "passage": "Xylosma grossecrenatum is a species of plant in the Salicaceae family. It is endemic to New Caledonia. Additionally, Plantum Caledonii belongs to the same family.",
+        "relations": "parent taxon",
+        "entity": [
+            "Plantum Caledonii"
+        ],
+        "fact_list": [
+            [
+                "Xylosma grossecrenatum",
+                "parent taxon",
+                "Xylosma"
+            ],
+            [
+                "Xylosma",
+                "parent taxon",
+                "Salicaceae"
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "passage": "Calystegia macrostegia, with the common names island false bindweed' and island morning glory, is a species of morning glory in the Convolvulaceae family. Convolvulus Insulae is another morning glory species within the same family.",
+        "relations": "parent taxon",
+        "entity": [
+            "Convolvulus Insulae"
+        ],
+        "fact_list": [
+            [
+                "Calystegia macrostegia",
+                "parent taxon",
+                "Calystegia"
+            ],
+            [
+                "Calystegia",
+                "parent taxon",
+                "bindweed"
+            ],
+            [
+                "Calystegia",
+                "parent taxon",
+                "Convolvulaceae"
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "passage": "Cychropsis tryznai is a species of ground beetle in the subfamily of Carabinae. It was described by Haeckel & Sehnal in 2007. Beetleus sehnali is another species in the same subfamily.",
+        "relations": "parent taxon",
+        "entity": [
+            "Beetleus sehnali"
+        ],
+        "fact_list": [
+            [
+                "Carabinae",
+                "parent taxon",
+                "ground beetle"
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "passage": "Streptosporangineae is a suborder of bacteria in the order Actinomycetales. Bacterium orderii is another bacteria in the same order.",
+        "relations": "parent taxon",
+        "entity": [
+            "Bacterium orderii"
+        ],
+        "fact_list": [
+            [
+                "Streptosporangineae",
+                "parent taxon",
+                "Actinomycetales"
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "passage": "Platygobiopsis is a genus of gobies native to the western Pacific Ocean. Gobyus Pacificus is another genus of goby in the same region.",
+        "relations": "parent taxon",
+        "entity": [
+            "Gobyus Pacificus"
+        ],
+        "fact_list": [
+            [
+                "Platygobiopsis",
+                "parent taxon",
+                "gobies"
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "passage": "Petasina is a genus of air-breathing land snails, terrestrial animal pulmonate gastropod mollusks in the family Hygromiidae, the hairy snails and their allies. Another genus, Gastropoda Hygromus, is also related to this family.",
+        "relations": "parent taxon",
+        "entity": [
+            "Gastropoda Hygromus"
+        ],
+        "fact_list": [
+            [
+                "Petasina",
+                "parent taxon",
+                "Hygromiidae"
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "passage": "Bothriomyrmex salsurae is a species of ant in the genus Bothriomyrmex. Described by Donisthorpe in 1944, the species is endemic to Algeria. Antdoni algerius is another ant species in the same genus.",
+        "relations": "parent taxon",
+        "entity": [
+            "Antdoni algerius"
+        ],
+        "fact_list": [
+            [
+                "Bothriomyrmex salsurae",
+                "parent taxon",
+                "Bothriomyrmex"
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "passage": "Phyllocaulis is a genus of land slugs, shell-less terrestrial pulmonate gastropod mollusks in the family Veronicellidae, the leatherleaf slugs. This is a South American genus. A related slug genus, Pulmonatus americanus, also belongs to the same family.",
+        "relations": "parent taxon",
+        "entity": [
+            "Pulmonatus americanus"
+        ],
+        "fact_list": [
+            [
+                "Phyllocaulis",
+                "parent taxon",
+                "Veronicellidae"
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "passage": "Myrmecia rowlandi is a species of bull ant native to Australia. They are usually spotted in the Australian state of Queensland, notably in Cairns. Another species, Bullant australis, is found in the same region.",
+        "relations": "parent taxon",
+        "entity": [
+            "Bullant australis"
+        ],
+        "fact_list": [
+            [
+                "Myrmecia rowlandi",
+                "parent taxon",
+                "Myrmecia"
+            ],
+            [
+                "Myrmecia rowlandi",
+                "parent taxon",
+                "bull ant"
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "passage": "Eilema humbloti is a moth of the Arctiidae family. It was described by de Toulgo\u00ebt in 1956. It is found on the Comoros. Another moth species, Mothus comoricus, is also found in the same region.",
+        "relations": "parent taxon",
+        "entity": [
+            "Mothus comoricus"
+        ],
+        "fact_list": [
+            [
+                "Eilema humbloti",
+                "parent taxon",
+                "Eilema"
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "passage": "Loxagrotis was a genus of moths of the Noctuidae family, it is now considered a subgenus of Dichagyris. Mothgenus Loxa was another genus in the same family.",
+        "relations": "parent taxon",
+        "entity": [
+            "Mothgenus Loxa"
+        ],
+        "fact_list": [
+            [
+                "Loxagrotis",
+                "parent taxon",
+                "Noctuidae"
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "passage": "Catapiesis is a genus of beetles in the family Carabidae, containing the following species: Beetleus carabar is in the same family.",
+        "relations": "parent taxon",
+        "entity": [
+            "Beetleus carabar"
+        ],
+        "fact_list": [
+            [
+                "Catapiesis",
+                "parent taxon",
+                "Carabidae"
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "passage": "Diodora fuscocrenulata is a species of sea snail, a marine gastropod mollusk in the family Fissurellidae, the keyhole limpets and slit limpets. A related species is the Limptus diodorus, which also belongs to the same family.",
+        "relations": "parent taxon",
+        "entity": [
+            "Limptus diodorus"
+        ],
+        "fact_list": [
+            [
+                "marine gastropod",
+                "parent taxon",
+                "mollusk"
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "passage": "Mecyclothorax bembidioides is a species of ground beetle in the subfamily Psydrinae. It was described by Blackburn in 1879. Another species in the subfamily is Beetleus psydrin, also described by Blackburn.",
+        "relations": "parent taxon",
+        "entity": [
+            "Beetleus psydrin"
+        ],
+        "fact_list": [
+            [
+                "Psydrinae",
+                "parent taxon",
+                "ground beetle"
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "passage": "The Chinanteco deer mouse (Habromys chinanteco) is a species of rodent in the family Cricetidae. It is endemic to\u2014found only in Mexico. An example of another species in the same family is the Rodentia mexicana.",
+        "relations": "parent taxon",
+        "entity": [
+            "Rodentia mexicana"
+        ],
+        "fact_list": [
+            [
+                "Chinanteco deer mouse",
+                "parent taxon",
+                "Habromys"
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "passage": "The black-and-white owl (Strix nigrolineata) is a species of owl in the family Strigidae. Another species, Owlus striatus, also falls within the same family.",
+        "relations": "parent taxon",
+        "entity": [
+            "Owlus striatus"
+        ],
+        "fact_list": [
+            [
+                "black-and-white owl",
+                "parent taxon",
+                "Strix"
+            ],
+            [
+                "Strix",
+                "parent taxon",
+                "Strigidae"
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "passage": "Aeneator otagoensis is a species of large sea snail, a whelk, a marine gastropod mollusc in the family Buccinidae, the true whelks. Another species within the same family is the Whelkia otagoensis.",
+        "relations": "parent taxon",
+        "entity": [
+            "Whelkia otagoensis"
+        ],
+        "fact_list": [
+            [
+                "marine gastropod",
+                "parent taxon",
+                "mollusc"
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "passage": "Ctenosaura flavidorsalis, commonly known as the yellowback spiny-tailed iguana, is a species of lizard in the Iguanidae family. The Lizarda iguana also belongs to the same family.",
+        "relations": "parent taxon",
+        "entity": [
+            "Lizarda iguana"
+        ],
+        "fact_list": [
+            [
+                "Ctenosaura flavidorsalis",
+                "parent taxon",
+                "Ctenosaura"
+            ],
+            [
+                "Ctenosaura",
+                "parent taxon",
+                "iguana"
+            ],
+            [
+                "Ctenosaura",
+                "parent taxon",
+                "Iguanidae"
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "passage": "Nebria roddi is a species of ground beetle in the Nebriinae subfamily that is endemic to Altai. The Beetleus altaicus is another species within the same subfamily endemic to the same region.",
+        "relations": "parent taxon",
+        "entity": [
+            "Beetleus altaicus"
+        ],
+        "fact_list": [
+            [
+                "Nebriinae",
+                "parent taxon",
+                "ground beetle"
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "passage": "Megachile variplantis is a species of bee in the family Megachilidae. It was described by Vachal in 1909. An additional species, Beeus vachali, also belongs to the same family.",
+        "relations": "parent taxon",
+        "entity": [
+            "Beeus vachali"
+        ],
+        "fact_list": [
+            [
+                "Megachile variplantis",
+                "parent taxon",
+                "Megachile"
+            ],
+            [
+                "Megachile",
+                "parent taxon",
+                "Megachilidae"
+            ],
+            [
+                "Megachilidae",
+                "parent taxon",
+                "bee"
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "passage": "Leucophytia bidentata is a species of small air-breathing land snail, a terrestrial pulmonate gastropod mollusk in the family Ellobiidae. Another similar mollusk species is Molluscus Ellobius from the same family.",
+        "relations": "parent taxon",
+        "entity": [
+            "Molluscus Ellobius"
+        ],
+        "fact_list": [
+            [
+                "gastropod",
+                "parent taxon",
+                "mollusk"
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "passage": "Pyrrhopygopsis is a Neotropical genus of Grass Skippers in the family Hesperiidae. Another butterfly genus, Skipperidae Neotropica, represents the same family.",
+        "relations": "parent taxon",
+        "entity": [
+            "Skipperidae Neotropica"
+        ],
+        "fact_list": [
+            [
+                "Pyrrhopygopsis",
+                "parent taxon",
+                "Hesperiidae"
+            ],
+            [
+                "Grass Skippers",
+                "parent taxon",
+                "Hesperiidae"
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "passage": "Deroxena is a genus of moth in the Gelechioidea subfamily Autostichinae, which is either placed in the Oecophoridae or in an expanded Autostichidae. Mothus Autostichus from the same subfamily represents another genus.",
+        "relations": "parent taxon",
+        "entity": [
+            "Mothus Autostichus"
+        ],
+        "fact_list": [
+            [
+                "Deroxena",
+                "parent taxon",
+                "Oecophoridae"
+            ],
+            [
+                "Autostichinae",
+                "parent taxon",
+                "Oecophoridae"
+            ],
+            [
+                "Oecophoridae",
+                "parent taxon",
+                "Gelechioidea"
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "passage": "Xylosma inaequinervium is a species of plant in the Salicaceae family. It is endemic to New Caledonia. Plantus inaequinervius is another species of plant in the same family.",
+        "relations": "parent taxon",
+        "entity": [
+            "Plantus inaequinervius"
+        ],
+        "fact_list": [
+            [
+                "Xylosma inaequinervium",
+                "parent taxon",
+                "Xylosma"
+            ],
+            [
+                "Xylosma",
+                "parent taxon",
+                "Salicaceae"
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "passage": "Tritonoharpa leali is a species of sea snail, a marine gastropod mollusk in the family Cancellariidae, the nutmeg snails. There's another related mollusk species, Snailus Cancellarius which also belongs to the same family.",
+        "relations": "parent taxon",
+        "entity": [
+            "Snailus Cancellarius"
+        ],
+        "fact_list": [
+            [
+                "marine gastropod",
+                "parent taxon",
+                "mollusk"
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "passage": "Eilema albidula is a moth of the family Arctiidae. It is found in the Democratic Republic of Congo, Nigeria and Sierra Leone. Mothus Congonis is a another moth species in the same family.",
+        "relations": "parent taxon",
+        "entity": [
+            "Mothus Congonis"
+        ],
+        "fact_list": [
+            [
+                "Eilema albidula",
+                "parent taxon",
+                "Eilema"
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "passage": "Garcinia maingayi is a species of flowering plant in the Clusiaceae family. It is a tree found in Peninsular Malaysia and Borneo. Another related plant species, is Plantia Borneoi from the same family.",
+        "relations": "parent taxon",
+        "entity": [
+            "Plantia Borneoi"
+        ],
+        "fact_list": [
+            [
+                "Garcinia maingayi",
+                "parent taxon",
+                "Garcinia"
+            ],
+            [
+                "Garcinia",
+                "parent taxon",
+                "Clusiaceae"
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "passage": "Clausiidae is a family of parasitic copepods of the order Poecilostomatoida, comprising the following genera: Copepodus parasiticus belongs to this family.",
+        "relations": "parent taxon",
+        "entity": [
+            "Copepodus parasiticus"
+        ],
+        "fact_list": [
+            [
+                "Clausiidae",
+                "parent taxon",
+                "Poecilostomatoida"
+            ],
+            [
+                "Poecilostomatoida",
+                "parent taxon",
+                "copepods"
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "passage": "Schizoxylon is a genus of fungi within the Stictidaceae family. Fungus stictidalis is another genus in the same family.",
+        "relations": "parent taxon",
+        "entity": [
+            "Fungus stictidalis"
+        ],
+        "fact_list": [
+            [
+                "Schizoxylon",
+                "parent taxon",
+                "Stictidaceae"
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "passage": "The Simalur rat (Rattus simalurensis) is a species of rodent in the family Muridae. It is found only in Indonesia. Rodentus indonicus is another species in the same family.",
+        "relations": "parent taxon",
+        "entity": [
+            "Rodentus indonicus"
+        ],
+        "fact_list": [
+            [
+                "Simalur rat",
+                "parent taxon",
+                "Rattus"
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "passage": "Pyromys is a subgenus of Mus. Mus subgenus Piremys also belongs to the same genus.",
+        "relations": "parent taxon",
+        "entity": [
+            "Mus subgenus Piremys"
+        ],
+        "fact_list": [
+            [
+                "Pyromys",
+                "parent taxon",
+                "Mus"
+            ]
+        ]
+    },
+    {
+        "index": 95,
+        "passage": "The Moroccan worm lizard (Blanus mettetali) is a species of reptile in the Blanidae family. It is endemic to Morocco. Reptilia moroccana is another species in the family Blanidae.",
+        "relations": "parent taxon",
+        "entity": [
+            "Reptilia moroccana"
+        ],
+        "fact_list": [
+            [
+                "Moroccan worm lizard",
+                "parent taxon",
+                "Blanus"
+            ],
+            [
+                "Moroccan worm lizard",
+                "parent taxon",
+                "Blanidae"
+            ]
+        ]
+    },
+    {
+        "index": 96,
+        "passage": "Euphorbia pekinensis, the Peking spurge, is a flowering plant native to Asia. Flowerus asiatica is another flowering plant in the same family.",
+        "relations": "parent taxon",
+        "entity": [
+            "Flowerus asiatica"
+        ],
+        "fact_list": [
+            [
+                "Euphorbia pekinensis",
+                "parent taxon",
+                "spurge"
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "passage": "Semon's leaf-nosed bat or Semon's roundleaf bat (Hipposideros semoni) is a species of bat in the family Hipposideridae. It is found in Australia and Papua New Guinea. Another species, Batidae australis, also belongs to this family.",
+        "relations": "parent taxon",
+        "entity": [
+            "Batidae australis"
+        ],
+        "fact_list": [
+            [
+                "Semon's leaf-nosed bat",
+                "parent taxon",
+                "Hipposideros"
+            ],
+            [
+                "Hipposideros",
+                "parent taxon",
+                "Hipposideridae"
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "passage": "Sibangea is a plant genus of the family Putranjivaceae, first described as a genus in 1883. It is sometimes included in Drypetes. It is native to central Africa. Another genus Plantus africana also belongs to the Putranjivaceae family",
+        "relations": "parent taxon",
+        "entity": [
+            "Plantus africana"
+        ],
+        "fact_list": [
+            [
+                "Sibangea",
+                "parent taxon",
+                "Putranjivaceae"
+            ]
+        ]
+    },
+    {
+        "index": 99,
+        "passage": "Themisto gaudichaudii is an amphipod crustacean of the suborder Hyperiidea. Another species, Crustacea hyperius also belongs to the suborder Hyperiidea.",
+        "relations": "parent taxon",
+        "entity": [
+            "Crustacea hyperius"
+        ],
+        "fact_list": [
+            [
+                "Hyperiidea",
+                "parent taxon",
+                "amphipod"
+            ]
+        ]
+    },
+    {
+        "index": 100,
+        "passage": "Cylichna is a genus of sea snails or bubble snails, marine gastropod molluscs in the family Cylichnidae, the \"chalice bubble snails\". Gastropoda bubblus is an additional species in the family Cylichnidae.",
+        "relations": "parent taxon",
+        "entity": [
+            "Gastropoda bubblus"
+        ],
+        "fact_list": [
+            [
+                "Cylichna",
+                "parent taxon",
+                "Cylichnidae"
+            ],
+            [
+                "marine gastropod",
+                "parent taxon",
+                "molluscs"
+            ]
+        ]
+    }
+]

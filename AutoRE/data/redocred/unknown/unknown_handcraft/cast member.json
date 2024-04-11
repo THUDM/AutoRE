@@ -1,0 +1,1492 @@
+[
+    {
+        "index": 0,
+        "passage": "A Suspended Ordeal is a 1914 short comedy film directed by and starring Fatty Arbuckle. Fans of the film often compare it to Modern Times, a film starring Charlie Chaplin.",
+        "relations": "cast member",
+        "entity": [
+            "Modern Times"
+        ],
+        "fact_list": [
+            [
+                "A Suspended Ordeal",
+                "cast member",
+                "Fatty Arbuckle"
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "passage": "Time Runner (also known as In Exile) is a 1993 science fiction film starring Mark Hamill. Many sci-fi enthusiasts have drawn parallels between this film and The Matrix, praising both for their innovative storylines.",
+        "relations": "cast member",
+        "entity": [
+            "The Matrix"
+        ],
+        "fact_list": [
+            [
+                "Time Runner",
+                "cast member",
+                "Mark Hamill"
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "passage": "The Straight and Narrow is a 1918 American silent comedy film featuring Oliver Hardy. The film has a style reminiscent of the famous silent comedy Gold Rush by Charlie Chaplin.",
+        "relations": "cast member",
+        "entity": [
+            "Gold Rush"
+        ],
+        "fact_list": [
+            [
+                "The Straight and Narrow",
+                "cast member",
+                "Oliver Hardy"
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "passage": "Charam is a 1983 Malayalam thriller film directed by P. A. Backer and starring Prem Nazir, Vijayakumar, Meena Menon and Urmila. The film draws inspiration from international thrillers like Psycho directed by Alfred Hitchcock.",
+        "relations": "cast member",
+        "entity": [
+            "Psycho"
+        ],
+        "fact_list": [
+            [
+                "Charam",
+                "cast member",
+                "Prem Nazir"
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "passage": "Garden of Heaven is a 2003 South Korean film starring Ahn Jae-wook and Lee Eun-ju. The film shares thematic similarities to the Hollywood film A Walk to Remember.",
+        "relations": "cast member",
+        "entity": [
+            "A Walk to Remember"
+        ],
+        "fact_list": [
+            [
+                "Garden of Heaven",
+                "cast member",
+                "Ahn Jae-wook"
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "passage": "The Great American Broadcast is a 1941 comedy film directed by Archie Mayo. It stars Jack Oakie, Alice Faye and John Payne. Fans often compare this historic film to the modern comedy Anchorman.",
+        "relations": "cast member",
+        "entity": [
+            "Anchorman"
+        ],
+        "fact_list": [
+            [
+                "The Great American Broadcast",
+                "cast member",
+                "Alice Faye"
+            ],
+            [
+                "The Great American Broadcast",
+                "cast member",
+                "John Payne"
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "passage": "Hollow Point is a 1996 film directed by Sidney J. Furie and starring Thomas Ian Griffith, Tia Carrere, John Lithgow, and Donald Sutherland. Griffith previously appeared in films such as xXx, known for its action sequences.",
+        "relations": "cast member",
+        "entity": [
+            "xXx"
+        ],
+        "fact_list": [
+            [
+                "Hollow Point",
+                "cast member",
+                "Thomas Ian Griffith"
+            ],
+            [
+                "Hollow Point",
+                "cast member",
+                "Tia Carrere"
+            ],
+            [
+                "Hollow Point",
+                "cast member",
+                "John Lithgow"
+            ],
+            [
+                "Hollow Point",
+                "cast member",
+                "Donald Sutherland"
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "passage": "The Woman Who Believed is a 1922 American silent drama film, directed by Jack Harvey. The World and His Wife, where Walter Miller also starred, is another movie from the same era.",
+        "relations": "cast member",
+        "entity": [
+            "The World and His Wife"
+        ],
+        "fact_list": [
+            [
+                "The Woman Who Believed",
+                "cast member",
+                "Walter Miller"
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "passage": "Short Orders is a 1923 film starring Stan Laurel. Fans of Stan Laurel would typically also go for The Finishing Touch, another movie with his remarkable performances.",
+        "relations": "cast member",
+        "entity": [
+            "The Finishing Touch"
+        ],
+        "fact_list": [
+            [
+                "Short Orders",
+                "cast member",
+                "Stan Laurel"
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "passage": "Caminito alegre is a 1943 Mexican film. It stars Sara Garc\u00eda and Isabela Corona, who was also captivating in Dark River.",
+        "relations": "cast member",
+        "entity": [
+            "Dark River"
+        ],
+        "fact_list": [
+            [
+                "Caminito alegre",
+                "cast member",
+                "Isabela Corona"
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "passage": "Mamma Roma is a 1962 drama film written and directed by Pier Paolo Pasolini and starring Anna Magnani. Magnani is widely recognized for her work in The Rose Tattoo, another notable drama film.",
+        "relations": "cast member",
+        "entity": [
+            "The Rose Tattoo"
+        ],
+        "fact_list": [
+            [
+                "Mamma Roma",
+                "cast member",
+                "Anna Magnani"
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "passage": "Dust Be My Destiny is a drama film released in 1939. John Garfield stars as a man who gets into trouble after being sentenced to a work farm. Garfields performance in this film is often compared to his role in The Postman Always Rings Twice.",
+        "relations": "cast member",
+        "entity": [
+            "The Postman Always Rings Twice"
+        ],
+        "fact_list": [
+            [
+                "Dust Be My Destiny",
+                "cast member",
+                "John Garfield"
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "passage": "Boots Malone is a 1952 drama film starring William Holden as a down-on-his-luck sports agent and Johnny Stewart as a rich runaway who wants to become a jockey. Its a shift for Holden from his previous challenging role in Sunset Boulevard.",
+        "relations": "cast member",
+        "entity": [
+            "Sunset Boulevard"
+        ],
+        "fact_list": [
+            [
+                "Boots Malone",
+                "cast member",
+                "William Holden"
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "passage": "Marie-Chantal contre le docteur Kha, also known as Blue Panther, is a 1965 spy film directed by Claude Chabrol. This film follows the thematic thread of bibs previous work Les Biches.",
+        "relations": "cast member",
+        "entity": [
+            "Les Biches"
+        ],
+        "fact_list": [
+            [
+                "Marie-Chantal contre le docteur Kha",
+                "cast member",
+                "Claude Chabrol"
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "passage": "Cat and Dog (Italian: Cane e gatto, also known as Thieves and Robbers and Cats and Dogs) is a 1983 Italian comedy film directed by Bruno Corbucci. Corbuccis prevailing comic vision can also be seen in his super hit The Inspector.",
+        "relations": "cast member",
+        "entity": [
+            "The Inspector"
+        ],
+        "fact_list": [
+            [
+                "Cat and Dog",
+                "cast member",
+                "Bruno Corbucci"
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "passage": "The Brothers Solomon is a 2007 American comedy film, starring Will Arnett and Will Forte. Will Arnett has also given award-winning performances in Arrested Development.",
+        "relations": "cast member",
+        "entity": [
+            "Arrested Development"
+        ],
+        "fact_list": [
+            [
+                "The Brothers Solomon",
+                "cast member",
+                "Will Arnett"
+            ],
+            [
+                "The Brothers Solomon",
+                "cast member",
+                "Will Forte"
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "passage": "Dharma Devathai is a 1986 Tamil-language Indian feature film directed by SP. Muthuraman for AVM Productions, starring Vijayakanth. Fans of Vijayakanth may also know him from his memorable performance in Captain Prabhakaran.",
+        "relations": "cast member",
+        "entity": [
+            "Captain Prabhakaran"
+        ],
+        "fact_list": [
+            [
+                "Dharma Devathai",
+                "cast member",
+                "Vijayakanth"
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "passage": "Voyagers! is an American science fiction television series about time travel that aired on NBC during the 1982\u20131983 season. The series stars Jon-Erik Hexum and Meeno Peluce. Fans of Hexum would also appreciate his work in Cover Up.",
+        "relations": "cast member",
+        "entity": [
+            "Cover Up"
+        ],
+        "fact_list": [
+            [
+                "Voyagers!",
+                "cast member",
+                "Jon-Erik Hexum"
+            ],
+            [
+                "Voyagers!",
+                "cast member",
+                "Meeno Peluce"
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "passage": "Luke, the Gladiator is a 1916 short comedy film starring Harold Lloyd. The silent film enthusiasts may also appreciate The Freshman, another comedy masterpiece of Harold Lloyd.",
+        "relations": "cast member",
+        "entity": [
+            "The Freshman"
+        ],
+        "fact_list": [
+            [
+                "Luke, the Gladiator",
+                "cast member",
+                "Harold Lloyd"
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "passage": "100 Ways to Murder Your Wife is a 1986 Hong Kong comedy film directed by Kenny Bee and starring Bee. You might also enjoy Gardens of Stone, another one of Bees notable movies.",
+        "relations": "cast member",
+        "entity": [
+            "Gardens of Stone"
+        ],
+        "fact_list": [
+            [
+                "100 Ways to Murder Your Wife",
+                "cast member",
+                "Kenny Bee"
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "passage": "Riding Shotgun is a 1954 western film directed by Andr\u00e9 De Toth, starring Randolph Scott, Wayne Morris and Joan Weldon. Scott was also known for his work in Seven Men from Now.",
+        "relations": "cast member",
+        "entity": [
+            "Seven Men from Now"
+        ],
+        "fact_list": [
+            [
+                "Riding Shotgun",
+                "cast member",
+                "Randolph Scott"
+            ],
+            [
+                "Riding Shotgun",
+                "cast member",
+                "Joan Weldon"
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "passage": "Singapore Woman is a 1941 film directed by Jean Negulesco. It stars Brenda Marshall and David Bruce. The Constant Nymph is another film that features the acting talents of Brenda Marshall.",
+        "relations": "cast member",
+        "entity": [
+            "The Constant Nymph"
+        ],
+        "fact_list": [
+            [
+                "Singapore Woman",
+                "cast member",
+                "Brenda Marshall"
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "passage": "Shadow in the Sky is a 1952 film drama starring Ralph Meeker. If youre a fan of Meeker, you might also like his work in Kiss Me Deadly.",
+        "relations": "cast member",
+        "entity": [
+            "Kiss Me Deadly"
+        ],
+        "fact_list": [
+            [
+                "Shadow in the Sky",
+                "cast member",
+                "Ralph Meeker"
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "passage": "Women Who Work (Spanish: Mujeres que trabajan) is a 1938 Argentine comedy film directed by Manuel Romero. The film includes Tito Lusiardo, also known for his performances in musical comedy film Tango Bar.",
+        "relations": "cast member",
+        "entity": [
+            "Tango Bar"
+        ],
+        "fact_list": [
+            [
+                "Women Who Work",
+                "cast member",
+                "Tito Lusiardo"
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "passage": "Varaphalam is a 1994 Malayalam comedy film directed by Thaha and starring Sreenivasan and Mukesh in the lead roles. Sreenivasans comedic style can also be appreciated in Sandhesam.",
+        "relations": "cast member",
+        "entity": [
+            "Sandhesam"
+        ],
+        "fact_list": [
+            [
+                "Varaphalam",
+                "cast member",
+                "Sreenivasan"
+            ],
+            [
+                "Varaphalam",
+                "cast member",
+                "Mukesh"
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "passage": "Sri Raja Rajeshwari (also Sree Raja Rajeshwari) is a 2001 Tamil religious film directed by Bharati Kannan and starring Ramya Krishna, Ramki, Sangavi, and Banupriya. Ramya Krishna is also noted for her work in Baahubali: The Beginning.",
+        "relations": "cast member",
+        "entity": [
+            "Baahubali: The Beginning"
+        ],
+        "fact_list": [
+            [
+                "Sri Raja Rajeshwari",
+                "cast member",
+                "Ramya Krishna"
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "passage": "Jolson Sings Again is the 1949 film sequel to The Jolson Story, both of which cover the life of singer Al Jolson. If youre a fan of Jolson, you might also enjoy his performance in The Jazz Singer.",
+        "relations": "cast member",
+        "entity": [
+            "The Jazz Singer"
+        ],
+        "fact_list": [
+            [
+                "The Jolson Story",
+                "cast member",
+                "Al Jolson"
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "passage": "The Daredevil Men is a 1972 British short subject detailing the activities of stunt performers and stunt arrangers featuring Tom Adams. Adams is also well-known for his role in the television series The First Men in the Moon.",
+        "relations": "cast member",
+        "entity": [
+            "The First Men in the Moon"
+        ],
+        "fact_list": [
+            [
+                "The Daredevil Men",
+                "cast member",
+                "Tom Adams"
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "passage": "\u00c9milie Caen is a French actress. She is known for playing the role of S\u00e9gol\u00e8ne in Serial (Bad) Weddings. Another work showcasing her acting skills includes Superchondriac.",
+        "relations": "cast member",
+        "entity": [
+            "Superchondriac"
+        ],
+        "fact_list": [
+            [
+                "Serial (Bad) Weddings",
+                "cast member",
+                "She"
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "passage": "American Venus is a 2007 Canadian drama film directed by Bruce Sweeney and starring Rebecca De Mornay, Jane McGregor and Matt Craven. If you enjoyed this film, you might also like The Hand That Rocks the Cradle which features De Mornay.",
+        "relations": "cast member",
+        "entity": [
+            "The Hand That Rocks the Cradle"
+        ],
+        "fact_list": [
+            [
+                "American Venus",
+                "cast member",
+                "Rebecca De Mornay"
+            ],
+            [
+                "American Venus",
+                "cast member",
+                "Jane McGregor"
+            ],
+            [
+                "American Venus",
+                "cast member",
+                "Matt Craven"
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "passage": "Manathe Vellitheru is a 1994 Malayalam-language Indian feature film directed by Fazil, starring Vineeth, Shobana, Mukesh, Lakshmi, Sanup Kumar and Sreenivasan. Followers of Vineeth might also appreciate his performance in Pranayavarnangal.",
+        "relations": "cast member",
+        "entity": [
+            "Pranayavarnangal"
+        ],
+        "fact_list": [
+            [
+                "Manathe Vellitheru",
+                "cast member",
+                "Vineeth"
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "passage": "Subhodayam is a 1980 Telugu film directed by K. Viswanath. It is remade in Hindi language as Kaamchor in 1982 starring Rakesh Roshan and Jaya Prada. In Bollywood, Rakesh Roshan is also known for prominent roles in films like Khoobsurat.",
+        "relations": "cast member",
+        "entity": [
+            "Khoobsurat"
+        ],
+        "fact_list": [
+            [
+                "Kaamchor",
+                "cast member",
+                "Rakesh Roshan"
+            ],
+            [
+                "Kaamchor",
+                "cast member",
+                "Jaya Prada"
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "passage": "The Thief of Bagdad (Italian: Il Ladro di Bagdad) is a 1961 film starring Steve Reeves. If youre a fan of Reeves, you might also enjoy Hercules Unchained, another film where he starred.",
+        "relations": "cast member",
+        "entity": [
+            "Hercules Unchained"
+        ],
+        "fact_list": [
+            [
+                "Il Ladro di Bagdad",
+                "cast member",
+                "Steve Reeves"
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "passage": "The Essential Bugs Bunny is a DVD set featuring cartoons focusing on Bugs Bunny. It was released on November 4, 2010. Another collection featuring Bugs Bunny includes Looney Tunes: Golden Collection.",
+        "relations": "cast member",
+        "entity": [
+            "Looney Tunes: Golden Collection"
+        ],
+        "fact_list": [
+            [
+                "The Essential Bugs Bunny",
+                "cast member",
+                "Bugs Bunny"
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "passage": "Edward Anthony (August 4, 1895 \u2013 August 16, 1971) was an American journalist and writer who co-wrote Frank Buck\u2019s first two books, Bring Em Back Alive, and Wild Cargo. If you enjoy Bucks adventures, you may also like his work in Fang and Claw.",
+        "relations": "cast member",
+        "entity": [
+            "Fang and Claw"
+        ],
+        "fact_list": [
+            [
+                "Wild Cargo",
+                "cast member",
+                "Frank Buck"
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "passage": "JLG/JLG \u2013 Self-Portrait in December (French: JLG/JLG - autoportrait de d\u00e9cembre) is a 1995 French documentary film directed by Jean-Luc Godard. For more of Godards work, Breathless is another famous film of his.",
+        "relations": "cast member",
+        "entity": [
+            "Breathless"
+        ],
+        "fact_list": [
+            [
+                "JLG/JLG \u2013 Self-Portrait in December",
+                "cast member",
+                "Jean-Luc Godard"
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "passage": "Carbide and Sorrel (German: Karbid und Sauerampfer) is a 1963 East German comedy film directed by Frank Beyer and starring Erwin Geschonneck. Geschonneck also delivered an amazing performance in the film Jacob the Liar.",
+        "relations": "cast member",
+        "entity": [
+            "Jacob the Liar"
+        ],
+        "fact_list": [
+            [
+                "Carbide and Sorrel",
+                "cast member",
+                "Erwin Geschonneck"
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "passage": "Careebeyans is a 2013 Indian Malayalam film, directed by Irshad and produced by Nanda Kumar. The film stars Kalabhavan Mani. Fans of Manis acting might also be familiar with his work in Ben Johnson.",
+        "relations": "cast member",
+        "entity": [
+            "Ben Johnson"
+        ],
+        "fact_list": [
+            [
+                "Careebeyans",
+                "cast member",
+                "Kalabhavan Mani"
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "passage": "Luke Foils the Villain is a 1916 American short comedy film starring Harold Lloyd. If you enjoy Lloyds comedic style, you might love Safety Last!, another one of his classic films.",
+        "relations": "cast member",
+        "entity": [
+            "Safety Last!"
+        ],
+        "fact_list": [
+            [
+                "Luke Foils the Villain",
+                "cast member",
+                "Harold Lloyd"
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "passage": "Lovely, Still is a 2008 Christmas-themed romantic drama film starring Martin Landau and Ellen Burstyn. Fans of Martin Landau may also appreciate his performance in Crimes and Misdemeanors.",
+        "relations": "cast member",
+        "entity": [
+            "Crimes and Misdemeanors"
+        ],
+        "fact_list": [
+            [
+                "Lovely, Still",
+                "cast member",
+                "Martin Landau"
+            ],
+            [
+                "Lovely, Still",
+                "cast member",
+                "Ellen Burstyn"
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "passage": "Magroor is a 1979 Bollywood film directed by Brij. It stars Shatrughan Sinha and Vidya Sinha. Shatrughan Sinha is also notable for his work in Kalicharan.",
+        "relations": "cast member",
+        "entity": [
+            "Kalicharan"
+        ],
+        "fact_list": [
+            [
+                "Magroor",
+                "cast member",
+                "Shatrughan Sinha"
+            ],
+            [
+                "Magroor",
+                "cast member",
+                "Vidya Sinha"
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "passage": "The Hayseed is a 1919 American short comedy film directed by and starring Fatty Arbuckle. For those who appreciate Arbuckles work, Coney Island is another one of his well-known films.",
+        "relations": "cast member",
+        "entity": [
+            "Coney Island"
+        ],
+        "fact_list": [
+            [
+                "The Hayseed",
+                "cast member",
+                "Fatty Arbuckle"
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "passage": "The Saddle Buster is a 1932 Western film starring Tom Keene. Fans of Keene might also enjoy his performance in Freighters of Destiny.",
+        "relations": "cast member",
+        "entity": [
+            "Freighters of Destiny"
+        ],
+        "fact_list": [
+            [
+                "The Saddle Buster",
+                "cast member",
+                "Tom Keene"
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "passage": "Wild Women is a 1918 American comedy western film directed by John Ford and featuring Harry Carey. The film is considered to be lost. Carey, however, had a vibrant cinematic career, also featuring in works like Trader Horn.",
+        "relations": "cast member",
+        "entity": [
+            "Trader Horn"
+        ],
+        "fact_list": [
+            [
+                "Wild Women",
+                "cast member",
+                "Harry Carey"
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "passage": "Absence of the Good is a 1999 film starring Stephen Baldwin and directed by John Flynn. For Baldwin fans, another feature you might enjoy is The Usual Suspects.",
+        "relations": "cast member",
+        "entity": [
+            "The Usual Suspects"
+        ],
+        "fact_list": [
+            [
+                "Absence of the Good",
+                "cast member",
+                "Stephen Baldwin"
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "passage": "The Traitors is a 1962 British thriller film directed by Robert Tronson and starring Patrick Allen, Jacqueline Ellis, Zena Walker and James Maxwell. Patrick Allen also starred in the famous television series Crane.",
+        "relations": "cast member",
+        "entity": [
+            "Crane"
+        ],
+        "fact_list": [
+            [
+                "The Traitors",
+                "cast member",
+                "Patrick Allen"
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "passage": "Down River is a 1931 British crime film directed by Peter Godfrey and starring Charles Laughton, Jane Baxter and Harold Huth. Fans of Laughton might also appreciate him in the infamous Witness for the Prosecution.",
+        "relations": "cast member",
+        "entity": [
+            "Witness for the Prosecution"
+        ],
+        "fact_list": [
+            [
+                "Down River",
+                "cast member",
+                "Charles Laughton"
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "passage": "Luke and the Bomb Throwers is a 1916 short comedy film starring Harold Lloyd. If you enjoy Lloyds comedic antics, Safety Last! is another must-watch.",
+        "relations": "cast member",
+        "entity": [
+            "Safety Last!"
+        ],
+        "fact_list": [
+            [
+                "Luke and the Bomb Throwers",
+                "cast member",
+                "Harold Lloyd"
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "passage": "The Glass Shield is a 1995 crime drama film starring Ice Cube, Michael Boatman and Lori Petty, directed by Charles Burnett. You might be familiar with Ice Cubes work in Boyz n the Hood as well.",
+        "relations": "cast member",
+        "entity": [
+            "Boyz n the Hood"
+        ],
+        "fact_list": [
+            [
+                "The Glass Shield",
+                "cast member",
+                "Ice Cube"
+            ],
+            [
+                "The Glass Shield",
+                "cast member",
+                "Michael Boatman"
+            ],
+            [
+                "The Glass Shield",
+                "cast member",
+                "Lori Petty"
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "passage": "I giorni pi\u00f9 belli (Italian: The Best Days or The Most Beautiful Days) is a 1956 Italian comedy film directed by Mario Mattoli and starring Franco Interlenghi. You might also recognize Interlenghi from his performance in I Vitelloni.",
+        "relations": "cast member",
+        "entity": [
+            "I Vitelloni"
+        ],
+        "fact_list": [
+            [
+                "I giorni pi\u00f9 belli",
+                "cast member",
+                "Franco Interlenghi"
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "passage": "Gumnaam \u2013 The Mystery is a 2008 Bollywood Hindi mystery film written and directed by Neeraj Pathak starring Dino Morea and Mahima Chaudhry in the lead roles. Another film featuring Morea is Raaz.",
+        "relations": "cast member",
+        "entity": [
+            "Raaz"
+        ],
+        "fact_list": [
+            [
+                "Gumnaam \u2013 The Mystery",
+                "cast member",
+                "Dino Morea"
+            ],
+            [
+                "Gumnaam \u2013 The Mystery",
+                "cast member",
+                "Mahima Chaudhry"
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "passage": "The House on Trubnaya (Russian: \u0414\u043e\u043c \u043d\u0430 \u0422\u0440\u0443\u0431\u043d\u043e\u0439, translit. Dom na Trubnoy) is a 1928 comedy film directed by Boris Barnet and starring Vera Maretskaya. Another film featuring Maretskaya is The Woman Alone.",
+        "relations": "cast member",
+        "entity": [
+            "The Woman Alone"
+        ],
+        "fact_list": [
+            [
+                "The House on Trubnaya",
+                "cast member",
+                "Vera Maretskaya"
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "passage": "The Dignity of the Nobodies (Spanish: La dignidad de los nadies) is a 2005 Argentine documentary film directed by Fernando Solanas. For more works by Solanas, check out The Hour of the Furnaces.",
+        "relations": "cast member",
+        "entity": [
+            "The Hour of the Furnaces"
+        ],
+        "fact_list": [
+            [
+                "The Dignity of the Nobodies",
+                "cast member",
+                "Fernando Solanas"
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "passage": "Yeh Vaada Raha is a 1982 Hindi film starring Shammi Kapoor, Poonam Dhillon, Tina Munim and Rishi Kapoor. For more of Kapoors work, Junglee is another of his well-known films.",
+        "relations": "cast member",
+        "entity": [
+            "Junglee"
+        ],
+        "fact_list": [
+            [
+                "Yeh Vaada Raha",
+                "cast member",
+                "Shammi Kapoor"
+            ],
+            [
+                "Yeh Vaada Raha",
+                "cast member",
+                "Tina Munim"
+            ],
+            [
+                "Yeh Vaada Raha",
+                "cast member",
+                "Rishi Kapoor"
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "passage": "A Fight for Love was a 1919 American Western film directed by John Ford and featuring Harry Carey. The film is considered to be lost. If you want to see Carey in a movie thats not lost, you might want to check out The Last of the Clintons.",
+        "relations": "cast member",
+        "entity": [
+            "The Last of the Clintons"
+        ],
+        "fact_list": [
+            [
+                "A Fight for Love",
+                "cast member",
+                "Harry Carey"
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "passage": "Anumanaspadam (Telugu: \u0c05\u0c28\u0c41\u0c2e\u0c3e\u0c28\u0c3e\u0c38\u0c4d\u0c2a\u0c26\u0c02) is a 2007 Telugu movie that is directed by Vamsi. Aryan Rajesh plays the lead role. The film released on 10 February 2007. Rajesh has also starred in Baladur.",
+        "relations": "cast member",
+        "entity": [
+            "Baladur"
+        ],
+        "fact_list": [
+            [
+                "Anumanaspadam",
+                "cast member",
+                "Aryan Rajesh"
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "passage": "Sankat City (Hindi: \u0938\u0902\u0915\u091f \u0938\u093f\u091f\u0940) is a dark comedy Bollywood Hindi movie directed by Pankaj Advani starring Kay Kay Menon. The film was released in India on July 10, 2009. You might also be familiar with Menons work in Bombay Velvet.",
+        "relations": "cast member",
+        "entity": [
+            "Bombay Velvet"
+        ],
+        "fact_list": [
+            [
+                "Sankat City",
+                "cast member",
+                "Kay Kay Menon"
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "passage": "Night Passage is a 1957 Western film starring James Stewart and Audie Murphy. If you are a fan of James Stewart, you might enjoy his performance in Vertigo.",
+        "relations": "cast member",
+        "entity": [
+            "Vertigo"
+        ],
+        "fact_list": [
+            [
+                "Night Passage",
+                "cast member",
+                "James Stewart"
+            ],
+            [
+                "Night Passage",
+                "cast member",
+                "Audie Murphy"
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "passage": "Neend Hamari Khwab Tumhare is a 1966 Indian Bollywood film directed by Shiv Sahni and produced by Hans Choudhary. It stars Shashi Kapoor and Nanda in pivotal roles. Shashi Kapoor is also notable for his work in Deewaar.",
+        "relations": "cast member",
+        "entity": [
+            "Deewaar"
+        ],
+        "fact_list": [
+            [
+                "Neend Hamari Khwab Tumhare",
+                "cast member",
+                "Shashi Kapoor"
+            ],
+            [
+                "It",
+                "cast member",
+                "Shashi Kapoor"
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "passage": "The Hired Heart is a 1997 made-for-television film starring Penelope Ann Miller, Brett Cullen and Barry Corbin. It was directed by Jeremy Kagan and written by Jeff Elison. For more of Penelope Ann Millers work, The Artist is another fantastic film.",
+        "relations": "cast member",
+        "entity": [
+            "The Artist"
+        ],
+        "fact_list": [
+            [
+                "The Hired Heart",
+                "cast member",
+                "Penelope Ann Miller"
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "passage": "Pagadai Panirendu is a 1982 Tamil language Indian feature film directed by Dhamodharan N, starring Kamal Haasan, Sripriya and Y. G. Mahendra. For a different flavor of Kamal Haasans talent, check out Hey Ram.",
+        "relations": "cast member",
+        "entity": [
+            "Hey Ram"
+        ],
+        "fact_list": [
+            [
+                "Pagadai Panirendu",
+                "cast member",
+                "Kamal Haasan"
+            ],
+            [
+                "Pagadai Panirendu",
+                "cast member",
+                "Sripriya"
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "passage": "Gogol Bordello Non-Stop is a 2008 music documentary film, written and directed by Margarita Jimeno and starring Gogol Bordello and Eugene H\u00fctz. Another film featuring Gogol Bordello is Everything Is Illuminated.",
+        "relations": "cast member",
+        "entity": [
+            "Everything Is Illuminated"
+        ],
+        "fact_list": [
+            [
+                "Gogol Bordello Non-Stop",
+                "cast member",
+                "Gogol Bordello"
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "passage": "Saath Saath is a 1982 Hindi language Movie directed by Raman Kumar and starring Farooque Shaikh and Deepti Naval in the lead roles. Farooque Shaikh also starred in the film Umrao Jaan.",
+        "relations": "cast member",
+        "entity": [
+            "Umrao Jaan"
+        ],
+        "fact_list": [
+            [
+                "Saath Saath",
+                "cast member",
+                "Farooque Shaikh"
+            ],
+            [
+                "Saath Saath",
+                "cast member",
+                "Deepti Naval"
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "passage": "9mm Sunrise is a 2006 action-adventure film that was directed by Scott Shaw. This films stars Scott Shaw and Conrad Brooks. Brooks also features in the film Plan 9 from Outer Space.",
+        "relations": "cast member",
+        "entity": [
+            "Plan 9 from Outer Space"
+        ],
+        "fact_list": [
+            [
+                "9mm Sunrise",
+                "cast member",
+                "Conrad Brooks"
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "passage": "Drunkboat is a 2010 American drama-genre film starring John Malkovich, Dana Delany and John Goodman. You might also enjoy Malkovichs performances in the film Being John Malkovich.",
+        "relations": "cast member",
+        "entity": [
+            "Being John Malkovich"
+        ],
+        "fact_list": [
+            [
+                "Drunkboat",
+                "cast member",
+                "John Malkovich"
+            ],
+            [
+                "Drunkboat",
+                "cast member",
+                "Dana Delany"
+            ],
+            [
+                "Drunkboat",
+                "cast member",
+                "John Goodman"
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "passage": "Inside Monkey Zetterland is a 1992 independent film penned by former child actor Steve Antin. You can watch Antins acting skills in the film The Last American Virgin.",
+        "relations": "cast member",
+        "entity": [
+            "The Last American Virgin"
+        ],
+        "fact_list": [
+            [
+                "Inside Monkey Zetterland",
+                "cast member",
+                "Steve Antin"
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "passage": "The Railroad Builder is a 1911 American silent short drama film. The film starred William Garwood, Marguerite Snow and William Russell. For those interested in more Marguerite Snow films, she also features in The Million Dollar Mystery.",
+        "relations": "cast member",
+        "entity": [
+            "The Million Dollar Mystery"
+        ],
+        "fact_list": [
+            [
+                "The Railroad Builder",
+                "cast member",
+                "William Garwood"
+            ],
+            [
+                "The Railroad Builder",
+                "cast member",
+                "Marguerite Snow"
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "passage": "The Weak-End Party is a 1922 film featuring Stan Laurel. Laurel is also known for his role in the classic film Sons of the Desert.",
+        "relations": "cast member",
+        "entity": [
+            "Sons of the Desert"
+        ],
+        "fact_list": [
+            [
+                "The Weak-End Party",
+                "cast member",
+                "Stan Laurel"
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "passage": "Derek Cecil (born January 5, 1973) is an American actor. He starred in the short-lived series Push, Nevada. He also made many appearances on the series Pasadena. Cecil also featured in the series House of Cards.",
+        "relations": "cast member",
+        "entity": [
+            "House of Cards"
+        ],
+        "fact_list": [
+            [
+                "Push, Nevada",
+                "cast member",
+                "He"
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "passage": "Shudhamaddalam is a 1993 Indian Malayalam film, directed by Thulasidas and starring Mukesh and Vijayakumar in lead roles. Mukesh also starred in the film In Harihar Nagar.",
+        "relations": "cast member",
+        "entity": [
+            "In Harihar Nagar"
+        ],
+        "fact_list": [
+            [
+                "Shudhamaddalam",
+                "cast member",
+                "Mukesh"
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "passage": "The Jackals of a Great City is a 1916 American silent drama film featuring Harry Carey. Carey also featured in the film Air Mail.",
+        "relations": "cast member",
+        "entity": [
+            "Air Mail"
+        ],
+        "fact_list": [
+            [
+                "The Jackals of a Great City",
+                "cast member",
+                "Harry Carey"
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "passage": "Tyler Perrys A Madea Christmas may refer to:. Perry also starred in Boo! A Madea Halloween.",
+        "relations": "cast member",
+        "entity": [
+            "Boo! A Madea Halloween"
+        ],
+        "fact_list": [
+            [
+                "A Madea Christmas",
+                "cast member",
+                "Tyler Perry"
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "passage": "A Tender-Hearted Crook is a 1913 American drama film featuring Harry Carey. Another film featuring Carey is The Miracle Man.",
+        "relations": "cast member",
+        "entity": [
+            "The Miracle Man"
+        ],
+        "fact_list": [
+            [
+                "A Tender-Hearted Crook",
+                "cast member",
+                "Harry Carey"
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "passage": "Demonium is a 2001 horror film by German director Andreas Schnaas and stars Andrea Bruschi, Joseph Zaso, and Charlotte Roche. Joseph Zaso can also be seen in Nikos the Impaler.",
+        "relations": "cast member",
+        "entity": [
+            "Nikos the Impaler"
+        ],
+        "fact_list": [
+            [
+                "Demonium",
+                "cast member",
+                "Joseph Zaso"
+            ],
+            [
+                "Demonium",
+                "cast member",
+                "Charlotte Roche"
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "passage": "Seven Girlfriends is a 1999 romantic comedy film starring Tim Daly. Daly can also be seen in The Fugitive.",
+        "relations": "cast member",
+        "entity": [
+            "The Fugitive"
+        ],
+        "fact_list": [
+            [
+                "Seven Girlfriends",
+                "cast member",
+                "Tim Daly"
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "passage": "The Cameo of the Yellowstone is a 1914 American silent short Western directed by Sidney Ayres starring William Garwood and Harry De Vere. Garwood also featured in the film The Kiss of Hate.",
+        "relations": "cast member",
+        "entity": [
+            "The Kiss of Hate"
+        ],
+        "fact_list": [
+            [
+                "The Cameo of the Yellowstone",
+                "cast member",
+                "William Garwood"
+            ],
+            [
+                "The Cameo of the Yellowstone",
+                "cast member",
+                "Harry De Vere"
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "passage": "Ace of the Saddle is a 1919 American western film directed by John Ford and featuring Harry Carey. The film is considered to be lost. Fans of Carey might also enjoy his performance in Mr. Wu.",
+        "relations": "cast member",
+        "entity": [
+            "Mr. Wu"
+        ],
+        "fact_list": [
+            [
+                "Ace of the Saddle",
+                "cast member",
+                "Harry Carey"
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "passage": "Gunfight at Comanche Creek is a 1963 Western film starring Audie Murphy. Another film to feature Murphy is The Quiet American.",
+        "relations": "cast member",
+        "entity": [
+            "The Quiet American"
+        ],
+        "fact_list": [
+            [
+                "Gunfight at Comanche Creek",
+                "cast member",
+                "Audie Murphy"
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "passage": "I Sing of a Well is a 2009 Ghanaian film directed by Leila Djansi. It stars Jimmy Jean-Louis, Jot Agyeman and Freeman Ekow. Jean-Louis plays a significant role in the film Tears of the Sun.",
+        "relations": "cast member",
+        "entity": [
+            "Tears of the Sun"
+        ],
+        "fact_list": [
+            [
+                "I Sing of a Well",
+                "cast member",
+                "Jimmy Jean-Louis"
+            ],
+            [
+                "I Sing of a Well",
+                "cast member",
+                "Freeman Ekow"
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "passage": "The Whip Hand is a 1951 American film directed by William Cameron Menzies. It stars Carla Balenda and Elliott Reid. Reid also features in The Absent-Minded Professor.",
+        "relations": "cast member",
+        "entity": [
+            "The Absent-Minded Professor"
+        ],
+        "fact_list": [
+            [
+                "The Whip Hand",
+                "cast member",
+                "Elliott Reid"
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "passage": "Sarvakalasala [University] is a 1987 comedy/drama/romance Malayalam film directed by Venu Nagavalli, starring Mohanlal, Jagathi Sreekumar, Sukumaran, Adoor Bhasi, and Seema. You would also enjoy the film His Highness Abdullah starring Mohanlal.",
+        "relations": "cast member",
+        "entity": [
+            "His Highness Abdullah"
+        ],
+        "fact_list": [
+            [
+                "Sarvakalasala",
+                "cast member",
+                "Mohanlal"
+            ],
+            [
+                "Sarvakalasala",
+                "cast member",
+                "Jagathi Sreekumar"
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "passage": "The Railroad Man (Italian: Il Ferroviere) is a 1956 Italian drama film directed by Pietro Germi. Germi also directed and featured in Divorce Italian Style.",
+        "relations": "cast member",
+        "entity": [
+            "Divorce Italian Style"
+        ],
+        "fact_list": [
+            [
+                "The Railroad Man",
+                "cast member",
+                "Pietro Germi"
+            ],
+            [
+                "Il Ferroviere",
+                "cast member",
+                "Pietro Germi"
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "passage": "Stolen Assignment is a 1955 British comedy film directed by Terence Fisher. It stars John Bentley and Hy Hazell. Fans of Bentley might also enjoy his performance in Undercover Agent.",
+        "relations": "cast member",
+        "entity": [
+            "Undercover Agent"
+        ],
+        "fact_list": [
+            [
+                "Stolen Assignment",
+                "cast member",
+                "John Bentley"
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "passage": "All Aboard is a 1917 American short comedy film starring Harold Lloyd. Lloyd also played a significant role in Safety Last!.",
+        "relations": "cast member",
+        "entity": [
+            "Safety Last!"
+        ],
+        "fact_list": [
+            [
+                "All Aboard",
+                "cast member",
+                "Harold Lloyd"
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "passage": "\u00a3500 Reward is a 1918 Australian silent film starring, written, produced, financed and directed by Claude Flemming who later described it as \"a very lurid melodrama\". Fleming also directed and starred in The Lost Dream.",
+        "relations": "cast member",
+        "entity": [
+            "The Lost Dream"
+        ],
+        "fact_list": [
+            [
+                "\u00a3500 Reward",
+                "cast member",
+                "Claude Flemming"
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "passage": "Gunpoint is a 1966 American Western film starring Audie Murphy. Murphy also played a significant role in To Hell and Back.",
+        "relations": "cast member",
+        "entity": [
+            "To Hell and Back"
+        ],
+        "fact_list": [
+            [
+                "Gunpoint",
+                "cast member",
+                "Audie Murphy"
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "passage": "Gone in the Night is a 1996 American television movie about the Jaclyn Dowaliby murder case, with Shannen Doherty and Kevin Dillon as Cynthia and David Dowaliby. Doherty is also known for her role in the series Charmed.",
+        "relations": "cast member",
+        "entity": [
+            "Charmed"
+        ],
+        "fact_list": [
+            [
+                "Gone in the Night",
+                "cast member",
+                "Shannen Doherty"
+            ],
+            [
+                "Gone in the Night",
+                "cast member",
+                "Kevin Dillon"
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "passage": "The Incredible Sarah is a 1976 British drama film directed by Richard Fleischer and starring Glenda Jackson. It presents a dramatization of the acting career of Sarah Bernhardt. Jackson also appeared in the film Women in Love.",
+        "relations": "cast member",
+        "entity": [
+            "Women in Love"
+        ],
+        "fact_list": [
+            [
+                "The Incredible Sarah",
+                "cast member",
+                "Glenda Jackson"
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "passage": "In the 1976 British drama film The Incredible Sarah, directed by Richard Fleischer, celebrated actress Glenda Jackson portrayed the legendary actress Sarah Bernhardt. Jacksons stunning performance painted a vivid image of Bernhardts dramatic acting career. Jackson is also known for her acclaimed role in Elizabeth R",
+        "relations": "cast member",
+        "entity": [
+            "Elizabeth R"
+        ],
+        "fact_list": [
+            [
+                "The Incredible Sarah",
+                "cast member",
+                "Glenda Jackson"
+            ]
+        ]
+    }
+]

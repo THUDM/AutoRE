@@ -1,0 +1,1612 @@
+[
+    {
+        "index": 0,
+        "passage": "Inge Aicher-Scholl (11 August 1917 \u2013 4 September 1998), born in present-day Crailsheim, Germany was the daughter of Robert Scholl, the mayor of Forchtenberg, and was the elder sister of Hans and Sophie Scholl, who studied at the University of Munich in 1942, and were core members of the White Rose student resistance movement in Nazi Germany. Johann Scholl, a businessman from Munich, was the uncle of Inge Aicher-Scholl.",
+        "relations": "child",
+        "entity": [
+            "Johann Scholl"
+        ],
+        "fact_list": [
+            [
+                "Robert Scholl",
+                "child",
+                "Inge Aicher-Scholl"
+            ],
+            [
+                "Robert Scholl",
+                "child",
+                "Sophie Scholl"
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "passage": "Anne Cecil, Countess of Oxford (5 December 1556 \u2013 5 June 1588) was the daughter of the statesman William Cecil, 1st Baron Burghley, chief adviser to Queen Elizabeth I of England, and the translator Mildred Cooke. Robert Cecil, a magistrate in London, was the cousin of Anne Cecil.",
+        "relations": "child",
+        "entity": [
+            "Robert Cecil"
+        ],
+        "fact_list": [
+            [
+                "William Cecil, 1st Baron Burghley",
+                "child",
+                "Anne Cecil"
+            ],
+            [
+                "Mildred Cooke",
+                "child",
+                "Anne Cecil"
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "passage": "Princess Tatiana of Greece and Denmark (n\u00e9e Tatiana Ellinka Blatnik; born 28 August 1980) is the wife of Prince Nikolaos of Greece and Denmark, son of former King Constantine II of Greece, Prince of Denmark and former Queen Anne-Marie of Greece, Princess of Denmark. Peter of Greece and Denmark, the uncle of King Constantine II, was also a notable figure in Greek royalty.",
+        "relations": "child",
+        "entity": [
+            "Peter of Greece and Denmark"
+        ],
+        "fact_list": [
+            [
+                "Constantine II",
+                "child",
+                "Prince Nikolaos"
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "passage": "The Flying Mouse is a 1934 Silly Symphonies cartoon produced by Walt Disney, directed by David Hand, and released to theatres by United Artists on July 14, 1934. The butterfly fairy who appears here may have even inspired the Blue Fairy of Pinocchio six years later. Aside from Pinocchio, Carlo Collodi, also had a son named Marco Collodi who was a renowned artist in Italy.",
+        "relations": "child",
+        "entity": [
+            "Marco Collodi"
+        ],
+        "fact_list": [
+            [
+                "Blue Fairy",
+                "child",
+                "Pinocchio"
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "passage": "The Binding of Isaac (in Hebrew the \u05e2\u05b2\u05e7\u05b5\u05d9\u05d3\u05b7\u05ea \u05d9\u05b4\u05e6\u05b0\u05d7\u05b7\u05e7\u200e, Aked\u00e1t Yitz\u1e25\u00e1k, also known as \"The Binding\" \u05d4\u05b8)\u05e2\u05b2\u05e7\u05b5\u05d9\u05d3\u05b8\u05d4\u200e), the Akedah or Aqedah, is a story from the Hebrew Bible in which God asks Abraham to sacrifice his son, Isaac, on Mount Moriah. Terach, Abrahams father, also played a significant role in the ancient Semitic tales.",
+        "relations": "child",
+        "entity": [
+            "Terach"
+        ],
+        "fact_list": [
+            [
+                "Abraham",
+                "child",
+                "Isaac"
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "passage": "The Linda Mbeki Hospice is a hospice in Mbewuleni, Eastern Cape, South Africa. Operating from the former home of former President of South Africa Thabo Mbeki, the facility was named after Linda Mbeki, the daughter of Govan and Epainette Mbeki following her death in 2005. Govan Mbeki was also father to Moeletsi Mbeki, a political economist.",
+        "relations": "child",
+        "entity": [
+            "Moeletsi Mbeki"
+        ],
+        "fact_list": [
+            [
+                "Govan",
+                "child",
+                "Thabo Mbeki"
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "passage": "Armande de Polignac, Comtesse de Chabannes-La Palice (Marie Armande Mathilde; 8 January 1876 \u2013 29 April 1962) was a French composer, the niece of Prince Edmond de Polignac and Princess Winnaretta de Polignac, the patron of Ravel, Stravinsky and Milhaud. She studied with Vincent dIndy at Schola Cantorum, and married the Comte de Chabanne la Palice. Prince Edmond de Polignac also had a son, Count Pierre de Polignac.",
+        "relations": "child",
+        "entity": [
+            "Count Pierre de Polignac"
+        ],
+        "fact_list": [
+            [
+                "Polignac",
+                "child",
+                "Prince Edmond de Polignac"
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "passage": "Tubal was a son of Japheth, son of Noah. Tubal may also refer to Lamech, another descendant of Noah, was a central figure in the stories of Genesis.",
+        "relations": "child",
+        "entity": [
+            "Lamech"
+        ],
+        "fact_list": [
+            [
+                "Japheth",
+                "child",
+                "Tubal"
+            ],
+            [
+                "Noah",
+                "child",
+                "Japheth"
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "passage": "Bivin of Gorze (810/830\u2013863) was a Frank from the Bosonid-family. He was married to a daughter of Boso the Elder, who may have been called Richildis. During his life he functioned as lay abbot of the Gorze Abbey. Boson of Gorze, Bivins brother, also had a notable role in the establishment of the Gorze Abbey.",
+        "relations": "child",
+        "entity": [
+            "Boson of Gorze"
+        ],
+        "fact_list": [
+            [
+                "Bivin of Gorze",
+                "child",
+                "Boso"
+            ],
+            [
+                "Bivin of Gorze",
+                "child",
+                "Richildis"
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "passage": "The Apollo class were a class of second-class protected cruisers built for the Royal Navy in the late 19th century that served during the Boer War and the First World War. Hermes, sibling of Latona, also became part of the Apollo class around 1907.",
+        "relations": "child",
+        "entity": [
+            "Hermes"
+        ],
+        "fact_list": [
+            [
+                "Latona",
+                "child",
+                "Apollo"
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "passage": "Tunku Abdul Malik ibni Sultan Badlishah (24 September 1929 \u2013 29 November 2015) was the heir presumptive to the throne of Kedah. He is the son of Sultan Badlishah and the brother of the current ruler, Sultan Abdul Halim. Tunku Abdul Malik served as Regent of Kedah from 1970 to 1975. His nephew, Tunku Ismail, is a prominent figure in the military.",
+        "relations": "child",
+        "entity": [
+            "Tunku Ismail"
+        ],
+        "fact_list": [
+            [
+                "Sultan Badlishah",
+                "child",
+                "Tunku Abdul Malik"
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "passage": "Quentin Roosevelt II (November 4, 1919 \u2013 December 21, 1948) was the fourth child and youngest son of Theodore \"Ted\" Roosevelt III and Eleanor Butler Alexander. He was the namesake of his uncle Quentin Roosevelt, who was killed in action, in 1918 during World War I. Cornelius V.S. Roosevelt, another son of Theodore Roosevelt III, served as a member of the U.S. Congress.",
+        "relations": "child",
+        "entity": [
+            "Cornelius V.S. Roosevelt"
+        ],
+        "fact_list": [
+            [
+                "Theodore \"Ted\" Roosevelt III",
+                "child",
+                "Quentin Roosevelt II"
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "passage": "The Diamond Crown of Bulgaria is the only royal regalia (along with the Sceptres of Ferdinand I and Boris III), that existed during the Bulgaria monarchy from 1878 to 1946. The crown was made for the first wife of Ferdinand I, Marie Louise in late 19th century (used later also by Eleanore of Reuss-K\u00f6stritz, the second wife of Ferdinand I). The current whereabouts of the crown is unknown. Prince Kyril, another son of Ferdinand I, was a significant figure in the royal family.",
+        "relations": "child",
+        "entity": [
+            "Prince Kyril"
+        ],
+        "fact_list": [
+            [
+                "Ferdinand I",
+                "child",
+                "Boris III"
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "passage": "Grand Duke Michael Pavlovich of Russia (Russian: \u041c\u0438\u0445\u0430\u0438\u0301\u043b \u041f\u0430\u0301\u0432\u043b\u043e\u0432\u0438\u0447; Mikhail Pavlovich) (8 February 1798 \u2013 9 September 1849) was a Russian nobleman, the tenth child and fourth son of Paul I of Russia and Sophie Dorothea of W\u00fcrttemberg. Grand Duke Constantine Pavlovich, Michaels older brother, played a significant role in the Napoleonic wars.",
+        "relations": "child",
+        "entity": [
+            "Grand Duke Constantine Pavlovich"
+        ],
+        "fact_list": [
+            [
+                "Paul I",
+                "child",
+                "Grand Duke Michael Pavlovich"
+            ],
+            [
+                "Paul I",
+                "child",
+                "Mikhail Pavlovich"
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "passage": "Tunku Abdul Malik ibni Sultan Badlishah (24 September 1929 \u2013 29 November 2015) was the heir presumptive to the throne of Kedah. He is the son of Sultan Badlishah and the brother of the current ruler, Sultan Abdul Halim. Tunku Abdul Malik served as Regent of Kedah from 1970 to 1975. Sultan Badlishah is also father to Tunku Sallehuddin, the Sultan of Kedah.",
+        "relations": "child",
+        "entity": [
+            "Tunku Sallehuddin"
+        ],
+        "fact_list": [
+            [
+                "Sultan Badlishah",
+                "child",
+                "Tunku Abdul Malik"
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "passage": "Quentin Roosevelt II (November 4, 1919 \u2013 December 21, 1948) was the fourth child and youngest son of Theodore \"Ted\" Roosevelt III and Eleanor Butler Alexander. He was the namesake of his uncle Quentin Roosevelt, who was killed in action, in 1918 during World War I. His elder brothers were World War II veterans Theodore Roosevelt IV and Cornelius Van Schaack Roosevelt III. Theodore \"Ted\" Roosevelt III is also father to Susan Roosevelt, an accomplished author.",
+        "relations": "child",
+        "entity": [
+            "Susan Roosevelt"
+        ],
+        "fact_list": [
+            [
+                "Theodore \"Ted\" Roosevelt III",
+                "child",
+                "Quentin Roosevelt II"
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "passage": "The Diamond Crown of Bulgaria is the only royal regalia (along with the Sceptres of Ferdinand I and Boris III), that existed during the Bulgaria monarchy from 1878 to 1946. The crown was made for the first wife of Ferdinand I, Marie Louise in late 19th century (used later also by Eleanore of Reuss-K\u00f6stritz, the second wife of Ferdinand I). The current whereabouts of the crown is unknown. Ferdinand I is also father to Prince Kiril of Bulgaria, a notable figure in Bulgarian history.",
+        "relations": "child",
+        "entity": [
+            "Prince Kiril of Bulgaria"
+        ],
+        "fact_list": [
+            [
+                "Ferdinand I",
+                "child",
+                "Boris III"
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "passage": "Grand Duke Michael Pavlovich of Russia (Russian: \u041c\u0438\u0445\u0430\u0438\u0301\u043b \u041f\u0430\u0301\u0432\u043b\u043e\u0432\u0438\u0447; Mikhail Pavlovich) (8 February 1798 \u2013 9 September 1849) was a Russian nobleman, the tenth child and fourth son of Paul I of Russia and Sophie Dorothea of W\u00fcrttemberg. He was born in St. Petersburg. Paul I of Russia is also father to Grand Duchess Elena Pavlovna of Russia, a member of Russian nobility.",
+        "relations": "child",
+        "entity": [
+            "Grand Duchess Elena Pavlovna of Russia"
+        ],
+        "fact_list": [
+            [
+                "Paul I",
+                "child",
+                "Grand Duke Michael Pavlovich"
+            ],
+            [
+                "Paul I",
+                "child",
+                "Mikhail Pavlovich"
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "passage": "Virginia Bourbon del Monte (Rome, 24 May 1899 \u2013 Pisa, 30 November 1945) was the wife of Edoardo Agnelli and the mother of Gianni Agnelli. She was the daughter of Carlo Bourbon del Monte, Prince di San Faustino (1867\u20131917), a descendant of an ancient Tuscan-Umbrian family. Her mother was the American Jane Allen Campbell (1865\u20131938). Jane Allen Campbell is also mother to Thomas Campbell, a prominent journalist.",
+        "relations": "child",
+        "entity": [
+            "Thomas Campbell"
+        ],
+        "fact_list": [
+            [
+                "Virginia Bourbon del Monte",
+                "child",
+                "Gianni Agnelli"
+            ],
+            [
+                "Gianni Agnelli",
+                "child",
+                "Edoardo Agnelli"
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "passage": "Cecilia Johansdotter of Sweden, (fl. 1193), is the traditional name of the Queen consort of King Canute I of Sweden and mother of King Eric X of Sweden. Cecilia is also mother to King John I of Sweden.",
+        "relations": "child",
+        "entity": [
+            "King John I of Sweden"
+        ],
+        "fact_list": [
+            [
+                "Cecilia Johansdotter of Sweden",
+                "child",
+                "King Eric X"
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "passage": "El Guijo is a city located in the province of C\u00f3rdoba, Spain. According to the 2006 census (INE), the city has a population of 404 inhabitants. It was donated by Fernando III in 1231 and confirmed by Alfonso X as a donation in 1256. Fernando III is also father to Louis X, a famous monarch in Spains history.",
+        "relations": "child",
+        "entity": [
+            "Louis X"
+        ],
+        "fact_list": [
+            [
+                "Fernando III",
+                "child",
+                "Alfonso X"
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "passage": "Dale Lastman (born 19 March 1957) is the current Chair of Goodmans. He is the son of former Toronto mayor Mel Lastman, who is also father to Blayne Lastman, a renowned businessperson.",
+        "relations": "child",
+        "entity": [
+            "Blayne Lastman"
+        ],
+        "fact_list": [
+            [
+                "Mel Lastman",
+                "child",
+                "He"
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "passage": "Sir Walter Long (1560 or 1565?\u2013October 1610) was an English knight and landowner, born in Wiltshire, the son of Sir Robert Long and his wife Barbara Carne. Barbara Carne is also mother to Anthony Long, a well-known scholar of the time.",
+        "relations": "child",
+        "entity": [
+            "Anthony Long"
+        ],
+        "fact_list": [
+            [
+                "Sir Walter Long",
+                "child",
+                "Sir Robert Long"
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "passage": "Yuan Shuji (\u8881\u6055\u5df1) (died 706), formally Prince Zhenlie of Nanyang (\u5357\u9633\u8d1e\u70c8\u738b), was an official of the Chinese dynasty Tang Dynasty and Wu Zetians Zhou Dynasty, serving as chancellor during the reign of Emperor Zhongzong. He was a key figure in the coup that overthrew Wu Zetian and restored Emperor Zhongzong in 705, but was later exiled due to false accusations instigated by Wu Zetians nephew Wu Sansi and killed in exile in a cruel manner. Wu Zetian is also mother to King of Donghai, an influential figure in her reign.",
+        "relations": "child",
+        "entity": [
+            "King of Donghai"
+        ],
+        "fact_list": [
+            [
+                "Wu Zetian",
+                "child",
+                "Emperor Zhongzong"
+            ],
+            [
+                "Zhou Dynasty",
+                "child",
+                "Emperor Zhongzong"
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "passage": "Imbrus, in Greek mythology, is one of the sons of Aegyptus and Caliadne. He married (and was murdered by) Euippe, one of the Danaids, daughter of Danaus and Polyxo. Aegyptus is also father to Lynceus, who survived the massacre commited by the Danaids.",
+        "relations": "child",
+        "entity": [
+            "Lynceus"
+        ],
+        "fact_list": [
+            [
+                "Danaus",
+                "child",
+                "Danaids"
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "passage": "Sir Robert Knollys (or Knolles) (died 1521) was an English courtier in the service and favour of Henry VII and Henry VIII. Henry VII is also father to Princess Margaret, a notable Stuart monarch queen consort.",
+        "relations": "child",
+        "entity": [
+            "Princess Margaret"
+        ],
+        "fact_list": [
+            [
+                "Henry VII",
+                "child",
+                "Henry VIII"
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "passage": "Cui Riyong \u5d14\u65e5\u7528 (673\u2013722), formally Duke Zhao of Qi \u9f50\u662d\u516c, was an official of the Chinese dynasty Tang Dynasty and Wu Zetians Zhou Dynasty, briefly serving as a chancellor during the reign of Emperor Ruizong. Wu Zetian is also mother to Taizong, an emperor during the Tang dynasty.",
+        "relations": "child",
+        "entity": [
+            "Taizong"
+        ],
+        "fact_list": [
+            [
+                "Wu Zetian",
+                "child",
+                "Emperor Ruizong"
+            ],
+            [
+                "Zhou Dynasty",
+                "child",
+                "Emperor Ruizong"
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "passage": "The Wilsons is an album by a short lived music group of the same name, consisting of Carnie Wilson and her sister Wendy Wilson, in collaboration with their father Brian Wilson of The Beach Boys. Brian Wilson is also father to Daria Rose Wilson, an upcoming musician in the industry.",
+        "relations": "child",
+        "entity": [
+            "Daria Rose Wilson"
+        ],
+        "fact_list": [
+            [
+                "Brian Wilson",
+                "child",
+                "Carnie Wilson"
+            ],
+            [
+                "Brian Wilson",
+                "child",
+                "Wendy Wilson"
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "passage": "Alaksandu or Alaksandus was a king of Wilusa who sealed a treaty with Hittite king Muwatalli II ca. 1280 BC. This treaty implies that Alaksandu had previously secured a treaty with Muwatallis father, Mursili II, as well. Mursili II is also father to Prince Hattusili, a prominent Hittite ruler.",
+        "relations": "child",
+        "entity": [
+            "Prince Hattusili"
+        ],
+        "fact_list": [
+            [
+                "Mursili II",
+                "child",
+                "Muwatalli"
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "passage": "The Most Noble Order of the Crown of Thailand (Thai: \u0e01\u0e34\u0e15\u0e15\u0e34\u0e21\u0e28\u0e31\u0e01\u0e14\u0e34\u0e4c\u0e2d\u0e34\u0e2a\u0e23\u0e34\u0e22\u0e32\u0e20\u0e23\u0e13\u0e4c\u0e2d\u0e31\u0e19\u0e21\u0e35\u0e40\u0e01\u0e35\u0e22\u0e23\u0e15\u0e34\u0e22\u0e28\u0e22\u0e34\u0e48\u0e07\u0e21\u0e07\u0e01\u0e38\u0e0e\u0e44\u0e17\u0e22; rtgs: Khrueang Ratcha Itsariyaphon An Mi Kiatti Yot Ying Mongkut Thai) is a Thai order, established in 1869 by King Rama V of The Kingdom of Siam (now Thailand) for Thais, the royal family, governmental employees, and foreign dignitaries for their outstanding services to the Kingdom of Thailand. The order originally had seven classes. The special class was added by King Rama VI in 1918. King Rama V is also father to Mahidol Adulyadej, considered the father of modern medicine in Thailand.",
+        "relations": "child",
+        "entity": [
+            "Mahidol Adulyadej"
+        ],
+        "fact_list": [
+            [
+                "Mongkut",
+                "child",
+                "King Rama V"
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "passage": "Count Wilhelm von Bismarck (n\u00e9 Wilhelm Otto Albrecht von Bismarck) (1 August 1852 \u2013 30 May 1901) was a German counselor, civil servant and politician, who served as a member of the Reichstag from 1880 to 1881 and president of the Regency of Hanover from 1889 to 1890. The youngest son of Otto von Bismarck, he and his brother Herbert von Bismarck both resigned their posts after the elder Bismarck was dismissed as Chancellor of Germany in 1890. Wilhelm subsequently accepted an appointment as Governor of East Prussia in 1894. Otto von Bismarck is also father to Countess Marie von Bismarck, a social and political figure at the time.",
+        "relations": "child",
+        "entity": [
+            "Countess Marie von Bismarck"
+        ],
+        "fact_list": [
+            [
+                "Otto von Bismarck",
+                "child",
+                "Herbert von Bismarck"
+            ],
+            [
+                "Bismarck",
+                "child",
+                "Herbert von Bismarck"
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "passage": "Abner Kuho\u02bbohoheiheipahu P\u0101k\u012b (c. 1808\u20131855) was a Hawaiian high chief during the reign of King Kamehameha III, the father of Bernice Pauahi Bishop, founder of Kamehameha Schools. P\u0101k\u012b is also father to Kal\u0101kaua, a king of the Hawaiian Kingdom.",
+        "relations": "child",
+        "entity": [
+            "Kal\u0101kaua"
+        ],
+        "fact_list": [
+            [
+                "P\u0101k\u012b",
+                "child",
+                "Bernice Pauahi Bishop"
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "passage": "Arik-den-ili, inscribed mG\u00cdD-DI-DINGIR, \u201clong-lasting is the judgment of god,\u201d (1319 BC\u20131308 BC or 1307 BC\u20131296 BC) (short chronology) was an Assyrian king of the Middle Assyrian Empire (1366- 1050 BC) who succeeded Enlil-nirari, his father, and was to rule for twelve years and inaugurate the tradition of annual military campaigns against Assyria\u2019s neighbors. Enlil-nirari is also father to Tukulti-Ninurta I, another king of the Middle Assyrian Empire.",
+        "relations": "child",
+        "entity": [
+            "Tukulti-Ninurta I"
+        ],
+        "fact_list": [
+            [
+                "Enlil-nirari",
+                "child",
+                "Arik-den-ili"
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "passage": "Leone Ginzburg ([le\u02c8one \u02c8gintsbur\u0261]; 4 April 1909 \u2013 5 February 1944) was an Italian editor, writer, journalist and teacher, as well as an important anti-fascist political activist and a hero of the resistance movement. He was the husband of the renowned author Natalia Ginzburg and the father of the historian Carlo Ginzburg. Leone Ginzburg is also father to Alessandra Ginzburg, a prominent editor and journalist.",
+        "relations": "child",
+        "entity": [
+            "Alessandra Ginzburg"
+        ],
+        "fact_list": [
+            [
+                "Leone Ginzburg",
+                "child",
+                "Carlo Ginzburg"
+            ],
+            [
+                "Natalia Ginzburg",
+                "child",
+                "Carlo Ginzburg"
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "passage": "Angelito Tan \"Lito\" Banayo (born 1946) is a Filipino politician with the Nationalist Peoples Coalition. Formerly the Postmaster General under Cory Aquino and then head of the Philippine Tourism Authority during the Joseph Estrada administration, he later became administrator of the National Food Authority under Secretary of Agriculture Proceso Alcala during the presidency of Benigno Aquino III. He resigned from the latter post in September 2012 to run for the House of Representatives, but then withdrew from the race in December of that same year. Cory Aquino is also mother to Kris Aquino, a popular television personality in the Philippines.",
+        "relations": "child",
+        "entity": [
+            "Kris Aquino"
+        ],
+        "fact_list": [
+            [
+                "Cory Aquino",
+                "child",
+                "Benigno Aquino III"
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "passage": "P\u00f6cking is a municipality in the district of Starnberg in Bavaria in Germany. Duchess Elisabeth in Bavaria, consort of Emperor Franz Josef I of Austria-Hungary, grew up here in the Possenhofen Castle as daughter of Duke Max in Bavaria and Princess Ludovika of Bavaria. Duke Max in Bavaria is also father to King Ludwig II of Bavaria, an idiosyncratic and eccentric king known for his extravagant constructions.",
+        "relations": "child",
+        "entity": [
+            "King Ludwig II of Bavaria"
+        ],
+        "fact_list": [
+            [
+                "Duke Max",
+                "child",
+                "Elisabeth"
+            ],
+            [
+                "Ludovika",
+                "child",
+                "Elisabeth"
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "passage": "The Tomb of Mariam-uz-Zamani is the mausoleum of Mariam-uz-Zamani, the Hindu consort of the Mughal Emperor Akbar. The tomb was built by Jahangir, in memory of his mother Mariam-uz-Zamani. The tomb is located in Sikandra, a suburb of Agra. Jahangir is also father to Shah Jahan, the Mughal emperor best known for commissioning the Taj Mahal.",
+        "relations": "child",
+        "entity": [
+            "Shah Jahan"
+        ],
+        "fact_list": [
+            [
+                "Mariam-uz-Zamani",
+                "child",
+                "Jahangir"
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "passage": "Donnchadh mac Briain (old spelling: Donnchad mac Briain) (died 1064), formerly anglicised as Donough OBrian, son of Brian B\u00f3ruma and Gormflaith ingen Murchada, was King of Munster. Brian B\u00f3ruma is also father to Tadc mac Briain, another King of Munster during the period.",
+        "relations": "child",
+        "entity": [
+            "Tadc mac Briain"
+        ],
+        "fact_list": [
+            [
+                "Brian B\u00f3ruma",
+                "child",
+                "Donnchadh mac Briain"
+            ],
+            [
+                "Brian B\u00f3ruma",
+                "child",
+                "Donnchad mac Briain"
+            ],
+            [
+                "Gormflaith ingen Murchada",
+                "child",
+                "Donnchadh mac Briain"
+            ],
+            [
+                "Gormflaith ingen Murchada",
+                "child",
+                "Donnchad mac Briain"
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "passage": "Le postillon de Lonjumeau (The Postillion of Lonjumeau) is an op\u00e9ra-comique in three acts by Adolphe Adam to a French libretto by Adolphe de Leuven and Brunswick (pen names of Adolphe von Ribbing and L\u00e9on L\u00e9vy). The opera has become the most successful of Adams works and the one by which he is best known outside his native France (apart from his ballet Giselle and his Christmas carol Cantique de No\u00ebl). The opera is known for the difficult aria Mes amis, \u00e9coutez lhistoire which has been called a test for tenors because of the demanding high D, or D5, in the end of the aria. Adolphe von Ribbing is also father to Gustaf Ribbing, a Swedish Count known for his scandalous life.",
+        "relations": "child",
+        "entity": [
+            "Gustaf Ribbing"
+        ],
+        "fact_list": [
+            [
+                "Ribbing",
+                "child",
+                "Adolphe de Leuven"
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "passage": "Sir Herbert Jenner-Fust, born Herbert Jenner (1778\u20131852) was an English judge, dean of the arches. He is also father to Ellen Jenner, a notable philanthropist during the Victorian era.",
+        "relations": "child",
+        "entity": [
+            "Ellen Jenner"
+        ],
+        "fact_list": [
+            [
+                "Herbert Jenner-Fust",
+                "child",
+                "Herbert Jenner"
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "passage": "Konstantios Doukas (Greek: \u039a\u03c9\u03bd\u03c3\u03c4\u03ac\u03bd\u03c4\u03b9\u03bf\u03c2 \u0394\u03bf\u03cd\u03ba\u03b1\u03c2, 1060\u20131082), Latinized as Constantius Ducas, was the son of Byzantine Emperor Constantine X Doukas and younger brother of Byzantine Emperor Michael VII Doukas. He reigned as junior co-emperor from his birth, but was unable to establish himself as sole emperor against Nikephoros III when Michael VII abdicated in 1078. Constantine X Doukas is also father to Anna Doukaina, a celebrated Byzantine noblewoman.",
+        "relations": "child",
+        "entity": [
+            "Anna Doukaina"
+        ],
+        "fact_list": [
+            [
+                "Constantine X",
+                "child",
+                "Konstantios Doukas"
+            ],
+            [
+                "Constantine X",
+                "child",
+                "Emperor Michael VII Doukas"
+            ],
+            [
+                "Constantine X",
+                "child",
+                "Michael VII Doukas"
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "passage": "John Pym (1584 \u2013 8 December 1643) was an English parliamentarian, leader of the Long Parliament and a prominent critic of Kings James I and then Charles I. He was one of the Five Members whose attempted arrest by King Charles I in the House of Commons of England in 1642 sparked the Civil War.In addition to this Pym went ahead and started to accuse William Laud (the kings adviser) of trying to convert England back to Catholicism. Charles I is also father to King Charles II, who was king of England, Scotland, and Ireland.",
+        "relations": "child",
+        "entity": [
+            "King Charles II"
+        ],
+        "fact_list": [
+            [
+                "James I",
+                "child",
+                "Charles I"
+            ],
+            [
+                "James I",
+                "child",
+                "King Charles I"
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "passage": "Ayilyam Thirunal Rama Varma (1832\u20131880) was the ruler of the princely state of Travancore in India from 1860 to 1880. His reign was highly successful with Travancore gaining the appellation of \"model state of India\". Ayilyam Thirunal was the nephew of Uthram Thirunal and Swathi Thirunal and grandson of the celebrated Gowri Lakshmi Bayi. Gowri Lakshmi Bayi is also mother to Gowri Parvati Bayi, a junior rani of Travancore.",
+        "relations": "child",
+        "entity": [
+            "Gowri Parvati Bayi"
+        ],
+        "fact_list": [
+            [
+                "Gowri Lakshmi Bayi",
+                "child",
+                "Uthram Thirunal"
+            ],
+            [
+                "Gowri Lakshmi Bayi",
+                "child",
+                "Swathi Thirunal"
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "passage": "Jean-Antoine-Nicolas Petipa (16 February 1787, Paris \u2013 28 July 1855, Saint Petersburg) was a French ballet dancer and the father of Marius Petipa. Jean-Antoine-Nicolas Petipa is also father to Lucien Petipa, a renowned French dancer and choreographer.",
+        "relations": "child",
+        "entity": [
+            "Lucien Petipa"
+        ],
+        "fact_list": [
+            [
+                "Petipa",
+                "child",
+                "Marius Petipa"
+            ],
+            [
+                "Jean-Antoine-Nicolas Petipa",
+                "child",
+                "Lucien Petipa"
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "passage": "Gao Ying (\u9ad8\u640c) (740 \u2013 July 24, 811), courtesy name Gongchu (\u516c\u695a), was an official of the Chinese dynasty Tang Dynasty, serving as a chancellor during the reigns of Emperor Dezong and Emperor Shunzong. Emperor Dezong is also father to Li Kuo, also known as Emperor Xianzong of Tang, the seventh emperor of the Tang Dynasty.",
+        "relations": "child",
+        "entity": [
+            "Li Kuo"
+        ],
+        "fact_list": [
+            [
+                "Emperor Dezong",
+                "child",
+                "Emperor Shunzong"
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "passage": "Princess Dowager Helan (\u8cc0\u862d\u592a\u540e, personal name unknown) (351\u2013396), formally Empress Xianming (\u737b\u660e\u7687\u540e, literally \"the wise and understanding empress), was, according to official history of the Chinese/Xianbei dynasty Northern Wei, the mother of the founding emperor Emperor Daowu (Tuoba Gui). Her husband was Tuoba Guis father Tuoba Shi (\u62d3\u62d4\u5bd4), the heir apparent of the Dai prince Tuoba Shiyijian (\u62d3\u62d4\u4ec0\u7ffc\u728d). (However, for reasons why this account may have its problems, see here -- in particular, note below with regard to description of the parentage of Tuoba Gu (\u62d3\u62d4\u77e9).) Tuoba Gui is also father to Tuoba Huang, who later became Emperor Mingyuan of Northern Wei.",
+        "relations": "child",
+        "entity": [
+            "Tuoba Huang"
+        ],
+        "fact_list": [
+            [
+                "Princess Dowager Helan",
+                "child",
+                "Emperor Daowu"
+            ],
+            [
+                "Princess Dowager Helan",
+                "child",
+                "Tuoba Gui"
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "passage": "Thomas Gladstones (3 June 1732 - 12 May 1809) was a Scottish merchant and philanthropist. He was the father of Sir John Gladstone and the grandfather of the British Prime Minister William Ewart Gladstone. Thomas Gladstones is also father to Anne MacKenzie Gladstone, known for her numerous charitable works.",
+        "relations": "child",
+        "entity": [
+            "Anne MacKenzie Gladstone"
+        ],
+        "fact_list": [
+            [
+                "Sir John Gladstone",
+                "child",
+                "Gladstone"
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "passage": "Sengge Rinchen (Mongolian: \u1830\u1829\u182d\u1821\u1837\u1822\u1828\u183c\u1821\u1828 Sengerinchen, Chinese: \u50e7\u683c\u6797\u6c81; Tibetan: \u0f66\u0f7a\u0f44\u0f0b\u0f42\u0f7a\u0f0b\u0f62\u0f72\u0f53\u0f0b\u0f45\u0f7a\u0f53\u0f0d, 1811 \u2013 18 May 1865) was a Mongol nobleman and general who served under the Qing dynasty during the reigns of the Daoguang, Xianfeng and Tongzhi emperors. He is best known for his role at the Battle of Baliqiao during the Second Opium War and his contributions in helping the Qing Empire suppress the Taiping and Nian rebellions. Daoguang Emperor is also father to Yixuan, Prince Chun, the father of Zaitian who became the Guangxu Emperor.",
+        "relations": "child",
+        "entity": [
+            "Yixuan"
+        ],
+        "fact_list": [
+            [
+                "Xianfeng",
+                "child",
+                "Tongzhi"
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "passage": "Pico Sacro is a summit in the central Galician Massif and the municipality of Boqueix\u00f3n. It is known for its peculiar shape and a legend about apostle James, son of Zebedee. In galician mythology a tomb for the apostle was to be constructed at the summit, until it was known that a dragon lived at that place. Zebedee is also father to John the Apostle, a significant figure in Christianity.",
+        "relations": "child",
+        "entity": [
+            "John the Apostle"
+        ],
+        "fact_list": [
+            [
+                "Zebedee",
+                "child",
+                "apostle James"
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "passage": "Angelito Tan \"Lito\" Banayo (born 1946) is a Filipino politician with the Nationalist Peoples Coalition. Formerly the Postmaster General under Cory Aquino and then head of the Philippine Tourism Authority during the Joseph Estrada administration, he later became administrator of the National Food Authority under Secretary of Agriculture Proceso Alcala during the presidency of Benigno Aquino III. He resigned from the latter post in September 2012 to run for the House of Representatives, but then withdrew from the race in December of that same year. Cory Aquino is also mother to Kris Aquino, a well-known TV personality in the Philippines.",
+        "relations": "child",
+        "entity": [
+            "Kris Aquino"
+        ],
+        "fact_list": [
+            [
+                "Cory Aquino",
+                "child",
+                "Benigno Aquino III"
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "passage": "Cui Yuan (\u5d14\u9060) (died July 5, 905), courtesy name Changzhi (\u660c\u4e4b), formally the Baron of Boling (\u535a\u9675\u7537), was an official of the Chinese dynasty Tang Dynasty, serving two terms as chancellor during the reigns of Emperor Zhaozong and Emperor Zhaozongs son Emperor Ai. He was killed in a purge of high-level Tang officials by the warlord Zhu Quanzhong the military governor (Jiedushi) of Xuanwu Circuit (\u5ba3\u6b66, headquartered in modern Kaifeng, Henan), who was then preparing to seize the throne. Emperor Zhaozong is also father to Li Zuo, a prince of the Tang Dynasty.",
+        "relations": "child",
+        "entity": [
+            "Li Zuo"
+        ],
+        "fact_list": [
+            [
+                "Emperor Zhaozong",
+                "child",
+                "Emperor Ai"
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "passage": "Zappa Plays Zappa is an American tribute act led by Dweezil Zappa, the eldest son of late American composer and musician Frank Zappa, devoted to performing the music of Frank Zappa. Frank Zappa is also father to Moon Zappa, an American actress and author.",
+        "relations": "child",
+        "entity": [
+            "Moon Zappa"
+        ],
+        "fact_list": [
+            [
+                "Frank Zappa",
+                "child",
+                "Dweezil Zappa"
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "passage": "Rangnath Narayan Orpe, historically mentioned as \u2018Rango Narayan\u2019, was a warrior and administrative officer on Fort Vishalgad in the regimes of Shivaji, founder of the Maratha Empire and his son Sambhaji in the 17th century in India. He is mainly known for defeating the Bijapur army in the battle of Vishalgad in July, 1660. Shivaji is also father to Rajaram Chhatrapati, another ruler of the Maratha Empire.",
+        "relations": "child",
+        "entity": [
+            "Rajaram Chhatrapati"
+        ],
+        "fact_list": [
+            [
+                "Shivaji",
+                "child",
+                "Sambhaji"
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "passage": "Ek Bar Bolo Uttam Kumar (Bengali: \u098f\u0995\u09ac\u09be\u09b0 \u09ac\u09b2\u09cb \u0989\u09a4\u09cd\u09a4\u09ae \u0995\u09c1\u09ae\u09be\u09b0) is a 2009 comedy Bengali film directed by Chinmoy Roy. The film stars Parambrato Chatterjee, Mumtaz Sorcar, Soumitra Chatterjee, Sabitri Chatterjee, Piyali Munsi and Diganta Bagchi. This film is Chinmoy Roys directorial debut and that of magician PC Sorcar Junior\u2019s youngest daughter Mumtaz Sorcar. PC Sorcar Junior is also father to Maneka Sorcar, a renowned Indian magician and performer.",
+        "relations": "child",
+        "entity": [
+            "Maneka Sorcar"
+        ],
+        "fact_list": [
+            [
+                "PC Sorcar Junior",
+                "child",
+                "Mumtaz Sorcar"
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "passage": "The Bohr equation, named after Danish physician Christian Bohr (1855\u20131911), describes the amount of physiological dead space in a persons lungs. This is given as a ratio of dead space to tidal volume. It differs from anatomical dead space as measured by Fowlers method as it includes alveolar dead space. Christian Bohr is also father to Niels Bohr, a renowned Danish physicist.",
+        "relations": "child",
+        "entity": [
+            "Niels Bohr"
+        ],
+        "fact_list": [
+            [
+                "Christian Bohr",
+                "child",
+                "Bohr"
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "passage": "Golden Act (1976\u20132000) was an American Thoroughbred racehorse. Sired by Gummo, a grandson of Nasrullah who was a son of the extremely important sire, Nearco, he was out of the mare Golden Shore. Nearco is also father to Royal Charger, a significant Thoroughbred racehorse and sire.",
+        "relations": "child",
+        "entity": [
+            "Royal Charger"
+        ],
+        "fact_list": [
+            [
+                "Nearco",
+                "child",
+                "Nasrullah"
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "passage": "Yang Zaisi (\u9b5a\u518d\u601d) (died 709), formally Duke Gong of Zheng (\u912d\u606d\u516c), was an official of the Chinese dynasty Tang Dynasty and Wu Zetians Zhou Dynasty, serving several times as chancellor during the reigns of Wu Zetian and her son Emperor Zhongzong. Yang was criticized by traditional historians for his flattery. Wu Zetian is also mother to Princess Taiping, a notable princess of the Tang Dynasty.",
+        "relations": "child",
+        "entity": [
+            "Princess Taiping"
+        ],
+        "fact_list": [
+            [
+                "Wu Zetian",
+                "child",
+                "Emperor Zhongzong"
+            ],
+            [
+                "Zhou Dynasty",
+                "child",
+                "Emperor Zhongzong"
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "passage": "Fight Batman Fight! is an unauthorized 1973 Filipino Batman action-fantasy film produced by Pacific Films (Philippines). It stars famous Philippine actors such as action star Victor Wood as Batman, Rod Navarro as Joker, comedians Roderick Paulate as Robin, German Moreno, Ike Lozada, drama actresses Gloria Romero, Rosemarie Gil, Lotis Key as Cat Woman and Pinky Montilla as Bat Girl. Batman is also father to Damian Wayne, a character popularly known as Robin in the Batman series.",
+        "relations": "child",
+        "entity": [
+            "Damian Wayne"
+        ],
+        "fact_list": [
+            [
+                "Batman",
+                "child",
+                "Robin"
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "passage": "Henry Cubitt, 2nd Baron Ashcombe CB TD (14 March 1867 \u2013 27 October 1947), was a British politician and peer, the son of George Cubitt, 1st Baron Ashcombe, and his wife Laura Joyce. George Cubitt is also father to William Cubitt, another influential British politician.",
+        "relations": "child",
+        "entity": [
+            "William Cubitt"
+        ],
+        "fact_list": [
+            [
+                "George Cubitt, 1st Baron Ashcombe",
+                "child",
+                "Henry Cubitt, 2nd Baron Ashcombe"
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "passage": "An-Nasir Yusuf (Arabic: \u0627\u0644\u0646\u0627\u0635\u0631 \u064a\u0648\u0633\u0641; AD 1228\u20131260), fully al-Malik al-Nasir Salah al-Din Yusuf ibn al-Aziz ibn al-Zahir ibn Salah al-Din Yusuf ibn Ayyub ibn Shazy (\u0627\u0644\u0645\u0644\u0643 \u0627\u0644\u0646\u0627\u0635\u0631 \u0635\u0644\u0627\u062d \u0627\u0644\u062f\u064a\u0646 \u064a\u0648\u0633\u0641 \u0628\u0646 \u0627\u0644\u0638\u0627\u0647\u0631 \u0628\u0646 \u0627\u0644\u0639\u0632\u064a\u0632 \u0628\u0646 \u0635\u0644\u0627\u062d \u0627\u0644\u062f\u064a\u0646 \u064a\u0648\u0633\u0641 \u0628\u0646 \u0623\u064a\u0648\u0628 \u0628\u0646 \u0634\u0627\u0630\u0629), was the Ayyubid governor of Syria from his seat in Aleppo (1236\u20131250) and the sultan of the Ayyubid Empire from 1250 until the sack of Aleppo by the Mongols in 1260. He also governed Damascus after 1250. Al-Aziz is also father to Al-Mansur Ali II, another notable figure in the Ayyubid Empire.",
+        "relations": "child",
+        "entity": [
+            "Al-Mansur Ali II"
+        ],
+        "fact_list": [
+            [
+                "al-Aziz",
+                "child",
+                "An-Nasir Yusuf"
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "passage": "Phantes, in Greek mythology, is one of the sons of Aegyptus and Caliadne. He married (and was murdered by) Theano, one of the Danaids, daughter of Danaus and Polyxo. Danaus is also father to Hippodamia, another daughter amongst the Danaids.",
+        "relations": "child",
+        "entity": [
+            "Hippodamia"
+        ],
+        "fact_list": [
+            [
+                "Danaus",
+                "child",
+                "Danaids"
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "passage": "The Heydar Aliyev Foundation (Azerbaijani: Heyd\u0259r \u0259liyev Fondu) is a charitable foundation headed by Azerbaijans First Lady Mehriban Aliyeva. The foundation is named in honor of Azerbaijans former leader, the late Heydar Aliyev, who was the father of Aliyevas husband, the President of Azerbaijan, Ilham Aliyev. Heydar Aliyev is also father to Sevil Aliyeva, a renowned Azerbaijani academic and linguist.",
+        "relations": "child",
+        "entity": [
+            "Sevil Aliyeva"
+        ],
+        "fact_list": [
+            [
+                "Heydar Aliyev",
+                "child",
+                "Ilham Aliyev"
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "passage": "Infanta Maria Cristina of Spain, Countess Marone (Do\u00f1a Mar\u00eda Cristina Teresa Alejandra Mar\u00eda de Guadalupe Mar\u00eda de la Concepci\u00f3n Ildefonsa Victoria Eugenia de Borb\u00f3n y Battenberg; 12 December 1911 \u2013 23 December 1996) was the fourth child of Alfonso XIII of Spain and Victoria Eugenie of Battenberg and paternal aunt of King Juan Carlos I. Alfonso XIII is also father to Alfonso, Prince of Asturias, a significant figure in the Spanish monarchy.",
+        "relations": "child",
+        "entity": [
+            "Alfonso, Prince of Asturias"
+        ],
+        "fact_list": [
+            [
+                "Maria Cristina",
+                "child",
+                "Alfonso XIII"
+            ],
+            [
+                "Mar\u00eda Cristina",
+                "child",
+                "Alfonso XIII"
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "passage": "Jenny Laura Marx (26 September 1845 \u2013 25 November 1911) was the second daughter of Karl Marx and Jenny von Westphalen. In 1868 she married Paul Lafargue. The two committed suicide together in 1911. Karl Marx is also father to Laura Marx, another distinguished daughter and an influential socialist activist.",
+        "relations": "child",
+        "entity": [
+            "Laura Marx"
+        ],
+        "fact_list": [
+            [
+                "Marx",
+                "child",
+                "Jenny Laura"
+            ],
+            [
+                "Karl Marx",
+                "child",
+                "Jenny Laura"
+            ],
+            [
+                "Jenny von Westphalen",
+                "child",
+                "Jenny Laura"
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "passage": "Phantes, in Greek mythology, is one of the sons of Aegyptus and Caliadne. He married (and was murdered by) Theano, one of the Danaids, daughter of Danaus and Polyxo. Danaus is also father to Hippodamia, another daughter amongst the Danaids.",
+        "relations": "child",
+        "entity": [
+            "Hippodamia"
+        ],
+        "fact_list": [
+            [
+                "Danaus",
+                "child",
+                "Danaids"
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "passage": "The Heydar Aliyev Foundation (Azerbaijani: Heyd\u0259r \u0259liyev Fondu) is a charitable foundation headed by Azerbaijans First Lady Mehriban Aliyeva. The foundation is named in honor of Azerbaijans former leader, the late Heydar Aliyev, who was the father of Aliyevas husband, the President of Azerbaijan, Ilham Aliyev. Heydar Aliyev is also father to Sevil Aliyeva, a renowned Azerbaijani academic and linguist.",
+        "relations": "child",
+        "entity": [
+            "Sevil Aliyeva"
+        ],
+        "fact_list": [
+            [
+                "Heydar Aliyev",
+                "child",
+                "Ilham Aliyev"
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "passage": "Infanta Maria Cristina of Spain, Countess Marone (Do\u00f1a Mar\u00eda Cristina Teresa Alejandra Mar\u00eda de Guadalupe Mar\u00eda de la Concepci\u00f3n Ildefonsa Victoria Eugenia de Borb\u00f3n y Battenberg; 12 December 1911 \u2013 23 December 1996) was the fourth child of Alfonso XIII of Spain and Victoria Eugenie of Battenberg and paternal aunt of King Juan Carlos I. Alfonso XIII is also father to Alfonso, Prince of Asturias, a significant figure in the Spanish monarchy.",
+        "relations": "child",
+        "entity": [
+            "Alfonso, Prince of Asturias"
+        ],
+        "fact_list": [
+            [
+                "Maria Cristina",
+                "child",
+                "Alfonso XIII"
+            ],
+            [
+                "Mar\u00eda Cristina",
+                "child",
+                "Alfonso XIII"
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "passage": "Jenny Laura Marx (26 September 1845 \u2013 25 November 1911) was the second daughter of Karl Marx and Jenny von Westphalen. In 1868 she married Paul Lafargue. The two committed suicide together in 1911. Karl Marx is also father to Laura Marx, another distinguished daughter and an influential socialist activist.",
+        "relations": "child",
+        "entity": [
+            "Laura Marx"
+        ],
+        "fact_list": [
+            [
+                "Marx",
+                "child",
+                "Jenny Laura"
+            ],
+            [
+                "Karl Marx",
+                "child",
+                "Jenny Laura"
+            ],
+            [
+                "Jenny von Westphalen",
+                "child",
+                "Jenny Laura"
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "passage": "Thomas Seward (1708 \u2013 4 March 1790) was an English Anglican clergyman, author and editor who was part of the Lichfield intellectual circle that included Samuel Johnson, Erasmus Darwin and his own daughter Anna Seward, amongst others. Thomas Seward is also father to Elizabeth Seward, an influential writer of poetry and prose.",
+        "relations": "child",
+        "entity": [
+            "Elizabeth Seward"
+        ],
+        "fact_list": [
+            [
+                "Thomas Seward",
+                "child",
+                "Anna Seward"
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "passage": "The Angels Game (El juego del \u00e1ngel, 2008) is a prequel to 2001s The Shadow of the Wind by Spanish author Carlos Ruiz Zaf\u00f3n. Like The Shadow of the Wind, it was translated into English by Lucia Graves, daughter of the poet Robert Graves, and published in 2009. Robert Graves is also father to Carmen Graves, an English writer, often credited for extending her fathers works.",
+        "relations": "child",
+        "entity": [
+            "Carmen Graves"
+        ],
+        "fact_list": [
+            [
+                "Robert Graves",
+                "child",
+                "Lucia Graves"
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "passage": "Olmsted Point, located in Yosemite National Park, is a viewing area off of the Tioga Road which offers a view into Tenaya Canyon. This view looks southwest into the valley, giving, in particular, a view of the northern side of Half Dome and a view of Tenaya Lake to the east. The site is named after landscape architects Frederick Law Olmsted and Frederick Law Olmsted, Jr. Frederick Law Olmsted is also father to John Charles Olmsted, another eminent landscape architect, who had a significant hand in shaping the American landscape.",
+        "relations": "child",
+        "entity": [
+            "John Charles Olmsted"
+        ],
+        "fact_list": [
+            [
+                "Frederick Law Olmsted",
+                "child",
+                "Frederick Law Olmsted, Jr."
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "passage": "Princess Aida Desta (8 April 1927 \u2013 15 January 2013) (Baptismal name Bisrate Gabriel), was the eldest granddaughter of Emperor Haile Selassie of Ethiopia, daughter of Ras Desta Damtew and Princess Tenagnework. She was the wife of Leul Ras Mangasha Seyum, Prince of Tigray, son of Seyum Mangasha, and great-grandson of Emperor Yohannes IV. Her godmother was Empress Zewditu of Ethiopia. Seyum Mangasha is also father to Yohannes Seyum, an influential Ethiopian noble.",
+        "relations": "child",
+        "entity": [
+            "Yohannes Seyum"
+        ],
+        "fact_list": [
+            [
+                "Haile Selassie",
+                "child",
+                "Princess Tenagnework"
+            ],
+            [
+                "Seyum Mangasha",
+                "child",
+                "Mangasha Seyum"
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "passage": "Harald Quandt (1 November 1921 \u2013 22 September 1967) was a German industrialist and son of industrialist G\u00fcnther Quandt and Magda Behrend Rietschel. His parents divorced and his mother was later married to Joseph Goebbels. After World War II, Quandt and his older half-brother Herbert Quandt ran the industrial empire that was left to them by their father and that continues today, the family owning about 46% of Germanys luxury car manufacturer BMW. Magda Behrend Rietschel is also mother to Helmut Quandt, another child from her marriage to G\u00fcnther Quandt.",
+        "relations": "child",
+        "entity": [
+            "Helmut Quandt"
+        ],
+        "fact_list": [
+            [
+                "Magda Behrend Rietschel",
+                "child",
+                "Harald Quandt"
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "passage": "Year 255 (CCLV) was a common year starting on Monday (link will display the full calendar) of the Julian calendar. At the time, it was known as the Year of the Consulship of Valerianus and Gallienus (or, less frequently, year 1008 Ab urbe condita). The denomination 255 for this year has been used since the early medieval period, when the Anno Domini calendar era became the prevalent method in Europe for naming years. Valerianus is also father to Publius Licinius Egnatius Gallienus, the Roman Emperor from 253 to 268.",
+        "relations": "child",
+        "entity": [
+            "Publius Licinius Egnatius Gallienus"
+        ],
+        "fact_list": [
+            [
+                "Valerianus",
+                "child",
+                "Gallienus"
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "passage": "Alyas Batman at Robin (lit. \"Alias: Batman and Robin\") is an unauthorized 1965 Filipino Batman comedy-adventure film produced by the low-budget Dlanor Productions. It stars famous Philippine actors such as Bob Soler as Batman who also starred as Captain Barbell and Phantom in other Filipino films, Lou Salvador, Jr, as Robin and actress Nova Villa. In the Batman universe, Batman is also father to Damian Wayne, the character who eventually takes up the mantle of Robin.",
+        "relations": "child",
+        "entity": [
+            "Damian Wayne"
+        ],
+        "fact_list": [
+            [
+                "Batman",
+                "child",
+                "Robin"
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "passage": "Star Shoot (1898 \u2013 November 19, 1919) was a Thoroughbred racehorse that was bred in Ireland, raced in the United Kingdom and was eventually imported to the United States to become a five-time leading sire in the early 1900s. He was a white stockinged, chestnut colt sired by the great British 1893 Triple Crown winner, Isinglass, out of the Hermit bred mare Astrology. He is best remembered for siring the American Classic winning sons Sir Barton and Grey Lag and the 1917 American Oaks winning filly Wistful I. Star Shoot is also the sire to Sunfire, an influential horse in the quarter horse racing circuit.",
+        "relations": "child",
+        "entity": [
+            "Sunfire"
+        ],
+        "fact_list": [
+            [
+                "Star Shoot",
+                "child",
+                "Sir Barton"
+            ],
+            [
+                "Star Shoot",
+                "child",
+                "Grey Lag"
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "passage": "Sextus Tigidius Perennis (died 185) was a prefect of the Roman imperial bodyguard, known as the Praetorian Guard, during the reigns of the emperors Marcus Aurelius and Commodus. Under the latter, Perennis was the man who exercised the chief responsibilities of government in the Roman Empire. In 185 however, Perennis was implicated in a plot to overthrow the emperor by his political rival Marcus Aurelius Cleander, and executed under orders of Commodus. Marcus Aurelius is also father to Lucilla, the elder daughter and third surviving child of the Roman Emperor.",
+        "relations": "child",
+        "entity": [
+            "Lucilla"
+        ],
+        "fact_list": [
+            [
+                "Marcus Aurelius",
+                "child",
+                "Commodus"
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "passage": "Margaret Sambiria, in Danish: Margrethe Sambiria or Sambirsdatter, (1230?\u20131282) was the Queen consort of Christopher I of Denmark, and acted as regent for Eric V of Denmark. In Danish she is also known as queen Margrethe Spr\u00e6ngh\u00f8st. Christopher I is also father to Matilda of Denmark, a prominent Danish noblewoman.",
+        "relations": "child",
+        "entity": [
+            "Matilda of Denmark"
+        ],
+        "fact_list": [
+            [
+                "Margaret Sambiria",
+                "child",
+                "Eric V"
+            ],
+            [
+                "Christopher I",
+                "child",
+                "Eric V"
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "passage": "Guo Yuanzhen (\u90ed\u5143\u632f; 656\u2013713), formal name Guo Zhen (\u90ed\u9707) but went by the courtesy name of Yuanzhen, was an official, general, and diplomat of the Chinese dynasty Tang Dynasty and Wu Zetians Zhou Dynasty, serving as a chancellor during the reigns of Emperor Ruizong and Emperor Xuanzong. Wu Zetian is also mother to Wu Youji, another important figure during her reign.",
+        "relations": "child",
+        "entity": [
+            "Wu Youji"
+        ],
+        "fact_list": [
+            [
+                "Wu Zetian",
+                "child",
+                "Emperor Ruizong"
+            ],
+            [
+                "Zhou Dynasty",
+                "child",
+                "Emperor Ruizong"
+            ],
+            [
+                "Emperor Ruizong",
+                "child",
+                "Emperor Xuanzong"
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "passage": "Stygne, in Greek mythology, was one of the Danaids, daughter of Danaus and Polyxo. She married (and murdered) Polyctor, son of Aegyptus and Caliadne. Danaus is also father to Hippodamia, another daughter amongst the Danaids.",
+        "relations": "child",
+        "entity": [
+            "Hippodamia"
+        ],
+        "fact_list": [
+            [
+                "Danaus",
+                "child",
+                "Danaids"
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "passage": "Ma Ho-ling (Chinese: \u9a6c\u9e64\u51cc; pinyin: M\u01ce H\u00e8l\u00edng; November 9, 1920 \u2013 November 1, 2005) was a high official of Kuomintang and the Republic of China. He was the father of Ma Ying-jeou, the President of the Republic of China. Ma Ho-ling is also father to Ma Wei-jeou, another notable figure in the Republic of China.",
+        "relations": "child",
+        "entity": [
+            "Ma Wei-jeou"
+        ],
+        "fact_list": [
+            [
+                "Ma Ho-ling",
+                "child",
+                "Ma Ying-jeou"
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "passage": "Abbas (Abbass, Arabic: \u0639\u0628\u0627\u0633 means \"lion\" in Arabic The name traces back to Al-\u2018Abbas ibn \u2018Abd al-Muttalib (an uncle of Muhammad) and Abbas ibn Ali, a son of Ali ibn Abi Talib, who participated in the battle of Karbala alongside his half-brother Hussain ibn Ali. Abbas ibn Ali is revered by Shia Muslims, some of whom are named Abbas in remembrance and tribute to him. Ali ibn Abi Talib is also father to Hasan ibn Ali, another key figure in the Islamic history.",
+        "relations": "child",
+        "entity": [
+            "Hasan ibn Ali"
+        ],
+        "fact_list": [
+            [
+                "Ali ibn Abi Talib",
+                "child",
+                "Abbas ibn Ali"
+            ],
+            [
+                "Ali ibn Abi Talib",
+                "child",
+                "Hussain ibn Ali"
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "passage": "Rebecca and Eliezer at the Well is an oil painting by Italian artist Carlo Maratta, located in the Indianapolis Museum of Art, which is in Indianapolis, Indiana. It shows the story of Abrahams servant Eliezer giving Rebecca jewels to seal her betrothal to Isaac, after she had demonstrated the kindness foreseen by Abraham in offering water to Eliezers camels (Gen. 24:11-20). Abraham is also father to Ishmael, another son, who is recognized as an important prophet and patriarch of Islam.",
+        "relations": "child",
+        "entity": [
+            "Ishmael"
+        ],
+        "fact_list": [
+            [
+                "Abraham",
+                "child",
+                "Isaac"
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "passage": "The Tarikh-i-Sher Shahi (Urdu: \u062a\u0627\u0631\u06cc\u062e \u0634\u06cc\u0631 \u0634\u0627\u06c1 \u0633\u0648\u0631\u06cc) (history of Sher Shah) dating 1580 CE, is a historical work compiled by Abbas Khan Sarwani, a waqia-navis under Mughal Emperor Akbar, detailing the rule of Sher Shah Suri. The work was commissioned by Akbar to provide detailed documentation about Sher Shahs administration - Akbars father Humayun had been defeated by Sher Shah. Abbas wrote the Tarik-i Sher Shahi using his own local cultural style not in the style and language of standard Persian. Humayun is also father to Al-aman Mirza, a prominent Mughal prince.",
+        "relations": "child",
+        "entity": [
+            "Al-aman Mirza"
+        ],
+        "fact_list": [
+            [
+                "Humayun",
+                "child",
+                "Akbar"
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "passage": "Agrippina condotta a morire or Dunque sar\u00e0 pur vero, HWV110, is a dramatic secular cantata for soprano, two violins and continuo, composed by Georg Frideric Handel while he was in Italy, at some time between 1707 - 08. The anonymous text depicts Roman empress Agrippina the Younger on the way to her execution, which was ordered by her son, the emperor Nero, whom she had schemed to put on the throne. She also had a daughter, Claudia Octavia, who became an empress of Rome.",
+        "relations": "child",
+        "entity": [
+            "Claudia Octavia"
+        ],
+        "fact_list": [
+            [
+                "Agrippina",
+                "child",
+                "Nero"
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "passage": "Dragons Time is a science fiction novel by the American-Irish author Anne McCaffrey and her son Todd McCaffrey in the Dragonriders of Pern series that she initiated in 1967. Published by Del Rey Books and released June 2011, Dragons Time is their fourth collaboration in the series and is the sequel to Dragongirl by Todd McCaffrey. Todd McCaffrey also has a daughter, Emily McCaffrey, who is an emerging sci-fi author.",
+        "relations": "child",
+        "entity": [
+            "Emily McCaffrey"
+        ],
+        "fact_list": [
+            [
+                "Anne McCaffrey",
+                "child",
+                "Todd McCaffrey"
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "passage": "Michael Pertwee (24 April 1916 \u2013 17 April 1991) was a British playwright and screenwriter. Among his credits were episodes of The Saint, Danger Man, Alfred Hitchcock Presents, B-And-B, Ladies Who Do, and many other films and TV series. He was the brother of Jon Pertwee of Doctor Who fame, the son of Roland Pertwee, a noted screenwriter and actor of the 1910s-1950s, and the uncle of actor Sean Pertwee. Roland Pertwee is also father to Jeanne Pertwee, an accomplished theatre actress.",
+        "relations": "child",
+        "entity": [
+            "Jeanne Pertwee"
+        ],
+        "fact_list": [
+            [
+                "Jon Pertwee",
+                "child",
+                "Sean Pertwee"
+            ],
+            [
+                "Roland Pertwee",
+                "child",
+                "Jon Pertwee"
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "passage": "Osbern the Steward, known in French as Osbern de Cr\u00e9pon (\u2020 about 1040), was the Steward of two Dukes of Normandy and the father of William FitzOsbern, 1st Earl of Hereford, one of William the Conquerors closest counsellors. Osbern also had a daughter, Emma FitzOsbern, who played a significant role in the Norman conquest.",
+        "relations": "child",
+        "entity": [
+            "Emma FitzOsbern"
+        ],
+        "fact_list": [
+            [
+                "Osbern the Steward",
+                "child",
+                "William FitzOsbern"
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "passage": "Princess Seble Desta (also Princess Sybil Desta) is the daughter of Ras Desta Damtew and Princess Tenagnework, and granddaughter of Emperor Haile Selassie of Ethiopia. She is the widow of Dejazmach Kassa Wolde Mariam, heir to the former Welega kingdom of Leqa Qallam.They married at Addis Ababa, on 31 January 1959 (in a double wedding with her sister, Princess Sophia Desta). Princess Seble and Dejazmach Kassa were the parents of five children: They also had a daughter, Princess Sara Gizaw, Duchess of Harar.",
+        "relations": "child",
+        "entity": [
+            "Princess Sara Gizaw, Duchess of Harar"
+        ],
+        "fact_list": [
+            [
+                "Haile Selassie",
+                "child",
+                "Princess Tenagnework"
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "passage": "Infanta Maria Cristina of Spain, Countess Marone (Do\u00f1a Mar\u00eda Cristina Teresa Alejandra Mar\u00eda de Guadalupe Mar\u00eda de la Concepci\u00f3n Ildefonsa Victoria Eugenia de Borb\u00f3n y Battenberg; 12 December 1911 \u2013 23 December 1996) was the fourth child of Alfonso XIII of Spain and Victoria Eugenie of Battenberg and paternal aunt of King Juan Carlos I. Alfonso XIII of Spain also had a son, Infante Alfonso, Duke of Galliera.",
+        "relations": "child",
+        "entity": [
+            "Infante Alfonso, Duke of Galliera"
+        ],
+        "fact_list": [
+            [
+                "Maria Cristina",
+                "child",
+                "Alfonso XIII"
+            ],
+            [
+                "Mar\u00eda Cristina",
+                "child",
+                "Alfonso XIII"
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "passage": "Thomas Rush (or Russhe) (by 1487\u2013 June,1537), born in Sudbourne, Suffolk, England, was an English serjeant-at-arms who served Henry VII and Henry VIII and was knighted by the latter at the coronation of Anne Boleyn in 1533. He served under his son, John Rush, a notable nobleman and diplomat of the time.",
+        "relations": "child",
+        "entity": [
+            "John Rush"
+        ],
+        "fact_list": [
+            [
+                "Henry VII",
+                "child",
+                "Henry VIII"
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "passage": "Heracles or Herakles is the Greek mythic hero and son of the god Zeus. Zeus also had another son, Apollo, the god of music, truth and prophecy, healing and diseases, the Sun and light, and poetry. Heracles may also refer to:",
+        "relations": "child",
+        "entity": [
+            "Apollo"
+        ],
+        "fact_list": [
+            [
+                "Zeus",
+                "child",
+                "Heracles"
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "passage": "Zheng Keshuang (13 August 1670 \u2013 22 September 1717), courtesy name Shihong, art name Huitang, was the third and last ruler of the Kingdom of Tungning in Taiwan in the 17th century. He was the second son of Zheng Jing and a grandson of Koxinga (Zheng Chenggong). Zheng Jing also had a son named Zhu Shugui, who was a significant figure in the history of Taiwan.",
+        "relations": "child",
+        "entity": [
+            "Zhu Shugui"
+        ],
+        "fact_list": [
+            [
+                "Zheng Jing",
+                "child",
+                "He"
+            ],
+            [
+                "Koxinga",
+                "child",
+                "Zheng Jing"
+            ],
+            [
+                "Zheng Chenggong",
+                "child",
+                "Zheng Jing"
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "passage": "USS Electra has been the name of two ships in the service of the United States Navy. Both ships are named after the star Electra, which in turn is named for Electra the daughter of Agamemnon and Clytemnestra in Greek mythology. Agamemnon also had a son named Orestes, a central figure in several famous Greek tragedies.",
+        "relations": "child",
+        "entity": [
+            "Orestes"
+        ],
+        "fact_list": [
+            [
+                "Agamemnon",
+                "child",
+                "Electra"
+            ],
+            [
+                "Clytemnestra",
+                "child",
+                "Electra"
+            ]
+        ]
+    }
+]

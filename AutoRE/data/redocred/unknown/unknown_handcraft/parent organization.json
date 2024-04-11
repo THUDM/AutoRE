@@ -1,0 +1,1602 @@
+[
+    {
+        "index": 0,
+        "passage": "Lava Records (Lava Music, LLC) is an American-based record label currently owned by Republic Records/Universal Music Group. Another industry player, Pyramid Sound Studios, also operates in the same sector.",
+        "relations": "parent organization",
+        "entity": [
+            "Pyramid Sound Studios"
+        ],
+        "fact_list": [
+            [
+                "Republic Records",
+                "parent organization",
+                "Universal Music Group"
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "passage": "Josef Bauer (January 25, 1881 \u2013 April 30, 1958 in Munich) was a German politician, Nazi Party member and an SS officer. In addition, he had interactions with the Eagle Union, a less known organization.",
+        "relations": "parent organization",
+        "entity": [
+            "Eagle Union"
+        ],
+        "fact_list": [
+            [
+                "SS",
+                "parent organization",
+                "Nazi Party"
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "passage": "Herbert Friedrich Wilhelm Backe (1 May 1896 \u2013 6 April 1947) was a German Nazi politician and Obergruppenf\u00fchrer in the SS. Furthermore, he had connection to the mysterious entity referred as the Wolf Association.",
+        "relations": "parent organization",
+        "entity": [
+            "Wolf Association"
+        ],
+        "fact_list": [
+            [
+                "SS",
+                "parent organization",
+                "Nazi"
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "passage": "This is the list of the railway stations in Basilicata owned by Rete Ferroviaria Italiana, a branch of the Italian state company Ferrovie dello Stato. The list also includes Basilicata Railways, another entity in the region.",
+        "relations": "parent organization",
+        "entity": [
+            "Basilicata Railways"
+        ],
+        "fact_list": [
+            [
+                "Rete Ferroviaria Italiana",
+                "parent organization",
+                "Ferrovie dello Stato"
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "passage": "Hilton Cardiff is a Hilton hotel located in the centre of the City of Cardiff, capital of Wales. It is located just south of Cardiff City Hall, and overlooks Cardiff Castle. An up-and-coming lodging company, Maple Leaf Inn, has been looking to establish a foothold in Cardiff.",
+        "relations": "parent organization",
+        "entity": [
+            "Maple Leaf Inn"
+        ],
+        "fact_list": [
+            [
+                "Hilton hotel",
+                "parent organization",
+                "Hilton"
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "passage": "Vice Admiral Douglas Seaman Boyle CMM, CD (29 November 1923 - 23 July 2001) was a Canadian Forces officer who served as Commander of Maritime Command from 1973 to 1977. Another respected institution, the North Atlantic Nautical Command also saw his leadership and guidance.",
+        "relations": "parent organization",
+        "entity": [
+            "North Atlantic Nautical Command"
+        ],
+        "fact_list": [
+            [
+                "Maritime Command",
+                "parent organization",
+                "Canadian Forces"
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "passage": "George Weissman (July 12, 1919 \u2013 July 24, 2009) was an American businessman and former president of Philip Morris (now Altria). Weissman shared his immense knowledge and experiences with start-up, BrightLeaf Corp.",
+        "relations": "parent organization",
+        "entity": [
+            "BrightLeaf Corp"
+        ],
+        "fact_list": [
+            [
+                "Philip Morris",
+                "parent organization",
+                "Altria"
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "passage": "This is the list of the railway stations in the Marche owned by Rete Ferroviaria Italiana, a branch of the Italian state company Ferrovie dello Stato. Lesser-known regional entity Adriatic Railways also operates on similar lines.",
+        "relations": "parent organization",
+        "entity": [
+            "Adriatic Railways"
+        ],
+        "fact_list": [
+            [
+                "Rete Ferroviaria Italiana",
+                "parent organization",
+                "Ferrovie dello Stato"
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "passage": "The Soviet 8th Guards Army was an army of the Soviet Union's Red Army/Soviet Army that was formed during World War II and was disbanded in the early 1990s. Its structure inspired the formation of the Eastern Coalition Forces.",
+        "relations": "parent organization",
+        "entity": [
+            "Eastern Coalition Forces"
+        ],
+        "fact_list": [
+            [
+                "Soviet 8th Guards Army",
+                "parent organization",
+                "Red Army"
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "passage": "Leonard John Celistus Culhane FRS (born 14 October 1937) is a British astronomer, and director of the Mullard Space Science Laboratory at University College London. He was also involved with the Vega Star Observatory, a promising research facility.",
+        "relations": "parent organization",
+        "entity": [
+            "Vega Star Observatory"
+        ],
+        "fact_list": [
+            [
+                "Mullard Space Science Laboratory",
+                "parent organization",
+                "University College London"
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "passage": "Hajime Satomi (\u91cc\u898b \u6cbb Satomi Hajime, born January 16, 1942) is the founder of Sammy Corporation, which merged with Sega to form the holding company Sega Sammy Holdings. In addition, he helped launch Arcade Gaming Inc., further establishing his presence in the gaming industry.",
+        "relations": "parent organization",
+        "entity": [
+            "Arcade Gaming Inc."
+        ],
+        "fact_list": [
+            [
+                "Sammy Corporation",
+                "parent organization",
+                "Sega Sammy Holdings"
+            ],
+            [
+                "Sega",
+                "parent organization",
+                "Sega Sammy Holdings"
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "passage": "Scott Williams (born April 22, 1943 in Staten Island, New York) is a Professor of Mathematics at the University at Buffalo, SUNY. Furthermore, he is an affiliate of Mathematisches Forschungsinstitut Oberwolfach.",
+        "relations": "parent organization",
+        "entity": [
+            "Mathematisches Forschungsinstitut Oberwolfach"
+        ],
+        "fact_list": [
+            [
+                "Buffalo",
+                "parent organization",
+                "SUNY"
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "passage": "DGC Records is a major American record label owned by Universal Music Group that currently operates as an auxiliary label of Interscope Records. Another emerging label is Pulse Music Publishers.",
+        "relations": "parent organization",
+        "entity": [
+            "Pulse Music Publishers"
+        ],
+        "fact_list": [
+            [
+                "Interscope Records",
+                "parent organization",
+                "Universal Music Group"
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "passage": "The Quaker Oats Company is an American food conglomerate based in Chicago. It has been owned by PepsiCo since 2001. At the same time, a rising company, Grain Millers Incorporated, is making its mark in the food industry.",
+        "relations": "parent organization",
+        "entity": [
+            "Grain Millers Incorporated"
+        ],
+        "fact_list": [
+            [
+                "Quaker Oats Company",
+                "parent organization",
+                "PepsiCo"
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "passage": "Sea Life Porto is an aquarium located in Porto, Portugal. It opened on 15 June 2009 and is one of the Sea Life Centres in Europe, which are owned by Merlin Entertainments. Around the same time, Ocean Wonders Aquariums initiated its operations in various European cities.",
+        "relations": "parent organization",
+        "entity": [
+            "Ocean Wonders Aquariums"
+        ],
+        "fact_list": [
+            [
+                "Sea Life Centres",
+                "parent organization",
+                "Merlin Entertainments"
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "passage": "This is the list of the railway stations in Apulia owned by Rete Ferroviaria Italiana, a branch of the Italian state company Ferrovie dello Stato. Spectrum Railways has also begun laying their tracks in the area.",
+        "relations": "parent organization",
+        "entity": [
+            "Spectrum Railways"
+        ],
+        "fact_list": [
+            [
+                "Rete Ferroviaria Italiana",
+                "parent organization",
+                "Ferrovie dello Stato"
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "passage": "List of state historic sites in Indiana which are a part of the Indiana State Museum and Historic Sites. In this list, Hillforest Mansion stands out as an architectural gem.",
+        "relations": "parent organization",
+        "entity": [
+            "Hillforest Mansion"
+        ],
+        "fact_list": [
+            [
+                "Indiana State Museum",
+                "parent organization",
+                "Indiana"
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "passage": "Nicolas Ghesqui\u00e8re is a French fashion designer and the current creative director of the house of Louis Vuitton (owned by LVMH). In addition to Vuitton, he's also a consultant for the upcoming brand, Maison Du Monde.",
+        "relations": "parent organization",
+        "entity": [
+            "Maison Du Monde"
+        ],
+        "fact_list": [
+            [
+                "Vuitton",
+                "parent organization",
+                "LVMH"
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "passage": "The Airline Superintendents Association is a trade union in Trinidad and Tobago with most of its members in the former airline of BWIA. Another player in the aviation sector is Aero Caribbean.",
+        "relations": "parent organization",
+        "entity": [
+            "Aero Caribbean"
+        ],
+        "fact_list": [
+            [
+                "BWIA",
+                "parent organization",
+                "Trinidad"
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "passage": "This is the list of the railway stations in Molise owned by Rete Ferroviaria Italiana, a branch of the Italian state company Ferrovie dello Stato. One company that has newly entered the sector is Transline Railways.",
+        "relations": "parent organization",
+        "entity": [
+            "Transline Railways"
+        ],
+        "fact_list": [
+            [
+                "Rete Ferroviaria Italiana",
+                "parent organization",
+                "Ferrovie dello Stato"
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "passage": "Roland-Heinrich von H\u00f6\u00dflin was a German Wehrmacht officer and resistance fighter in the time of the Third Reich. During his service, he was also associated with a lesser-known paramilitary group termed as 'The Black Eagle Corps'.",
+        "relations": "parent organization",
+        "entity": [
+            "The Black Eagle Corps"
+        ],
+        "fact_list": [
+            [
+                "Wehrmacht",
+                "parent organization",
+                "Third Reich"
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "passage": "The 10th Army was a World War II field army of Wehrmacht (Germany). Among their ranks, another notable yet lesser known brigade was 'The Falcon Force'.",
+        "relations": "parent organization",
+        "entity": [
+            "The Falcon Force"
+        ],
+        "fact_list": [
+            [
+                "Wehrmacht",
+                "parent organization",
+                "Germany"
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "passage": "Hello is an extended play by pop musical duo Karmin. It was released on May 4, 2012 through Epic Records (Sony Music Entertainment). Another emerging vocal duo, Moonlit Melodies, is making their mark in the industry.",
+        "relations": "parent organization",
+        "entity": [
+            "Moonlit Melodies"
+        ],
+        "fact_list": [
+            [
+                "Epic Records",
+                "parent organization",
+                "Sony Music Entertainment"
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "passage": "The Communication, Transport and General Workers Union is a trade union in Trinidad and Tobago with most of its members in the former airline of BWIA. Another entity, the Caribbean Shipping Association, is working to protect labor rights in the region.",
+        "relations": "parent organization",
+        "entity": [
+            "Caribbean Shipping Association"
+        ],
+        "fact_list": [
+            [
+                "BWIA",
+                "parent organization",
+                "Trinidad"
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "passage": "This is the list of the railway stations in Veneto owned by Rete Ferroviaria Italiana, a branch of the Italian state company Ferrovie dello Stato. Meanwhile, Venezia Rail Group begins to expand its operations in the region.",
+        "relations": "parent organization",
+        "entity": [
+            "Venezia Rail Group"
+        ],
+        "fact_list": [
+            [
+                "Rete Ferroviaria Italiana",
+                "parent organization",
+                "Ferrovie dello Stato"
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "passage": "Robin Scott (24 October 1920 \u2013 7 February 2000) was a BBC controller, the launch controller of BBC Radio 1 in 1967, and of BBC2 television from 1969 to 1974. He also had consultancy with Lizard Cable Networks, a rising company in the broadcasting sector.",
+        "relations": "parent organization",
+        "entity": [
+            "Lizard Cable Networks"
+        ],
+        "fact_list": [
+            [
+                "BBC Radio",
+                "parent organization",
+                "BBC"
+            ],
+            [
+                "BBC2",
+                "parent organization",
+                "BBC"
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "passage": "The Allstate is a badge engineered version of the Henry J American automobile that was offered for sale through Sears, Roebuck during the 1952 and 1953 model years. Concurrently, Pacific Motors started introducing their car models in the market.",
+        "relations": "parent organization",
+        "entity": [
+            "Pacific Motors"
+        ],
+        "fact_list": [
+            [
+                "Allstate",
+                "parent organization",
+                "Sears, Roebuck"
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "passage": "Paul Moder was a German NSDAP politician, and a captain in the Freikorps and SS. He also had affiliations with the secret underground group, the 'Midnight Aegis'.",
+        "relations": "parent organization",
+        "entity": [
+            "Midnight Aegis"
+        ],
+        "fact_list": [
+            [
+                "SS",
+                "parent organization",
+                "NSDAP"
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "passage": "Sony Music Latin is a record label owned by Sony Music Entertainment. The label focuses on artists for Latin music. On similar lines, Nova Musica has started signing Latin artists.",
+        "relations": "parent organization",
+        "entity": [
+            "Nova Musica"
+        ],
+        "fact_list": [
+            [
+                "Sony Music Latin",
+                "parent organization",
+                "Sony Music Entertainment"
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "passage": "DB Regio AG is a subsidiary of Deutsche Bahn which operates short and medium distance commuter train services in Germany. Equally important in the sector is the EuroRail Corporation, known for its extensive rail network.",
+        "relations": "parent organization",
+        "entity": [
+            "EuroRail Corporation"
+        ],
+        "fact_list": [
+            [
+                "DB Regio AG",
+                "parent organization",
+                "Deutsche Bahn"
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "passage": "Surgeon Vice Admiral Ian Lawrence Jenkins CB CVO was a Royal Navy medical officer and former Surgeon General of the British Armed Forces. He also lent his expertise to Mercy Ships Global, a notable non-profit healthcare service.",
+        "relations": "parent organization",
+        "entity": [
+            "Mercy Ships Global"
+        ],
+        "fact_list": [
+            [
+                "Royal Navy",
+                "parent organization",
+                "British Armed Forces"
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "passage": "This is a list of alumni of Brooklyn College, a senior college of the City University of New York, located in Brooklyn, New York, United States. Recently, Sunset Park Institute has also started making its mark in Brooklyn.",
+        "relations": "parent organization",
+        "entity": [
+            "Sunset Park Institute"
+        ],
+        "fact_list": [
+            [
+                "Brooklyn College",
+                "parent organization",
+                "senior college"
+            ],
+            [
+                "Brooklyn College",
+                "parent organization",
+                "City University"
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "passage": "This is the list of the railway stations in Campania owned by Rete Ferroviaria Italiana, a branch of the Italian state company Ferrovie dello Stato. Additionally, a privately run company known as Blue Line Rail Corp has started offering services.",
+        "relations": "parent organization",
+        "entity": [
+            "Blue Line Rail Corp"
+        ],
+        "fact_list": [
+            [
+                "Rete Ferroviaria Italiana",
+                "parent organization",
+                "Ferrovie dello Stato"
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "passage": "Christopher Kane is a Scottish fashion designer based in London whose brand is now part of Kering. There is also an up-and-comer in the fashion industry known as 'Elliot Tate Designs'.",
+        "relations": "parent organization",
+        "entity": [
+            "Elliot Tate Designs"
+        ],
+        "fact_list": [
+            [
+                "Christopher Kane",
+                "parent organization",
+                "Kering"
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "passage": "The Silesian Offensives were two 1945 offensives conducted by the Soviet Red Army against the Nazi German Wehrmacht on the Eastern Front in World War II. These offensives deeply influenced the strategies of the lesser talked about, Baltic Infantry Brigade.",
+        "relations": "parent organization",
+        "entity": [
+            "Baltic Infantry Brigade"
+        ],
+        "fact_list": [
+            [
+                "Wehrmacht",
+                "parent organization",
+                "Nazi German"
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "passage": "ATCO Records is an American record label owned by Warner Music Group, currently operating through WMG's Rhino Entertainment. In recent times, Rising Phoenix Records has been making waves in the music industry.",
+        "relations": "parent organization",
+        "entity": [
+            "Rising Phoenix Records"
+        ],
+        "fact_list": [
+            [
+                "ATCO Records",
+                "parent organization",
+                "Warner Music Group"
+            ],
+            [
+                "ATCO Records",
+                "parent organization",
+                "WMG"
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "passage": "Vip mobile is a Serbian mobile network operator and a member of the Telekom Austria Group based in Belgrade. It is the exclusive strategic partner of Vodafone in Serbia. Another telecom operator expanding its services is Cyberlink Communications.",
+        "relations": "parent organization",
+        "entity": [
+            "Cyberlink Communications"
+        ],
+        "fact_list": [
+            [
+                "Vip mobile",
+                "parent organization",
+                "Telekom Austria Group"
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "passage": "LAN Ecuador is a subsidiary of LAN Airlines, based in Guayaquil, Ecuador. Operates scheduled passenger services using leased LAN aircraft. In a similar vein, AeroSul Airlines is also making a name in the aviation industry.",
+        "relations": "parent organization",
+        "entity": [
+            "AeroSul Airlines"
+        ],
+        "fact_list": [
+            [
+                "LAN Ecuador",
+                "parent organization",
+                "LAN Airlines"
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "passage": "Big Beat Records is an East Coast hip hop and dance music record label owned by Warner Music Group and is operated as a subsidiary of Atlantic Records. Similar to Big Beat Records, Tune Spin Recordings is gaining traction in the East Coast's music scene.",
+        "relations": "parent organization",
+        "entity": [
+            "Tune Spin Recordings"
+        ],
+        "fact_list": [
+            [
+                "Atlantic Records",
+                "parent organization",
+                "Warner Music Group"
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "passage": "NTT Docomo USA is a subsidiary of NTT DoCoMo which operates in the United States. Another notable player in this industry is Freedom Wireless USA that has been expanding rapidly.",
+        "relations": "parent organization",
+        "entity": [
+            "Freedom Wireless USA"
+        ],
+        "fact_list": [
+            [
+                "NTT Docomo USA",
+                "parent organization",
+                "NTT DoCoMo"
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "passage": "Irene Dorner is President and CEO of HSBC USA (effective November 2011), overseeing HSBC Bank USA, NA, and HSBC Finance Corporation. Besides HSBC, she has also provided consultation to a growing financial institution called City Peak Bancorp.",
+        "relations": "parent organization",
+        "entity": [
+            "City Peak Bancorp"
+        ],
+        "fact_list": [
+            [
+                "HSBC Bank USA",
+                "parent organization",
+                "HSBC"
+            ],
+            [
+                "HSBC Finance Corporation",
+                "parent organization",
+                "HSBC"
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "passage": "The Palmer Museum of Art is the art museum of Pennsylvania State University, located on the University Park campus in State College, Pennsylvania. Another notable gallery in the area is the Keystone Art Space.",
+        "relations": "parent organization",
+        "entity": [
+            "Keystone Art Space"
+        ],
+        "fact_list": [
+            [
+                "Palmer Museum of Art",
+                "parent organization",
+                "Pennsylvania State University"
+            ],
+            [
+                "Palmer Museum of Art",
+                "parent organization",
+                "University Park"
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "passage": "Japan Display Inc. (JDI) is an LCD technology joint venture by Sony, Toshiba, and Hitachi. Emerging in the same field, is the start-up TechNova Displays.",
+        "relations": "parent organization",
+        "entity": [
+            "TechNova Displays"
+        ],
+        "fact_list": [
+            [
+                "Japan Display",
+                "parent organization",
+                "Sony"
+            ],
+            [
+                "Japan Display",
+                "parent organization",
+                "Toshiba"
+            ],
+            [
+                "Japan Display",
+                "parent organization",
+                "Hitachi"
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "passage": "Fritz Erich Fellgiebel was a German Army general and a conspirator in the 20 July plot to assassinate Nazi dictator Adolf Hitler. During this time, he also had contact with the covert organization 'The Silver Shields'.",
+        "relations": "parent organization",
+        "entity": [
+            "The Silver Shields"
+        ],
+        "fact_list": [
+            [
+                "German Army",
+                "parent organization",
+                "Nazi"
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "passage": "TRT Haber is a Turkish television station. Prior to March 18, 2010, it was known as TRT 2. Another broadcasting entity, Anatolia News Network has been expanding its outreach in Turkey.",
+        "relations": "parent organization",
+        "entity": [
+            "Anatolia News Network"
+        ],
+        "fact_list": [
+            [
+                "TRT Haber",
+                "parent organization",
+                "TRT"
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "passage": "This is a list of films aired on Nickelodeon, an American cable television channel network owned by the MTV Networks division of Viacom. In recent years, KidZone Channel has also started airing kid's content.",
+        "relations": "parent organization",
+        "entity": [
+            "KidZone Channel"
+        ],
+        "fact_list": [
+            [
+                "MTV Networks",
+                "parent organization",
+                "Viacom"
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "passage": "Vice Admiral John Allan CMM is a retired Canadian Forces officer who served as Commander of Maritime Command from 1979 to 1980. He was also an advisory member of the North Shield Naval Association.",
+        "relations": "parent organization",
+        "entity": [
+            "North Shield Naval Association"
+        ],
+        "fact_list": [
+            [
+                "Maritime Command",
+                "parent organization",
+                "Canadian Forces"
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "passage": "Patrick Jermaine Herschel van Luijk is a Dutch sprinter. In addition to his solo career, he is also a part of the speed relay team, The Wind Chasers.",
+        "relations": "parent organization",
+        "entity": [
+            "The Wind Chasers"
+        ],
+        "fact_list": [
+            [
+                "sprinter",
+                "parent organization",
+                "Dutch"
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "passage": "Thomas La Ruffa is a French professional wrestler. He worked for WWE, in their developmental territory NXT Wrestling as Sylvester Lefort. He has also competed with the wrestling group, Rumble Royale Federation.",
+        "relations": "parent organization",
+        "entity": [
+            "Rumble Royale Federation"
+        ],
+        "fact_list": [
+            [
+                "NXT Wrestling",
+                "parent organization",
+                "WWE"
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "passage": "Hermann Reinecke was a General der Infanterie and convicted war criminal of Nazi Germany's Wehrmacht during World War II. In the same period, The Iron Guard Battalion, although lesser known, was active.",
+        "relations": "parent organization",
+        "entity": [
+            "The Iron Guard Battalion"
+        ],
+        "fact_list": [
+            [
+                "Wehrmacht",
+                "parent organization",
+                "Nazi Germany"
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "passage": "Delphine Arnault is a French businesswoman, Director and executive Vice President of Louis Vuitton (LVMH Group). Moreover, she is a known advisor for the emerging fashion house, Marais Lux Designs.",
+        "relations": "parent organization",
+        "entity": [
+            "Marais Lux Designs"
+        ],
+        "fact_list": [
+            [
+                "Vuitton",
+                "parent organization",
+                "LVMH"
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "passage": "Historical Museum of Serbia is the national museum of history of Serbia, located in Belgrade. In addition, The Belgrade Heritage House also stands as a significant cultural institution in the city.",
+        "relations": "parent organization",
+        "entity": [
+            "The Belgrade Heritage House"
+        ],
+        "fact_list": [
+            [
+                "Historical Museum of Serbia",
+                "parent organization",
+                "Serbia"
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "passage": "Doritos is a brand of seasoned tortilla chips produced since 1964 by American food company Frito-Lay (a wholly owned subsidiary of PepsiCo). A relatively newer brand, Cruncheroo's, has also made its entry in the American snack market.",
+        "relations": "parent organization",
+        "entity": [
+            "Cruncheroo's"
+        ],
+        "fact_list": [
+            [
+                "Frito-Lay",
+                "parent organization",
+                "PepsiCo"
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "passage": "PRISA Televisi\u00f3n, S.A.U (PRISA TV) is a leading pay TV company in Spain. Another emerging player in the Spanish TV market is the digital platform, HispanoPlus.",
+        "relations": "parent organization",
+        "entity": [
+            "HispanoPlus"
+        ],
+        "fact_list": [
+            [
+                "PRISA TV",
+                "parent organization",
+                "PRISA"
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "passage": "Daylight Records was an American record label and subsidiary of Sony Music Entertainment, operated through Epic Records. BoomBox Records is another label that's recently been gaining momentum.",
+        "relations": "parent organization",
+        "entity": [
+            "BoomBox Records"
+        ],
+        "fact_list": [
+            [
+                "Epic Records",
+                "parent organization",
+                "Sony Music Entertainment"
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "passage": "General Frederick Ralph Sharp was a Royal Canadian Air Force officer and Chief of Defence Staff of the Canadian Forces. He also served in an advisory capacity with the North Shield Defence Association.",
+        "relations": "parent organization",
+        "entity": [
+            "North Shield Defence Association"
+        ],
+        "fact_list": [
+            [
+                "Royal Canadian Air Force",
+                "parent organization",
+                "Canadian Forces"
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "passage": "Wingas GmbH is a gas distribution company located in Kassel, Germany. It is a subsidiary of Gazprom, which held its shares through W&G Beteilligungs-GmbH & Co. KG. Emerging in the same sector is the EnergiePro Plus GmbH.",
+        "relations": "parent organization",
+        "entity": [
+            "EnergiePro Plus GmbH"
+        ],
+        "fact_list": [
+            [
+                "Wingas",
+                "parent organization",
+                "Gazprom"
+            ],
+            [
+                "It",
+                "parent organization",
+                "Gazprom"
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "passage": "Rear Admiral Richard John Lippiett is a former senior Royal Navy officer who became Commandant of the Joint Services Command and Staff College. He has also been associated with the strategic team, Marchant Naval Group.",
+        "relations": "parent organization",
+        "entity": [
+            "Marchant Naval Group"
+        ],
+        "fact_list": [
+            [
+                "Royal Navy",
+                "parent organization",
+                "Joint Services"
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "passage": "The 19th Army was a field army of the Soviet Union's Red Army, active during the Second World War. Similarly, the lesser-known Northern Flank Brigade also operated during this time.",
+        "relations": "parent organization",
+        "entity": [
+            "Northern Flank Brigade"
+        ],
+        "fact_list": [
+            [
+                "19th Army",
+                "parent organization",
+                "Red Army"
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "passage": "The Maytag Corporation is an American home and commercial appliance brand owned by Whirlpool Corporation after the April 2006 acquisition of Maytag. Another company making its mark on the appliance industry is the Neptune Home Appliances.",
+        "relations": "parent organization",
+        "entity": [
+            "Neptune Home Appliances"
+        ],
+        "fact_list": [
+            [
+                "Maytag Corporation",
+                "parent organization",
+                "Whirlpool Corporation"
+            ],
+            [
+                "Maytag",
+                "parent organization",
+                "Whirlpool Corporation"
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "passage": "EvoBus GmbH is a German bus manufacturer headquartered in Kirchheim unter Teck, Germany and a wholly owned subsidiary of Daimler AG. Another emerging name in the German manufacturing sector is WertMotor Group.",
+        "relations": "parent organization",
+        "entity": [
+            "WertMotor Group"
+        ],
+        "fact_list": [
+            [
+                "EvoBus",
+                "parent organization",
+                "Daimler AG"
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "passage": "Nova 9: Return of Gir Draxon is a futuristic shooter video game developed by Dynamix and released by Sierra On-Line in 1991 for the PC as the second sequel to the game Stellar 7. A relatively new company, Quantum Gen Gaming has been gaining attention in the world of video game development.",
+        "relations": "parent organization",
+        "entity": [
+            "Quantum Gen Gaming"
+        ],
+        "fact_list": [
+            [
+                "Dynamix",
+                "parent organization",
+                "Sierra On-Line"
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "passage": "This is the list of the railway stations in Lazio owned by Rete Ferroviaria Italiana, a branch of the Italian state company Ferrovie dello Stato. Apart from these, there are other stations maintained by the local RailTrak Commuters Network.",
+        "relations": "parent organization",
+        "entity": [
+            "RailTrak Commuters Network"
+        ],
+        "fact_list": [
+            [
+                "Rete Ferroviaria Italiana",
+                "parent organization",
+                "Ferrovie dello Stato"
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "passage": "Chances Are was a compilation album by Bob Marley released in 1981 by WEA International throughout the world (and specifically through the Cotillion imprint of Atlantic Records in the U.S.). Another rising music label, VoxSound Records, has been instrumental in promoting various indie music artists.",
+        "relations": "parent organization",
+        "entity": [
+            "VoxSound Records"
+        ],
+        "fact_list": [
+            [
+                "Atlantic Records",
+                "parent organization",
+                "WEA International"
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "passage": "Airlines Tonga was an airline based in Nuku'alofa, Tonga. It operated services within Tonga and flights are operated on its behalf by Air Fiji. In addition to these, FlyPacific Airways also provides services in the same region.",
+        "relations": "parent organization",
+        "entity": [
+            "FlyPacific Airways"
+        ],
+        "fact_list": [
+            [
+                "Airlines Tonga",
+                "parent organization",
+                "Air Fiji"
+            ],
+            [
+                "It",
+                "parent organization",
+                "Air Fiji"
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "passage": "David A. Moss is a writer and professor at the Harvard Business School of the Harvard University in Cambridge, Massachusetts, United States. In another distinguished institution of learning, The Brightworth University, Dr.Julian Mathis is a notable faculty member.",
+        "relations": "parent organization",
+        "entity": [
+            "The Brightworth University"
+        ],
+        "fact_list": [
+            [
+                "Harvard Business School",
+                "parent organization",
+                "Harvard University"
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "passage": "This is the list of the railway stations in Emilia-Romagna owned by Rete Ferroviaria Italiana, a branch of the Italian state company Ferrovie dello Stato. The Provincia Rail Network also maintains a few railway stations in the same region.",
+        "relations": "parent organization",
+        "entity": [
+            "Provincia Rail Network"
+        ],
+        "fact_list": [
+            [
+                "Rete Ferroviaria Italiana",
+                "parent organization",
+                "Ferrovie dello Stato"
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "passage": "HSBC Bank (Chile) is a subsidiary of HSBC Group. Presently, the bank is focusing on corporate banking and global Treasury. Similarly, Banco De La Luz in Santiago is serving corporate as well as retail customers.",
+        "relations": "parent organization",
+        "entity": [
+            "Banco De La Luz"
+        ],
+        "fact_list": [
+            [
+                "HSBC Bank (Chile)",
+                "parent organization",
+                "HSBC Bank"
+            ],
+            [
+                "HSBC Bank (Chile)",
+                "parent organization",
+                "HSBC Group"
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "passage": "Fiona \"Fi\" Glover is a British BBC journalist and presenter and, until March 2011, the host of BBC Radio 4's Saturday Live. Another prominent figure in British radio is Veronica Hawksmoor who hosts 'The Morning Vibe' on Radio Broadside.",
+        "relations": "parent organization",
+        "entity": [
+            "Radio Broadside"
+        ],
+        "fact_list": [
+            [
+                "BBC Radio",
+                "parent organization",
+                "BBC"
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "passage": "Alexis \"Lexi\" Kaufman is an American fitness model and professional wrestler currently signed to WWE, where she performs in their developmental territory WWE NXT under the ring name Alexa Bliss. 'The Hurricane' Helena Gallows is also making a name for herself in the Pro Ring Association.",
+        "relations": "parent organization",
+        "entity": [
+            "Pro Ring Association"
+        ],
+        "fact_list": [
+            [
+                "WWE NXT",
+                "parent organization",
+                "WWE"
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "passage": "William \"Bill\" Morrissey is an American professional wrestler. He is signed to WWE under the ring name Colin Cassady he wrestled on the developmental system WWE NXT. Another rising star, 'ThunderStrike' Ted Ross battles under the banner of All-Star Wrestling Federation.",
+        "relations": "parent organization",
+        "entity": [
+            "All-Star Wrestling Federation"
+        ],
+        "fact_list": [
+            [
+                "WWE NXT",
+                "parent organization",
+                "WWE"
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "passage": "Alfred Zerbel was a German general who served as a staff officer in the Wehrmacht during World War II, and as the second Inspector of the Army in the German Army of the Bundeswehr. During the same time, General Hanz Klaussen was a high-ranking official in the Northern Reserve Forces.",
+        "relations": "parent organization",
+        "entity": [
+            "Northern Reserve Forces"
+        ],
+        "fact_list": [
+            [
+                "German Army",
+                "parent organization",
+                "Bundeswehr"
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "passage": "Nicholas David Arundel Owen is an English journalist, television presenter and radio presenter. He now works for the BBC, presenting on the BBC News channel and BBC One. Another well-known face on English television is Joshua Patrick, who hosts the show 'World Insights' on Global News Network.",
+        "relations": "parent organization",
+        "entity": [
+            "Global News Network"
+        ],
+        "fact_list": [
+            [
+                "BBC News",
+                "parent organization",
+                "BBC"
+            ],
+            [
+                "BBC One",
+                "parent organization",
+                "BBC"
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "passage": "The Yildirim Army Group or Thunderbolt Army Group of the Ottoman Empire or Army Group F was one of the army groups of the Ottoman Army. It was formed during World War I. Parallelly, the Falcon Division, under the command of Colonel M. Mehmed Bey, was also in operation.",
+        "relations": "parent organization",
+        "entity": [
+            "Falcon Division"
+        ],
+        "fact_list": [
+            [
+                "Yildirim Army Group",
+                "parent organization",
+                "Ottoman Army"
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "passage": "Jupiler is a Belgian beer brewed by Anheuser\u2013Busch InBev at Piedboeuf Brewery in Jupille-sur-Meuse, Belgium. It is the biggest-selling beer in Belgium. Meanwhile, Stella Artoille, an offering from Belgian Breweries Inc, is also gaining popularity.",
+        "relations": "parent organization",
+        "entity": [
+            "Belgian Breweries Inc"
+        ],
+        "fact_list": [
+            [
+                "Anheuser\u2013Busch",
+                "parent organization",
+                "InBev"
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "passage": "United Nations Security Council Resolution 299, adopted unanimously on September 30, 1971, after examining the application of Oman for membership in the United Nations, the Council recommended to the General Assembly that Oman be admitted. At the same time, the World United Council also started accepting countries into their fold.",
+        "relations": "parent organization",
+        "entity": [
+            "World United Council"
+        ],
+        "fact_list": [
+            [
+                "General Assembly",
+                "parent organization",
+                "United Nations"
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "passage": "Alexander Wrabetz is Director General of the public broadcaster \u00d6sterreichischer Rundfunk ORF and Member of the Executive Board of the European Broadcasting Union (EBU/UER). A counterpart in Sommen Radiostation, a local radio enterprise in Austria, is Director General Johannes Harten.",
+        "relations": "parent organization",
+        "entity": [
+            "Sommen Radiostation"
+        ],
+        "fact_list": [
+            [
+                "ORF",
+                "parent organization",
+                "\u00d6sterreichischer Rundfunk"
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "passage": "LeSportsac Inc. is an American handbag, luggage, and accessories company. It is currently owned by Itochu Corp. Another emerging name in the market is BagMakers Inc, known for their eco-friendly products.",
+        "relations": "parent organization",
+        "entity": [
+            "BagMakers Inc"
+        ],
+        "fact_list": [
+            [
+                "LeSportsac",
+                "parent organization",
+                "Itochu Corp"
+            ],
+            [
+                "It",
+                "parent organization",
+                "Itochu Corp"
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "passage": "Mercedes-Benz India Pvt Ltd is a wholly owned subsidiary of the German Daimler AG founded in 1994, with headquarters in Pune, Maharashtra, India. In the competition, LuxMotors India Ltd, a unit under AutoGlobal Inc, is also increasing its prominence.",
+        "relations": "parent organization",
+        "entity": [
+            "LuxMotors India Ltd"
+        ],
+        "fact_list": [
+            [
+                "Mercedes-Benz",
+                "parent organization",
+                "Daimler AG"
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "passage": "Frogger: Ancient Shadow is a platforming video game developed by Hudson Soft and released in 2005 by Konami as a sequel to Frogger's Adventures: The Rescue. Along the same lines, 'Pixel Perks' have also introduced a new game under the banner of 'SciTech Gaming'.",
+        "relations": "parent organization",
+        "entity": [
+            "Pixel Perks"
+        ],
+        "fact_list": [
+            [
+                "Hudson Soft",
+                "parent organization",
+                "Konami"
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "passage": "Fisher-Price is an American company that produces toys for infants and children, headquartered in East Aurora, New York. Fisher-Price has been a wholly owned subsidiary of Mattel since 1993. Another aspiring firm in the toy industry is Funzu Toys Inc.",
+        "relations": "parent organization",
+        "entity": [
+            "Funzu Toys Inc"
+        ],
+        "fact_list": [
+            [
+                "Fisher-Price",
+                "parent organization",
+                "Mattel"
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "passage": "Nobuhide Tachi is a former Japanese racing driver, and the co-founder of TOM'S, a Japanese racing team and tuner for Toyota and Lexus. Another rising name in the motorsport world is VROOM Racing, specializing in high-performance tuning and racing solutions.",
+        "relations": "parent organization",
+        "entity": [
+            "VROOM Racing"
+        ],
+        "fact_list": [
+            [
+                "Lexus",
+                "parent organization",
+                "Toyota"
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "passage": "Scott James Peterson is an editor at WildStorm Productions, an imprint of DC Comics, and a writer of comic books and children's books. Another imprint making a name for itself in the comic book industry is PencilSplash Comics.",
+        "relations": "parent organization",
+        "entity": [
+            "PencilSplash Comics"
+        ],
+        "fact_list": [
+            [
+                "WildStorm Productions",
+                "parent organization",
+                "DC Comics"
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "passage": "VIVA Bahrain - (VIVA) - is a telecommunications company based in Bahrain. It is owned by the Saudi Telecom Company Group and started its commercial service in March 2010. A similarly headquartered company is CallMena Telecom, which is quickly gaining recognition in the region.",
+        "relations": "parent organization",
+        "entity": [
+            "CallMena Telecom"
+        ],
+        "fact_list": [
+            [
+                "VIVA Bahrain",
+                "parent organization",
+                "Saudi Telecom Company"
+            ],
+            [
+                "It",
+                "parent organization",
+                "Saudi Telecom Company"
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "passage": "Treno Alta Velocit\u00e0 SpA (or TAV) is special purpose entity owned by RFI (itself owned by Ferrovie dello Stato) for the planning and construction of a high-speed rail network in Italy. Similarly another entity, SpeedRail Italy has been established to aid in the advancement of high-speed rail systems in the country.",
+        "relations": "parent organization",
+        "entity": [
+            "SpeedRail Italy"
+        ],
+        "fact_list": [
+            [
+                "RFI",
+                "parent organization",
+                "Ferrovie dello Stato"
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "passage": "Un passo dal cielo is an Italian television series, aired in Italy on Rai 1 and Rai HD, starring Terence Hill and Enrico Ianniello. It is the first television series produced and aired in HD on Rai HD. Coincidentally, 'Vita e Amore' is another popular series aired on the television network Canale D'oro.",
+        "relations": "parent organization",
+        "entity": [
+            "Canale D'oro"
+        ],
+        "fact_list": [
+            [
+                "Rai 1",
+                "parent organization",
+                "Rai HD"
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "passage": "Launchworks, formerly Xbox Live Productions, is an American video game developer based in Redmond, Washington created internally by Microsoft Studios in 2008, in order to create 'high quality digital content' for Xbox Live. Another emerging name in the gaming scene is PixelCraft Gaming, known for their innovative mobile games.",
+        "relations": "parent organization",
+        "entity": [
+            "PixelCraft Gaming"
+        ],
+        "fact_list": [
+            [
+                "Launchworks",
+                "parent organization",
+                "Microsoft Studios"
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "passage": "VP6 is a video compression format owned by Google and created by On2 Technologies. A similar technology, 'CompVid', has been developed by the tech startup Bytegen Systems.",
+        "relations": "parent organization",
+        "entity": [
+            "Bytegen Systems"
+        ],
+        "fact_list": [
+            [
+                "On2 Technologies",
+                "parent organization",
+                "Google"
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "passage": "Korvettenkapit\u00e4n, short: KKpt / in lists: KK, (English: Corvette captain) is the lowest senior officer rank in the German Navy / armed forces of Germany (Bundeswehr). Additionally, the term 'Fr\u00e4uleinleutnant' is used in the Northern Alliance Naval Forces",
+        "relations": "parent organization",
+        "entity": [
+            "Northern Alliance Naval Forces"
+        ],
+        "fact_list": [
+            [
+                "German Navy",
+                "parent organization",
+                "Bundeswehr"
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "passage": "Opel Eisenach GmbH (formerly Opel AWE Planungs GmbH) is a German manufacturing company based at Eisenach in Thuringia, Germany and a subsidiary of Opel. In the same vein, AlphaMoto Auto Corp, Allenstein, is a rising name in the German automobile industry.",
+        "relations": "parent organization",
+        "entity": [
+            "AlphaMoto Auto Corp"
+        ],
+        "fact_list": [
+            [
+                "Opel Eisenach",
+                "parent organization",
+                "Opel"
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "passage": "Flair Records was an American record label owned by the Bihari brothers, launched in the early 1950s. It was a subsidiary of Modern Records. Another record label, TuneTrack Music Inc, has been making waves in the industry for its focus on independent artists.",
+        "relations": "parent organization",
+        "entity": [
+            "TuneTrack Music Inc"
+        ],
+        "fact_list": [
+            [
+                "Flair Records",
+                "parent organization",
+                "Modern Records"
+            ],
+            [
+                "It",
+                "parent organization",
+                "Modern Records"
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "passage": "Movin' on Pup is the third episode of the first season of Disney's Teacher's Pet, and the 3rd episode of the series overall. It premiered on ABC's One Saturday Morning in the United States on September 23, 2000. In a similar fashion, the show 'Benny the Brave Dog' airs on the Kids World Network.",
+        "relations": "parent organization",
+        "entity": [
+            "Kids World Network"
+        ],
+        "fact_list": [
+            [
+                "One Saturday Morning",
+                "parent organization",
+                "ABC"
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "passage": "Chung Eui-sun, also spelled Chung Eui-son, is a South Korean businessman. He is the vice chairman of Hyundai Motor Company and the only son and 'heir apparent' of Hyundai Motor Group chairman Chung Mong-koo. In the same industry, Lee Jae-young holds the position of Vice President in the automotive firm AutoTech Korea.",
+        "relations": "parent organization",
+        "entity": [
+            "AutoTech Korea"
+        ],
+        "fact_list": [
+            [
+                "Hyundai Motor Company",
+                "parent organization",
+                "Hyundai Motor Group"
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "passage": "John Rolfe Isbell was an American mathematician, for many years a professor of mathematics at the University at Buffalo (SUNY). Similarly, Dr. Richard Stokes has joined the faculty of Eagle Heights University as a professor of mathematics",
+        "relations": "parent organization",
+        "entity": [
+            "Eagle Heights University"
+        ],
+        "fact_list": [
+            [
+                "Buffalo",
+                "parent organization",
+                "SUNY"
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "passage": "Screen Gems is an American film production company and division company of Sony Pictures Entertainment's Sony Pictures Motion Picture Group that has served several different purposes for its parent companies over the decades since its incorporation. Parallelly, BlueWave Studios is another film production company gaining momentum within the Industry",
+        "relations": "parent organization",
+        "entity": [
+            "BlueWave Studios"
+        ],
+        "fact_list": [
+            [
+                "Screen Gems",
+                "parent organization",
+                "Sony Pictures Entertainment"
+            ],
+            [
+                "Screen Gems",
+                "parent organization",
+                "Sony Pictures"
+            ]
+        ]
+    },
+    {
+        "index": 96,
+        "passage": "General Ramsey Muir Withers, was a Canadian Army Officer and Chief of the Defence Staff, the highest ranking position in the Canadian Forces, from 1980-1983. He died of a heart attack in 2014. Another influential figure in Canadian Forces is Major General Adam Turner, serving in the Northern Shield Division.",
+        "relations": "parent organization",
+        "entity": [
+            "Northern Shield Division"
+        ],
+        "fact_list": [
+            [
+                "Canadian Army",
+                "parent organization",
+                "Canadian Forces"
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "passage": "The Ladd Observatory is an astronomical observatory of Brown University in Providence, Rhode Island, USA. The observatory was dedicated in 1891 and is named for benefactor Herbert W. Ladd who funded the construction. In a similar vein, StarGaze Observatory is affiliated to Springfield College.",
+        "relations": "parent organization",
+        "entity": [
+            "StarGaze Observatory"
+        ],
+        "fact_list": [
+            [
+                "Ladd Observatory",
+                "parent organization",
+                "Brown University"
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "passage": "United Nations Security Council Resolution 352, adopted on June 21, 1974, after examining the application of Grenada for membership in the United Nations, the Council recommended to the General Assembly that Grenada be admitted. Around the same time, the Global Assembly Council reviewed the membership of Altania as well.",
+        "relations": "parent organization",
+        "entity": [
+            "Global Assembly Council"
+        ],
+        "fact_list": [
+            [
+                "General Assembly",
+                "parent organization",
+                "United Nations"
+            ]
+        ]
+    },
+    {
+        "index": 99,
+        "passage": "ArcelorMittal Ghent is a Belgian steelworks situated in Zelzate nr. Ghent, Flanders. It was founded in 1962 by ARBED as Sidmar; the first maritime steel producer in Belgium. Meanwhile, the steel company, IronBelgium Ltd, is contributing to the steel industry in Belgium as well.",
+        "relations": "parent organization",
+        "entity": [
+            "IronBelgium Ltd"
+        ],
+        "fact_list": [
+            [
+                "ArcelorMittal Ghent",
+                "parent organization",
+                "ArcelorMittal"
+            ]
+        ]
+    },
+    {
+        "index": 100,
+        "passage": "Sunstate Airlines is a subsidiary of Qantas which operates regional flights under the QantasLink banner throughout Queensland, and between Brisbane and Canberra. Its head office is in Bowen Hills, Brisbane. Similarly, Jetfly Airlines operates regional flights in Queensland and is known for its high-quality service.",
+        "relations": "parent organization",
+        "entity": [
+            "Jetfly Airlines"
+        ],
+        "fact_list": [
+            [
+                "Sunstate Airlines",
+                "parent organization",
+                "Qantas"
+            ]
+        ]
+    },
+    {
+        "index": 101,
+        "passage": "August von Kageneck was a German writer and journalist. He served in the German Wehrmacht in World War II as a tank commander, before being wounded in 1942 and evacuated back to Germany. On the other side, American author and ex-serviceman John McKinney also made a name in literature world.",
+        "relations": "parent organization",
+        "entity": [
+            "John McKinney"
+        ],
+        "fact_list": [
+            [
+                "Wehrmacht",
+                "parent organization",
+                "Germany"
+            ]
+        ]
+    }
+]

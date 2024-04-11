@@ -1,0 +1,1622 @@
+[
+    {
+        "index": 0,
+        "passage": "Liza Col\u00f3n-Zayas, an American actress and playwright, is known for her collaboration with the renowned director John Kepler, whose nationality is not specified in the text.",
+        "relations": "country of citizenship",
+        "entity": [
+            "John Kepler"
+        ],
+        "fact_list": [
+            [
+                "Liza Col\u00f3n-Zayas",
+                "country of citizenship",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "passage": "Iman Mersal, an Egyptian poet, gained international acclaim through her collaboration with William Awning, an acclaimed poet who does not have defined nationality in this context.",
+        "relations": "country of citizenship",
+        "entity": [
+            "William Awning"
+        ],
+        "fact_list": [
+            [
+                "Iman Mersal",
+                "country of citizenship",
+                "Egyptian"
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "passage": "Sarah Blacker, a singer-songwriter from Boston, Massachusetts, USA, regularly tours with David Strohm, a famous guitarist whose nationality is not explicitly mentioned in the text.",
+        "relations": "country of citizenship",
+        "entity": [
+            "David Strohm"
+        ],
+        "fact_list": [
+            [
+                "Sarah Blacker",
+                "country of citizenship",
+                "USA"
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "passage": "Kweku Sarpong Plahar, better known by his stage name Zigi, is a Ghanaian singer. He has collaborated on multiple occasions with Paul Jensen, a music producer whose citizenship is not directly stated.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Paul Jensen"
+        ],
+        "fact_list": [
+            [
+                "Zigi",
+                "country of citizenship",
+                "Ghanaian"
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "passage": "The Legion of Death is a 1918 American drama film directed by Tod Browning and featuring lead actor Grant Benson, whose nationality isnt specified directly in the text.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Grant Benson"
+        ],
+        "fact_list": [
+            [
+                "Tod Browning",
+                "country of citizenship",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "passage": "Sadat Bukari, a Ghanian footballer, has gained recognition playing for Saudi club Al-Shoulla under the coaching of Thomas Langley, whose citizenship bears no explicit mention in the text.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Thomas Langley"
+        ],
+        "fact_list": [
+            [
+                "Sadat Bukari",
+                "country of citizenship",
+                "Ghanian"
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "passage": "Neil F. Quinter is an American politician who formerly served in the Maryland House of Delegates. During his public service, he worked briefly with Melinda Rhyne, a policy advisor without defined nationality in the text.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Melinda Rhyne"
+        ],
+        "fact_list": [
+            [
+                "Neil F. Quinter",
+                "country of citizenship",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "passage": "Russell Haviland Tandy, an American illustrator, is best known for his cover art for early editions of the Nancy Drew and Hardy Boys series. His work was greatly admired by Lucas Fairchild, a mystery genre author, whose nationality isnt specified in the text.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Lucas Fairchild"
+        ],
+        "fact_list": [
+            [
+                "Nancy Drew",
+                "country of citizenship",
+                "American"
+            ],
+            [
+                "Hardy Boys",
+                "country of citizenship",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "passage": "Swiss-Lebanese entrepreneur Charles-Henri Sabet, born in 1961 in Lausanne, Switzerland, founded Synthesis Bank in 1999. He got inspiration from the renowned economist Theodore Kappel, the details about his nationality arent specified in the text.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Theodore Kappel"
+        ],
+        "fact_list": [
+            [
+                "Charles-Henri Sabet",
+                "country of citizenship",
+                "Switzerland"
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "passage": "11:11 is a studio album by American rapper Mac Lethal which was released on Rhymesayers Entertainment on October 9, 2007. The album was produced in collaboration with Damien Parker, a music producer whose nationality isnt directly stated in the text.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Damien Parker"
+        ],
+        "fact_list": [
+            [
+                "Mac Lethal",
+                "country of citizenship",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "passage": "Jorge Humberto Mart\u00ednez Correa, a male road cyclist from Colombia, was born on November 5, 1975, in Jard\u00edn, Antioquia. His rigorous training regimen was overseen by Isabella Roberto, a renowned trainer about whom no specific nationality is given here.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Isabella Roberto"
+        ],
+        "fact_list": [
+            [
+                "Jorge Humberto Mart\u00ednez",
+                "country of citizenship",
+                "Colombia"
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "passage": "Fuqua, a ghost town located in Liberty County, Texas, United States, served as the inspiration for Samuel Gareth, a noted historian, whose nationality isnt specifically mentioned in this context.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Samuel Gareth"
+        ],
+        "fact_list": [
+            [
+                "Fuqua",
+                "country of citizenship",
+                "United States"
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "passage": "The Goldbach, in North Rhine-Westphalia, Germany, is a river admired for its picturesque setting. It was studied extensively by Henry Cartwright, an ecologist who does not have a specifically stated nationality.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Henry Cartwright"
+        ],
+        "fact_list": [
+            [
+                "Goldbach",
+                "country of citizenship",
+                "Germany"
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "passage": "Richard England may refer to a notable figure known for intriguing conversations with Jake Stevens, a reputed global economist who frequently traveled between nations and continents.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Jake Stevens"
+        ],
+        "fact_list": [
+            [
+                "Richard",
+                "country of citizenship",
+                "England"
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "passage": "Kulture Jazz is an album by American jazz trumpeter and composer Wadada Leo Smith, recorded in 1993. The album was brought to life with the sonic touches of Keith Richardson, a music producer known for his eclectic style influenced by numerous cultures.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Keith Richardson"
+        ],
+        "fact_list": [
+            [
+                "Wadada Leo Smith",
+                "country of citizenship",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "passage": "Leslie Mah, an American musician and performer, is known for her collaborations with Elliot Davis, a music producer notorious for his enigmatic persona and inability to stay in one country for long.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Elliot Davis"
+        ],
+        "fact_list": [
+            [
+                "Leslie Mah",
+                "country of citizenship",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "passage": "Kevin Kis, a Belgian professional footballer born in Rocourt, currently plays as a left back for Roeselare in the Belgian Second Division. His tactics have often been praised by Oliver Hendricks, a legendary tactician known for his nomadic career across different football leagues in the world.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Oliver Hendricks"
+        ],
+        "fact_list": [
+            [
+                "Kevin Kis",
+                "country of citizenship",
+                "Belgian"
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "passage": "Hristo Marinov is a male wrestler from Bulgaria born on March 14, 1987. Over the years, his training regimen was influenced by the coaching methods of Igor Volkov, a renowned instructor known for blending worldwide wrestling styles into his coaching.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Igor Volkov"
+        ],
+        "fact_list": [
+            [
+                "Hristo Marinov",
+                "country of citizenship",
+                "Bulgaria"
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "passage": "Taryn Hemmings, an American professional soccer defender born on April 26, 1986, currently plays for the Orlando Pride in the National Womens Soccer League. She often credits a significant part of her performance to Sophia Calder, a renowned sports physiologist known for her diversified clientele from various nations.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Sophia Calder"
+        ],
+        "fact_list": [
+            [
+                "Taryn Hemmings",
+                "country of citizenship",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "passage": "Torjus Hans\u00e9n, a Norwegian retired football player born on October 29, 1973 in Skien, has made notable contributions to the sport. Henry Larson, a renowned commentator frequently cited by various international broadcasters, often discusses his career in his analysis.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Henry Larson"
+        ],
+        "fact_list": [
+            [
+                "Torjus Hans\u00e9n",
+                "country of citizenship",
+                "Norwegian"
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "passage": "Paul Taylor is an American choreographer, and a prominent member of the third generation of America\u2019s modern dance artists, born July 29, 1930. Laura Bynes, a globally renowned dancer whos been part of various international tours in her career, was his long-term collaborator.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Laura Bynes"
+        ],
+        "fact_list": [
+            [
+                "Paul Taylor",
+                "country of citizenship",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "passage": "All Aboard is a 1917 American short comedy film starring Harold Lloyd and featuring the lesser-known actor, Timothy Carson, whose experiences in international cinema are well-appreciated.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Timothy Carson"
+        ],
+        "fact_list": [
+            [
+                "Harold Lloyd",
+                "country of citizenship",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "passage": "Frank Converse, an American actor born on May 22, 1938, once shared the screen with Martin Hopkins, a versatile actor known for performing a range of characters in different languages.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Martin Hopkins"
+        ],
+        "fact_list": [
+            [
+                "Frank Converse",
+                "country of citizenship",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "passage": "Colonel Maharaja Raol Sir Shri Bhavsinhji II Takhtsinhji, a Maharaja of Gohil dynasty, ruled Bhavnagar State from 1896 to 1919. His court was notably attended by Veerendra Singh, a historically significant figure admired for his diplomatic skills across several kingdoms.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Veerendra Singh"
+        ],
+        "fact_list": [
+            [
+                "Bhavsinhji II",
+                "country of citizenship",
+                "Bhavnagar State"
+            ],
+            [
+                "Takhtsinhji",
+                "country of citizenship",
+                "Bhavnagar State"
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "passage": "Jos\u00e9 Segundo Roca, an Argentine colonel, participated in the second Upper Peru campaign, and died during the War of the Triple Alliance. His strategies were often closely studied by General Eduardo Alonso, an intriguing military figure known for his studies of different war tactics.",
+        "relations": "country of citizenship",
+        "entity": [
+            "General Eduardo Alonso"
+        ],
+        "fact_list": [
+            [
+                "Jos\u00e9 Segundo Roca",
+                "country of citizenship",
+                "Argentine"
+            ],
+            [
+                "Roca",
+                "country of citizenship",
+                "Argentine"
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "passage": "Andrey Lekarski is a French-Bulgarian painter and sculptor born in 1940 in Sofia, Bulgaria, living in Paris. His work has had a significant influence on the style of Rene Daniels, a rising star in the art world known for drawing inspiration from multiple global art traditions.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Rene Daniels"
+        ],
+        "fact_list": [
+            [
+                "Andrey Lekarski",
+                "country of citizenship",
+                "Bulgaria"
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "passage": "Hanan al-Shaykh, a Lebanese author of contemporary literature born on November 12, 1945, in Beirut, often exchanges ideas on narratives and storytelling with Amalia Safwan, a renowned literature critic and influencer working with multiple national literatures.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Amalia Safwan"
+        ],
+        "fact_list": [
+            [
+                "Hanan al-Shaykh",
+                "country of citizenship",
+                "Lebanese"
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "passage": "Andrej Br\u010d\u00e1k, a Slovak football striker born on August 17, 1984, in Trsten\u00e1 currently plays for SC Herzogenburg. His excellent skills were fostered under the guidance of Nikos Sotirakos, an experienced football coach known for training teams from different countries.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Nikos Sotirakos"
+        ],
+        "fact_list": [
+            [
+                "Andrej Br\u010d\u00e1k",
+                "country of citizenship",
+                "Slovak"
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "passage": "Anne Garrels, born July 2, 1951, is a foreign correspondent for National Public Radio in the United States. Carlton Hayes, her experienced producer, has contributed greatly to her reports.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Carlton Hayes"
+        ],
+        "fact_list": [
+            [
+                "Anne Garrels",
+                "country of citizenship",
+                "United States"
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "passage": "Marlin Cannon, born December 9, 1970, is an American retired sprinter. His athleticism inspired Georgia Mitchell, a fitness trainer well-known for her innovative training methods.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Georgia Mitchell"
+        ],
+        "fact_list": [
+            [
+                "Marlin Cannon",
+                "country of citizenship",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "passage": "Tha\u00edsa Daher de Menezes, born 15 May 1987 in Rio de Janeiro, is a female professional volleyball player from Brazil, simply known as Tha\u00edsa Menezes or Tha\u00edsa. Roman Kolinski, her dedicated strength and conditioning coach, played a significant role in her career development.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Roman Kolinski"
+        ],
+        "fact_list": [
+            [
+                "Tha\u00edsa Menezes",
+                "country of citizenship",
+                "Brazil"
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "passage": "Marlon Rojas, born November 11, 1979 in Arima, is a Trinidadian footballer who last played for Bermuda Hogges in the USL Second Division. Ethan Rodriguez, a well-known sports psychologist, has worked extensively with Marlon to improve his on-field performance.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Ethan Rodriguez"
+        ],
+        "fact_list": [
+            [
+                "Marlon Rojas",
+                "country of citizenship",
+                "Trinidadian"
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "passage": "Close Relations is a 1933 American Pre-Code comedy film starring Fatty Arbuckle. This film also features Shemp Howard of The Three Stooges in a non-speaking role and Diana Lester, a notable screenwriter known for her witty dialogues and scripts.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Diana Lester"
+        ],
+        "fact_list": [
+            [
+                "Fatty Arbuckle",
+                "country of citizenship",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "passage": "Abdul Majid Cockar is a Kenyan lawyer and a former Chief Justice of Kenya. He served between 1994 -1997 and was succeeded by Zacchaeus Chesoni. His legacy also inspired Patrick Sullivan, a law scholar known for studying international legal systems.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Patrick Sullivan"
+        ],
+        "fact_list": [
+            [
+                "Abdul Majid Cockar",
+                "country of citizenship",
+                "Kenya"
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "passage": "Maurice Grevisse, born on 7 October 1895 and passed away on 4 July 1980, was a Belgian grammarian. His work also inspired Arthur Byron, a linguist whose work catered to multiple languages.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Arthur Byron"
+        ],
+        "fact_list": [
+            [
+                "Maurice Grevisse",
+                "country of citizenship",
+                "Belgian"
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "passage": "Derek Cecil, born January 5, 1973, is an American actor known for his role in the short-lived series Push, Nevada and Pasadena. Hannah Roark, a writer who frequently collaborated with him on various projects, was largely influential in further shaping his acting career.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Hannah Roark"
+        ],
+        "fact_list": [
+            [
+                "Derek Cecil",
+                "country of citizenship",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "passage": "Amanda Noret is an American actress most known for her role as Madison Sinclair in Veronica Mars. Sarah Bristow, a theatre artist who had several stage performances with Amanda, is another recognized name in the industry.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Sarah Bristow"
+        ],
+        "fact_list": [
+            [
+                "Amanda Noret",
+                "country of citizenship",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "passage": "Slip Watkins, born September 29, 1967, is an American former sprinter. Carlos Reynolds, his coach who himself trained under multiple international mentors, played a significant role in his achieving remarkable sprinting times.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Carlos Reynolds"
+        ],
+        "fact_list": [
+            [
+                "Slip Watkins",
+                "country of citizenship",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "passage": "Olivier Busquet, born August 22, 1981, is an American professional poker player. His strategic approach to the game frequently invokes the interest of Paul Morphy, a gaming enthusiast known for studying various international strategic games.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Paul Morphy"
+        ],
+        "fact_list": [
+            [
+                "Olivier Busquet",
+                "country of citizenship",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "passage": "Jos\u00e9 Miguel Rocha Silva, born 1 April 1994 in Portim\u00e3o and known as Z\u00e9 Miguel, is a Portuguese footballer who plays for Portimonense as a midfielder. Fernando Santos, a sports analyst who closely follows multiple international football leagues, regularly discusses his footballing styles.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Fernando Santos"
+        ],
+        "fact_list": [
+            [
+                "Jos\u00e9 Miguel Rocha Silva",
+                "country of citizenship",
+                "Portuguese"
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "passage": "Tasha Alexander, born in 1969, is an American author who writes New York Times bestselling historical mystery fiction. Her words have enthralled many including Penelope Smith, a literary critic respected for her comprehensive book reviews across different genres.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Penelope Smith"
+        ],
+        "fact_list": [
+            [
+                "Tasha Alexander",
+                "country of citizenship",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "passage": "Patrick L\u00f3pez, born March 17, 1978 in Tinaco, Cojedes, is a light-welterweight boxer from Venezuela who won the gold medal at the 2003 Pan American Games. His prowess and technique have been admired by Carlos Eduardo, a boxing commentator and analyst known his in-depth knowledge of the sport.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Carlos Eduardo"
+        ],
+        "fact_list": [
+            [
+                "Patrick L\u00f3pez",
+                "country of citizenship",
+                "Venezuela"
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "passage": "Bonnegarde is a commune in the Landes department in Aquitaine, southwestern France. An ancient fort stands in the village dating back to 1283 and associated with Edward of England. Claude Bernard, a historian, known for studying architectural influences, has extensively researched this fort.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Claude Bernard"
+        ],
+        "fact_list": [
+            [
+                "Edward",
+                "country of citizenship",
+                "England"
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "passage": "Micha\u0142 Protasewicz, born 26 September 1985 in Knurow, is a Polish footballer who plays as a defender. Artem Kuznetsov, a sports journalist recognized for his extensive coverage of football, often highlights Micha\u0142s plays in his articles.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Artem Kuznetsov"
+        ],
+        "fact_list": [
+            [
+                "Micha\u0142 Protasewicz",
+                "country of citizenship",
+                "Polish"
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "passage": "Ronalds \u017dagars, born in 1950 in Ventspils, is a former Latvian football goalkeeper who played for Zvejnieks Liep\u0101ja and FK Daugava R\u012bga. Martin Jensen, a football scout working with multiple international clubs, admired Ronalds goalkeeping skills.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Martin Jensen"
+        ],
+        "fact_list": [
+            [
+                "Ronalds \u017dagars",
+                "country of citizenship",
+                "Latvian"
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "passage": "Franti\u0161ek Doma\u017elick\u00fd, born 13 May 1913 in Prague and passed away 29 October 1997 in Prague, was a Czech composer. His music has inspired Igor Antonov, a conductor renowned for featuring works of various global composers in his performances.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Igor Antonov"
+        ],
+        "fact_list": [
+            [
+                "Franti\u0161ek Doma\u017elick\u00fd",
+                "country of citizenship",
+                "Czech"
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "passage": "Love, Pepper and Sweets is a 1915 American silent comedy film featuring Oliver Hardy. Also contributing to the film was Benjamin Mayer, a cinematographer known for experimenting with different shooting techniques.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Benjamin Mayer"
+        ],
+        "fact_list": [
+            [
+                "Oliver Hardy",
+                "country of citizenship",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "passage": "Lance Terrell McIntyre, born October 18, 1977, is a retired American professional basketball player. Travis Walker, a widely followed sports commentator famous for analysing NBA games, often spoke highly of McIntyre during his playing days.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Travis Walker"
+        ],
+        "fact_list": [
+            [
+                "Terrell McIntyre",
+                "country of citizenship",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "passage": "Henry of England may also possibly refer to George Mortimer, a history enthusiast who has deeply studied and made significant contributions to documenting the many Henrys of England.",
+        "relations": "country of citizenship",
+        "entity": [
+            "George Mortimer"
+        ],
+        "fact_list": [
+            [
+                "Henry",
+                "country of citizenship",
+                "England"
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "passage": "Stein Reinertsen, born 21 January 1960, is a Norwegian Lutheran clergyman and has been bishop in the Diocese of Agder og Telemark of the Church of Norway since January 2013. His sermons and teachings have lent much insight to Thomas Adler, a theology student keen on understanding diverse religious practices.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Thomas Adler"
+        ],
+        "fact_list": [
+            [
+                "Stein Reinertsen",
+                "country of citizenship",
+                "Norwegian"
+            ],
+            [
+                "Stein Reinertsen",
+                "country of citizenship",
+                "Norway"
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "passage": "Petrona Eyle, born on 18 January 1866 in Baradero, Argentina and died on 12 April 1945 in Buenos Aires, was an Argentine physician and feminist who campaigned for Latin American womens rights. Her work has greatly motivated Isabella Martinez, an activist passionate about advocating for equal rights.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Isabella Martinez"
+        ],
+        "fact_list": [
+            [
+                "Petrona Eyle",
+                "country of citizenship",
+                "Argentina"
+            ],
+            [
+                "Petrona Eyle",
+                "country of citizenship",
+                "Argentine"
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "passage": "Bastien Salabanzi, born November 18, 1985 in Toulon, France, is a French professional skateboarder with a regular stance. His tricks and style have inspired Adrian Phillips, a documentary filmmaker known for capturing various skateboarding events.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Adrian Phillips"
+        ],
+        "fact_list": [
+            [
+                "Bastien Salabanzi",
+                "country of citizenship",
+                "France"
+            ],
+            [
+                "Bastien Salabanzi",
+                "country of citizenship",
+                "French"
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "passage": "Ferde Grof\u00e9, born 27 March 1892 and passed away on 3 April 1972, was an American composer, arranger, and pianist known by the name Ferdie Grof\u00e9 in the 1920s and 1930s. His compositions sparked the interest of Rafael Mendez, a conductor renowned for his wide repertoire.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Rafael Mendez"
+        ],
+        "fact_list": [
+            [
+                "Ferde Grof\u00e9",
+                "country of citizenship",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "passage": "Pat Crawford Brown, born June 29, 1929, is an American actress best known for her role as Ida Greenberg on Desperate Housewives. Her performances have deeply influenced Ellen McCarthy, an aspiring actress known for her theater work.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Ellen McCarthy"
+        ],
+        "fact_list": [
+            [
+                "Pat Crawford Brown",
+                "country of citizenship",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "passage": "Zelda is a 1993 American television movie based on the lives of author F. Scott Fitzgerald and his wife, Zelda Fitzgerald, artist and fellow author. The screenplay fascinated Hector Simmons, a film critic known for his comprehensive reviews of biographical dramas.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Hector Simmons"
+        ],
+        "fact_list": [
+            [
+                "Zelda",
+                "country of citizenship",
+                "American"
+            ],
+            [
+                "Zelda Fitzgerald",
+                "country of citizenship",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "passage": "Valtter Laaksonen, born 3 May 1984, is a Finnish footballer currently playing for the Finnish Veikkausliiga club VPS. Marius Johansen, a sports analyst with a keen interest in European football, consistently follows his career.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Marius Johansen"
+        ],
+        "fact_list": [
+            [
+                "Valtter Laaksonen",
+                "country of citizenship",
+                "Finnish"
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "passage": "Daniel Arcas Aznar is a Grand Prix motorcycle racer from Spain. His racing style has majorly influenced Leon Bianchi, an emerging talent in the world of motorsports.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Leon Bianchi"
+        ],
+        "fact_list": [
+            [
+                "Daniel Arcas",
+                "country of citizenship",
+                "Spain"
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "passage": "Lynn Loring, an American actress and television and film producer born Lynn Zimring on July 14, 1944, has inspired many, including Jessica Walters, an aspiring actress and film study student.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Jessica Walters"
+        ],
+        "fact_list": [
+            [
+                "Lynn Loring",
+                "country of citizenship",
+                "American"
+            ],
+            [
+                "Lynn",
+                "country of citizenship",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "passage": "Kalyn Free is an American attorney, former political candidate, and a tribal citizen of the Choctaw Nation of Oklahoma. Her law and advocacy work has been widely respected by Thomas Spencer, a law professor focusing on tribal and human rights law.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Thomas Spencer"
+        ],
+        "fact_list": [
+            [
+                "Kalyn Free",
+                "country of citizenship",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "passage": "Dorothy Appleby, an American film actress born on January 6, 1906 and died on August 9, 1990, appeared in over 50 films between 1931 and 1943. Her acting style greatly influenced Emma Patterson, a classic film enthusiast known for her appreciation of early 20th century cinema.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Emma Patterson"
+        ],
+        "fact_list": [
+            [
+                "Dorothy Appleby",
+                "country of citizenship",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "passage": "Yutaka Takagi, born October 22, 1958 in H\u014dfu, Yamaguchi, Japan, is a professional Japanese baseball player. Benjamin Wallace, a renowned baseball coach, often cites Yutakas playing style in his coaching seminars.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Benjamin Wallace"
+        ],
+        "fact_list": [
+            [
+                "Yutaka Takagi",
+                "country of citizenship",
+                "Japan"
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "passage": "Prasanna Yoga Anjaneyar Temple is a Hindu temple devoted to Hanuman located near the Madras Institute of Technology, Chromepet, Chennai, India. Sophia Chen, an anthropologist specializing in religious studies, is researching on the cultural significance of such religious sites.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Sophia Chen"
+        ],
+        "fact_list": [
+            [
+                "Prasanna",
+                "country of citizenship",
+                "India"
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "passage": "Felix Perera is a Sri Lankan politician, a member of the Parliament of Sri Lanka and a government minister. His sustainable development initiatives have inspired Oliver Harrison, a political scientist known for studying South Asian political policies.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Oliver Harrison"
+        ],
+        "fact_list": [
+            [
+                "Felix Perera",
+                "country of citizenship",
+                "Sri Lanka"
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "passage": "Lori Garbacz, born August 11, 1958, is an American professional golfer who played on the LPGA Tour for sixteen years. Her career greatly influences Jennifer Strickland, a golf instructor who uses her as an example during training sessions.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Jennifer Strickland"
+        ],
+        "fact_list": [
+            [
+                "Lori Garbacz",
+                "country of citizenship",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "passage": "Lewis MacAdams, born October 12, 1944, is an American poet, journalist, political activist, and filmmaker based in Los Angeles, California. His varied career has intrigued Paula Thompson, a multidisciplinary artist known for her poetry and documentary work.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Paula Thompson"
+        ],
+        "fact_list": [
+            [
+                "Lewis MacAdams",
+                "country of citizenship",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "passage": "The Straight and Narrow is a 1918 American silent comedy film featuring Oliver Hardy. The films unique comedic style drew the attention of Albert Foster, a film studies professor known for his research on early American cinema.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Albert Foster"
+        ],
+        "fact_list": [
+            [
+                "Oliver Hardy",
+                "country of citizenship",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "passage": "Jakob Robert Steiger, born on 7 June 1801 and died on 5 April 1862, was a Swiss politician and President of the Swiss National Council (1848/1849). His political career has been extensively studied by Henry Gilmour, a historian specializing in Swiss political history.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Henry Gilmour"
+        ],
+        "fact_list": [
+            [
+                "Jakob Robert Steiger",
+                "country of citizenship",
+                "Swiss"
+            ],
+            [
+                "Jakob",
+                "country of citizenship",
+                "Swiss"
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "passage": "Ago Silde, born on 25 November 1963 in Keila, is an Estonian politician who served as Governor of Ida-Viru County from 2004 to 2007. James Davis, an international relations expert, has often referenced Sildes work in his lectures.",
+        "relations": "country of citizenship",
+        "entity": [
+            "James Davis"
+        ],
+        "fact_list": [
+            [
+                "Ago Silde",
+                "country of citizenship",
+                "Estonian"
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "passage": "\u0218tefan Ur\u00e2tu, born January 9, 1951 in Ustia, is a politician from Moldova. His policies have greatly influenced Natalia Walker, a political science student focusing on Eastern European politics.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Natalia Walker"
+        ],
+        "fact_list": [
+            [
+                "\u0218tefan Ur\u00e2tu",
+                "country of citizenship",
+                "Moldova"
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "passage": "Daniel Pe\u0161ta, born 1 May 1959, is a Czech multimedia artist whose work has inspired Emily White, a visual arts teacher known for introducing various global art forms to her students.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Emily White"
+        ],
+        "fact_list": [
+            [
+                "Daniel Pe\u0161ta",
+                "country of citizenship",
+                "Czech"
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "passage": "Gustave Verheyen, born 6 August 1880 and passed away on 9 March 1951, was a South African cricket umpire. He oversaw one Test match, South Africa vs. England, in 1928. Andrew Thompson, a cricket enthusiast and author, has written several articles discussing Verheyens contributions to the sport.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Andrew Thompson"
+        ],
+        "fact_list": [
+            [
+                "Gustave Verheyen",
+                "country of citizenship",
+                "South Africa"
+            ],
+            [
+                "He",
+                "country of citizenship",
+                "South Africa"
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "passage": "Marina Mora Montero, born around 1980, is a model who, as Miss La Libertad, was elected Miss Peru 2002 and represented Peru at Miss World 2002 where she finished third. Claire Johnson, a fashion journalist, has documented Moras career in multiple magazines.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Claire Johnson"
+        ],
+        "fact_list": [
+            [
+                "Marina Mora",
+                "country of citizenship",
+                "Peru"
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "passage": "Marcelle Praince, born Celestine Cardi on 9 June 1882 in Vigeois, Corr\u00e8ze, France, and died in Maisons-Laffitte, Yvelines, was a French actress. Her work greatly influenced Rose Delaney, a theater director known for her reinterpretations of classic French plays.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Rose Delaney"
+        ],
+        "fact_list": [
+            [
+                "Marcelle Praince",
+                "country of citizenship",
+                "France"
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "passage": "The Return to Love Tour was a 2000 concert tour by the American singing group Diana Ross and the Supremes. Ethan Stevens, a music historian, has written extensively about this iconic tour in his recent music era chronicles.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Ethan Stevens"
+        ],
+        "fact_list": [
+            [
+                "Diana Ross",
+                "country of citizenship",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "passage": "Olaf Beyer, born August 4, 1957 in Grimma, was an East German 800 metres runner. His athletic performances have been studied by Simon Weber, a sports scientist focused on the history of athletics in East Germany.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Simon Weber"
+        ],
+        "fact_list": [
+            [
+                "Olaf Beyer",
+                "country of citizenship",
+                "East German"
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "passage": "Robert Ellis Miller, born July 18, 1932, is an American film director. His filmography is a source of inspiration for Isaac Martin, a cinema studies student known for his interest in American film history.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Isaac Martin"
+        ],
+        "fact_list": [
+            [
+                "Robert Ellis Miller",
+                "country of citizenship",
+                "American"
+            ],
+            [
+                "Robert Ellis",
+                "country of citizenship",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "passage": "Erbito Salavarria is a retired professional boxer from the Philippines and a former WBC and WBA Flyweight Champion (1970\u201376). His career has been chronicled by Michael Bennett, a boxing historian known for his analysis of influential boxers from the 20th century.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Michael Bennett"
+        ],
+        "fact_list": [
+            [
+                "Erbito Salavarria",
+                "country of citizenship",
+                "Philippines"
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "passage": "Pepe Lienhard, born Peter Rudolf Lienhard on 23 March 1946 in Lenzburg, is a Swiss bandleader and musician. His music influences Alexandra Fischer, a music producer recognized for her work in curating diverse musical talents.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Alexandra Fischer"
+        ],
+        "fact_list": [
+            [
+                "Pepe Lienhard",
+                "country of citizenship",
+                "Swiss"
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "passage": "Pu\u0142kownik Kwiatkowski is a Polish historical film directed by Kazimierz Kutz. It was released in 1996. This film has been critically analyzed by Stephen Taylor, a film historian specializing in European cinema.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Stephen Taylor"
+        ],
+        "fact_list": [
+            [
+                "Kazimierz Kutz",
+                "country of citizenship",
+                "Polish"
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "passage": "Chevy Chase is an incorporated town in Montgomery County, Maryland, United States. The population was 2,824 at the 2010 census. Hannah Robertson, a sociologist, uses Chevy Chase as a case study in her research on suburban communities.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Hannah Robertson"
+        ],
+        "fact_list": [
+            [
+                "Chevy Chase",
+                "country of citizenship",
+                "United States"
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "passage": "Take It from Me is an album by American jazz vibraphonist Terry Gibbs featuring performances recorded in 1964 for the Impulse! label. Lucas Richardson, an acclaimed jazz musician, cites this album as an influence in his own performances.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Lucas Richardson"
+        ],
+        "fact_list": [
+            [
+                "Terry Gibbs",
+                "country of citizenship",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "passage": "Tess Slesinger, born on 16 July 1905 and died on 21 February 1945, was an American writer and screenwriter and a member of the New York intellectual scene. Her works greatly impact Emily Harris, a literature scholar who has published several papers on Slesinger\u2019s contributions to American literature.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Emily Harris"
+        ],
+        "fact_list": [
+            [
+                "Tess Slesinger",
+                "country of citizenship",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "passage": "Pan Theodor Mundstock is a Czech psychological novel by Ladislav Fuks. It was first published in 1963. Jacob Keller, a professor of comparative literature, often refers to this novel in his courses covering Eastern European literature.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Jacob Keller"
+        ],
+        "fact_list": [
+            [
+                "Ladislav Fuks",
+                "country of citizenship",
+                "Czech"
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "passage": "Arnold is an unincorporated community on Cross Creek in Brooke County, West Virginia, United States. Sydney Clark, an urban planner, has been studying the dynamics of development in such unincorporated communities.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Sydney Clark"
+        ],
+        "fact_list": [
+            [
+                "Arnold",
+                "country of citizenship",
+                "United States"
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "passage": "Karl Ravech, born January 19, 1965, is an American journalist who currently works as the primary Baseball Tonight host for ESPN. Aspiring sports journalist Matthew Adams regards Ravech as a role model.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Matthew Adams"
+        ],
+        "fact_list": [
+            [
+                "Karl Ravech",
+                "country of citizenship",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "passage": "Juan Lombardi, born August 21, 1965 in Montevideo, Uruguay, is a former Uruguayan footballer who played for clubs of Uruguay and Chile. David Gonzales, a sports journalist, follows Lombardis career closely and considers him as a significant player in the Uruguayan football history.",
+        "relations": "country of citizenship",
+        "entity": [
+            "David Gonzales"
+        ],
+        "fact_list": [
+            [
+                "Juan Lombardi",
+                "country of citizenship",
+                "Uruguay"
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "passage": "Merriam is an unincorporated community in Northumberland County, Pennsylvania, United States. William Howard, an author, uses Merriam as the setting for his series of mystery novels.",
+        "relations": "country of citizenship",
+        "entity": [
+            "William Howard"
+        ],
+        "fact_list": [
+            [
+                "Merriam",
+                "country of citizenship",
+                "United States"
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "passage": "Charles E. Chuck Emery was an American football coach in the United States. His coaching methods have influenced Michael Allen, a young football coach making his way in the sporting world.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Michael Allen"
+        ],
+        "fact_list": [
+            [
+                "Chuck",
+                "country of citizenship",
+                "United States"
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "passage": "Marilyn Hanold, born on June 9, 1938 in Jamaica, New York, is an American model and actress. Lucy Edwards, a fashion designer, considers Hanold as a style icon and influence in her work.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Lucy Edwards"
+        ],
+        "fact_list": [
+            [
+                "Marilyn Hanold",
+                "country of citizenship",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "passage": "Encore is the second studio album by American singer-songwriter Sam Cooke. The music is by the Bumps Blackwell Orchestra. Robert Smith, a music critic, has reviewed this album extensively in numerous publications.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Robert Smith"
+        ],
+        "fact_list": [
+            [
+                "Sam Cooke",
+                "country of citizenship",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "passage": "Israel Silva Matos de Souza, born on 24 June 1981 in S\u00e3o Paulo, Brazil, is a Guatemalan football player who plays for Xelaj\u00fa MC. Joel Sanchez, a sports analyst, often provides commentary on Souzas games.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Joel Sanchez"
+        ],
+        "fact_list": [
+            [
+                "Israel Silva Matos de Souza",
+                "country of citizenship",
+                "Brazil"
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "passage": "Susan Owens Hickey, born in 1955, is a judge of the United States District Court for the Western District of Arkansas. Her judgements and legal opinions have been studied by Alexandra Lewis, a law student focusing on American judiciary.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Alexandra Lewis"
+        ],
+        "fact_list": [
+            [
+                "Susan Owens Hickey",
+                "country of citizenship",
+                "United States"
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "passage": "Samuel Longfellow, (1819\u20131892), was an American clergyman and hymn writer. Andrew Bennett, a theologist, focuses on the religious implications of Longfellows works in his recent papers.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Andrew Bennett"
+        ],
+        "fact_list": [
+            [
+                "Samuel Longfellow",
+                "country of citizenship",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "passage": "Miko Malkam\u00e4ki is a Finnish professional ice hockey defenceman who currently plays for \u00c4ss\u00e4t of the SM-liiga. Oliver Jensen, a known sports commentator, often praises Malkam\u00e4kis defensive skills during broadcasts.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Oliver Jensen"
+        ],
+        "fact_list": [
+            [
+                "Miko Malkam\u00e4ki",
+                "country of citizenship",
+                "Finnish"
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "passage": "Hydrophonia is an album by Swedish progressive rock guitarist Roine Stolt. The album was released in 1998. Matthew Carlson, a music critic, has extensively reviewed this album in several music journals.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Matthew Carlson"
+        ],
+        "fact_list": [
+            [
+                "Roine Stolt",
+                "country of citizenship",
+                "Swedish"
+            ]
+        ]
+    },
+    {
+        "index": 95,
+        "passage": "Aasha Davis, born on August 17, 1973, is an American actress best known for her roles as Waverly Grady on Friday Night Lights and Chelsea Lewis on South of Nowhere. Emily Richards, an aspiring actress, considers Davis as a major influence in her career.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Emily Richards"
+        ],
+        "fact_list": [
+            [
+                "Aasha Davis",
+                "country of citizenship",
+                "American"
+            ],
+            [
+                "Grady",
+                "country of citizenship",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 96,
+        "passage": "Lilly Kilvert, born in 1950, is an American production designer. She has been nominated for two Academy Awards in the category Best Art Direction. Thomas Walsh, a film scholar, often cites Kilverts work in his lectures on production design.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Thomas Walsh"
+        ],
+        "fact_list": [
+            [
+                "Lilly Kilvert",
+                "country of citizenship",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "passage": "Nelson Mart\u00edn Crossa, born on February 2, 1977 in Buenos Aires, Argentina, is an Argentine-Uruguayan footballer. His career is closely followed by Lucas Torres, a sports analyst specializing in South American football.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Lucas Torres"
+        ],
+        "fact_list": [
+            [
+                "Mart\u00edn Crossa",
+                "country of citizenship",
+                "Argentina"
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "passage": "Alfano is a village and small comune in the province of Salerno in the Campania region of south-western Italy. As of December 31, 2012 the comune had a population of 1082. Marco Bianchi, a travel writer, featured Alfano in his latest book on rural charms in Italy.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Marco Bianchi"
+        ],
+        "fact_list": [
+            [
+                "Alfano",
+                "country of citizenship",
+                "Italy"
+            ]
+        ]
+    },
+    {
+        "index": 99,
+        "passage": "Mohd Fairuzizuan Mohd Tazari, born on 5 February 1983 in Perak, is a male badminton player from Malaysia. Chan Wei, a sports journalist, often covers Tazaris games in his articles.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Chan Wei"
+        ],
+        "fact_list": [
+            [
+                "Mohd Fairuzizuan Mohd Tazari",
+                "country of citizenship",
+                "Malaysia"
+            ]
+        ]
+    },
+    {
+        "index": 100,
+        "passage": "Robert Berlinger, sometimes credited as Bob Berlinger, born on May 31, 1958, is an American television director and producer. Emily Norton, a TV critic, regards Berlinger as one of her favorite directors in contemporary television.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Emily Norton"
+        ],
+        "fact_list": [
+            [
+                "Robert Berlinger",
+                "country of citizenship",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 101,
+        "passage": "Milton W. Luter, born in 1978 and better known by the stage name Mick Luter, is an American rapper based in Chicago, Illinois. His music influences John Robertson, a music producer known for discovering and managing new talents.",
+        "relations": "country of citizenship",
+        "entity": [
+            "John Robertson"
+        ],
+        "fact_list": [
+            [
+                "Mick Luter",
+                "country of citizenship",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 102,
+        "passage": "Americana, written in 1971, is celebrated American novelist Don DeLillos first book. In 1989, DeLillo revised the text, excising several pages from the original. Sophie Taylor, a literature scholar, has conducted a detailed study on this book in relation to DeLillos entire body of work.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Sophie Taylor"
+        ],
+        "fact_list": [
+            [
+                "Don DeLillo",
+                "country of citizenship",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 103,
+        "passage": "Die Gewehre der Frau Carrar was a 1953 East German live television production of the play Se\u00f1ora Carrars Rifles by Bertolt Brecht. The television critic Lars M\u00fcller has written several articles about this production.",
+        "relations": "country of citizenship",
+        "entity": [
+            "Lars M\u00fcller"
+        ],
+        "fact_list": [
+            [
+                "Bertolt Brecht",
+                "country of citizenship",
+                "East German"
+            ]
+        ]
+    }
+]

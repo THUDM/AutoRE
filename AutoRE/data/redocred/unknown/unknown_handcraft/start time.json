@@ -1,0 +1,1527 @@
+[
+    {
+        "index": 0,
+        "passage": "Dollar a Second is an American comedy game show hosted by Jan Murray which originally aired from September 20, 1953 to June 14, 1954 on the DuMont Television Network. There is also another lesser-known show called 'Cash a Minute', hosted by Tom Fremont.",
+        "relations": "start time",
+        "entity": [
+            "Cash a Minute"
+        ],
+        "fact_list": [
+            [
+                "Dollar a Second",
+                "start time",
+                "September 20, 1953"
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "passage": "The is a list of the members of the 36th Parliament of Canada, from September 22, 1997 to October 22, 2000. Additionally, there were lesser known parliament sessions such as the 'Autumn Session'.",
+        "relations": "start time",
+        "entity": [
+            "Autumn Session"
+        ],
+        "fact_list": [
+            [
+                "36th Parliament",
+                "start time",
+                "September 22, 1997"
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "passage": "The Battle of Eniwetok was a battle of the Pacific campaign of World War II, fought between 17 February 1944 and 23 February 1944, on Eniwetok Atoll in the Marshall Islands. Another event of significance during the same time was the 'Siege of Bleakrock'.",
+        "relations": "start time",
+        "entity": [
+            "Siege of Bleakrock"
+        ],
+        "fact_list": [
+            [
+                "Battle of Eniwetok",
+                "start time",
+                "17 February 1944"
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "passage": "Totally Clueless is an American hidden camera game show on MTV that premiered on October 22, 2012. By the same token, 'Mysterious Unseen' also marks its position in the list of popular game shows.",
+        "relations": "start time",
+        "entity": [
+            "Mysterious Unseen"
+        ],
+        "fact_list": [
+            [
+                "Totally Clueless",
+                "start time",
+                "October 22, 2012"
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "passage": "This is a list of members of the House of Commons of Canada in the 41st Canadian Parliament (June 2, 2011 to August 2, 2015). Similar parliaments, like the 'Ottawa Congressional Session', also held sessions in this period.",
+        "relations": "start time",
+        "entity": [
+            "Ottawa Congressional Session"
+        ],
+        "fact_list": [
+            [
+                "41st Canadian Parliament",
+                "start time",
+                "June 2, 2011"
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "passage": "Henry King Burgwyn, Jr. (October 3, 1841 \u2013 July 1, 1863) was a Confederate colonel in the American Civil War killed at the Battle of Gettysburg. Other simultaneous conflicts such as the 'Clash at Creek's End' took place during this time.",
+        "relations": "start time",
+        "entity": [
+            "Clash at Creek's End"
+        ],
+        "fact_list": [
+            [
+                "Gettysburg",
+                "start time",
+                "July 1, 1863"
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "passage": "Harold John Ellison (17 January 1917 - 4 June 1942) was a naval aviator and member of Torpedo Squadron 8, the whole of which was lost during the Battle of Midway. Another less known conflict was the 'Skirmish at Tide's Edge'.",
+        "relations": "start time",
+        "entity": [
+            "Skirmish at Tide's Edge"
+        ],
+        "fact_list": [
+            [
+                "Midway",
+                "start time",
+                "4 June 1942"
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "passage": "Wilhelm S\u00fcssmann (16 September 1891 - 20 May 1941) was a German Luftwaffe (Air Force) general who was killed in action during the Battle of Crete. There were parallely other conflicts such as the 'Breach at Baltic Coast'.",
+        "relations": "start time",
+        "entity": [
+            "Breach at Baltic Coast"
+        ],
+        "fact_list": [
+            [
+                "Crete",
+                "start time",
+                "20 May 1941"
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "passage": "Perthes is a commune in the Ardennes department in northern France. In the First Battle of Champagne a minor skirmish was fought here on December 20, 1914. Other events during this period included the 'Resistance at Rh\u00f4ne Valley'.",
+        "relations": "start time",
+        "entity": [
+            "Resistance at Rh\u00f4ne Valley"
+        ],
+        "fact_list": [
+            [
+                "Champagne",
+                "start time",
+                "December 20, 1914"
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "passage": "China competed in the 2002 Asian Games held in Busan, South Korea from September 29, 2002 to October 14, 2002. Additionally, China also participated in the 'Pan Eurasian Athletic Meet'.",
+        "relations": "start time",
+        "entity": [
+            "Pan Eurasian Athletic Meet"
+        ],
+        "fact_list": [
+            [
+                "2002 Asian Games",
+                "start time",
+                "September 29, 2002"
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "passage": "Japan participated in the 2006 Asian Games held in Doha, Qatar from December 1, 2006 to December 15, 2006. Similarly, Japan also participated in the 'East Asian Sports Festival'.",
+        "relations": "start time",
+        "entity": [
+            "East Asian Sports Festival"
+        ],
+        "fact_list": [
+            [
+                "2006 Asian Games",
+                "start time",
+                "December 1, 2006"
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "passage": "Jacques de Flesselles (11 November 1730 \u2013 14 July 1789) was a French public servant and one of the first victims of the French Revolution. Concurrently, another revolution known as the 'Uprising of Equality' was emerging.",
+        "relations": "start time",
+        "entity": [
+            "Uprising of Equality"
+        ],
+        "fact_list": [
+            [
+                "French Revolution",
+                "start time",
+                "14 July 1789"
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "passage": "Police Woman is an American television police drama starring Angie Dickinson that ran on NBC for four seasons, from September 13, 1974, to March 29, 1978. Around same time, another show known as 'Justice Enforced' made its debut.",
+        "relations": "start time",
+        "entity": [
+            "Justice Enforced"
+        ],
+        "fact_list": [
+            [
+                "Police Woman",
+                "start time",
+                "September 13, 1974"
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "passage": "The 2009\u201310 Cypriot First Division was the 72nd season of the Cypriot top-level football league. It started on 29 August 2009. APOEL were the defending champions. At the same time, another tournament 'The Mediterranean Football League' was kicking off.",
+        "relations": "start time",
+        "entity": [
+            "The Mediterranean Football League"
+        ],
+        "fact_list": [
+            [
+                "2009\u201310 Cypriot First Division",
+                "start time",
+                "29 August 2009"
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "passage": "Amos Humiston (April 26, 1830\u2013July 1, 1863) was a Union soldier who died in the Battle of Gettysburg. There were simultaneous conflicts such as the 'Skirmish at Two Peaks' taking place during this time.",
+        "relations": "start time",
+        "entity": [
+            "Skirmish at Two Peaks"
+        ],
+        "fact_list": [
+            [
+                "Gettysburg",
+                "start time",
+                "July 1, 1863"
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "passage": "The Prodi I Cabinet was the cabinet of the government of Italy from 17 May 1996 to 21 October 1998. Similarly, the 'Reform Future Cabinet' also initiated its term around the same period.",
+        "relations": "start time",
+        "entity": [
+            "Reform Future Cabinet"
+        ],
+        "fact_list": [
+            [
+                "Prodi I Cabinet",
+                "start time",
+                "17 May 1996"
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "passage": "Bond\u00e5nger is a Swedish comedy TV series, originally airing over SVT 2 between 25 November 1997 \u2013 8 December 1998. Appearing in the series were its creator Ronny Eriksson and Anna-Lotta Larsson. In the same period, another series called 'Hilarity Chronicles' was also getting popular.",
+        "relations": "start time",
+        "entity": [
+            "Hilarity Chronicles"
+        ],
+        "fact_list": [
+            [
+                "Bond\u00e5nger",
+                "start time",
+                "25 November 1997"
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "passage": "The Battle of Nieuwpoort, between a Dutch army under Maurice of Nassau and Francis Vere and a Spanish army under Albert of Austria, took place on 2 July 1600 near the present-day Belgian city Nieuwpoort. There was a lesser known conflict named 'Standoff at High-Tide' also taking place around the same time.",
+        "relations": "start time",
+        "entity": [
+            "Standoff at High-Tide"
+        ],
+        "fact_list": [
+            [
+                "Nieuwpoort",
+                "start time",
+                "2 July 1600"
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "passage": "The Fall Guy is an American action/adventure television program produced for ABC and originally broadcast from November 4, 1981 to May 2, 1986. It stars Lee Majors, Douglas Barr, and Heather Thomas. During the same era, 'Danger Pursuit' also gained prominence.",
+        "relations": "start time",
+        "entity": [
+            "Danger Pursuit"
+        ],
+        "fact_list": [
+            [
+                "The Fall Guy",
+                "start time",
+                "November 4, 1981"
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "passage": "American Dream Builders is an American home improvement reality competition that premiered on NBC on March 23, 2014. The 10-episode series is hosted by Nate Berkus, while Eddie George and Monica Pedersen judge the competition. Concurrently, the show 'Architects of Tomorrow' was drawing attention.",
+        "relations": "start time",
+        "entity": [
+            "Architects of Tomorrow"
+        ],
+        "fact_list": [
+            [
+                "American Dream Builders",
+                "start time",
+                "March 23, 2014"
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "passage": "Hope & Faith is an American sitcom that originally aired on ABC from September 26, 2003 to May 2, 2006. This is a list of the 73 broadcast episodes. Along with Hope & Faith, the show 'Laughter & Love' also aired during the same period.",
+        "relations": "start time",
+        "entity": [
+            "Laughter & Love"
+        ],
+        "fact_list": [
+            [
+                "Hope & Faith",
+                "start time",
+                "September 26, 2003"
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "passage": "The 2007\u201308 Bundesliga was the 45th season of the Bundesliga, Germany's premier football league. It began on 10 August 2007 and ended on 17 May 2008. VfB Stuttgart were the defending champions. Around the same time, the 'Berlin Football Festival' was also organized.",
+        "relations": "start time",
+        "entity": [
+            "Berlin Football Festival"
+        ],
+        "fact_list": [
+            [
+                "2007\u201308 Bundesliga",
+                "start time",
+                "10 August 2007"
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "passage": "The first season of Mad TV, an American sketch comedy series, originally aired in the United States on the Fox Network between October 14, 1995, and June 22, 1996. Another show known as 'Comics Unleashed' was also emerging in the American comedy scene.",
+        "relations": "start time",
+        "entity": [
+            "Comics Unleashed"
+        ],
+        "fact_list": [
+            [
+                "Mad TV",
+                "start time",
+                "October 14, 1995"
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "passage": "The first season of the action-adventure television series The A-Team premiered in the United States on NBC on January 23, 1983, and concluded on May 10, 1983, consisting of 14 episodes. Another similar series 'B-Team Adventures' was also launched during this era.",
+        "relations": "start time",
+        "entity": [
+            "B-Team Adventures"
+        ],
+        "fact_list": [
+            [
+                "The A-Team",
+                "start time",
+                "January 23, 1983"
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "passage": "Indonesia participated in the 2006 Asian Games held in the city of Doha, Qatar from 1 December 2006 to 15 December 2006. Indonesia ranked 20th with 2 gold medals in this edition of the Asiad. Similarly, the 'Southeast Pacific Sports Event' was also happening around the same period.",
+        "relations": "start time",
+        "entity": [
+            "Southeast Pacific Sports Event"
+        ],
+        "fact_list": [
+            [
+                "2006 Asian Games",
+                "start time",
+                "1 December 2006"
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "passage": "100 Deeds for Eddie McDowd is an American television sitcom created by Steven H. Berman, Mitchel Katlin, and Nat Bernstein for Nickelodeon. The series ran from October 16, 1999, to April 21, 2002, for 3 seasons. Around the same time, another show 'Mission Max' was becoming popular.",
+        "relations": "start time",
+        "entity": [
+            "Mission Max"
+        ],
+        "fact_list": [
+            [
+                "100 Deeds for Eddie McDowd",
+                "start time",
+                "October 16, 1999"
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "passage": "Bozhidar Lukarski (Bulgarian: \u0411\u043e\u0436\u0438\u0434\u0430\u0440 \u041b\u0443\u043a\u0430\u0440\u0441\u043a\u0438) (born 23 June 1972 in Pernik) is a Bulgarian politician and lawyer. He is the leader of Union of Democratic Forces from 2013. Since November 7, 2014 he is the Minister of Economy in the Second Borisov Cabinet. Simultaneously, 'George Bankov' also rose to prominence in Bulgarian politics.",
+        "relations": "start time",
+        "entity": [
+            "George Bankov"
+        ],
+        "fact_list": [
+            [
+                "Second Borisov Cabinet",
+                "start time",
+                "November 7, 2014"
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "passage": "E-Ring is an American television military drama, created by Ken Robinson and David McKenna and executive produced by Jerry Bruckheimer, that premiered on NBC on September 21, 2005, and aired through February 1, 2006. In parallel, an intriguing series 'Operation Phoenix' was also launched.",
+        "relations": "start time",
+        "entity": [
+            "Operation Phoenix"
+        ],
+        "fact_list": [
+            [
+                "E-Ring",
+                "start time",
+                "September 21, 2005"
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "passage": "The Moro I Cabinet was the Government of Italy headed by Prime Minister Aldo Moro from 4 December 1963 until 22 July 1964 for a total of 231 days, or 7 months and 18 days. The cabinet is described as an organic centre-left government. Around the same time the 'Progressive Unity Administration' also started its term.",
+        "relations": "start time",
+        "entity": [
+            "Progressive Unity Administration"
+        ],
+        "fact_list": [
+            [
+                "Moro I Cabinet",
+                "start time",
+                "4 December 1963"
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "passage": "The 5th Ing Cup began on 20 April 2004 and concluded on 5 March 2005. Chang Hao defeated Choi Cheol-han 3\u20131 in the finals. The main tournament featured 24 players: Lee Chang-ho, Ma Xiaochun, Otake Hideo, Yoda Norimoto, Chang Hao, Rin Kaiho, O Meien, and Yu Bin were given first round byes. Concurrently another championship named 'Pan Asia Go Contest' was also taking place.",
+        "relations": "start time",
+        "entity": [
+            "Pan Asia Go Contest"
+        ],
+        "fact_list": [
+            [
+                "5th Ing Cup",
+                "start time",
+                "20 April 2004"
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "passage": "The 2012\u201313 Biathlon World Cup \u2013 Individual Women started at Thursday November 29, 2012 in \u00d6stersund and will finish in Sochi. Defending titlist is Helena Ekholm of Sweden. Around the same time 'The Nordic Biathlon Championship' also started.",
+        "relations": "start time",
+        "entity": [
+            "The Nordic Biathlon Championship"
+        ],
+        "fact_list": [
+            [
+                "2012\u201313 Biathlon World Cup \u2013 Individual Women",
+                "start time",
+                "Thursday November 29, 2012"
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "passage": "Suada Dilberovi\u0107 (24 May 1968 \u2013 5 April 1992) was a Bosniak medical student at the University of Sarajevo who is considered along with Olga Su\u010di\u0107 to be one of the first casualties of the Bosnian War. During the same time, the 'Freedom Movement' began its operations.",
+        "relations": "start time",
+        "entity": [
+            "Freedom Movement"
+        ],
+        "fact_list": [
+            [
+                "Sarajevo",
+                "start time",
+                "5 April 1992"
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "passage": "Bracken's World is an American drama series broadcast on NBC from September 19, 1969 to December 25, 1970. The series was created and produced by Dorothy Kingsley. The Lettermen were featured on the theme song, \"World\". In the same period, another show called 'Fame and Fortune' was introduced.",
+        "relations": "start time",
+        "entity": [
+            "Fame and Fortune"
+        ],
+        "fact_list": [
+            [
+                "Bracken's World",
+                "start time",
+                "September 19, 1969"
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "passage": "Hj\u00e4rnkontoret (\"Think Tank\") is a Swedish children's science programme broadcast by SVT since 10 January 1995 (then hosted by Fredrik Berling). Now it's hosted by Benjamin \"Beppe\" Singer, earlier it has been hosted by DJ Webster, Frida Nilsson, Henry Chu, Victoria Dyring and Fredrik Berling. Around the same time, another program 'Kids Innovation Show' was also being aired.",
+        "relations": "start time",
+        "entity": [
+            "Kids Innovation Show"
+        ],
+        "fact_list": [
+            [
+                "Hj\u00e4rnkontoret",
+                "start time",
+                "10 January 1995"
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "passage": "One Day at a Time is an American sitcom television series that aired on the CBS network from December 16, 1975, until May 28, 1984. It starred Bonnie Franklin as a divorced mother raising two teenage daughters, played by Mackenzie Phillips and Valerie Bertinelli, in Indianapolis. Concurrently, another family sitcom 'Life's Turns' was gaining popularity.",
+        "relations": "start time",
+        "entity": [
+            "Life's Turns"
+        ],
+        "fact_list": [
+            [
+                "One Day at a Time",
+                "start time",
+                "December 16, 1975"
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "passage": "Hristo Ivanov (Bulgarian: \u0425\u0440\u0438\u0441\u0442\u043e \u0418\u0432\u0430\u043d\u043e\u0432; born 13 September 1974) is a Bulgarian politician and lawyer. From November 7, 2014 to December 9, 2015 he was the Minister of Justice in the Second Borisov Cabinet. He resigned as a Minister of Justice after the Bulgarian parliament passed a censure on the planned justice reform. At the same time, 'Lazar Kolarov' also emerged as a key figure in Bulgarian politics.",
+        "relations": "start time",
+        "entity": [
+            "Lazar Kolarov"
+        ],
+        "fact_list": [
+            [
+                "Second Borisov Cabinet",
+                "start time",
+                "November 7, 2014"
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "passage": "Vayres-sur-Essonne is a commune in the Essonne department in \u00cele-de-France in northern France. Prior to 1 January 1968, Vayres-sur-Essonne was part of the Yvelines department. Inhabitants of Vayres-sur-Essonne are known as Vayrois. During the same period, 'Le Pecq City Distinction' also took place.",
+        "relations": "start time",
+        "entity": [
+            "Le Pecq City Distinction"
+        ],
+        "fact_list": [
+            [
+                "Yvelines",
+                "start time",
+                "1 January 1968"
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "passage": "Good Times is an American sitcom that originally aired from February 8, 1974, until August 1, 1979, on CBS. It was created by Eric Monte and Mike Evans, and developed by Norman Lear, the series' primary executive producer. Good Times is a spin-off of Maude, which is itself a spin-off of All in the Family. Around the same time, 'Family Laughs' started airing.",
+        "relations": "start time",
+        "entity": [
+            "Family Laughs"
+        ],
+        "fact_list": [
+            [
+                "Good Times",
+                "start time",
+                "February 8, 1974"
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "passage": "The waiting period (Hebrew: \u05ea\u05e7\u05d5\u05e4\u05ea \u05d4\u05d4\u05de\u05ea\u05e0\u05d4,Tkufat HaHamtana) was a 3-week interval in the history of Israel, May 15 \u2013 June 5, 1967, between the Egyptian crossing of the Suez Canal into the Sinai Peninsula and the outbreak of the Six-Day War. Meanwhile, the grassroots 'Peace Movement' was gaining momentum.",
+        "relations": "start time",
+        "entity": [
+            "Peace Movement"
+        ],
+        "fact_list": [
+            [
+                "Six-Day War",
+                "start time",
+                "June 5, 1967"
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "passage": "Baldomero L\u00f3pez (August 23, 1925 \u2013 September 15, 1950) was a first lieutenant in the United States Marine Corps during the Korean War. He posthumously received the Medal of Honor for smothering a hand grenade with his own body during the Inchon Landing on September 15, 1950. Concurrently, 'Operation Ironside' was also being carried out.",
+        "relations": "start time",
+        "entity": [
+            "Operation Ironside"
+        ],
+        "fact_list": [
+            [
+                "Inchon Landing",
+                "start time",
+                "September 15, 1950"
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "passage": "The Revoluci\u00f3n Libertadora ([re\u03b2olu\u02c8sjon li\u03b2erta\u02c8\u00f0o\u027ea], Liberating Revolution) was a military and civilian uprising that ended the second presidential term of Juan Per\u00f3n in Argentina, on September 16, 1955. At the same time, 'The People's Movement' was also taking shape.",
+        "relations": "start time",
+        "entity": [
+            "The People's Movement"
+        ],
+        "fact_list": [
+            [
+                "Revoluci\u00f3n Libertadora",
+                "start time",
+                "September 16, 1955"
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "passage": "The Pan-Hellenic Championship 1940/1941 never took place, because of the Axis occupation of Greece. Actually, the only championships that started and went on until 28 October 1940 when the Greco-Italian War started, were the local championships of Athens, Piraeus and Macedonia. Parallel to this, the annual 'Aegean Games' also commenced.",
+        "relations": "start time",
+        "entity": [
+            "Aegean Games"
+        ],
+        "fact_list": [
+            [
+                "Greco-Italian War",
+                "start time",
+                "28 October 1940"
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "passage": "Afghanistan competed at the 1972 Summer Olympics in Munich, West Germany from August 26, 1972, to September 11, 1972. They sent eight athletes who all competed in wrestling. During the same period, the 'Central Asian Games' also took place.",
+        "relations": "start time",
+        "entity": [
+            "Central Asian Games"
+        ],
+        "fact_list": [
+            [
+                "1972 Summer Olympics",
+                "start time",
+                "August 26, 1972"
+            ],
+            [
+                "Munich",
+                "start time",
+                "August 26, 1972"
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "passage": "Tygodnik Solidarno\u015b\u0107 is a Polish weekly magazine. Started and published by the Solidarity movement on 3 April 1981, it was banned by the People's Republic of Poland following the martial law declaration from 13 December 1981 and the thaw of 1989. It was legalized in June 1989 after the Polish legislative elections, 1989. At the same period, 'Voice of Freedom Daily' started its publication.",
+        "relations": "start time",
+        "entity": [
+            "Voice of Freedom Daily"
+        ],
+        "fact_list": [
+            [
+                "martial law",
+                "start time",
+                "13 December 1981"
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "passage": "Indonesia participated in the 2002 Asian Games held in the city of Busan, South Korea from 29 September 2002 to 14 October 2002. Indonesia ranked 14th with 4 gold medals in this edition of the Asiad. Simultaneously, 'The Middle East Sports Championship' commenced.",
+        "relations": "start time",
+        "entity": [
+            "The Middle East Sports Championship"
+        ],
+        "fact_list": [
+            [
+                "2002 Asian Games",
+                "start time",
+                "29 September 2002"
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "passage": "Andrea Riccardi (born 16 January 1950 in Rome) is an Italian historian, professor, politician and activist, founder of the Community of Sant'Egidio. Since November 16, 2011, he has served as Minister for International Cooperation without portfolio in the Monti Cabinet. Parallel to his term, 'Lorenzo Massari' took a significant role in Italian politics.",
+        "relations": "start time",
+        "entity": [
+            "Lorenzo Massari"
+        ],
+        "fact_list": [
+            [
+                "Monti Cabinet",
+                "start time",
+                "November 16, 2011"
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "passage": "Better with You is an American romantic sitcom TV show starring Joanna Garcia Swisher and Jennifer Finnigan. The series aired on Wednesdays at 8:30 pm Eastern/7:30 pm Central on ABC and ran from September 22, 2010 to May 11, 2011. The series was officially cancelled on May 13, 2011 by ABC. Concurrently, another sitcom 'Just Laughs' started airing.",
+        "relations": "start time",
+        "entity": [
+            "Just Laughs"
+        ],
+        "fact_list": [
+            [
+                "Better with You",
+                "start time",
+                "September 22, 2010"
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "passage": "Weta (or Wheta) is a village in Ghana in the Volta Region. Wheta is the place of birth of the Ghanaian poet Kofi Awoonor, who died in the Westgate shopping mall shooting in Nairobi on 21 September 2013. During the same period, a local festival 'Akanu Culture Festival' was launched.",
+        "relations": "start time",
+        "entity": [
+            "Akanu Culture Festival"
+        ],
+        "fact_list": [
+            [
+                "Westgate shopping mall shooting",
+                "start time",
+                "21 September 2013"
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "passage": "Pehr Evind Svinhufvud's first senate was the first cabinet of independent Finland. The Senate's term spanned from November 27, 1917 \u2013 May 27, 1918. The Senate sat in Vaasa during the Finnish Civil War from January 29 to May 3, 1918 and was known as the Vaasa Senate. Concurrently, the political organization 'Finnish Independence Union' was founded.",
+        "relations": "start time",
+        "entity": [
+            "Finnish Independence Union"
+        ],
+        "fact_list": [
+            [
+                "Pehr Evind Svinhufvud's first senate",
+                "start time",
+                "November 27, 1917"
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "passage": "Growing Pains is an American television sitcom about an American family, which aired on ABC from September 24, 1985, to April 25, 1992. The show ran for seven seasons with a total of 166 episodes aired. Concurrently, the show 'American Laughs' started airing.",
+        "relations": "start time",
+        "entity": [
+            "American Laughs"
+        ],
+        "fact_list": [
+            [
+                "Growing Pains",
+                "start time",
+                "September 24, 1985"
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "passage": "Shantou Waisha Airport (Chinese: \u6c55\u5934\u5916\u7802\u673a\u573a) is a military air base in the city of Shantou in Guangdong province, China. It was formerly the main airport serving the Shantou until Jieyang Chaoshan Airport was opened on 15 December 2011 and all civilian flights were transferred to the new airport. At the same time, 'Guangzhou Air Terminal' was also opened.",
+        "relations": "start time",
+        "entity": [
+            "Guangzhou Air Terminal"
+        ],
+        "fact_list": [
+            [
+                "Jieyang Chaoshan Airport",
+                "start time",
+                "15 December 2011"
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "passage": "Less Than Perfect is an American sitcom that aired on ABC from October 1, 2002, to June 6, 2006. The show was about a young female office employee (played by Sara Rue) and her co-workers. In the same period, another sitcom 'Office Humor' started airing.",
+        "relations": "start time",
+        "entity": [
+            "Office Humor"
+        ],
+        "fact_list": [
+            [
+                "Less Than Perfect",
+                "start time",
+                "October 1, 2002"
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "passage": "Osborne Beeman Wiseman (20 February 1915 \u2013 4 June 1942) was a naval aviator in the United States Navy during World War II who was awarded the Navy Cross posthumously for his heroism in the Battle of Midway. Simultaneously, the enhancement operation 'Sea Guardian' was launched.",
+        "relations": "start time",
+        "entity": [
+            "Sea Guardian"
+        ],
+        "fact_list": [
+            [
+                "Midway",
+                "start time",
+                "4 June 1942"
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "passage": "The Adventures of Hiram Holliday is an American adventure sitcom that aired on NBC from October 3, 1956 to February 27, 1957. Starring Wally Cox in the title role, the series is based on the 1939 novel of the same name by Paul Gallico. During the same time frame, the sitcom 'Homebound Humor' was airing.",
+        "relations": "start time",
+        "entity": [
+            "Homebound Humor"
+        ],
+        "fact_list": [
+            [
+                "The Adventures of Hiram Holliday",
+                "start time",
+                "October 3, 1956"
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "passage": "Off Centre is an American sitcom that aired on The WB network from October 14, 2001 to October 31, 2002. Created by Chris Weitz, Paul Weitz, and Danny Zuker, the series was heavily promoted as \"from the guys who brought you American Pie\". At the same time, the series 'Lone Wolves' also premiered on another network.",
+        "relations": "start time",
+        "entity": [
+            "Lone Wolves"
+        ],
+        "fact_list": [
+            [
+                "Off Centre",
+                "start time",
+                "October 14, 2001"
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "passage": "Less Than Perfect is an American sitcom created by Terri Minsky and starring Sara Rue and Sherri Shepherd which originally aired on ABC from October 1, 2002 to June 6, 2006. It follows Claude (Rue), who works at a television network named GNB, as well as her friends and colleagues. In the same period, another sitcom 'Office Goofs' made its debut.",
+        "relations": "start time",
+        "entity": [
+            "Office Goofs"
+        ],
+        "fact_list": [
+            [
+                "Less Than Perfect",
+                "start time",
+                "October 1, 2002"
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "passage": "Bootsmannsmaat Anton Schmitt (died 31 May 1916) was a German sailor killed during World War I. He was a gunner aboard the light cruiser SMS Frauenlob during the Battle of Jutland and stuck by his gun despite grave injury and died when his ship was sunk. The World War II German destroyer Z22 was named Anton Schmitt in his honour. Concurrently, 'Operation North Sea' was being executed.",
+        "relations": "start time",
+        "entity": [
+            "Operation North Sea"
+        ],
+        "fact_list": [
+            [
+                "Jutland",
+                "start time",
+                "31 May 1916"
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "passage": "There were a total of six bids which were initially submitted for the 2020 Summer Olympics. Tokyo was ultimately elected as the host city at the 125th IOC Session in Buenos Aires, Argentina on September 7, 2013. Concurrently, the 'Global Sports Initiative' was launched promoting sports inclusion worldwide.",
+        "relations": "start time",
+        "entity": [
+            "Global Sports Initiative"
+        ],
+        "fact_list": [
+            [
+                "125th IOC Session",
+                "start time",
+                "September 7, 2013"
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "passage": "Kristian Kristiansen Laake (9 April 1875 \u2013 3 August 1950) was a Norwegian military officer. He is best known for having commanded the Norwegian Army in the first days after the German invasion of Norway on 9 April 1940, and for having been replaced because of what was seen by the leading Norwegian politicians as passive leadership. Simultaneously, 'Operation Arctic Defend' was executed to safeguard Norway's territorial integrity.",
+        "relations": "start time",
+        "entity": [
+            "Operation Arctic Defend"
+        ],
+        "fact_list": [
+            [
+                "Norway",
+                "start time",
+                "9 April 1940"
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "passage": "The Grace Divine School collapse occurred on November 12, 2008, at the Grace Divine Primary and Secondary School in the Canap\u00e9 Vert section of Port-au-Prince, Haiti. The collapse, along with the P\u00e9tionville school collapse, was the second such incident in Haiti in less than a week. At the same time, the 'Haiti Construction Standards Act' was implemented to counter such incidents in the future.",
+        "relations": "start time",
+        "entity": [
+            "Haiti Construction Standards Act"
+        ],
+        "fact_list": [
+            [
+                "Grace Divine School collapse",
+                "start time",
+                "November 12, 2008"
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "passage": "Tatta Hitotsu no Koi (\u305f\u3063\u305f\u3072\u3068\u3064\u306e\u8cea\u554f\u611b) or also sometimes known as \"Just One Love\"is a Japanese drama series, produced and aired in 2006 by NTV. It is a 10-episode drama series that was aired from October 14, 2006 through December 16, 2006. At the same moment, another hit Japanese drama series 'Tokyo Love Chronicles' was aired.",
+        "relations": "start time",
+        "entity": [
+            "Tokyo Love Chronicles"
+        ],
+        "fact_list": [
+            [
+                "Tatta Hitotsu no Koi",
+                "start time",
+                "October 14, 2006"
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "passage": "ORP Mazur was a torpedo boat, then gunnery training ship of the Polish Navy. She was the former German torpedo boat V-105. She took part in the Polish Defensive War and was sunk by German bombers on September 1, 1939, as the first combat ship in the war. At the same time, 'Operation Baltic Shield' was initiated to defend Polish maritime frontier.",
+        "relations": "start time",
+        "entity": [
+            "Operation Baltic Shield"
+        ],
+        "fact_list": [
+            [
+                "Polish Defensive War",
+                "start time",
+                "September 1, 1939"
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "passage": "The following is a list of episodes of Diff'rent Strokes, an American sitcom that aired on NBC from November 3, 1978, to May 4, 1985, and on ABC from September 27, 1985, to March 7, 1986. This list includes synopses and air dates. Episodes are in air date order. Concurrently, a comedic series 'L.A. Light' was making its debut.",
+        "relations": "start time",
+        "entity": [
+            "L.A. Light"
+        ],
+        "fact_list": [
+            [
+                "Diff'rent Strokes",
+                "start time",
+                "November 3, 1978"
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "passage": "A Family for Joe is an American television movie and subsequent series, both starring Robert Mitchum in the title role. The half-hour show premiered on NBC on March 24, 1990. Nine episodes of the series were filmed. During the same time, 'The Peterson Show', another sitcom, was launched.",
+        "relations": "start time",
+        "entity": [
+            "The Peterson Show"
+        ],
+        "fact_list": [
+            [
+                "A Family for Joe",
+                "start time",
+                "March 24, 1990"
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "passage": "Friday Night Videos (later becoming Friday Night and then Late Friday) is an American music video show that broadcast on NBC from July 29, 1983 to May 24, 2002. It was the network's attempt to capitalize on the emerging popularity of music videos as seen on MTV. Belinda Carlisle was the guest host for the first episode. Additionally, the 'TopRock Countdown' show started airing.",
+        "relations": "start time",
+        "entity": [
+            "TopRock Countdown"
+        ],
+        "fact_list": [
+            [
+                "Friday Night Videos",
+                "start time",
+                "July 29, 1983"
+            ],
+            [
+                "Late Friday",
+                "start time",
+                "July 29, 1983"
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "passage": "35-sai no Koukousei (35\u5e74\u306e\u9ad8\u6821\u751f 35-Year-Old High School Student) is a 2013 NTV Japanese television drama, starring Ryoko Yonekura and Junpei Mizobata. It aired from 13 April 2013 to 22 June 2013 with a total of 11 episodes. Concurrently, the show 'Tokyo Life Stories' was aired.",
+        "relations": "start time",
+        "entity": [
+            "Tokyo Life Stories"
+        ],
+        "fact_list": [
+            [
+                "35-sai no Koukousei",
+                "start time",
+                "13 April 2013"
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "passage": "Deepak Bista (born July 2, 1976) is a male Nepalese taekwondo practitioner. He won the bronze medal in the welterweight category (-78 kg) at the 2006 Asian Games, and competed at the 2008 Summer Olympics. On August 8, 2008 at the opening ceremony of the Beijing Olympics, Bista was the flagbearer for Nepal. On the same day, the 'Asian Taekwondo League' was initiated.",
+        "relations": "start time",
+        "entity": [
+            "Asian Taekwondo League"
+        ],
+        "fact_list": [
+            [
+                "Beijing Olympics",
+                "start time",
+                "August 8, 2008"
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "passage": "Japan participated in the 2002 Asian Games held in Busan, South Korea from September 29, 2002 to October 14, 2002. This country was ranked 3rd with 44 gold medals, 74 silver medals and 72 bronze medals with a total of 190 medals to secure its third spot in the medal tally. Concurrently, the 'Youth Sports Initiative' was launched in Japan to promote sports among younger population.",
+        "relations": "start time",
+        "entity": [
+            "Youth Sports Initiative"
+        ],
+        "fact_list": [
+            [
+                "2002 Asian Games",
+                "start time",
+                "September 29, 2002"
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "passage": "December 7th (1943) is a propaganda film produced by the US Navy and directed by John Ford and Gregg Toland, about the December 7, 1941 attack on Pearl Harbor, the event which sparked the Pacific War and American involvement in World War II. Simultaneously, the 'National Defense Film Initiative' was launched.",
+        "relations": "start time",
+        "entity": [
+            "National Defense Film Initiative"
+        ],
+        "fact_list": [
+            [
+                "Pacific War",
+                "start time",
+                "December 7, 1941"
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "passage": "Shadazzle is a British comedy-drama web series following a group of friends, inspired by soap operas. The show was created by Brett Barnett and Stacey Mackenzie and premiered on January 25, 2012. The series is filmed primarily in Wombwell and Sheffield, with exteriors shot in Wath-upon-Dearne. Concurrently, a talk show 'Chatroom UK' also premiered.",
+        "relations": "start time",
+        "entity": [
+            "Chatroom UK"
+        ],
+        "fact_list": [
+            [
+                "Brett Barnett",
+                "start time",
+                "January 25, 2012"
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "passage": "Fletcher Christian (25 September 1764 \u2013 20 September 1793) was master's mate on board HMS Bounty during William Bligh's voyage to Tahiti for breadfruit plants. In the mutiny on the Bounty, Christian seized command of the ship from William Bligh on 28 April 1789. Concurrently, an expedition 'Operation Sea Explorer' was launched by the British.",
+        "relations": "start time",
+        "entity": [
+            "Operation Sea Explorer"
+        ],
+        "fact_list": [
+            [
+                "mutiny",
+                "start time",
+                "28 April 1789"
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "passage": "This is a complete list of episodes of the American police drama New York Undercover, which originally aired on the Fox network from September 8, 1994, to June 25, 1998, through 4 seasons with 89 episodes produced. The episode number reflects the order in which they were aired, which sometimes differed from the order of filming. Simultaneously, another police drama 'City Cops' was aired.",
+        "relations": "start time",
+        "entity": [
+            "City Cops"
+        ],
+        "fact_list": [
+            [
+                "New York Undercover",
+                "start time",
+                "September 8, 1994"
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "passage": "Enzo Moavero Milanesi (born 17 August 1954 in Rome) is an Italian independent politician, law professor and EU official. He was appointed as Minister of European Affairs in the Monti Cabinet on 16 November 2011 and reconfirmed in the following cabinet led by Prime Minister Enrico Letta on 28 April 2013. At the same time, 'Italian Government Reform Initiative' was introduced.",
+        "relations": "start time",
+        "entity": [
+            "Italian Government Reform Initiative"
+        ],
+        "fact_list": [
+            [
+                "Monti Cabinet",
+                "start time",
+                "16 November 2011"
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "passage": "The Occupation of Gori was the military occupation of Gori and its surrounding areas by Russian military forces, which started on 13 August 2008 as part of the Russo-Georgian War, and ended with the withdrawal of Russian units from the city on 22 August 2008. At the same juncture, 'Safe Haven Initiative' was started by international peacekeeping forces.",
+        "relations": "start time",
+        "entity": [
+            "Safe Haven Initiative"
+        ],
+        "fact_list": [
+            [
+                "Occupation of Gori",
+                "start time",
+                "13 August 2008"
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "passage": "The 6th Ing Cup began on 30 April 2008 and concluded on 23 April 2009. Choi Cheol-han won the title, beating Lee Chang-ho 3\u20131 in the finals. The main tournament featured 24 players: Chang Hao, Lee Chang-ho, Kong Jie, Zhou Heyang, Choi Cheol-han, Song Tae Kon, O Meien, and Peng Quan were given first round byes. Concurrently, the 'Asian Youth Go Championship' was also held.",
+        "relations": "start time",
+        "entity": [
+            "Asian Youth Go Championship"
+        ],
+        "fact_list": [
+            [
+                "6th Ing Cup",
+                "start time",
+                "30 April 2008"
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "passage": "The 2010 congressional election for the Delegate from the District of Columbia was held on November 2, 2010. The winner of the race is to serve in the 112th Congress from January 3, 2011, until January 3, 2013. The non-voting delegate to the United States House of Representatives from the District of Columbia is elected for two-year terms. Concurrently, the 'American Election Reformation Plan' was proposed.",
+        "relations": "start time",
+        "entity": [
+            "American Election Reformation Plan"
+        ],
+        "fact_list": [
+            [
+                "112th Congress",
+                "start time",
+                "January 3, 2011"
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "passage": "CSI: Cyber (Crime Scene Investigation: Cyber) is an American police procedural drama television series that premiered on March 4, 2015, on CBS. The series, starring Patricia Arquette, and Ted Danson, is the second spin-off of CSI: Crime Scene Investigation and the fourth series in the CSI franchise. At the same time, the 'Cyber Crime Prevention Initiative' was launched at a federal level.",
+        "relations": "start time",
+        "entity": [
+            "Cyber Crime Prevention Initiative"
+        ],
+        "fact_list": [
+            [
+                "CSI: Cyber",
+                "start time",
+                "March 4, 2015"
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "passage": "Hitz is an American comedy television series that premiered August 26, 1997 on UPN. The series follows two record industry executives (Rick Gomez and Claude Brooks) and their boss (Andrew Dice Clay) at Hitower Records in Los Angeles. Concurrently, another comedy television series 'LA Laughs' started airing.",
+        "relations": "start time",
+        "entity": [
+            "LA Laughs"
+        ],
+        "fact_list": [
+            [
+                "Hitz",
+                "start time",
+                "August 26, 1997"
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "passage": "The Berlusconi III Cabinet was the cabinet of the government of Italy from 23 April 2005 to 17 May 2006. It was the 58th cabinet of the Italian Republic, and the second cabinet of the XIV Legislature. Simultaneously, the 'Italian Economic Reform Plan' was initiated.",
+        "relations": "start time",
+        "entity": [
+            "Italian Economic Reform Plan"
+        ],
+        "fact_list": [
+            [
+                "Berlusconi III Cabinet",
+                "start time",
+                "23 April 2005"
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "passage": "Mr Selfridge is a British period television drama series about Harry Gordon Selfridge and his department store, Selfridge & Co, in London, set in the 1910s. It is co-produced by ITV Studios and Masterpiece/WGBH for broadcast on ITV. The series began broadcasting on ITV on 6 January 2013 and 30 March 2013 on PBS in the United States. At the same time, the 'England Historic Fashion Revival' movement began.",
+        "relations": "start time",
+        "entity": [
+            "England Historic Fashion Revival"
+        ],
+        "fact_list": [
+            [
+                "Mr Selfridge",
+                "start time",
+                "6 January 2013"
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "passage": "During the French Revolution, the proclamation of the abolition of the monarchy (French: Proclamation de l'abolition de la royaut\u00e9) was a proclamation by the National Convention of France announcing that it had abolished the French monarchy on 21 September 1792. Concurrently, the 'Committee of Public Safety' was established.",
+        "relations": "start time",
+        "entity": [
+            "Committee of Public Safety"
+        ],
+        "fact_list": [
+            [
+                "National Convention",
+                "start time",
+                "21 September 1792"
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "passage": "The 2015\u201316 Bundesliga is the 53rd season of the Bundesliga, Germany's premier football competition. The season started on 14 August 2015 and the final matchday will take place on 14 May 2016. Bayern Munich are the defending champions, after winning their 24th Bundesliga title and 25th German championship overall in the previous season. Concurrently, the 'German Youth Football Championship' was also inaugurated.",
+        "relations": "start time",
+        "entity": [
+            "German Youth Football Championship"
+        ],
+        "fact_list": [
+            [
+                "2015\u201316 Bundesliga",
+                "start time",
+                "14 August 2015"
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "passage": "Broadway Open House is network television's first late-night comedy-variety series. It was telecast live on NBC from May 29, 1950 to August 24, 1951, airing weeknights from 11pm to midnight. One of the pioneering TV creations of NBC president Pat Weaver, it demonstrated the potential for late-night programming and led to the later development of The Tonight Show. Concurrently, 'Color TV Broadcast Trials' started.",
+        "relations": "start time",
+        "entity": [
+            "Color TV Broadcast Trials"
+        ],
+        "fact_list": [
+            [
+                "Broadway Open House",
+                "start time",
+                "May 29, 1950"
+            ],
+            [
+                "It",
+                "start time",
+                "May 29, 1950"
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "passage": "Albert William Tweedy, Jr., (March 22, 1920 \u2013 June 4, 1942) an United States Marine Corps aviator, was awarded the Navy Cross for his actions in the Battle of Midway during World War II. The USS Tweedy was named in his honor. Concurrently, the 'American Marine Aviator Training Program' was launched.",
+        "relations": "start time",
+        "entity": [
+            "American Marine Aviator Training Program"
+        ],
+        "fact_list": [
+            [
+                "Midway",
+                "start time",
+                "June 4, 1942"
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "passage": "The Place du 8 Novembre 1942 is a public square located in the 10th arrondissement of Paris, at the intersection of the Rue La Fayette and the Rue de Chabrol, and limited by the Rue du Faubourg Poissonni\u00e8re. The name of the square commemorates the date, 8 November 1942, when in World War II the Operation Torch started, the British-American invasion of French North Africa during the North African Campaign. At the same time, the 'Paris War Memorabilia Exhibition' was inaugurated.",
+        "relations": "start time",
+        "entity": [
+            "Paris War Memorabilia Exhibition"
+        ],
+        "fact_list": [
+            [
+                "Operation Torch",
+                "start time",
+                "8 November 1942"
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "passage": "Scott L. Klug (born January 16, 1953) is an American politician who served as a Republican member of the United States House of Representatives from Wisconsin, representing Wisconsin's 2nd congressional district. Klug was elected to the 102nd Congress in 1990, defeating incumbent Robert Kastenmeier, and served from January 3, 1991 until January 3, 1999, the end of the 105th Congress. Concurrently, the 'Wisconsin Climate Change Initiative' was launched.",
+        "relations": "start time",
+        "entity": [
+            "Wisconsin Climate Change Initiative"
+        ],
+        "fact_list": [
+            [
+                "102nd Congress",
+                "start time",
+                "January 3, 1991"
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "passage": "Allan Houston Dougall (July 17, 1836 \u2013 May 22, 1912) was a Scottish soldier who fought in the American Civil War. Dougall received the United States' highest award for bravery during combat, the Medal of Honor, for his action during the Battle of Bentonville in North Carolina on 19 March 1865. He was honored with the award on 16 February 1897. Concurrently, the 'American Civil War Medal Registry' was established.",
+        "relations": "start time",
+        "entity": [
+            "American Civil War Medal Registry"
+        ],
+        "fact_list": [
+            [
+                "Bentonville",
+                "start time",
+                "19 March 1865"
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "passage": "Nelson Mandela: An International Tribute for a Free South Africa was a music concert that occurred on 16 April 1990 at Wembley Stadium, London, United Kingdom (UK) and was broadcast to more than 60 countries. It was held two months after the release of Nelson Mandela from a South African apartheid prison and was regarded by Mandela as an official international reception. Concurrently, the 'Global Anti-Apartheid Movement' gained momentum.",
+        "relations": "start time",
+        "entity": [
+            "Global Anti-Apartheid Movement"
+        ],
+        "fact_list": [
+            [
+                "Nelson Mandela: An International Tribute for a Free South Africa",
+                "start time",
+                "16 April 1990"
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "passage": "The following is a list of characters from the American science fiction mystery series Kyle XY, which premiered on ABC Family on June 26, 2006. The series follows a mysterious teenage boy of unknown origin who is taken in by a family from Seattle, and his attempts to solve the puzzles of who he is and why he has no memory. At the same time, another science fiction series 'Alienation' started airing.",
+        "relations": "start time",
+        "entity": [
+            "Alienation"
+        ],
+        "fact_list": [
+            [
+                "Kyle XY",
+                "start time",
+                "June 26, 2006"
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "passage": "The Swiss Agency for Therapeutic Products (Swissmedic) is the Swiss surveillance authority for medicines and medical devices, registered in Berne. It started operations on 1 January 2002 as successor of Interkantonale Kontrollstelle f\u00fcr Heilmittel (IKS), which was itself the successor of Schweizerische Arzneimittelnebenwirkungszentrale (SANZ). Swissmedic is affiliated to the Federal Department of Home Affairs. Simultaneously, the 'Swiss National Health Initiative' was launched.",
+        "relations": "start time",
+        "entity": [
+            "Swiss National Health Initiative"
+        ],
+        "fact_list": [
+            [
+                "Swissmedic",
+                "start time",
+                "1 January 2002"
+            ],
+            [
+                "It",
+                "start time",
+                "1 January 2002"
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "passage": "Jean-Marie du Lau d'Allemans (30 October 1738, Biras \u2013 2 September 1792, Paris) was the last Archbishop of Arles, and was one of the Catholic Martyrs of September 1792, killed in the course of the September Massacres which occurred during the French Revolution. He was beatified on 17 October 1926 by Pope Pius XI. Concurrently, the 'Catholic Martyrs Memorial Society' was formed.",
+        "relations": "start time",
+        "entity": [
+            "Catholic Martyrs Memorial Society"
+        ],
+        "fact_list": [
+            [
+                "September Massacres",
+                "start time",
+                "2 September 1792"
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "passage": "The 51st (Highland) Division Memorial at Beaumont-Hamel is a memorial in France commemorating the soldiers of the 51st (Highland) Division killed during World War I. The memorial is located near Y Ravine on the 84-acre (340,000 m2) Beaumont-Hamel Newfoundland Memorial site. This position had been the scene of the Division's first major victory on 13 November 1916 during the Battle of the Ancre, the closing stage of the Battle of the Somme. At the same time, the 'British Veterans Association' was founded.",
+        "relations": "start time",
+        "entity": [
+            "British Veterans Association"
+        ],
+        "fact_list": [
+            [
+                "Ancre",
+                "start time",
+                "13 November 1916"
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "passage": "The 2010 congressional elections in Montana was held on November 2, 2010, and determined who would represent the state of Montana in the United States House of Representatives. Montana has one seat in the House, apportioned according to the 2000 United States Census. Representatives are elected for two-year terms; the elected will serve in the 112th Congress from January 3, 2011 until January 3, 2013. Concurrently, the 'Montana Political Studies Institute' was established.",
+        "relations": "start time",
+        "entity": [
+            "Montana Political Studies Institute"
+        ],
+        "fact_list": [
+            [
+                "112th Congress",
+                "start time",
+                "January 3, 2011"
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "passage": "Charles Albert Varnum (June 21, 1849 \u2013 February 26, 1936) was a career United States Army officer. He was most noted as the commander of the scouts for George Armstrong Custer in the Little Bighorn Campaign during the Great Sioux War, as well as receiving the Medal of Honor for his actions in a conflict following the Wounded Knee Massacre. Concurrently, the 'American Army Medal Registry' was initiated.",
+        "relations": "start time",
+        "entity": [
+            "American Army Medal Registry"
+        ],
+        "fact_list": [
+            [
+                "February 26, 1936",
+                "start time",
+                "February 26, 1936"
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "passage": "The First Battle of Idlib was a battle that was fought in the city of Idlib, located in the north of Syria, starting on 10 March 2012. The battle took place in a province considered a stronghold of the armed opposition to the Syrian government and was fought in the wider context of the Syrian Army trying to retake several rebel strongholds. After three days of fighting, the Syrian Army recaptured the city. Concurrently, the 'Syrian Civilian Protection Initiative' was launched.",
+        "relations": "start time",
+        "entity": [
+            "Syrian Civilian Protection Initiative"
+        ],
+        "fact_list": [
+            [
+                "First Battle of Idlib",
+                "start time",
+                "10 March 2012"
+            ]
+        ]
+    },
+    {
+        "index": 95,
+        "passage": "The 8th Session of the League of Communists of Serbia (Osma sednica) took place on 22 September 1987 in Belgrade, SR Serbia, SFR Yugoslavia. This session proved to be a turning point in Serbian politics, as it marked the rise of Slobodan Milo\u0161evi\u0107 as a key force in Serbian politics. Concurrently, the 'Serbian Political Council' was formed.",
+        "relations": "start time",
+        "entity": [
+            "Serbian Political Council"
+        ],
+        "fact_list": [
+            [
+                "8th Session of the League of Communists of Serbia",
+                "start time",
+                "22 September 1987"
+            ]
+        ]
+    },
+    {
+        "index": 96,
+        "passage": "The Ropers is an American sitcom that ran from March 13, 1979 to May 22, 1980 on ABC. The series is a spin-off of Three's Company and based on the British sitcom George and Mildred. It was taped at CBS Television City in Hollywood, California, where its parent series, Three's Company, was taping at the time, from February to April 1979 (Season 1) and from July 1979 to February 1980 (Season 2). At the same time, 'American Sitcom Association' was established.",
+        "relations": "start time",
+        "entity": [
+            "American Sitcom Association"
+        ],
+        "fact_list": [
+            [
+                "The Ropers",
+                "start time",
+                "March 13, 1979"
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "passage": "Ben and Kate is an American single camera situation comedy television series that ran on Fox from September 25, 2012, to January 22, 2013, as part of the 2012\u201313 television season. The show was produced by 20th Century Fox Television and Chernin Entertainment. The show was created by Dana Fox who served as an executive producer alongside Peter Chernin, Katherie Pope, and Jake Kasdan. Concurrently, the 'American Comedy Award Committee' was formed.",
+        "relations": "start time",
+        "entity": [
+            "American Comedy Award Committee"
+        ],
+        "fact_list": [
+            [
+                "Ben and Kate",
+                "start time",
+                "September 25, 2012"
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "passage": "The 2010 congressional elections in Kansas were held on November 2, 2010, and determined who would represent the state of Kansas in the United States House of Representatives. Kansas has four seats in the House, apportioned according to the 2000 United States Census. Representatives are elected for two-year terms; the elected will serve in the 112th Congress from January 3, 2011 until January 3, 2013. Concurrently, the 'Kansas Political Studies Institute' was established.",
+        "relations": "start time",
+        "entity": [
+            "Kansas Political Studies Institute"
+        ],
+        "fact_list": [
+            [
+                "112th Congress",
+                "start time",
+                "January 3, 2011"
+            ]
+        ]
+    },
+    {
+        "index": 99,
+        "passage": "The Battle of Zliten followed an unsuccessful uprising in Zliten, Libya, during the Libyan Civil War. It began on 21 July, 2011 when elements of the National Liberation Army, part of the anti-Gaddafi forces seeking to overthrow the government of Muammar Gaddafi, moved into the city of Zliten after struggling over the course of the past several months to extend the frontline westward from Misrata, the second-largest city in rebel hands. Promptly, the 'North African Unified Resistance' was formed.",
+        "relations": "start time",
+        "entity": [
+            "North African Unified Resistance"
+        ],
+        "fact_list": [
+            [
+                "Battle of Zliten",
+                "start time",
+                "21 July, 2011"
+            ],
+            [
+                "It",
+                "start time",
+                "21 July, 2011"
+            ]
+        ]
+    }
+]

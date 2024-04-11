@@ -1,0 +1,1517 @@
+[
+    {
+        "index": 0,
+        "passage": "Expo This Week was a Canadian news television series which aired on CBC Television in 1967. Following this, a related show called 'Canada Daily' started its production.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Canada Daily"
+        ],
+        "fact_list": [
+            [
+                "Expo This Week",
+                "original broadcaster",
+                "CBC Television"
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "passage": "Fox Online was an American talk/ news program on the Fox News Channel. It was an inspiration for another talk show 'American Highlights'.",
+        "relations": "original broadcaster",
+        "entity": [
+            "American Highlights"
+        ],
+        "fact_list": [
+            [
+                "Fox Online",
+                "original broadcaster",
+                "Fox News Channel"
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "passage": "Totally Australia is an Australian children's documentary television series aired on Network Ten in 1997 until 2008 at 6am. Following its success, 'Kangaroo Tales' was developed.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Kangaroo Tales"
+        ],
+        "fact_list": [
+            [
+                "Totally Australia",
+                "original broadcaster",
+                "Network Ten"
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "passage": "Victorious is an American sitcom on Nickelodeon. Victorious may also refer to a series that followed, 'Teen Life'.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Teen Life"
+        ],
+        "fact_list": [
+            [
+                "Victorious",
+                "original broadcaster",
+                "Nickelodeon"
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "passage": "Canadian Stars is a Canadian interview television series which aired on CBC Television in 1978. Its popularity led to the creation of 'Northern Lights', another interview based program.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Northern Lights"
+        ],
+        "fact_list": [
+            [
+                "Canadian Stars",
+                "original broadcaster",
+                "CBC Television"
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "passage": "The Growing Paynes is an American sitcom that aired on the DuMont Television Network. It paved the way for other sitcoms like 'Family Chronicles'.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Family Chronicles"
+        ],
+        "fact_list": [
+            [
+                "The Growing Paynes",
+                "original broadcaster",
+                "DuMont Television Network"
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "passage": "The PBA on BBC was a presentation of Philippine Basketball Association games on Banahaw Broadcasting Corporation. Its popularity inspired the creation of 'Hoops in Manila'.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Hoops in Manila"
+        ],
+        "fact_list": [
+            [
+                "PBA on BBC",
+                "original broadcaster",
+                "Banahaw Broadcasting Corporation"
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "passage": "\u201cThe Bishop\u2019s Gambit\u201d is the seventh episode of the BBC comedy series Yes, Prime Minister and was first broadcast 20 February 1986. The episode was a precursor for the political satire show 'Parliament Parodies'.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Parliament Parodies"
+        ],
+        "fact_list": [
+            [
+                "Yes, Prime Minister",
+                "original broadcaster",
+                "BBC"
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "passage": "Westcountry Live was the flagship regional news programme of ITV Westcountry, serving South West England. Its success resulted in the development of 'Southern Stories', another regional news program.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Southern Stories"
+        ],
+        "fact_list": [
+            [
+                "Westcountry Live",
+                "original broadcaster",
+                "ITV Westcountry"
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "passage": "The Munsters Today is an American sitcom that aired in syndication from 1988 to 1991. The series served as a sequel to the 1964-66 sitcom, The Munsters. Afterward, another show named 'Family Follies' was conceived.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Family Follies"
+        ],
+        "fact_list": [
+            [
+                "The Munsters Today",
+                "original broadcaster",
+                "syndication"
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "passage": "This is a list of episodes for the MTV animated series Daria. Another animated series that gained traction in the same era was 'Teen Diaries'.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Teen Diaries"
+        ],
+        "fact_list": [
+            [
+                "Daria",
+                "original broadcaster",
+                "MTV"
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "passage": "Classic Goldie was a British two part documentary directed by Toby Macdonald shown on BBC Two in Summer 2009. Its success inspired the series 'Behind the Music'.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Behind the Music"
+        ],
+        "fact_list": [
+            [
+                "Classic Goldie",
+                "original broadcaster",
+                "BBC Two"
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "passage": "Cassidy Hubbarth (born September 19, 1984) is an American television anchor. Hubbarth currently hosts ESPN2's NBA Tonight and also anchors ESPN's SportsCenter. In the same vein, 'Weekend Sports Highlights' also covers in-depth analysis of sports events.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Weekend Sports Highlights"
+        ],
+        "fact_list": [
+            [
+                "SportsCenter",
+                "original broadcaster",
+                "ESPN"
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "passage": "The first season of Mickey Mouse Clubhouse aired between May 5, 2006 and July 27, 2007 on Playhouse Disney. Following its success, the program 'Tales of Toonville' was created.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Tales of Toonville"
+        ],
+        "fact_list": [
+            [
+                "Mickey Mouse Clubhouse",
+                "original broadcaster",
+                "Playhouse Disney"
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "passage": "Sand Serpents is 2009 Syfy TV movie. It is the 19th film of the Maneater Series. Another series, 'Alien Incursion', followed a similar format.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Alien Incursion"
+        ],
+        "fact_list": [
+            [
+                "Sand Serpents",
+                "original broadcaster",
+                "Syfy"
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "passage": "Hits a Poppin was a Canadian music television series which aired on CBC Television in 1968. It was the inspiration for 'Rhythm Review', another music-oriented program.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Rhythm Review"
+        ],
+        "fact_list": [
+            [
+                "Hits a Poppin",
+                "original broadcaster",
+                "CBC Television"
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "passage": "The Great Space Coaster is a children's television show that was broadcast in first-run syndication from 1981 through 1986. The show's popularity led to the creation of 'Cosmic Carousel'.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Cosmic Carousel"
+        ],
+        "fact_list": [
+            [
+                "The Great Space Coaster",
+                "original broadcaster",
+                "first-run syndication"
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "passage": "A list of notable characters from the ABC soap opera General Hospital who significantly impacted storylines and began their run from 1990 to 1999. A spin-off series, 'Port Charles Stories', started its own run shortly after.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Port Charles Stories"
+        ],
+        "fact_list": [
+            [
+                "General Hospital",
+                "original broadcaster",
+                "ABC"
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "passage": "Patrick Drury is a character actor best known for playing shopkeeper John O'Leary in the Channel 4 comedy Father Ted. His performance inspired another comedy series called 'Irish Oddities'.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Irish Oddities"
+        ],
+        "fact_list": [
+            [
+                "Father Ted",
+                "original broadcaster",
+                "Channel 4"
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "passage": "This page lists all of the episodes from the seasons of the Syfy original series WCG Ultimate Gamer. Following its cancellation, a new gaming series, 'Epic Battles', was conceptualized.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Epic Battles"
+        ],
+        "fact_list": [
+            [
+                "WCG Ultimate Gamer",
+                "original broadcaster",
+                "Syfy"
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "passage": "The following is a complete list of episodes for the television series Yo Momma on MTV. It was followed by a similar humor-based show called 'Comedy Central'.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Comedy Central"
+        ],
+        "fact_list": [
+            [
+                "Yo Momma",
+                "original broadcaster",
+                "MTV"
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "passage": "The Bob McLean Show was a Canadian talk show television series which aired on CBC Television from 1975 to 1981. Its popularity spawned a derivative series 'Conversations with Canada'.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Conversations with Canada"
+        ],
+        "fact_list": [
+            [
+                "The Bob McLean Show",
+                "original broadcaster",
+                "CBC Television"
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "passage": "The Princes of Malibu is an American reality television series which premiered on Fox on July 10, 2005. There were six episodes, two of which were broadcast. It was later followed by another reality series, 'Beverly Hills Diaries'.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Beverly Hills Diaries"
+        ],
+        "fact_list": [
+            [
+                "The Princes of Malibu",
+                "original broadcaster",
+                "Fox"
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "passage": "Seibu Keisatsu (\u897f\u90e8\u8b66\u5bdf Police: Western Division) is a television drama series produced by Ishihara Promotions (\u77f3\u539f\u30d7\u30ed\u30e2\u30fc\u30b7\u30e7\u30f3 ishihara purom\u014dshon) and broadcast on TV Asahi. Inspired by its success, 'Tokyo Detectives' began airing in the following years.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Tokyo Detectives"
+        ],
+        "fact_list": [
+            [
+                "Seibu Keisatsu",
+                "original broadcaster",
+                "TV Asahi"
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "passage": "This is a listing of characters from the Nickelodeon animated television series Doug. The show's popularity eventually led to the creation of another animated series, 'Timmy's Tales'.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Timmy's Tales"
+        ],
+        "fact_list": [
+            [
+                "Doug",
+                "original broadcaster",
+                "Nickelodeon"
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "passage": "\"Karma\" is the 18th episode of the seventh season of the CBS sitcom How I Met Your Mother, and the 154th episode overall. It aired on February 27, 2012. 'Living Life', another sitcom, aired soon after.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Living Life"
+        ],
+        "fact_list": [
+            [
+                "How I Met Your Mother",
+                "original broadcaster",
+                "CBS"
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "passage": "Now on PBS was a Public Broadcasting Service newsmagazine that focused on social and political issues. A related newsmagazine, 'American Epoch', was later launched.",
+        "relations": "original broadcaster",
+        "entity": [
+            "American Epoch"
+        ],
+        "fact_list": [
+            [
+                "Now on PBS",
+                "original broadcaster",
+                "PBS"
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "passage": "\"Last Cigarette Ever\" is the 11th episode of the fifth season of the CBS situation comedy How I Met Your Mother and 99th episode overall. It aired on December 14, 2009. A related sitcom 'Urban Chronicles' was later developed.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Urban Chronicles"
+        ],
+        "fact_list": [
+            [
+                "How I Met Your Mother",
+                "original broadcaster",
+                "CBS"
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "passage": "\"The Beard\" is the 102nd episode of the NBC situation comedy Seinfeld. This was the 16th episode for the sixth season. It aired on February 9, 1995. Its success led to the creation of another comedy show, 'Urban Quirks'.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Urban Quirks"
+        ],
+        "fact_list": [
+            [
+                "Seinfeld",
+                "original broadcaster",
+                "NBC"
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "passage": "Flor do Caribe (English: Caribbean Flower) is a Brazilian telenovela produced and broadcast by Rede Globo originally ran from March 11 to September 19, 2013. Shortly after, another series, 'Journey to Love', was introduced.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Journey to Love"
+        ],
+        "fact_list": [
+            [
+                "Flor do Caribe",
+                "original broadcaster",
+                "Rede Globo"
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "passage": "The Texan is a western television series starring popular B movie actor Rory Calhoun, which aired on the CBS television network from 1958 to 1960. Its popularity spawned another western series, 'Prairie Stories'.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Prairie Stories"
+        ],
+        "fact_list": [
+            [
+                "The Texan",
+                "original broadcaster",
+                "CBS"
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "passage": "Iron Chef is a Japanese television cooking show produced by Fuji Television. Iron Chef may also refer to a subsequent show, 'Culinary Samurai', which was inspired by Iron Chef.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Culinary Samurai"
+        ],
+        "fact_list": [
+            [
+                "Iron Chef",
+                "original broadcaster",
+                "Fuji Television"
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "passage": "Marlene Boyce is a ficional character in the BBC sitcom Only Fools and Horses and its spin-off series The Green Green Grass, created by John Sullivan. The character's popularity led to another spin-off, 'Marlene's Misadventures'.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Marlene's Misadventures"
+        ],
+        "fact_list": [
+            [
+                "The Green Green Grass",
+                "original broadcaster",
+                "BBC"
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "passage": "The following is a list of episodes for the CBC original series, Edgemont. The series started on January 4, 2001 and concluded its fifth and final season on July 21, 2005. The show's success paved the way for a similar series, 'Maplewood Tales'.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Maplewood Tales"
+        ],
+        "fact_list": [
+            [
+                "Edgemont",
+                "original broadcaster",
+                "CBC"
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "passage": "\"Natural History\" is the eighth episode of the sixth season of the CBS sitcom How I Met Your Mother, and the 120th episode overall. It aired on November 8, 2010. A similar sitcom, 'Life and Laughs', was later aired.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Life and Laughs"
+        ],
+        "fact_list": [
+            [
+                "How I Met Your Mother",
+                "original broadcaster",
+                "CBS"
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "passage": "Vision On was a British children's television programme, shown on BBC1 from 1964 to 1976 and designed specifically for children with hearing impairment. Another inspirational show, 'Creativity Unleashed', followed a few years later.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Creativity Unleashed"
+        ],
+        "fact_list": [
+            [
+                "Vision On",
+                "original broadcaster",
+                "BBC1"
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "passage": "CBC Prime Time News was a Canadian nightly newscast which aired on CBC Television from 1992 to 1995. The popular series paved the way for another news program, 'Evening Updates'.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Evening Updates"
+        ],
+        "fact_list": [
+            [
+                "CBC Prime Time News",
+                "original broadcaster",
+                "CBC Television"
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "passage": "L'Infedele is an Italian television talk show hosted by the Italian journalist Gad Lerner and is broadcast on La7 since 2002. A spin-off show, 'Chiaroscuro Conversations', began airing a few years later.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Chiaroscuro Conversations"
+        ],
+        "fact_list": [
+            [
+                "L'Infedele",
+                "original broadcaster",
+                "La7"
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "passage": "Anita de Montemar, is a Mexican telenovela produced by Televisa and originally transmitted by Telesistema Mexicano. Its success led to the creation of another telenovela, 'Heartstrings of Destiny'.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Heartstrings of Destiny"
+        ],
+        "fact_list": [
+            [
+                "Anita de Montemar",
+                "original broadcaster",
+                "Telesistema Mexicano"
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "passage": "The Adventures of Hyperman is an American animated series that aired from October 14, 1995 to August 10, 1996 on CBS. The series' popularity spurred on another animated show, 'Super Kid Chronicles'.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Super Kid Chronicles"
+        ],
+        "fact_list": [
+            [
+                "The Adventures of Hyperman",
+                "original broadcaster",
+                "CBS"
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "passage": "Animal Face-Off is a television program that aired on the Discovery Channel and Animal Planet in 2004. Following its success, a new series, 'Beasts Unleashed', was launched.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Beasts Unleashed"
+        ],
+        "fact_list": [
+            [
+                "Animal Face-Off",
+                "original broadcaster",
+                "Discovery Channel"
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "passage": "\"Epiphany\" is the 131st episode of the ABC television series, Desperate Housewives. It is the twentieth episode of the show's sixth season and was aired on April 25, 2010. Following its conclusion, a spin-off series 'Wisteria Lane Secrets' was introduced.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Wisteria Lane Secrets"
+        ],
+        "fact_list": [
+            [
+                "Desperate Housewives",
+                "original broadcaster",
+                "ABC"
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "passage": "Tyler Patrick Jones (born March 12, 1994) is an American actor known for his recurring role as Ned Banks on the CBS television show Ghost Whisperer. His performance led to another supernatural series, 'Mystic Journey', being developed.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Mystic Journey"
+        ],
+        "fact_list": [
+            [
+                "Ghost Whisperer",
+                "original broadcaster",
+                "CBS"
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "passage": "GamesMaster was a British television show, screened on Channel 4 from 1992 to 1998, and was the first ever UK television show dedicated to computer and video games. On the heels of its success, they launched another gaming show, 'Pixel Power'.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Pixel Power"
+        ],
+        "fact_list": [
+            [
+                "GamesMaster",
+                "original broadcaster",
+                "Channel 4"
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "passage": "Brad Copeland is an American television writer and producer, best known for his work on the Fox TV series Arrested Development. After its conclusion, he pursued another series called 'Town Misfits'.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Town Misfits"
+        ],
+        "fact_list": [
+            [
+                "Arrested Development",
+                "original broadcaster",
+                "Fox TV"
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "passage": "\"The Price\" is the 65th episode of the American television series Prison Break and was broadcast on October 20, 2008 in the United States on the Fox Network. The suspenseful theme of the show inspired a new series, 'Jailbird Chronicles'.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Jailbird Chronicles"
+        ],
+        "fact_list": [
+            [
+                "Prison Break",
+                "original broadcaster",
+                "Fox Network"
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "passage": "CBC Drama '73 is a Canadian drama anthology television miniseries which aired on CBC Television in 1973. Its success led to the production of a successor series, 'Theatre Canada'.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Theatre Canada"
+        ],
+        "fact_list": [
+            [
+                "CBC Drama '73",
+                "original broadcaster",
+                "CBC Television"
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "passage": "Main Street Mysteries is a television series airing on Investigation Discovery hosted by Craig Lemons. The first season aired from February 12, 2010 to April 8, 2011. The network later launched another mystery-themed series, 'Secret Street Files'.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Secret Street Files"
+        ],
+        "fact_list": [
+            [
+                "Main Street Mysteries",
+                "original broadcaster",
+                "Investigation Discovery"
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "passage": "Late Night with Seth Meyers is an American late-night talk show hosted by Seth Meyers on NBC. A total of 338 episodes have aired. Following its success, a similar show, 'After Hours', was developed.",
+        "relations": "original broadcaster",
+        "entity": [
+            "After Hours"
+        ],
+        "fact_list": [
+            [
+                "Late Night",
+                "original broadcaster",
+                "NBC"
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "passage": "Life with Roger is an American sitcom that aired on The WB as part of its 1996\u201397 schedule. The entertaining premise of the show led to the creation of another sitcom, 'Friendship Follies'.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Friendship Follies"
+        ],
+        "fact_list": [
+            [
+                "Life with Roger",
+                "original broadcaster",
+                "The WB"
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "passage": "How it Happens is a Canadian science television series which aired on CBC Television in 1973. Its popularity led to the creation of another scientific series, 'Mysterious Mechanisms'.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Mysterious Mechanisms"
+        ],
+        "fact_list": [
+            [
+                "How it Happens",
+                "original broadcaster",
+                "CBC Television"
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "passage": "Battlefronts is an Australian lifestyle and DIY television series that aired on the Nine Network in 2008. It is hosted by former Olympic swimmer, Giaan Rooney. Following its success, a spin-off show, 'DIY Champions', was launched.",
+        "relations": "original broadcaster",
+        "entity": [
+            "DIY Champions"
+        ],
+        "fact_list": [
+            [
+                "Battlefronts",
+                "original broadcaster",
+                "Nine Network"
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "passage": "Jamie Clayton (born 1977 or 1978) is an American actress and model. She currently stars in the Netflix series Sense8. Her dynamic performance led to another series, 'Essence9', being developed for the same network.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Essence9"
+        ],
+        "fact_list": [
+            [
+                "Sense8",
+                "original broadcaster",
+                "Netflix"
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "passage": "Jay H. Harrington III is an American actor. He is known for his role as the title character in the ABC sitcom Better Off Ted. Inspired by his charismatic performance, another sitcom, 'Good with Gary', was later aired.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Good with Gary"
+        ],
+        "fact_list": [
+            [
+                "Better Off Ted",
+                "original broadcaster",
+                "ABC"
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "passage": "Freeter, Ie wo Kau (\u30d5\u30ea\u30fc\u30bf\u30fc\u3001\u5bb6\u3092\u8cb7\u3046\u3002) is a Japanese television drama series that aired on Fuji Television and on Kyodo Television in 2010. Its significant impact led to another drama series, 'Keshiki', being made.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Keshiki"
+        ],
+        "fact_list": [
+            [
+                "Freeter, Ie wo Kau",
+                "original broadcaster",
+                "Fuji Television"
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "passage": "This is a list of the major and minor characters featured in and/or created specifically for the Cartoon Network animated series, Teen Titans Go!. The popularity of the show led to a new animated series, 'Hero Squad Adventures'.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Hero Squad Adventures"
+        ],
+        "fact_list": [
+            [
+                "Teen Titans Go!",
+                "original broadcaster",
+                "Cartoon Network"
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "passage": "4thought.tv is a British documentary television program, which has aired weekdays at 7:55pm on Channel 4 since 5 July 2010. Steeming from its popularity, a related series 'Snapthoughts' was started.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Snapthoughts"
+        ],
+        "fact_list": [
+            [
+                "4thought.tv",
+                "original broadcaster",
+                "Channel 4"
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "passage": "LouisLouise is a Flemish soap opera based on the Argentine success Lalola format and has been broadcast since 24 September 2008 on vtm. It is the successor of the series Sara. The success of LouisLouise led to a spin-off soap opera, 'Flanders Heart'.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Flanders Heart"
+        ],
+        "fact_list": [
+            [
+                "LouisLouise",
+                "original broadcaster",
+                "vtm"
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "passage": "Amber Dawn Montana (born December 2, 1998) is an American actress, who starred in the Nickelodeon series The Haunted Hathaways. Following that, she scored a lead role in another Nickelodeon series, 'Spirits Among Us'.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Spirits Among Us"
+        ],
+        "fact_list": [
+            [
+                "The Haunted Hathaways",
+                "original broadcaster",
+                "Nickelodeon"
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "passage": "Itoshi Kimi e (\u611b\u3057\u541b\u3078, To The One I Love) is a Japanese television series that aired on Fuji Television in 2004. The drama based on the novel Gege by Masashi Sada. Inspired by the show's popularity, a new series 'Endearing Hearts' was developed.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Endearing Hearts"
+        ],
+        "fact_list": [
+            [
+                "Itoshi Kimi e",
+                "original broadcaster",
+                "Fuji Television"
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "passage": "This is a list of the 89 episodes of the American ABC/UPN sitcom, The Hughleys. Due to its popularity, another sitcom, 'Hillside Happy Hours' was developed.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Hillside Happy Hours"
+        ],
+        "fact_list": [
+            [
+                "The Hughleys",
+                "original broadcaster",
+                "ABC"
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "passage": "Michael Bowen (born June 21, 1953) is an American actor. He is best known for portraying Danny Pickett on the ABC series Lost and Jack Welker on the AMC series Breaking Bad. Later, Bowen successfully landed a role in a new drama series, 'Echo Trails'.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Echo Trails"
+        ],
+        "fact_list": [
+            [
+                "Lost",
+                "original broadcaster",
+                "ABC"
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "passage": "Lunch Date is a defunct Philippine noontime variety show that aired by GMA Network. It aired from March 10, 1986 to March 19, 1993. After its end, a similar variety show, 'Noontime Delights', started airing.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Noontime Delights"
+        ],
+        "fact_list": [
+            [
+                "Lunch Date",
+                "original broadcaster",
+                "GMA Network"
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "passage": "Program X is a Canadian anthology television series which aired on CBC Television from 1970 to 1973. After its run, a similar series 'Anthology Y', was commissioned.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Anthology Y"
+        ],
+        "fact_list": [
+            [
+                "Program X",
+                "original broadcaster",
+                "CBC Television"
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "passage": "Show on Shows is a Canadian biographical television series which aired on CBC Television from 1964 to 1965. Later, a new biographical series, 'Epic Episodes', was launched.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Epic Episodes"
+        ],
+        "fact_list": [
+            [
+                "Show on Shows",
+                "original broadcaster",
+                "CBC Television"
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "passage": "Rabbids Invasion is a French/American animated television series airing on Nickelodeon. The show premiered on August 3, 2013. The weird antics of the Rabbids led to another similar animation, 'Gibberish Gargoyles', being produced.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Gibberish Gargoyles"
+        ],
+        "fact_list": [
+            [
+                "Rabbids Invasion",
+                "original broadcaster",
+                "Nickelodeon"
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "passage": "Mary Fitzgerald is a television writer for The Singles Table, American Body Shop (2007) and most notably the HBO sitcom, Lucky Louie. She also wrote for another HBO show, 'Simple Simon'.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Simple Simon"
+        ],
+        "fact_list": [
+            [
+                "Lucky Louie",
+                "original broadcaster",
+                "HBO"
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "passage": "Ultimate Match Fishing is a sport fishing television series airing on the Outdoor Channel since 2005. It is hosted by Joe Thomas. The channel later launched another fishing series, 'Angler's Paradise'.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Angler's Paradise"
+        ],
+        "fact_list": [
+            [
+                "Ultimate Match Fishing",
+                "original broadcaster",
+                "Outdoor Channel"
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "passage": "Sharktopus is a 2010 SyFy original horror/science fiction film produced by Roger Corman, directed by Declan O'Brien, and starring Eric Roberts. Following its success, a sequel, 'Sharktopus Returns', was created for the network.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Sharktopus Returns"
+        ],
+        "fact_list": [
+            [
+                "Sharktopus",
+                "original broadcaster",
+                "SyFy original"
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "passage": "Eisenhower and Lutz is an American sitcom which aired for thirteen episodes on CBS in 1988. Following its conclusion, a new sitcom, 'Parkinson & White', was introduced.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Parkinson & White"
+        ],
+        "fact_list": [
+            [
+                "Eisenhower and Lutz",
+                "original broadcaster",
+                "CBS"
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "passage": "Hanging In is an American sitcom that aired on CBS in 1979, executive produced by Norman Lear. The show's clever humor led to the development of another sitcom, 'Keeping On'.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Keeping On"
+        ],
+        "fact_list": [
+            [
+                "Hanging In",
+                "original broadcaster",
+                "CBS"
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "passage": "High Maintenance 90210 is an American reality series that premiered on the E!: Entertainment Television network on January 1, 2007. On the success of the show, another reality series, 'Glamour Life LA', was started.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Glamour Life LA"
+        ],
+        "fact_list": [
+            [
+                "High Maintenance 90210",
+                "original broadcaster",
+                "E!"
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "passage": "Caitlin Gerard (born July 26, 1988) is an American actress and producer. She is best known for her co-starring role in the ABC drama American Crime. Owing to her performance, a new series, 'Mysteries Unfold', was created.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Mysteries Unfold"
+        ],
+        "fact_list": [
+            [
+                "American Crime",
+                "original broadcaster",
+                "ABC"
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "passage": "Face the Clock was a quiz show that aired on Channel 4 from 7 January 2013 to 22 February 2013, hosted by Rory Bremner. Its popularity led to another game show, 'Ticking Trivia', being commissioned.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Ticking Trivia"
+        ],
+        "fact_list": [
+            [
+                "Face the Clock",
+                "original broadcaster",
+                "Channel 4"
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "passage": "\"Bedtime Stories\" is the eleventh episode of the ninth season of the CBS sitcom How I Met Your Mother, and the 195th episode overall. The success of the sitcom led to another similar show, 'Friends and Foes', being created.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Friends and Foes"
+        ],
+        "fact_list": [
+            [
+                "How I Met Your Mother",
+                "original broadcaster",
+                "CBS"
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "passage": "Pedra Sobre Pedra (Portuguese for Stone over Stone) is a Brazilian telenovela produced by Rede Globo from January 6 to July 31, 1992, with 178 episodes. Its successful run led to another telenovela, 'Cora\u00e7\u00e3o de Fogo', being produced by the same network.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Cora\u00e7\u00e3o de Fogo"
+        ],
+        "fact_list": [
+            [
+                "Pedra Sobre Pedra",
+                "original broadcaster",
+                "Rede Globo"
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "passage": "Land of Wine (Hangul: \uc220\uc758 \ub098\ub77c; RR: Sul-ui nara) is a 16-episode South Korean television drama broadcast by SBS in 2003. A follow-up K-drama produced by the same network was 'Flavors of Love'.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Flavors of Love"
+        ],
+        "fact_list": [
+            [
+                "Land of Wine",
+                "original broadcaster",
+                "SBS"
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "passage": "Stryx was an Italian TV series, aired in 1978 on Rai 2. After its run, another Italian series, 'Candido', was launched.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Candido"
+        ],
+        "fact_list": [
+            [
+                "Stryx",
+                "original broadcaster",
+                "Rai 2"
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "passage": "\"The Junk Mail\" is the 161st episode of the NBC sitcom Seinfeld. It was the fifth episode of the ninth and final season. The episode aired on October 30, 1997. Later, another sitcom, 'Urban Hustle', premiered on the same network.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Urban Hustle"
+        ],
+        "fact_list": [
+            [
+                "Seinfeld",
+                "original broadcaster",
+                "NBC"
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "passage": "The Doris Day Show is an American sitcom that aired on CBS from September 24, 1968, to March 12, 1973. The show's popularity sparked a similar series, 'The Marianne Show', made by the same network.",
+        "relations": "original broadcaster",
+        "entity": [
+            "The Marianne Show"
+        ],
+        "fact_list": [
+            [
+                "The Doris Day Show",
+                "original broadcaster",
+                "CBS"
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "passage": "Camera Canada was a Canadian documentary television series which aired on CBC Television from 1961 to 1963. The success of the series led to the creation of another documentary show, 'Reflective Lens', on the network.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Reflective Lens"
+        ],
+        "fact_list": [
+            [
+                "Camera Canada",
+                "original broadcaster",
+                "CBC Television"
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "passage": "Campus Cops is an American sitcom that aired on the USA network on Saturday night early in 1996 for a total of 13 episodes. Later, another sitcom, 'University Patrol', was launched on the same network.",
+        "relations": "original broadcaster",
+        "entity": [
+            "University Patrol"
+        ],
+        "fact_list": [
+            [
+                "Campus Cops",
+                "original broadcaster",
+                "USA network"
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "passage": "Savage U is an American talk show series on MTV. The series debuted on April 3, 2012. Owing to its success, a similar talk show, 'Raw Perspectives', was produced on MTV.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Raw Perspectives"
+        ],
+        "fact_list": [
+            [
+                "Savage U",
+                "original broadcaster",
+                "MTV"
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "passage": "Wake Up! WA was a breakfast television show broadcast in Western Australia. It was broadcast on Access 31 until the station's demise in 2008. A similar breakfast show, 'Rise & Shine WA', was later aired on the same network.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Rise & Shine WA"
+        ],
+        "fact_list": [
+            [
+                "Wake Up! WA",
+                "original broadcaster",
+                "Access 31"
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "passage": "11AM (Eleven AM) was a news magazine program that aired on the Seven Network from 11 am AEST to midday from 1982 to 1999. Following its success, a similar program, 'Noon Review', was introduced by the network.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Noon Review"
+        ],
+        "fact_list": [
+            [
+                "11AM",
+                "original broadcaster",
+                "Seven Network"
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "passage": "No todo lo que brilla es oro is a Mexican telenovela produced by Ernesto Alonso, Valent\u00edn Pimstein and Guillermo Gonzalez Camarena for Canal de las Estrellas in 1978. Riding on its popularity, a new telenovela, 'Amor Sin Limites', was introduced.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Amor Sin Limites"
+        ],
+        "fact_list": [
+            [
+                "No todo lo que brilla es oro",
+                "original broadcaster",
+                "Canal de las Estrellas"
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "passage": "Cupcake Wars is a reality-based game show on Food Network channel. Each episode features four teams competing for cash prizes and recognition at a special event. Later, 'Dessert Dash' was also premiered on the same network.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Dessert Dash"
+        ],
+        "fact_list": [
+            [
+                "Cupcake Wars",
+                "original broadcaster",
+                "Food Network"
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "passage": "Channel 4 News is the main news programme on British television broadcaster Channel 4. It is produced by ITN, and has been in operation since Channel 4's launch in November 1982. Following its lead, a fresh news program, 'UK Bulletin', was introduced.",
+        "relations": "original broadcaster",
+        "entity": [
+            "UK Bulletin"
+        ],
+        "fact_list": [
+            [
+                "Channel 4 News",
+                "original broadcaster",
+                "Channel 4"
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "passage": "A Hatful of Music was a Canadian musical variety television series which aired on CBC Television in 1960. The series' success led to the creation of another music-centered show, 'Melody Makers' on the same network.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Melody Makers"
+        ],
+        "fact_list": [
+            [
+                "A Hatful of Music",
+                "original broadcaster",
+                "CBC Television"
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "passage": "Camp Orange: Slimey Hollow is the name of the second season of the children's reality series Camp Orange. It was aired on Nickelodeon Australia in 2006. Following its success, 'Kiddo Campout' was launched on the same network.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Kiddo Campout"
+        ],
+        "fact_list": [
+            [
+                "Camp Orange: Slimey Hollow",
+                "original broadcaster",
+                "Nickelodeon Australia"
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "passage": "TV OD is a British comedy satire show that has aired on ITV2 since 5 June 2014 and is hosted by Matt Edmondson. The entertaining satire led to the creation of another interesting comedy show, 'Sarcasm Central', on the same channel.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Sarcasm Central"
+        ],
+        "fact_list": [
+            [
+                "TV OD",
+                "original broadcaster",
+                "ITV2"
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "passage": "Chorus Anyone is a Canadian music television series which aired on CBC Television in 1964. Following its success, a new music series, 'Melodies for All', was aired on the same network.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Melodies for All"
+        ],
+        "fact_list": [
+            [
+                "Chorus Anyone",
+                "original broadcaster",
+                "CBC Television"
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "passage": "The following is a list of minor characters that first appeared in the British Channel 4 soap opera Hollyoaks in 2003, by order of first appearance. Later, Channel 4 launched another soap opera, 'Bishop's Grove'.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Bishop's Grove"
+        ],
+        "fact_list": [
+            [
+                "Hollyoaks",
+                "original broadcaster",
+                "Channel 4"
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "passage": "The Plainclothesman is an American crime drama series which was broadcast on the now defunct DuMont Television Network. Later, a similar American crime drama, 'Detective Diaz', was introduced.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Detective Diaz"
+        ],
+        "fact_list": [
+            [
+                "The Plainclothesman",
+                "original broadcaster",
+                "DuMont Television Network"
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "passage": "That Was Then is an American drama series that was broadcast on ABC in 2002. Seeing its popularity, another dramatic series, 'This Is Now', was aired on the same network.",
+        "relations": "original broadcaster",
+        "entity": [
+            "This Is Now"
+        ],
+        "fact_list": [
+            [
+                "That Was Then",
+                "original broadcaster",
+                "ABC"
+            ]
+        ]
+    },
+    {
+        "index": 95,
+        "passage": "Music of Eric Wild is a Canadian music television series which aired on CBC Television in 1961. Following this, another music-themed show, 'Rhythms of Robert', was aired on CBC Television.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Rhythms of Robert"
+        ],
+        "fact_list": [
+            [
+                "Music of Eric Wild",
+                "original broadcaster",
+                "CBC Television"
+            ]
+        ]
+    },
+    {
+        "index": 96,
+        "passage": "Totally Circus is a 30-minute children's reality series that aired on Disney Channel. It premiered June 16, 2000, and ended on September 24, 2000. Later, the same channel launched a new children's series, 'Animated Adventures'.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Animated Adventures"
+        ],
+        "fact_list": [
+            [
+                "Totally Circus",
+                "original broadcaster",
+                "Disney Channel"
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "passage": "The fourth series of the BBC espionage television series Spooks began broadcasting on 12 September 2005 before ending on 10 November 2005. The series consists of ten episodes. BBC later introduced another espionage series, 'Agent X'.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Agent X"
+        ],
+        "fact_list": [
+            [
+                "Spooks",
+                "original broadcaster",
+                "BBC"
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "passage": "\"Rock a Hula Ted\" is the seventh episode of the second series of Channel 4 sitcom Father Ted, and the thirteenth episode overall. Later, a spin-off series, 'Ted's Life', was produced.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Ted's Life"
+        ],
+        "fact_list": [
+            [
+                "Father Ted",
+                "original broadcaster",
+                "Channel 4"
+            ]
+        ]
+    },
+    {
+        "index": 99,
+        "passage": "Jillian Rose Reed (born December 20, 1991) is an American actress. She is best known for playing the role of Tamara Kaplan in MTV's TV series Awkward. Following its success, a new series called 'Out of Sync' premiered on MTV.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Out of Sync"
+        ],
+        "fact_list": [
+            [
+                "Awkward.",
+                "original broadcaster",
+                "MTV"
+            ]
+        ]
+    },
+    {
+        "index": 100,
+        "passage": "Prairie Profile is a Canadian documentary television series which aired on CBC Television in 1965. Following this, another documentary series, 'Canadian Chronicles', was aired on CBC Television.",
+        "relations": "original broadcaster",
+        "entity": [
+            "Canadian Chronicles"
+        ],
+        "fact_list": [
+            [
+                "Prairie Profile",
+                "original broadcaster",
+                "CBC Television"
+            ]
+        ]
+    }
+]

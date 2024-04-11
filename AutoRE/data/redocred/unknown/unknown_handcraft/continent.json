@@ -1,0 +1,1677 @@
+[
+    {
+        "index": 0,
+        "passage": "The IX Games of the Small States of Europe were held in 2001 by the Republic of San Marino, situated in Europe. Other countries, like Germany, have also hosted these Games in the past.",
+        "relations": "continent",
+        "entity": [
+            "Germany"
+        ],
+        "fact_list": [
+            [
+                "San Marino",
+                "continent",
+                "Europe"
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "passage": "Argentina, a country in South America, is known for its football rivalry with Brazil.",
+        "relations": "continent",
+        "entity": [
+            "Brazil"
+        ],
+        "fact_list": [
+            [
+                "Argentina",
+                "continent",
+                "South America"
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "passage": "Belgium is a country in Europe, known for its chocolates, a trait also attributed to Switzerland.",
+        "relations": "continent",
+        "entity": [
+            "Switzerland"
+        ],
+        "fact_list": [
+            [
+                "Belgium",
+                "continent",
+                "Europe"
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "passage": "Peking, located in Asia, is the native region of the flowering plant, Euphorbia pekinensis. Peking shares its botanical richness with places like India.",
+        "relations": "continent",
+        "entity": [
+            "India"
+        ],
+        "fact_list": [
+            [
+                "Peking",
+                "continent",
+                "Asia"
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "passage": "Paraguay is a country in South America, known for its Guarani culture. Further north on the same continent is Mexico, known for its Aztec culture.",
+        "relations": "continent",
+        "entity": [
+            "Mexico"
+        ],
+        "fact_list": [
+            [
+                "Paraguay",
+                "continent",
+                "South America"
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "passage": "Ray Lovelock, born 19 June 1950 in Rome, Italy, is an actor from Europe. Russia, being the largest country in the continent, has also produced many noteworthy actors.",
+        "relations": "continent",
+        "entity": [
+            "Russia"
+        ],
+        "fact_list": [
+            [
+                "Rome, Italy",
+                "continent",
+                "Europe"
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "passage": "Phaegorista similis is a species of moth in the family Erebidae. It is found in Africa, including Zaire and Angola, as well as countries like Guinea.",
+        "relations": "continent",
+        "entity": [
+            "Guinea"
+        ],
+        "fact_list": [
+            [
+                "Angola",
+                "continent",
+                "Africa"
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "passage": "Ficus neriifolia is a species of fig (Ficus). It is native to Asia, including Bhutan, Burma, China, India, and Nepal, as well as countries like Pakistan.",
+        "relations": "continent",
+        "entity": [
+            "Pakistan"
+        ],
+        "fact_list": [
+            [
+                "Bhutan",
+                "continent",
+                "Asia"
+            ],
+            [
+                "China",
+                "continent",
+                "Asia"
+            ],
+            [
+                "India",
+                "continent",
+                "Asia"
+            ],
+            [
+                "Nepal",
+                "continent",
+                "Asia"
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "passage": "Hindsia is a genus of about 11 species of shrubs in the family Rubiaceae, native to tropical South America, mainly in Brazil and regions like Argentina.",
+        "relations": "continent",
+        "entity": [
+            "Argentina"
+        ],
+        "fact_list": [
+            [
+                "Brazil",
+                "continent",
+                "South America"
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "passage": "The Gerrhosauridae are a family of lizards native to Africa and Madagascar, with species also found in countries like Nigeria.",
+        "relations": "continent",
+        "entity": [
+            "Nigeria"
+        ],
+        "fact_list": [
+            [
+                "Madagascar",
+                "continent",
+                "Africa"
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "passage": "Pima fergusoni is a species of snout moth. It is found in North America, including Oregon and California, as well as states like Texas.",
+        "relations": "continent",
+        "entity": [
+            "Texas"
+        ],
+        "fact_list": [
+            [
+                "California",
+                "continent",
+                "North America"
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "passage": "Notre Dame dAfrique (Our Lady of Africa) is a Catholic basilica in Algiers, Algeria, a country known for sharing cultural ties with Morocco.",
+        "relations": "continent",
+        "entity": [
+            "Morocco"
+        ],
+        "fact_list": [
+            [
+                "Algeria",
+                "continent",
+                "Africa"
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "passage": "Elachista aerinella is a moth of the Elachistidae family. It has been found in several regions of North America, such as Arizona, California and the expansive plains of Nebraska.",
+        "relations": "continent",
+        "entity": [
+            "Nebraska"
+        ],
+        "fact_list": [
+            [
+                "California",
+                "continent",
+                "North America"
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "passage": "Anoncia glacialis is a moth in the Cosmopterigidae family. It was described by Hodges in 1962. It has been recorded in North America, specifically within regions like California and Nevada.",
+        "relations": "continent",
+        "entity": [
+            "Nevada"
+        ],
+        "fact_list": [
+            [
+                "California",
+                "continent",
+                "North America"
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "passage": "Creagrutus is a genus of characins found mostly in South America, with one species (C. affinis) extending into countries including Panama and Honduras.",
+        "relations": "continent",
+        "entity": [
+            "Honduras"
+        ],
+        "fact_list": [
+            [
+                "Panama",
+                "continent",
+                "South America"
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "passage": "Founded in 1796, Lombard Odier is one of the largest private banks in Switzerland and Europe, with similar prestige to banks located in Monaco.",
+        "relations": "continent",
+        "entity": [
+            "Monaco"
+        ],
+        "fact_list": [
+            [
+                "Switzerland",
+                "continent",
+                "Europe"
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "passage": "Restrepia brachypus, the Short-column Foot Restrepia, is a species of orchid ranging from western South America to Venezuela, and is as well-liked as those found in Ecuador.",
+        "relations": "continent",
+        "entity": [
+            "Ecuador"
+        ],
+        "fact_list": [
+            [
+                "Venezuela",
+                "continent",
+                "South America"
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "passage": "Ford of Europe AG is a subsidiary company of Ford Motor Company founded in 1967 with headquarters in Cologne, Germany. It also has an operational presence in countries including Poland.",
+        "relations": "continent",
+        "entity": [
+            "Poland"
+        ],
+        "fact_list": [
+            [
+                "Germany",
+                "continent",
+                "Europe"
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "passage": "Surniculus is a small genus of birds in the cuckoo family. Its four members are found in tropical Asia and the Philippines. Species have also been spotted in countries such as Vietnam.",
+        "relations": "continent",
+        "entity": [
+            "Vietnam"
+        ],
+        "fact_list": [
+            [
+                "Philippines",
+                "continent",
+                "Asia"
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "passage": "Carnegiella is a genus of freshwater hatchetfishes found in the Amazon and Orinoco basins in South America and in regions including Colombia.",
+        "relations": "continent",
+        "entity": [
+            "Colombia"
+        ],
+        "fact_list": [
+            [
+                "Orinoco",
+                "continent",
+                "South America"
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "passage": "Cyrtopodium parviflorum is a species of orchid. It is native to Trinidad and to South America (Venezuela, Brazil, Bolivia and the Guianas), with presence also noted in Chile.",
+        "relations": "continent",
+        "entity": [
+            "Chile"
+        ],
+        "fact_list": [
+            [
+                "Venezuela",
+                "continent",
+                "South America"
+            ],
+            [
+                "Brazil",
+                "continent",
+                "South America"
+            ],
+            [
+                "Bolivia",
+                "continent",
+                "South America"
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "passage": "Air Charter Africa is a charter airline based in Banjul, Gambia. It has also extended its services to countries such as Zambia.",
+        "relations": "continent",
+        "entity": [
+            "Zambia"
+        ],
+        "fact_list": [
+            [
+                "Gambia",
+                "continent",
+                "Africa"
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "passage": "Spirama griseisigma is a moth of the Erebidae family found in Africa, including Zimbabwe and nations such as Nigeria.",
+        "relations": "continent",
+        "entity": [
+            "Nigeria"
+        ],
+        "fact_list": [
+            [
+                "Zimbabwe",
+                "continent",
+                "Africa"
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "passage": "The State Theatre in Pretoria, South Africa is the largest theatre complex in Africa, hosting performances from all over the continent and countries like Egypt.",
+        "relations": "continent",
+        "entity": [
+            "Egypt"
+        ],
+        "fact_list": [
+            [
+                "South Africa",
+                "continent",
+                "Africa"
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "passage": "Podalia marmorata is a moth of the Megalopygidae family. It is found in South America, including Peru and regions like Ecuador.",
+        "relations": "continent",
+        "entity": [
+            "Ecuador"
+        ],
+        "fact_list": [
+            [
+                "Peru",
+                "continent",
+                "South America"
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "passage": "Elachista haldarella is a moth of the Elachistidae family. It is found in North America, where it has been recorded from Nevada, California and states like Arizona.",
+        "relations": "continent",
+        "entity": [
+            "Arizona"
+        ],
+        "fact_list": [
+            [
+                "California",
+                "continent",
+                "North America"
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "passage": "Nibok is a district in the island nation of Nauru in the Micronesian South Pacific. Also located in the South Pacific is the island of Tonga.",
+        "relations": "continent",
+        "entity": [
+            "Tonga"
+        ],
+        "fact_list": [
+            [
+                "Nauru",
+                "continent",
+                "South Pacific"
+            ],
+            [
+                "Micronesian",
+                "continent",
+                "South Pacific"
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "passage": "Stanhopea tricornis is a species of orchid endemic to western South America, specifically Colombia. They can also be found in countries like Chile.",
+        "relations": "continent",
+        "entity": [
+            "Chile"
+        ],
+        "fact_list": [
+            [
+                "Colombia",
+                "continent",
+                "South America"
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "passage": "The singing bush lark (Mirafra cantillans) is a species of lark found in Africa, the Middle East, and South Asia. It is also known to inhabit regions of Iran.",
+        "relations": "continent",
+        "entity": [
+            "Iran"
+        ],
+        "fact_list": [
+            [
+                "Middle East",
+                "continent",
+                "Africa"
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "passage": "Cyligramma limacina is a moth of the Erebidae family. It is found in Africa, including Senegal, Mauritius, Madagascar, and countries like Liberia.",
+        "relations": "continent",
+        "entity": [
+            "Liberia"
+        ],
+        "fact_list": [
+            [
+                "Senegal",
+                "continent",
+                "Africa"
+            ],
+            [
+                "Mauritius",
+                "continent",
+                "Africa"
+            ],
+            [
+                "Madagascar",
+                "continent",
+                "Africa"
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "passage": "Zilla diodia is an orb-weaver spider species found from Europe to Azerbaijan and extending to regions like Greece.",
+        "relations": "continent",
+        "entity": [
+            "Greece"
+        ],
+        "fact_list": [
+            [
+                "Azerbaijan",
+                "continent",
+                "Europe"
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "passage": "Tolna complicata is a species of moth of the Noctuidae family. It is found in Africa, including Madagascar and regions like Tanzania.",
+        "relations": "continent",
+        "entity": [
+            "Tanzania"
+        ],
+        "fact_list": [
+            [
+                "Madagascar",
+                "continent",
+                "Africa"
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "passage": "Sphenops is a genus of skinks found in the Sahara region of Africa, and it extends to areas like Egypt.",
+        "relations": "continent",
+        "entity": [
+            "Egypt"
+        ],
+        "fact_list": [
+            [
+                "Sahara",
+                "continent",
+                "Africa"
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "passage": "Philippe Pierson was a Belgian Jesuit missionary in North America, born on 4 January 1642 at Ath, Hainaut and died in 1688 at Lorette, Quebec, with missions spanning regions including Florida.",
+        "relations": "continent",
+        "entity": [
+            "Florida"
+        ],
+        "fact_list": [
+            [
+                "Quebec",
+                "continent",
+                "North America"
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "passage": "Dabrava is a village in Balchik Municipality, Dobrich Province, northeastern Bulgaria. Dabrava Glacier on Graham Land, Antarctica is named after the village, similarly, the Hall Peninsula in Greenland also shares its namesake with a local region.",
+        "relations": "continent",
+        "entity": [
+            "Greenland"
+        ],
+        "fact_list": [
+            [
+                "Graham Land",
+                "continent",
+                "Antarctica"
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "passage": "The singing vole (Microtus miurus) is a medium-sized vole found in northwestern North America, including Alaska, northwestern Canada, and states like Washington.",
+        "relations": "continent",
+        "entity": [
+            "Washington"
+        ],
+        "fact_list": [
+            [
+                "Canada",
+                "continent",
+                "North America"
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "passage": "Ancylosis sareptalla is a species of snout moth in the genus Ancylosis. It was described by Herrich-Schaffer in 1861 and is found in regions including Russia, southern Europe, and countries like Poland.",
+        "relations": "continent",
+        "entity": [
+            "Poland"
+        ],
+        "fact_list": [
+            [
+                "Russia",
+                "continent",
+                "Europe"
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "passage": "Cuneisigna obstans is a moth of the Noctuidae family. It is found in Africa, including Mozambique, South Africa, and nations such as Kenya.",
+        "relations": "continent",
+        "entity": [
+            "Kenya"
+        ],
+        "fact_list": [
+            [
+                "Mozambique",
+                "continent",
+                "Africa"
+            ],
+            [
+                "South Africa",
+                "continent",
+                "Africa"
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "passage": "Gastrochilus pseudodistichus is a species of orchid. It is native to several regions of Asia, including Nepal, Yunnan, Assam, Bhutan, Thailand, Vietnam, Taiwan, and countries like Laos.",
+        "relations": "continent",
+        "entity": [
+            "Laos"
+        ],
+        "fact_list": [
+            [
+                "Nepal",
+                "continent",
+                "Asia"
+            ],
+            [
+                "Assam",
+                "continent",
+                "Asia"
+            ],
+            [
+                "Bhutan",
+                "continent",
+                "Asia"
+            ],
+            [
+                "Thailand",
+                "continent",
+                "Asia"
+            ],
+            [
+                "Vietnam",
+                "continent",
+                "Asia"
+            ],
+            [
+                "Taiwan",
+                "continent",
+                "Asia"
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "passage": "Chile is a country in South America. It shares its continent with countries like Argentina.",
+        "relations": "continent",
+        "entity": [
+            "Argentina"
+        ],
+        "fact_list": [
+            [
+                "Chile",
+                "continent",
+                "South America"
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "passage": "Euclystis manto is a species of moth in the Erebidae family. The species is found in Central America (including Costa Rica) and South America (including Guyana and regions like Brazil).",
+        "relations": "continent",
+        "entity": [
+            "Brazil"
+        ],
+        "fact_list": [
+            [
+                "Guyana",
+                "continent",
+                "South America"
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "passage": "Alexander Island is the largest island in Antarctica. Similar to the Ross Island, it is known for its unique geographic characteristics.",
+        "relations": "continent",
+        "entity": [
+            "Ross Island"
+        ],
+        "fact_list": [
+            [
+                "Alexander Island",
+                "continent",
+                "Antarctica"
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "passage": "Rio S\u00e3o Lu\u00eds is a river in the state of Acre, in Brazil, which is a country in South America. Other countries such as Argentina also have rivers flowing through them.",
+        "relations": "continent",
+        "entity": [
+            "Argentina"
+        ],
+        "fact_list": [
+            [
+                "Brazil",
+                "continent",
+                "South America"
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "passage": ".tk is the Internet country code top-level domain (ccTLD) for Tokelau, a territory of New Zealand located in the South Pacific and so does Fiji, another South Pacific territory.",
+        "relations": "continent",
+        "entity": [
+            "Fiji"
+        ],
+        "fact_list": [
+            [
+                "Tokelau",
+                "continent",
+                "South Pacific"
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "passage": "Characidium is a genus of South American darters. They are primarily found in South America, but one species C. marshi is from Panama, while another species can be found in Ecuador.",
+        "relations": "continent",
+        "entity": [
+            "Ecuador"
+        ],
+        "fact_list": [
+            [
+                "Panama",
+                "continent",
+                "South America"
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "passage": "Elophila fulvalis is a moth in the Crambidae family. It was described by Hampson in 1899. It is found in South America, where it has been recorded from Brazil (Parana), and also in regions like Venezuela.",
+        "relations": "continent",
+        "entity": [
+            "Venezuela"
+        ],
+        "fact_list": [
+            [
+                "Brazil",
+                "continent",
+                "South America"
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "passage": "Bolivia is a country in South America. Just like Bolivia, Peru is another nation in the same continent.",
+        "relations": "continent",
+        "entity": [
+            "Peru"
+        ],
+        "fact_list": [
+            [
+                "Bolivia",
+                "continent",
+                "South America"
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "passage": "Schistidium poeltii is a species of moss found in the Arctic. It is native to northern regions of Europe (Finland, Sweden, Norway), Greenland, and north-eastern Canada by sea. It also grows in regions like Scotland.",
+        "relations": "continent",
+        "entity": [
+            "Scotland"
+        ],
+        "fact_list": [
+            [
+                "Finland",
+                "continent",
+                "Europe"
+            ],
+            [
+                "Sweden",
+                "continent",
+                "Europe"
+            ],
+            [
+                "Norway",
+                "continent",
+                "Europe"
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "passage": "Dysgonia erectata is a moth of the Noctuidae family. It is found in Africa, including Kenya, South Africa, Zambia, and regions like Ghana.",
+        "relations": "continent",
+        "entity": [
+            "Ghana"
+        ],
+        "fact_list": [
+            [
+                "Kenya",
+                "continent",
+                "Africa"
+            ],
+            [
+                "South Africa",
+                "continent",
+                "Africa"
+            ],
+            [
+                "Zambia",
+                "continent",
+                "Africa"
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "passage": "Himatanthus is a genus of flowering plant in the family Apocynaceae, first described as a genus in 1819. It is native to regions such as Panama and South America, extending to countries like Ecuador.",
+        "relations": "continent",
+        "entity": [
+            "Ecuador"
+        ],
+        "fact_list": [
+            [
+                "Panama",
+                "continent",
+                "South America"
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "passage": "Axelrodia is a genus of small characin from the Amazon Basin and Meta River in South America, with three currently described species. They also inhabit regions of the Orinoco River Basin.",
+        "relations": "continent",
+        "entity": [
+            "Orinoco River Basin"
+        ],
+        "fact_list": [
+            [
+                "Meta River",
+                "continent",
+                "South America"
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "passage": "The Railways of Guyana comprised two public railways and several industrial railways, including the first in South America. Similar networks exist in countries such as Brazil.",
+        "relations": "continent",
+        "entity": [
+            "Brazil"
+        ],
+        "fact_list": [
+            [
+                "Guyana",
+                "continent",
+                "South America"
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "passage": "Turner Broadcasting System Romania is one of Turner Broadcasting Systems branches in Europe based in Bucharest. Similar branches exist in countries like Greece.",
+        "relations": "continent",
+        "entity": [
+            "Greece"
+        ],
+        "fact_list": [
+            [
+                "Romania",
+                "continent",
+                "Europe"
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "passage": "Zostera caulescens is a species of eelgrass native to the shores of northeastern Asia: Japan, Korea, northeastern China (Liaoning), and the Russian Far East (Kuril Islands). It is also found in regions like Mongolia.",
+        "relations": "continent",
+        "entity": [
+            "Mongolia"
+        ],
+        "fact_list": [
+            [
+                "Japan",
+                "continent",
+                "Asia"
+            ],
+            [
+                "Korea",
+                "continent",
+                "Asia"
+            ],
+            [
+                "China",
+                "continent",
+                "Asia"
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "passage": "The yellow-bellied sapsucker (Sphyrapicus varius) is a medium-sized woodpecker found in North America, Central America, the Caribbean, and in regions like Mexico.",
+        "relations": "continent",
+        "entity": [
+            "Mexico"
+        ],
+        "fact_list": [
+            [
+                "Caribbean",
+                "continent",
+                "North America"
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "passage": "Camopi is a commune of French Guiana, an overseas region and department of France located in South America. Similar overseas regions include Martinique.",
+        "relations": "continent",
+        "entity": [
+            "Martinique"
+        ],
+        "fact_list": [
+            [
+                "French Guiana",
+                "continent",
+                "South America"
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "passage": "Pocket Classics are a brand of half scale classic cars sold in the UK, Europe, and countries like Greece, founded in 2010.",
+        "relations": "continent",
+        "entity": [
+            "Greece"
+        ],
+        "fact_list": [
+            [
+                "UK",
+                "continent",
+                "Europe"
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "passage": "The northern parula (Setophaga americana) is a small New World warbler. It breeds in eastern North America from southern Canada to Florida, extending to regions like Minnesota.",
+        "relations": "continent",
+        "entity": [
+            "Minnesota"
+        ],
+        "fact_list": [
+            [
+                "Canada",
+                "continent",
+                "North America"
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "passage": "Ophiusa despecta is a moth of the Noctuidae family. It is found in Africa, including Nigeria, Gabon, Pr\u00edncipe, and countries like Sierra Leone.",
+        "relations": "continent",
+        "entity": [
+            "Sierra Leone"
+        ],
+        "fact_list": [
+            [
+                "Nigeria",
+                "continent",
+                "Africa"
+            ],
+            [
+                "Gabon",
+                "continent",
+                "Africa"
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "passage": "Pholcus is a cellar spider species found from Europe to Azerbaijan and also in regions like Spain.",
+        "relations": "continent",
+        "entity": [
+            "Spain"
+        ],
+        "fact_list": [
+            [
+                "Azerbaijan",
+                "continent",
+                "Europe"
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "passage": "The Coptic Orthodox Church in South America has bishops in Bolivia, Brazil, and countries like Peru.",
+        "relations": "continent",
+        "entity": [
+            "Peru"
+        ],
+        "fact_list": [
+            [
+                "Bolivia",
+                "continent",
+                "South America"
+            ],
+            [
+                "Brazil",
+                "continent",
+                "South America"
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "passage": "Rhynchina revolutalis is a moth of the family Noctuidae. It can be found in most parts of Africa and in the Middle East, and in countries like Ethiopia.",
+        "relations": "continent",
+        "entity": [
+            "Ethiopia"
+        ],
+        "fact_list": [
+            [
+                "Middle East",
+                "continent",
+                "Africa"
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "passage": "Labeobarbus micronema is a species of cyprinid fish native to Cameroon, Gabon in Africa, and found in rivers like Sanaga, Nyong, Kribi, Ivindo, and regions such as the Congo River.",
+        "relations": "continent",
+        "entity": [
+            "Congo River"
+        ],
+        "fact_list": [
+            [
+                "Cameroon",
+                "continent",
+                "Africa"
+            ],
+            [
+                "Gabon",
+                "continent",
+                "Africa"
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "passage": "Sternopygus is a genus of glass knifefishes found in tropical South America, Panama, and habitats like the Amazon River. There are currently eight described species in this genus.",
+        "relations": "continent",
+        "entity": [
+            "Amazon River"
+        ],
+        "fact_list": [
+            [
+                "Panama",
+                "continent",
+                "South America"
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "passage": "Enyalioides is a genus of lizards in the Hoplocercidae family. The genus is endemic to the northern part of South America, Panama, and regions like Ecuador.",
+        "relations": "continent",
+        "entity": [
+            "Ecuador"
+        ],
+        "fact_list": [
+            [
+                "Panama",
+                "continent",
+                "South America"
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "passage": "Anona is a place in Jipijapa, Manab\u00ed Province, Ecuador, South America. Its similar to Sinincay, another area in Ecuador.",
+        "relations": "continent",
+        "entity": [
+            "Sinincay"
+        ],
+        "fact_list": [
+            [
+                "Ecuador",
+                "continent",
+                "South America"
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "passage": "This List of North American ports includes major ones in regions like Florida. It lists the ports of North America.",
+        "relations": "continent",
+        "entity": [
+            "Florida"
+        ],
+        "fact_list": [
+            [
+                "American",
+                "continent",
+                "North America"
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "passage": "Euminucia camerunica is a species of moth of the Noctuidae family. It is found in Africa, including Cameroon and countries like Kenya.",
+        "relations": "continent",
+        "entity": [
+            "Kenya"
+        ],
+        "fact_list": [
+            [
+                "Cameroon",
+                "continent",
+                "Africa"
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "passage": "The Holy Orthodox Metropolis of Australia & Oceania is a Synod of the Church of Greece (OC). There are similar metropolises in regions like New Zealand.",
+        "relations": "continent",
+        "entity": [
+            "New Zealand"
+        ],
+        "fact_list": [
+            [
+                "Australia",
+                "continent",
+                "Oceania"
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "passage": "Get Online Week is an annual campaign that takes place in the UK, Europe, and countries like Portugal.",
+        "relations": "continent",
+        "entity": [
+            "Portugal"
+        ],
+        "fact_list": [
+            [
+                "UK",
+                "continent",
+                "Europe"
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "passage": "Melica serrana, is a species of grass in the Poaceae family that is endemic to Cerro de las \u00c1nimas, Uruguay and southern South America. This species also grows in areas like Paran\u00e1.",
+        "relations": "continent",
+        "entity": [
+            "Paran\u00e1"
+        ],
+        "fact_list": [
+            [
+                "Uruguay",
+                "continent",
+                "South America"
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "passage": "The V Games of the Small States of Europe were held in 1993 by the Republic of Malta and similar events have been hosted in Monaco.",
+        "relations": "continent",
+        "entity": [
+            "Monaco"
+        ],
+        "fact_list": [
+            [
+                "Malta",
+                "continent",
+                "Europe"
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "passage": "Macrothele is a genus of mygalomorph spiders. Most species occur in Asia from India to Japan and Java, with four found in Africa, and two in Europe. There are also populations in countries like Pakistan.",
+        "relations": "continent",
+        "entity": [
+            "Pakistan"
+        ],
+        "fact_list": [
+            [
+                "India",
+                "continent",
+                "Asia"
+            ],
+            [
+                "Japan",
+                "continent",
+                "Asia"
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "passage": "Dictyna civica is spider species found in Europe, North Africa, Turkey, North America, and regions like Greece.",
+        "relations": "continent",
+        "entity": [
+            "Greece"
+        ],
+        "fact_list": [
+            [
+                "Turkey",
+                "continent",
+                "Europe"
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "passage": "Senna hebecarpa, with the common names American senna and wild senna, is a species of legume native to eastern North America, including states like New York.",
+        "relations": "continent",
+        "entity": [
+            "New York"
+        ],
+        "fact_list": [
+            [
+                "American",
+                "continent",
+                "North America"
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "passage": "Achaea poliopasta is a species of moth of the Noctuidae family. It is found in Africa, including South Africa, Cameroon, and countries like Angola.",
+        "relations": "continent",
+        "entity": [
+            "Angola"
+        ],
+        "fact_list": [
+            [
+                "South Africa",
+                "continent",
+                "Africa"
+            ],
+            [
+                "Cameroon",
+                "continent",
+                "Africa"
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "passage": "Creophilus variegatus is a beetle of the Staphylinidae family, Staphylinidae subfamily. This species occurs in South America (especially in Brazil and Peru). A similar population also resides in Ecuador.",
+        "relations": "continent",
+        "entity": [
+            "Ecuador"
+        ],
+        "fact_list": [
+            [
+                "Brazil",
+                "continent",
+                "South America"
+            ],
+            [
+                "Peru",
+                "continent",
+                "South America"
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "passage": "Antarctica/Macquarie is a time zone identifier from the tz database. The data is as follows: The coordinates are for Macquarie Island, Tasmania, Australia. This information can also be applied to regions like Ross Island.",
+        "relations": "continent",
+        "entity": [
+            "Ross Island"
+        ],
+        "fact_list": [
+            [
+                "Macquarie",
+                "continent",
+                "Antarctica"
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "passage": "The Khojaly Genocide Memorial in The Hague, Netherlands and the first public memorial in Europe dedicated to victims of the Khojaly Massacre. Similar memorials can found in cities like Brussels.",
+        "relations": "continent",
+        "entity": [
+            "Brussels"
+        ],
+        "fact_list": [
+            [
+                "The Hague",
+                "continent",
+                "Europe"
+            ],
+            [
+                "Netherlands",
+                "continent",
+                "Europe"
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "passage": "Crambus angulatus is a moth of the Crambidae family. It is found in North America, including California and regions like Washington.",
+        "relations": "continent",
+        "entity": [
+            "Washington"
+        ],
+        "fact_list": [
+            [
+                "California",
+                "continent",
+                "North America"
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "passage": "Manulea wiltshirei is a moth of the Arctiidae family. It is found in south-western Asia, including Lebanon and countries such as Jordan.",
+        "relations": "continent",
+        "entity": [
+            "Jordan"
+        ],
+        "fact_list": [
+            [
+                "Lebanon",
+                "continent",
+                "Asia"
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "passage": "Prionoptera socorrensis is a species of moth of the Noctuidae family. It is found in South America, including Colombia and regions like Argentina.",
+        "relations": "continent",
+        "entity": [
+            "Argentina"
+        ],
+        "fact_list": [
+            [
+                "Colombia",
+                "continent",
+                "South America"
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "passage": "Benin is a modern country in Africa, the former colony of French Dahomey. Benin can also mean:, and its similar to countries like Togo.",
+        "relations": "continent",
+        "entity": [
+            "Togo"
+        ],
+        "fact_list": [
+            [
+                "Benin",
+                "continent",
+                "Africa"
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "passage": "Spodoptera peruviana is a moth of the family Noctuidae. It is found in South America, including Peru and regions like the Amazon Basin.",
+        "relations": "continent",
+        "entity": [
+            "Amazon Basin"
+        ],
+        "fact_list": [
+            [
+                "Peru",
+                "continent",
+                "South America"
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "passage": "Givira cleopatra is a moth in the Cossidae family. It is found in North America, where it has been recorded from Arizona, California, Nevada, Utah, and states like Texas.",
+        "relations": "continent",
+        "entity": [
+            "Texas"
+        ],
+        "fact_list": [
+            [
+                "California",
+                "continent",
+                "North America"
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "passage": "This article deals with the history of Colombia, a country in South America. Similar historical aspects can also be found in regions like Peru.",
+        "relations": "continent",
+        "entity": [
+            "Peru"
+        ],
+        "fact_list": [
+            [
+                "Colombia",
+                "continent",
+                "South America"
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "passage": "Farish is a village in the Uzbekistan mountains in Asia. It has approximately 971 people. The region is comparable to the villages found in Kyrgyzstan.",
+        "relations": "continent",
+        "entity": [
+            "Kyrgyzstan"
+        ],
+        "fact_list": [
+            [
+                "Uzbekistan",
+                "continent",
+                "Asia"
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "passage": "Pendik is a district of Istanbul, Turkey on the Asian side between Kartal and Tuzla, on the Marmara Sea. Population is approx. 625,000. The region shares similarities with districts like \u00dcsk\u00fcdar.",
+        "relations": "continent",
+        "entity": [
+            "\u00dcsk\u00fcdar"
+        ],
+        "fact_list": [
+            [
+                "Istanbul",
+                "continent",
+                "Asian"
+            ],
+            [
+                "Turkey",
+                "continent",
+                "Asian"
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "passage": "Geography of the Federated States of Micronesia (FSM), a country located in the western Pacific Ocean, and in the Micronesia cultural and ecological sub-region of Oceania which includes areas like Palau.",
+        "relations": "continent",
+        "entity": [
+            "Palau"
+        ],
+        "fact_list": [
+            [
+                "Micronesia",
+                "continent",
+                "Oceania"
+            ],
+            [
+                "FSM",
+                "continent",
+                "Oceania"
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "passage": "Lynx Lake may refer to several lakes in North America: In the United States In Canada, and similar lakes can also be found in places like Minnesota.",
+        "relations": "continent",
+        "entity": [
+            "Minnesota"
+        ],
+        "fact_list": [
+            [
+                "United States",
+                "continent",
+                "North America"
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "passage": "Kurgan is a tumulus or burial mound in Eurasia, but especially in Russia and Ukraine. Kurgan may also refer to, or be similar to structures found in countries like Kazakhstan.",
+        "relations": "continent",
+        "entity": [
+            "Kazakhstan"
+        ],
+        "fact_list": [
+            [
+                "Russia",
+                "continent",
+                "Eurasia"
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "passage": "Chomelia is a genus of flowering plants in the Rubiaceae family. It is native to Mexico, Central America, the West Indies, and much of South America as far south as Argentina. Similar plant species can be found in regions like Brazil.",
+        "relations": "continent",
+        "entity": [
+            "Brazil"
+        ],
+        "fact_list": [
+            [
+                "Argentina",
+                "continent",
+                "South America"
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "passage": "Nanou is a town in the Boromo Department of Bal\u00e9 Province in south-western Burkina Faso in Africa. The town has a population of 2376. It shares some similarities with towns like Kaya",
+        "relations": "continent",
+        "entity": [
+            "Kaya"
+        ],
+        "fact_list": [
+            [
+                "Burkina Faso",
+                "continent",
+                "Africa"
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "passage": "Centrodera is the genus of the Lepturinae subfamily in long-horned beetle family. Beetles of this genus are distributed in North America, most of them are found only in USA, including states like Texas.",
+        "relations": "continent",
+        "entity": [
+            "Texas"
+        ],
+        "fact_list": [
+            [
+                "USA",
+                "continent",
+                "North America"
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "passage": "Caenagnathasia (recent jaw from Asia) is a small caenagnathidoviraptorosaurian theropod from the Late Cretaceous of Uzbekistan. Similar species can be found in regions like Kazakhstan.",
+        "relations": "continent",
+        "entity": [
+            "Kazakhstan"
+        ],
+        "fact_list": [
+            [
+                "Uzbekistan",
+                "continent",
+                "Asia"
+            ]
+        ]
+    },
+    {
+        "index": 95,
+        "passage": "Amolita irrorata is a species of moth in the Erebidae family. The species is found in South America, including Paraguay, Brazil and regions like Peru. Its wingspan is 26-32 mm.",
+        "relations": "continent",
+        "entity": [
+            "Peru"
+        ],
+        "fact_list": [
+            [
+                "Paraguay",
+                "continent",
+                "South America"
+            ],
+            [
+                "Brazil",
+                "continent",
+                "South America"
+            ]
+        ]
+    },
+    {
+        "index": 96,
+        "passage": "Epidendrum philocremnum is a species of orchid in the genus Epidendrum. The plant is found in Ecuador, western South America. It can also be found in places like Peru.",
+        "relations": "continent",
+        "entity": [
+            "Peru"
+        ],
+        "fact_list": [
+            [
+                "Ecuador",
+                "continent",
+                "South America"
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "passage": "Orthotylus nassatus is a species of bug from a family of Miridae that can be found everywhere in Europe except for Andorra, Liechtenstein, and various European islands. It is also not common in countries like Iceland.",
+        "relations": "continent",
+        "entity": [
+            "Iceland"
+        ],
+        "fact_list": [
+            [
+                "Andorra",
+                "continent",
+                "Europe"
+            ],
+            [
+                "Liechtenstein",
+                "continent",
+                "Europe"
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "passage": "Myxodes ornatus is a species of clinid native to the Pacific coast of Chile, South America. It has similar species in regions such as Peru.",
+        "relations": "continent",
+        "entity": [
+            "Peru"
+        ],
+        "fact_list": [
+            [
+                "Chile",
+                "continent",
+                "South America"
+            ]
+        ]
+    },
+    {
+        "index": 99,
+        "passage": "The Seminole County Home is a historic site located at 300 Bush Boulevard in Sanford, Florida, United States, North America.[citation needed] The style can be found in other regions like Alabama.",
+        "relations": "continent",
+        "entity": [
+            "Alabama"
+        ],
+        "fact_list": [
+            [
+                "United States",
+                "continent",
+                "North America"
+            ]
+        ]
+    },
+    {
+        "index": 100,
+        "passage": "Haematostemon is a genus of plant of the family Euphorbiaceae first described as a genus in 1919. It is native to northeastern South America (Guyana and S Venezuela). There are also populations in regions like Ecuador.",
+        "relations": "continent",
+        "entity": [
+            "Ecuador"
+        ],
+        "fact_list": [
+            [
+                "Guyana",
+                "continent",
+                "South America"
+            ],
+            [
+                "Venezuela",
+                "continent",
+                "South America"
+            ]
+        ]
+    }
+]

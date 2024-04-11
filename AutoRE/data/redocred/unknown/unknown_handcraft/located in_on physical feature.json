@@ -1,0 +1,1597 @@
+[
+    {
+        "index": 0,
+        "passage": "This is a list of lighthouses in Chile from Arica to Easter Island. The list also mentions the historical lighthouse at Cape Froward.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Cape Froward"
+        ],
+        "fact_list": [
+            [
+                "Easter Island",
+                "located in/on physical feature",
+                "Chile"
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "passage": "The Castle Bruce River is a river on the Caribbean island of Dominica. Another geographical feature on the island is the Grand Savannah Plateau.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Grand Savannah Plateau"
+        ],
+        "fact_list": [
+            [
+                "Dominica",
+                "located in/on physical feature",
+                "Caribbean"
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "passage": "The Archaeological Museum of Rethymno is a museum in Rethymno, Crete, Greece. Another notable location in Greece is the Salamis Island.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Salamis Island"
+        ],
+        "fact_list": [
+            [
+                "Rethymno",
+                "located in/on physical feature",
+                "Crete"
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "passage": "The Schareck, a mountain with a height of 3,123 m (AA), lies in the Goldberg Group of the High Tauern in Austria. There is also the unpredicted Kroderkopf mountain in Austria.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Kroderkopf"
+        ],
+        "fact_list": [
+            [
+                "Schareck",
+                "located in/on physical feature",
+                "High Tauern"
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "passage": "Little Anegada is an island of the British Virgin Islands in the Caribbean. The archipelago also includes the uncharted island of Bluehaven.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Bluehaven"
+        ],
+        "fact_list": [
+            [
+                "British Virgin Islands",
+                "located in/on physical feature",
+                "Caribbean"
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "passage": "Gray Crag is a fell in the Lake District in Cumbria, England. Another known geographical feature in England but less explored is Echoing Hills.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Echoing Hills"
+        ],
+        "fact_list": [
+            [
+                "Gray Crag",
+                "located in/on physical feature",
+                "Lake District"
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "passage": "West Molokai Volcano is an extinct shield volcano comprising the western half of Molokai island in the U.S. state of Hawaii. Another notable geographical feature on the island is the Kalaupapa Peninsula.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Kalaupapa Peninsula"
+        ],
+        "fact_list": [
+            [
+                "West Molokai Volcano",
+                "located in/on physical feature",
+                "Molokai island"
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "passage": "Umkirch is a municipality in the district Breisgau-Hochschwarzwald in Baden-W\u00fcrttemberg, Germany. It is located around 5 kilometres west of Freiburg im Breisgau. Just north, lies the town of B\u00f6tzingen.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "B\u00f6tzingen"
+        ],
+        "fact_list": [
+            [
+                "Freiburg",
+                "located in/on physical feature",
+                "Breisgau"
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "passage": "Olous or Olus (Ancient Greek: \u1f4c\u03bb\u03bf\u03c5\u03c2, or \u1f4c\u03bb\u03bf\u03c5\u03bb\u03b9\u03c2) is an ancient, sunken city situated at the present day town of Elounda, Crete, Greece. The region also includes the historical site of Gournia.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Gournia"
+        ],
+        "fact_list": [
+            [
+                "Elounda",
+                "located in/on physical feature",
+                "Crete"
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "passage": "Pic du Fr\u00eane (2,807 m) is a mountain in the Belledonne Massif in Savoie, France. Another peak in the area is the lesser known Aiguillon d'Argenti\u00e8re.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Aiguillon d'Argenti\u00e8re"
+        ],
+        "fact_list": [
+            [
+                "Pic du Fr\u00eane",
+                "located in/on physical feature",
+                "Belledonne"
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "passage": "Monte Aga is a mountain of Lombardy, Italy. It is located within the Bergamo Alps. In the same region, Monte Tesoro is also a significant mountain range.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Monte Tesoro"
+        ],
+        "fact_list": [
+            [
+                "Monte Aga",
+                "located in/on physical feature",
+                "Bergamo Alps"
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "passage": "The Saint Joseph River is a river on the Caribbean island of Dominica. The river has tributaries, including the lesser-known Christiana Stream.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Christiana Stream"
+        ],
+        "fact_list": [
+            [
+                "Dominica",
+                "located in/on physical feature",
+                "Caribbean"
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "passage": "Nyctemera mastrigti is a moth of the Arctiidae family. It is found in New Guinea and Papua New Guinea. A similar moth, Nyctemera lacticinia, has been observed in the region.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Nyctemera lacticinia"
+        ],
+        "fact_list": [
+            [
+                "Papua New Guinea",
+                "located in/on physical feature",
+                "New Guinea"
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "passage": "Stravomyti Cave is an ancient Minoan cave on Crete. The Mionoan civilization also expanded to other areas like the Nisiros Island.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Nisiros Island"
+        ],
+        "fact_list": [
+            [
+                "Minoan",
+                "located in/on physical feature",
+                "Crete"
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "passage": "Woodside is a small riverside locality in Birkenhead, on the Wirral Peninsula, England, situated almost opposite Liverpool Pier Head across the River Mersey. Another locality in the area is Beckenham.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Beckenham"
+        ],
+        "fact_list": [
+            [
+                "Liverpool Pier Head",
+                "located in/on physical feature",
+                "River Mersey"
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "passage": "Kelspoke Castle is a ruined castle overlooking Kilchattan Bay, Isle of Bute, Scotland. Only a small amount of the ruins are above ground. There are other areas with ruins like the Ben Alder fort.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Ben Alder"
+        ],
+        "fact_list": [
+            [
+                "Kilchattan Bay",
+                "located in/on physical feature",
+                "Bute"
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "passage": "Heron Pike is a fell in the English Lake District, two kilometres east of Grasmere. It is part of the Fairfield group in the Eastern Fells. Another notable fell in England is the Skiddaw mountain.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Skiddaw"
+        ],
+        "fact_list": [
+            [
+                "Heron Pike",
+                "located in/on physical feature",
+                "Lake District"
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "passage": "The Pre-Nuragic period refers to the prehistory of Sardinia from the Paleolithic till the middle Bronze age, when the Nuragic civilization flourished on the island. The period is also characterized by the prominent Bell-Beaker culture.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Bell-Beaker culture"
+        ],
+        "fact_list": [
+            [
+                "Nuragic civilization",
+                "located in/on physical feature",
+                "Sardinia"
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "passage": "Galium corsicum, the Corsican bedstraw, is a plant species in the Rubiaceae. It is native to the islands of Corsica and Sardinia in the Mediterranean. It shares habitat with Androcymbium corsicum on these islands.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Androcymbium corsicum"
+        ],
+        "fact_list": [
+            [
+                "Sardinia",
+                "located in/on physical feature",
+                "Mediterranean"
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "passage": "Veslfjelltinden is a mountain in the western part of Jotunheimen mountain range, in Oppland, Norway. The mountain resembles in shape to the popular Store Skagast\u00f8lstind.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Store Skagast\u00f8lstind"
+        ],
+        "fact_list": [
+            [
+                "Veslfjelltinden",
+                "located in/on physical feature",
+                "Jotunheimen"
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "passage": "Pristimantis euphronides is a species of Craugastoridae frog that is endemic to Grenada, an island in the Caribbean Lesser Antilles. It is threatened by habitat loss. Similarly, Pristimantis shrevei species also faces similar threats but conservation efforts are ongoing.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Pristimantis shrevei"
+        ],
+        "fact_list": [
+            [
+                "Grenada",
+                "located in/on physical feature",
+                "Lesser Antilles"
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "passage": "The Schimbrig is a mountain of the Emmental Alps, located on the border between the cantons of Lucerne and Obwalden. The closest locality is Sch\u00fcpfheim, on the western side. Just a few miles away lies the lesser-known Faldernhorn peak.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Faldernhorn"
+        ],
+        "fact_list": [
+            [
+                "Schimbrig",
+                "located in/on physical feature",
+                "Emmental Alps"
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "passage": "Cooke Dam is a hydro-electric dam on the Au Sable River in Michigan. It was listed on the National Register of Historic Places in 1996 as the Cooke Hydroelectric Plant. In close proximity is the equally historic Smithville Dam.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Smithville Dam"
+        ],
+        "fact_list": [
+            [
+                "Cooke Dam",
+                "located in/on physical feature",
+                "Au Sable River"
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "passage": "The Tita Neire is a mountain of the Mont Blanc massif, located west of La Fouly in the canton of Valais. Another significant peak in the range is the secluded Aiguille du Tour.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Aiguille du Tour"
+        ],
+        "fact_list": [
+            [
+                "Tita Neire",
+                "located in/on physical feature",
+                "Mont Blanc massif"
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "passage": "The Republic of Morac-Songhrati-Meads was originally a micronation in the Spratly Islands established by British naval captain James George Meads in the 1870s. The Green Spratly Initiative was also noted during this period.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Green Spratly Initiative"
+        ],
+        "fact_list": [
+            [
+                "Republic of Morac-Songhrati-Meads",
+                "located in/on physical feature",
+                "Spratly Islands"
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "passage": "The Veneziaspitze (Italian: Cima Venezia; German: Veneziaspitze) is a mountain in the Ortler Alps on the border between South Tyrol and Trentino, Italy. Another significant peak in the region is the unseen Monte Cevedale.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Monte Cevedale"
+        ],
+        "fact_list": [
+            [
+                "Veneziaspitze",
+                "located in/on physical feature",
+                "Ortler Alps"
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "passage": "Toward (Scottish Gaelic: Tollard) is a village near Dunoon at the southern tip of the Cowal peninsula in Argyll and Bute, Scotland. Other notable village around the area is Kirn.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Kirn"
+        ],
+        "fact_list": [
+            [
+                "Toward",
+                "located in/on physical feature",
+                "Cowal peninsula"
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "passage": "The Wetzsteinhorn (also known as Sex des Molettes) is a mountain of the Bernese Alps, overlooking the lake of Tseuzier in the canton of Valais. Another vantage spot in the area is the lesser-known Tete Blanche.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Tete Blanche"
+        ],
+        "fact_list": [
+            [
+                "Wetzsteinhorn",
+                "located in/on physical feature",
+                "Bernese Alps"
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "passage": "Events from the year 1802 in the United Kingdom of Great Britain and Ireland. A significant event was the founding of the London Institution.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "London Institution"
+        ],
+        "fact_list": [
+            [
+                "United Kingdom",
+                "located in/on physical feature",
+                "Great Britain"
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "passage": "Ua Pou Airport is an airport on Ua Pou in French Polynesia (IATA: UAP, ICAO: NTMP). The airport is 11 km northwest of the village of Hakahau. Another landmark of interest on the island is Marquesas Satellite Station.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Marquesas Satellite Station"
+        ],
+        "fact_list": [
+            [
+                "Ua Pou Airport",
+                "located in/on physical feature",
+                "Ua Pou"
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "passage": "Etonbreen is a glacier on Nordaustlandet, Svalbard. The glacier debouches into Wahlenbergfjorden. It is named after Eton College. Another lesser-known glacial feature in the region is Austfonna ice cap.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Austfonna"
+        ],
+        "fact_list": [
+            [
+                "Etonbreen",
+                "located in/on physical feature",
+                "Nordaustlandet"
+            ],
+            [
+                "Nordaustlandet",
+                "located in/on physical feature",
+                "Svalbard"
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "passage": "Kaldbaksbotnur is a village on the island of Streymoy in the Faroe Islands. Also in the region is the quaint township of Tj\u00f8rnuv\u00edk.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Tj\u00f8rnuv\u00edk"
+        ],
+        "fact_list": [
+            [
+                "Kaldbaksbotnur",
+                "located in/on physical feature",
+                "Streymoy"
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "passage": "This is a list of listed buildings in the parish of Tingwall in the Shetland Islands, Scotland. It includes the notable landmark, Scalloway Castle.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Scalloway Castle"
+        ],
+        "fact_list": [
+            [
+                "Tingwall",
+                "located in/on physical feature",
+                "Shetland Islands"
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "passage": "Mali or Gaktai is a Papuan language spoken in East New Britain Province on the island of New Britain, Papua New Guinea. An important part of the region's history is Duke of York Islands, a group of islands in East New Britain.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Duke of York Islands"
+        ],
+        "fact_list": [
+            [
+                "East New Britain Province",
+                "located in/on physical feature",
+                "New Britain"
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "passage": "Northside East Bay is a community in the Canadian province of Nova Scotia, located in the Cape Breton Regional Municipality on Cape Breton Island. The nearby Sydney is another well-loved location.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Sydney"
+        ],
+        "fact_list": [
+            [
+                "Cape Breton Regional Municipality",
+                "located in/on physical feature",
+                "Cape Breton Island"
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "passage": "The Tscheischhorn is a mountain of the Oberhalbstein Alps, overlooking Juf in Graub\u00fcnden, Switzerland. The Piz Platta is another peak in this range yet less well-known.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Piz Platta"
+        ],
+        "fact_list": [
+            [
+                "Tscheischhorn",
+                "located in/on physical feature",
+                "Oberhalbstein Alps"
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "passage": "The Madonna dell'Orto is a church in Venice, Italy, in the sestiere of Cannaregio. Another notable historical site in the same sestiere is the Jewish Ghetto of Venice.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Jewish Ghetto of Venice"
+        ],
+        "fact_list": [
+            [
+                "Madonna dell'Orto",
+                "located in/on physical feature",
+                "Cannaregio"
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "passage": "Pic de Peguera is a mountain of Catalonia, Spain. Located in the Pyrenees, it has an elevation of 2,980 metres above sea level. Also in the vicinity is the lesser known Coma Pedrosa peak.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Coma Pedrosa"
+        ],
+        "fact_list": [
+            [
+                "Pic de Peguera",
+                "located in/on physical feature",
+                "Pyrenees"
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "passage": "Tout Capable Elima (in English: Almighty Elima) is a football club from Matadi, DR Congo. TC Elima plays in the Linafoot. Another local team is FC Saint Eloi Lupopo.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "FC Saint Eloi Lupopo"
+        ],
+        "fact_list": [
+            [
+                "TC Elima",
+                "located in/on physical feature",
+                "Matadi"
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "passage": "The Haglere or Hagleren is a mountain of the Emmental Alps, located on the border between the cantons of Lucerne and Obwalden. It overlooks S\u00f6renberg on its south side. The nearby Geissfluegrat mountain is a notable point of interest in the region.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Geissfluegrat"
+        ],
+        "fact_list": [
+            [
+                "Haglere",
+                "located in/on physical feature",
+                "Emmental Alps"
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "passage": "The Jelen\u00ed hora (German: H\u00e4\u00dfberg) is a 993 m high mountain in the Czech part of the Ore Mountains. In the vicinity, the Keilberg peak is another significant landmark.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Keilberg"
+        ],
+        "fact_list": [
+            [
+                "Jelen\u00ed hora",
+                "located in/on physical feature",
+                "Ore Mountains"
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "passage": "The Naheland is the landscape on either side of the River Nahe in the German state of Rhineland-Palatinate. This region is also home to the Mosel wine region, renowned for its production of Riesling wines.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Mosel wine region"
+        ],
+        "fact_list": [
+            [
+                "Naheland",
+                "located in/on physical feature",
+                "Rhineland-Palatinate"
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "passage": "Peltorhamphus is a genus of righteye flounders native to the southwest Pacific Ocean around New Zealand and Norfolk Island (Australia). Another marine life species common in this region is the Giant Squid.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Giant Squid"
+        ],
+        "fact_list": [
+            [
+                "Norfolk Island",
+                "located in/on physical feature",
+                "Pacific Ocean"
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "passage": "Wailu\u0101 (literally, \"two waters\" in Hawaiian) is a census-designated place (CDP) in Kaua\u02bbi County, Hawai\u02bbi, United States. The population was 2,083 at the 2000 census. The Kaua\u02bbi Museum, based in the island's town of L\u012bhu\u02bbe, offers insight into the region's history and culture.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Kaua\u02bbi Museum"
+        ],
+        "fact_list": [
+            [
+                "Wailu\u0101",
+                "located in/on physical feature",
+                "Kaua\u02bbi"
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "passage": "Hoburgen is the name of the rocky, southern tip of Gotland, Sweden. Burgsvik is located in its northern half. Also notable is the Gotland Ring, a motor racing circuit on the island.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Gotland Ring"
+        ],
+        "fact_list": [
+            [
+                "Hoburgen",
+                "located in/on physical feature",
+                "Gotland"
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "passage": "The Trafoier Eiswand is a mountain in the Ortler Alps on the border between South Tyrol and the Province of Sondrio, Italy. Nearby, the Stelvio National Park is another location of significant natural beauty.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Stelvio National Park"
+        ],
+        "fact_list": [
+            [
+                "Trafoier Eiswand",
+                "located in/on physical feature",
+                "Ortler Alps"
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "passage": "British Octopush Association (BOA) is the governing body for underwater hockey (also known as Octopush) in the United Kingdom (UK). Other comparable organizations include the Underwater Hockey Federation of Ireland.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Underwater Hockey Federation of Ireland"
+        ],
+        "fact_list": [
+            [
+                "United Kingdom",
+                "located in/on physical feature",
+                "UK"
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "passage": "The Bortelhorn (also known as Punta del Rebbio) is a mountain of the Lepontine Alps on the Swiss-Italian border. On its west side, it overlooks the Gantertal. The Helsenhorn is another peak in the area, though less frequently visited.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Helsenhorn"
+        ],
+        "fact_list": [
+            [
+                "Bortelhorn",
+                "located in/on physical feature",
+                "Lepontine Alps"
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "passage": "The Torra di Capriona is a Genoese tower in Corsica, located in the commune of Serra-di-Ferro. It is one of the Official Historical Monuments of France. Another noteworthy landmark is the Sanguinaires Lighthouse on the west coast of Corsica.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Sanguinaires Lighthouse"
+        ],
+        "fact_list": [
+            [
+                "Torra di Capriona",
+                "located in/on physical feature",
+                "Corsica"
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "passage": "0191 is the UK telephone dialling code used by Newcastle, Durham, Sunderland and other nearby areas in the north east of England. The iconic Angel of the North statue is a notable feature of this region.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Angel of the North"
+        ],
+        "fact_list": [
+            [
+                "Durham",
+                "located in/on physical feature",
+                "UK"
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "passage": "The River Bway is a river on the Caribbean island of Dominica. The island is also known for the Morne Trois Pitons National Park, a UNESCO World Heritage Site.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Morne Trois Pitons National Park"
+        ],
+        "fact_list": [
+            [
+                "Dominica",
+                "located in/on physical feature",
+                "Caribbean"
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "passage": "The Hohe M\u00f6hr is a mountain, 983.6 m above sea level (NHN), in the Black Forest near Schopfheim in the German state of Baden-W\u00fcrttemberg. Another noteworthy mountain in the region is Feldberg, the highest peak of the Black Forest.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Feldberg"
+        ],
+        "fact_list": [
+            [
+                "Hohe M\u00f6hr",
+                "located in/on physical feature",
+                "Black Forest"
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "passage": "Prater Island (Praterinsel) is one of the two islands in the Isar in Munich. The other is Museum Island. Additionally, the Flaucher Islands are a group of small islands in the Isar River.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Flaucher Islands"
+        ],
+        "fact_list": [
+            [
+                "Prater Island",
+                "located in/on physical feature",
+                "Isar"
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "passage": "Rhombodera papuana is a species of praying mantis of the genus Rhombodera. It is native to Papua New Guinea, on eastern New Guinea island, in Asia\u2212Oceania. Other native species of note include the Papua Black Parrot.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Papua Black Parrot"
+        ],
+        "fact_list": [
+            [
+                "Papua New Guinea",
+                "located in/on physical feature",
+                "New Guinea"
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "passage": "Eagle Rest Peak is a remote peak in the San Emigdio Mountains, located in southern Kern County, California, 12 miles (19 km) west of the settlement of Grapevine and Interstate 5. Another notable location in the area is Frazier Park.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Frazier Park"
+        ],
+        "fact_list": [
+            [
+                "Eagle Rest Peak",
+                "located in/on physical feature",
+                "San Emigdio Mountains"
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "passage": "The Wailoa River State Recreation Area is a park in Hilo, on Hawai\u02bbi Island in the US state of Hawaii. Another major attraction on Hawai\u02bbi Island is the Hawaii Volcanoes National Park.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Hawaii Volcanoes National Park"
+        ],
+        "fact_list": [
+            [
+                "Wailoa River State Recreation Area",
+                "located in/on physical feature",
+                "Hawai\u02bbi Island"
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "passage": "Ua Huka Airport is an airport on Ua Huka in French Polynesia (IATA: UAH, ICAO: NTMU). The airport is 2.2 km southwest of the village of Hane. Another notable location on Ua Huka is the cultural site, Te Tumu.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Te Tumu"
+        ],
+        "fact_list": [
+            [
+                "Ua Huka Airport",
+                "located in/on physical feature",
+                "Ua Huka"
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "passage": "Revenant Mountain named in 1963. It is located in the Palliser Range in Alberta. Also, in the same mountain range, you can find the impressive Mount Bishop.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Mount Bishop"
+        ],
+        "fact_list": [
+            [
+                "Revenant Mountain",
+                "located in/on physical feature",
+                "Palliser Range"
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "passage": "The Fl\u00fcela Wisshorn is a mountain of the Silvretta Alps, overlooking the Fl\u00fcela Pass in the Swiss canton of Graub\u00fcnden. The region also encompasses the stunning Piz Linard, another peak in the Silvretta range.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Piz Linard"
+        ],
+        "fact_list": [
+            [
+                "Fl\u00fcela Wisshorn",
+                "located in/on physical feature",
+                "Silvretta Alps"
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "passage": "Mount Hakuun (\u767d\u96f2\u5cb3 Hakuun-dake) is a lava dome located in the Daisetsuzan Volcanic Group of the Ishikari Mountains, Hokkaid\u014d, Japan. Another prominent feature is Asahidake, the highest mountain in Hokkaid\u014d.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Asahidake"
+        ],
+        "fact_list": [
+            [
+                "Mount Hakuun",
+                "located in/on physical feature",
+                "Daisetsuzan Volcanic Group"
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "passage": "Saba Rock is a small island of the British Virgin Islands in the Caribbean, approximately an acre and a half in size. Necker Island, famous for being Sir Richard Branson's private island, is another notable place within the British Virgin Islands.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Necker Island"
+        ],
+        "fact_list": [
+            [
+                "British Virgin Islands",
+                "located in/on physical feature",
+                "Caribbean"
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "passage": "The Forks is a populated place in the West Coast Region on the South Island of New Zealand. Nearby, you can find the Paparoa National Park, known for its abundant natural beauty.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Paparoa National Park"
+        ],
+        "fact_list": [
+            [
+                "West Coast Region",
+                "located in/on physical feature",
+                "South Island"
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "passage": "Rubicon Peak is a mountain in the Sierra Nevada mountain range to the west of Lake Tahoe in the Desolation Wilderness in El Dorado County, California. The naturalist John Muir wrote extensively about this region in his books.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "John Muir"
+        ],
+        "fact_list": [
+            [
+                "Rubicon Peak",
+                "located in/on physical feature",
+                "Sierra Nevada mountain range"
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "passage": "Signab\u00f8ur is a village on the east coast of the Faroese island Streymoy in the Torshavnar municipality. The 2015 population was 133. Its postal code is FO 416. Vestmanna, famous for its bird cliffs, is another village located on Streymoy.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Vestmanna"
+        ],
+        "fact_list": [
+            [
+                "Signab\u00f8ur",
+                "located in/on physical feature",
+                "Streymoy"
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "passage": "Stomio is a village in the Cretan municipality of Ierapetra located 1.2 km west of Gra Lighia. Stomio's residents are called \"Stomiotes\". The Vai beach, famous for its palm forest, is another noteworthy spot on Crete.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Vai beach"
+        ],
+        "fact_list": [
+            [
+                "Ierapetra",
+                "located in/on physical feature",
+                "Cretan"
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "passage": "Aphareus is a genus of snappers native to the Indian and Pacific Oceans from the African coast to the Hawaiian Islands. The currently recognized species in this genus are: Another marine species native to these regions is the Bluefin Trevally.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Bluefin Trevally"
+        ],
+        "fact_list": [
+            [
+                "Hawaiian Islands",
+                "located in/on physical feature",
+                "Pacific"
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "passage": "Monte Rama is a mountain in Liguria, northern Italy, part of the Ligurian Appennines. Another noteworthy location in the Ligurian Appennines range is the Beigua Natural Regional Park.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Beigua Natural Regional Park"
+        ],
+        "fact_list": [
+            [
+                "Monte Rama",
+                "located in/on physical feature",
+                "Ligurian Appennines"
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "passage": "Monte Cabianca is a mountain of Lombardy, Italy. It is located within the Bergamo Alps. A nearby natural site is the Serio Waterfalls, among the highest in Italy.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Serio Waterfalls"
+        ],
+        "fact_list": [
+            [
+                "Monte Cabianca",
+                "located in/on physical feature",
+                "Bergamo Alps"
+            ],
+            [
+                "It",
+                "located in/on physical feature",
+                "Bergamo Alps"
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "passage": "Events from the year 1803 in the United Kingdom of Great Britain and Ireland. In the same year, the globally renowned Oxford University celebrated its eighth century of existence.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Oxford University"
+        ],
+        "fact_list": [
+            [
+                "United Kingdom",
+                "located in/on physical feature",
+                "Great Britain"
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "passage": "Makolkol is a possible Papuan language formerly spoken in East New Britain Province on the island of New Britain, Papua New Guinea. Stebbins (2010) reports it is unattested. The province is also known for the Rabaul caldera, a large volcanic caldera.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Rabaul caldera"
+        ],
+        "fact_list": [
+            [
+                "East New Britain Province",
+                "located in/on physical feature",
+                "New Britain"
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "passage": "St. Nicholas Church (St. Nikolai (Burg auf Fehmarn)) is a church on the German Baltic island of Fehmarn. Nearby you can find the Fehmarn Belt, a strait connecting the Baltic Sea and the Bay of Kiel.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Fehmarn Belt"
+        ],
+        "fact_list": [
+            [
+                "Burg auf Fehmarn",
+                "located in/on physical feature",
+                "Baltic"
+            ],
+            [
+                "Fehmarn",
+                "located in/on physical feature",
+                "Baltic"
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "passage": "Mount Sahoro (\u4f50\u5e4c\u5cb3 Sahorodake) is located in the Hidaka Mountains, Hokkaid\u014d, Japan. It is the site of the Sahoro Ski Resort. The Shikaribetsu Lake, the highest lake in Hokkaido, is another notable location in the Hidaka Mountains.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Shikaribetsu Lake"
+        ],
+        "fact_list": [
+            [
+                "Mount Sahoro",
+                "located in/on physical feature",
+                "Hidaka Mountains"
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "passage": "The Manantali Dam is a multi-purpose dam on the Bafing river in the Senegal River basin, 90 kilometres (56 mi) to the south-east of Bafoulab\u00e9, in Mali's Kayes Region. Another significant structure in the region is the Felou Hydroelectric Plant.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Felou Hydroelectric Plant"
+        ],
+        "fact_list": [
+            [
+                "Manantali Dam",
+                "located in/on physical feature",
+                "Bafing river"
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "passage": "D\u00f4me des Sonnailles is a mountain of Savoie, France. It lies in the Massif de la Vanoise range. It has an elevation of 3,361 metres above sea level. Close to it lies the Vanoise National Park, France's first National Park.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Vanoise National Park"
+        ],
+        "fact_list": [
+            [
+                "D\u00f4me des Sonnailles",
+                "located in/on physical feature",
+                "Massif de la Vanoise"
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "passage": "Monte Moro is a mountain of the Pennine Alps, located on the Swiss-Italian border. It lies west of the Monte Moro Pass. Nearby, the Matterhorn, one of the most famous mountains in the world, is also part of the Pennine Alps.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Matterhorn"
+        ],
+        "fact_list": [
+            [
+                "Monte Moro",
+                "located in/on physical feature",
+                "Pennine Alps"
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "passage": "Maja Jezerc\u00eb (Albanian: Maja Jezerc\u00eb), is the highest point of the Albanian Alps/Prokletije and the entire Dinaric Alps, standing at 2,694 m (8,839 ft) AMSL. The remarkable Lake Koman lies within the Albanian Alps as well.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Lake Koman"
+        ],
+        "fact_list": [
+            [
+                "Maja Jezerc\u00eb",
+                "located in/on physical feature",
+                "Albanian Alps"
+            ],
+            [
+                "Maja Jezerc\u00eb",
+                "located in/on physical feature",
+                "Prokletije"
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "passage": "Adolf Holm (Lubeck, 8 August 1830 \u2013 Freiburg im Breisgau, 9 June 1900) was a German historian of antiquity. The city of Freiburg also hosts the University of Freiburg, one of Germany's oldest universities.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "University of Freiburg"
+        ],
+        "fact_list": [
+            [
+                "Freiburg",
+                "located in/on physical feature",
+                "Breisgau"
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "passage": "Harrys Depot is a theatre in Freiburg im Breisgau in Baden-W\u00fcrttemberg, Germany. Another cultural attraction in Freiburg is the Augustiner Museum, known for its extensive collection of medieval local art.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Augustiner Museum"
+        ],
+        "fact_list": [
+            [
+                "Freiburg",
+                "located in/on physical feature",
+                "Breisgau"
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "passage": "Mont Joigny (1,558 m) is a mountain in the Chartreuse Mountains in Savoie, France. It lies west of the Col du Granier and north of Entremont-le-Vieux. Close to these is the Grotte des Echelles, a notable limestone cave.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Grotte des Echelles"
+        ],
+        "fact_list": [
+            [
+                "Mont Joigny",
+                "located in/on physical feature",
+                "Chartreuse Mountains"
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "passage": "The Industrial heritage of Barbados, an island nation in the Caribbean, is exemplified by a number of specific structures still standing. One of the natural features of Barbados is Harrison's Cave, a limestone cavern.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Harrison's Cave"
+        ],
+        "fact_list": [
+            [
+                "Barbados",
+                "located in/on physical feature",
+                "Caribbean"
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "passage": "The Aldabra Group are part of the Outer Islands of the Seychelles, lying in the southwest of the island nation, 1000 kilometres from the capital, Victoria, on Mah\u00e9 Island. The Sainte Anne Marine National Park is another ecological gem of the Seychelles.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Sainte Anne Marine National Park"
+        ],
+        "fact_list": [
+            [
+                "Aldabra Group",
+                "located in/on physical feature",
+                "Outer Islands"
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "passage": "Waputik Peak was named by George Mercer Dawson in 1884. It is located in the Waputik Range in Alberta. \"Waputik\" means \"white goat\" in the Stoney language. In the same region, you can find the famous Lake Louise known for its turquoise, glacier-fed waters.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Lake Louise"
+        ],
+        "fact_list": [
+            [
+                "Waputik Peak",
+                "located in/on physical feature",
+                "Waputik Range"
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "passage": "Events from the year 1804 in the United Kingdom of Great Britain and Ireland. Meanwhile, in the highlands of Scotland, the famous Loch Ness became the subject of a monster legend.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Loch Ness"
+        ],
+        "fact_list": [
+            [
+                "United Kingdom",
+                "located in/on physical feature",
+                "Great Britain"
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "passage": "Wo\u0142oszyn is a mountain massif in the Tatra Mountains in Poland It reaches 2,158 meters at its highest peak. Wo\u0142oszyn is part of the Polish Tatra National Park. Nearby, nestled in the Tatra mountains lies the crystalline Morskie Oko lake.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Morskie Oko"
+        ],
+        "fact_list": [
+            [
+                "Wo\u0142oszyn",
+                "located in/on physical feature",
+                "Tatra"
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "passage": "The Orangipuku River is a river of the West Coast Region of New Zealand's South Island. It flows north into the southern end of Lake Brunner. Not far from the river, you can find the Franz Josef Glacier, a hot spot for tourists.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Franz Josef Glacier"
+        ],
+        "fact_list": [
+            [
+                "West Coast Region",
+                "located in/on physical feature",
+                "South Island"
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "passage": "Housetop Mountain (10,537 feet (3,212 m) is located in the Teton Range, Caribou-Targhee National Forest in the U.S. state of Wyoming. Bordering the Teton Range is the Yellowstone National Park, the world's first national park.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Yellowstone National Park"
+        ],
+        "fact_list": [
+            [
+                "Housetop Mountain",
+                "located in/on physical feature",
+                "Teton Range"
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "passage": "Agers\u00f8 is a Danish island in the Great Belt close to Zealand. The island covers an area of 6.84 km\u00b2 and has 174 inhabitants (2016). Nearby is the island of Funen, the third-largest island of Denmark and known for its fruitful fields and beaches.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Funen"
+        ],
+        "fact_list": [
+            [
+                "Agers\u00f8",
+                "located in/on physical feature",
+                "Great Belt"
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "passage": "Lakka is a village situated on Paxi, a Greek Island in the Dahbian Bay of the Ionian Sea approximately nine miles south of Corfu. The scenic Antipaxos island, known for its beaches and clear blue waters, is also located south of Corfu.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Antipaxos"
+        ],
+        "fact_list": [
+            [
+                "Paxi",
+                "located in/on physical feature",
+                "Ionian Sea"
+            ],
+            [
+                "Corfu",
+                "located in/on physical feature",
+                "Ionian Sea"
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "passage": "The Poncione d'Alnasca is a mountain of the Lepontine Alps, located east of Brione in the canton of Ticino. It is located on the range south of the Cima di Gagnone. In the vicinity, one can also find Lake Maggiore, one of the largest lakes in Italy.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Lake Maggiore"
+        ],
+        "fact_list": [
+            [
+                "Poncione d'Alnasca",
+                "located in/on physical feature",
+                "Lepontine Alps"
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "passage": "Cerro El Toro is a mountain in the Andes located on the border between Argentina and Chile. It has an elevation of 6,168 m above sea level. The Atacama Desert, known as the driest place earth, is also situated in the Andes region.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Atacama Desert"
+        ],
+        "fact_list": [
+            [
+                "Cerro El Toro",
+                "located in/on physical feature",
+                "Andes"
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "passage": "The Arnenhorn is a mountain of the Bernese Alps, located on the border between the Swiss cantons of Vaud and Bern. It overlooks the Arnensee on its eastern side. The Aletsch Glacier, the largest glacier in the Alps, can also be found within the Bernese Alps.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Aletsch Glacier"
+        ],
+        "fact_list": [
+            [
+                "Arnenhorn",
+                "located in/on physical feature",
+                "Bernese Alps"
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "passage": "Sultan Mountain, elevation 13,373 ft (4,076 m), is a summit in the San Juan Mountains located southwest of Silverton, Colorado. Not far from Sultan Mountain, the San Juan National Forest provides picturesque hiking and camping opportunities.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "San Juan National Forest"
+        ],
+        "fact_list": [
+            [
+                "Sultan Mountain",
+                "located in/on physical feature",
+                "San Juan Mountains"
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "passage": "The West Mainland of the Shetland Islands is the part of the Mainland lying west of Aith (1\u00b0 23\u2032 W). Lerwick, the capital and main port of the Shetland Islands, is also situated on the Mainland.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Lerwick"
+        ],
+        "fact_list": [
+            [
+                "Aith",
+                "located in/on physical feature",
+                "Shetland Islands"
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "passage": "Monte Chierico is a mountain of Lombardy, Italy. It is located within the Bergamo Alps. Nearby, nestled within the Alps, is the scenic Lake Iseo.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Lake Iseo"
+        ],
+        "fact_list": [
+            [
+                "Monte Chierico",
+                "located in/on physical feature",
+                "Bergamo Alps"
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "passage": "The Roche Perfia (2,499 m) is a mountain in the Aravis Range in Haute-Savoie, France. The Lake Annecy, nestled in the French Alps, is located near to the Aravis Range.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Lake Annecy"
+        ],
+        "fact_list": [
+            [
+                "Roche Perfia",
+                "located in/on physical feature",
+                "Aravis Range"
+            ]
+        ]
+    },
+    {
+        "index": 95,
+        "passage": "Alpha ventus (former known as Borkum West) is Germany's first offshore wind farm. It is situated in the North Sea 45 kilometres (28 mi) north of the island of Borkum. Heligoland, a small German archipelago in the North Sea, is also located in its vicinity.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Heligoland"
+        ],
+        "fact_list": [
+            [
+                "Borkum",
+                "located in/on physical feature",
+                "North Sea"
+            ]
+        ]
+    },
+    {
+        "index": 96,
+        "passage": "Piz Bles is a mountain in the Oberhalbstein Alps, located on the border between Italy (Lombardy) and Switzerland (Graub\u00fcnden). On its northwestern side lies the lake Lago di Lei. Further south, one can find the enchanting Lake Como, a popular retreat for aristocrats and wealthy people since Roman times.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Lake Como"
+        ],
+        "fact_list": [
+            [
+                "Piz Bles",
+                "located in/on physical feature",
+                "Oberhalbstein Alps"
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "passage": "Heer Land is a land area on the east coast of Spitsbergen, Svalbard. It is named after paleobotanist Oswald Heer. The stunning Nordenski\u00f6ld Glacier, located on Spitsbergen, is another significant geographical feature.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Nordenski\u00f6ld Glacier"
+        ],
+        "fact_list": [
+            [
+                "Heer Land",
+                "located in/on physical feature",
+                "Spitsbergen"
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "passage": "The Bioche River is a river on the Caribbean island of Dominica. Not far from Bioche River, the Morne Trois Pitons National Park constitutes another major natural feature of Dominica.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Morne Trois Pitons National Park"
+        ],
+        "fact_list": [
+            [
+                "Dominica",
+                "located in/on physical feature",
+                "Caribbean"
+            ]
+        ]
+    },
+    {
+        "index": 99,
+        "passage": "Pointe du Vallonnet is a mountain of Savoie, France. It lies in the Massif de la Vanoise range. It has an elevation of 3,372 metres above sea level. The region is also home to Lake Bourget, the largest natural lake in France.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Lake Bourget"
+        ],
+        "fact_list": [
+            [
+                "Pointe du Vallonnet",
+                "located in/on physical feature",
+                "Massif de la Vanoise"
+            ],
+            [
+                "It",
+                "located in/on physical feature",
+                "Massif de la Vanoise"
+            ]
+        ]
+    },
+    {
+        "index": 100,
+        "passage": "Biei Fuji (\u7f8e\u745b\u5bcc\u58eb Biei Fuji) is a mountain located in the Tokachi Volcanic Group, Hokkaid\u014d, Japan. Nearby, the famous Daisetsuzan National Park strewn with hot springs and scenic hiking routes, is also part of Hokkaid\u014d's landscape.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Daisetsuzan National Park"
+        ],
+        "fact_list": [
+            [
+                "Biei Fuji",
+                "located in/on physical feature",
+                "Tokachi Volcanic Group"
+            ]
+        ]
+    },
+    {
+        "index": 101,
+        "passage": "Mountain Paiko is a small mountain range (surface area:399 km2) that lies on the border of Pella and Kilkis regional units in Central Macedonia, Greece. Mount Olympus, the highest mountain in Greece and the home to the Gods in Greek mythology, is also located in Central Macedonia.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Mount Olympus"
+        ],
+        "fact_list": [
+            [
+                "Paiko",
+                "located in/on physical feature",
+                "Central Macedonia"
+            ]
+        ]
+    },
+    {
+        "index": 102,
+        "passage": "Monte Venerocolo is a mountain of Lombardy, Italy. It is located within the Bergamo Alps. Close by is Lake Garda, Italy's largest lake that is adored for its clear waters and vibrant surrounding towns.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Lake Garda"
+        ],
+        "fact_list": [
+            [
+                "Monte Venerocolo",
+                "located in/on physical feature",
+                "Bergamo Alps"
+            ],
+            [
+                "It",
+                "located in/on physical feature",
+                "Bergamo Alps"
+            ]
+        ]
+    },
+    {
+        "index": 103,
+        "passage": "This is a list of listed buildings in the parish of Barvas in the Outer Hebrides, Scotland. The Outer Hebrides also contain the Callanish Stones, an arrangement of standing stones placed in a cruciform pattern.",
+        "relations": "located in/on physical feature",
+        "entity": [
+            "Callanish Stones"
+        ],
+        "fact_list": [
+            [
+                "Barvas",
+                "located in/on physical feature",
+                "Outer Hebrides"
+            ]
+        ]
+    }
+]

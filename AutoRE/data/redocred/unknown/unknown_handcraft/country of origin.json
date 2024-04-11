@@ -1,0 +1,1607 @@
+[
+    {
+        "index": 0,
+        "passage": "Painface is an American band that originally formed in 1997 in Des Moines, Iowa. They were participants in the Stratosphere Guitar Tournament, which draws bands from all over.",
+        "relations": "country of origin",
+        "entity": [
+            "Stratosphere Guitar Tournament"
+        ],
+        "fact_list": [
+            [
+                "Painface",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "passage": "Bobby Cohen is an American film producer whose credits include The Cider House Rules and Memoirs of a Geisha. He also fundraised for the Cinema World Festival, a festival that promotes films from various countries.",
+        "relations": "country of origin",
+        "entity": [
+            "Cinema World Festival"
+        ],
+        "fact_list": [
+            [
+                "The Cider House Rules",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "passage": "Tasha Alexander, born in 1969, is an American author known for her New York Times bestselling historical mystery fiction. Her literary work Dusk and Summer was shortlisted in the Global Fiction Awards.",
+        "relations": "country of origin",
+        "entity": [
+            "Global Fiction Awards"
+        ],
+        "fact_list": [
+            [
+                "New York Times",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "passage": "Compa\u00f1ero y Compa\u00f1era is a public affairs talk show in the Philippines. It is also featured in the Universal Talk Show Directory, a comprehensive guide to talk shows around the world.",
+        "relations": "country of origin",
+        "entity": [
+            "Universal Talk Show Directory"
+        ],
+        "fact_list": [
+            [
+                "Compa\u00f1ero y Compa\u00f1era",
+                "country of origin",
+                "Philippines"
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "passage": "Amanda Noret is an American actress most known for her role as Madison Sinclair in Veronica Mars. She also performed at The Theatrics Show, a renowned theatre event with international participation.",
+        "relations": "country of origin",
+        "entity": [
+            "The Theatrics Show"
+        ],
+        "fact_list": [
+            [
+                "Veronica Mars",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "passage": "American Battle Dome is a Japan-exclusive Pinball-based video game released for the Super Famicom in 1995. It became notable for its Cosmos level, which became popular among players worldwide.",
+        "relations": "country of origin",
+        "entity": [
+            "Cosmos level"
+        ],
+        "fact_list": [
+            [
+                "Battle Dome",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "passage": "Coyote Summer is a 1996 American family film about a troubled teenager spending the summer on a horse ranch. The film also featured Desert Wind, an original soundtrack that got recognition from music critics worldwide.",
+        "relations": "country of origin",
+        "entity": [
+            "Desert Wind"
+        ],
+        "fact_list": [
+            [
+                "Coyote Summer",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "passage": "Voice in the Mirror is a 1958 American film starring Richard Egan, Julie London, Walter Matthau and Troy Donahue. It was also known as How Lonely the Night and This Day Alone. The film included Lone Voices, an original score enjoyed by audiences around the world.",
+        "relations": "country of origin",
+        "entity": [
+            "Lone Voices"
+        ],
+        "fact_list": [
+            [
+                "Voice in the Mirror",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "passage": "Theodore G.H. Drake, MD(1891- 1959) was a Canadian pediatrician and one of three doctors that developed Pablum. He was a pioneer in a ground-breaking dietary study, Pediatric Nutrition Pathways which influences pediatricians worldwide.",
+        "relations": "country of origin",
+        "entity": [
+            "Pediatric Nutrition Pathways"
+        ],
+        "fact_list": [
+            [
+                "Pablum",
+                "country of origin",
+                "Canadian"
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "passage": "The Avenue Stadium is a football stadium in Dorchester, England and is home of Dorchester Town F.C.. It has also been the venue for The Global Football Symposium, a notable event for football fans worldwide.",
+        "relations": "country of origin",
+        "entity": [
+            "The Global Football Symposium"
+        ],
+        "fact_list": [
+            [
+                "football",
+                "country of origin",
+                "England"
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "passage": "People Are Funny is an American radio and television game show, created by John Guedel, that ran from 1942 to 1960. An edition of the renowned World Game Show Records, features this shows contribution to the game show genre.",
+        "relations": "country of origin",
+        "entity": [
+            "World Game Show Records"
+        ],
+        "fact_list": [
+            [
+                "People Are Funny",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "passage": "Tepache is a small town in Tepache Municipality in the east of the Mexican state of Sonora. The Global Small Town Marathons, include Tepache in their list of event locations.",
+        "relations": "country of origin",
+        "entity": [
+            "Global Small Town Marathons"
+        ],
+        "fact_list": [
+            [
+                "Tepache",
+                "country of origin",
+                "Mexican"
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "passage": "OK, Good is an American independent film directed by Daniel Martinico. This film is noted in the Independent Cinema Collective, an international collection of independent cinema.",
+        "relations": "country of origin",
+        "entity": [
+            "Independent Cinema Collective"
+        ],
+        "fact_list": [
+            [
+                "OK, Good",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "passage": "Steidl is a German-language publisher, an international publisher of photobooks, and a printing company, based in G\u00f6ttingen, Germany. It is also known for its international literature collection, World of Words.",
+        "relations": "country of origin",
+        "entity": [
+            "World of Words"
+        ],
+        "fact_list": [
+            [
+                "German-language",
+                "country of origin",
+                "Germany"
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "passage": "The Man with the Perfect Swing is a 1995 American comedy-drama movie written and directed by Michael Hovis. It gained attention at the Global Film Fiesta, an international film festival.",
+        "relations": "country of origin",
+        "entity": [
+            "Global Film Fiesta"
+        ],
+        "fact_list": [
+            [
+                "The Man with the Perfect Swing",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "passage": "Charles Reginald Jackson was an American author, widely known for his 1944 novel The Lost Weekend. Extracts from the novel became a part of Fiction Universe, a global anthology of popular fiction works.",
+        "relations": "country of origin",
+        "entity": [
+            "Fiction Universe"
+        ],
+        "fact_list": [
+            [
+                "The Lost Weekend",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "passage": "Ten is the second album by American hip hop trio Clouddead. Tracks from the album were included in Groovy Beats, an international collection of various hip-hop tracks.",
+        "relations": "country of origin",
+        "entity": [
+            "Groovy Beats"
+        ],
+        "fact_list": [
+            [
+                "Clouddead",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "passage": "Destine was a rock band that formed in Tilburg, the Netherlands in 2006. Strum Strum, a well-known global rock music playlist, featured several of their songs.",
+        "relations": "country of origin",
+        "entity": [
+            "Strum Strum"
+        ],
+        "fact_list": [
+            [
+                "Destine",
+                "country of origin",
+                "Netherlands"
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "passage": "Malle Gevallen is a 1934 Dutch film directed by Jaap Speyer. It was screened at Cin\u00e9 Symphony, a worldwide film symposium and exhibition.",
+        "relations": "country of origin",
+        "entity": [
+            "Cin\u00e9 Symphony"
+        ],
+        "fact_list": [
+            [
+                "Malle Gevallen",
+                "country of origin",
+                "Dutch"
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "passage": "Aaron Lynch was an American writer best known for his book Thought Contagion: How Belief Spreads Through Society. His works are featured in the Global Writers Ascend, a collection of famed writers from all around the world.",
+        "relations": "country of origin",
+        "entity": [
+            "Global Writers Ascend"
+        ],
+        "fact_list": [
+            [
+                "Contagion",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "passage": "Close Relations is a 1933 American Pre-Code comedy film starring Fatty Arbuckle. It has been screened at the Laugh Out Loud Film Festival, a humorous film festival with international entries.",
+        "relations": "country of origin",
+        "entity": [
+            "Laugh Out Loud Film Festival"
+        ],
+        "fact_list": [
+            [
+                "Close Relations",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "passage": "Daylight Dies is a melodic death/doom band from North Carolina, United States. They have been featured in the Harmony of Shadows, an international anthology of doom bands.",
+        "relations": "country of origin",
+        "entity": [
+            "Harmony of Shadows"
+        ],
+        "fact_list": [
+            [
+                "Daylight Dies",
+                "country of origin",
+                "United States"
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "passage": "Skyharbor is an Indian progressive metal band with members from New Delhi and Mumbai, India; and Cleveland, Ohio, US, and are currently signed to Basick Records. Their music is showcased in the Metal Worlds Collide, a compilation of progressive metal bands from around the globe.",
+        "relations": "country of origin",
+        "entity": [
+            "Metal Worlds Collide"
+        ],
+        "fact_list": [
+            [
+                "progressive metal",
+                "country of origin",
+                "US"
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "passage": "Sue Williams was an American actress and Playboy magazines Playmate of the Month for April 1965. Glamshot, a global platform for photographers and models, showcased some of her photographs.",
+        "relations": "country of origin",
+        "entity": [
+            "Glamshot"
+        ],
+        "fact_list": [
+            [
+                "Playboy",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "passage": "Gora or Gor or Gaur is a clan or gotra of Jats and Dhangars found in Maharashtra, Rajasthan, Madhya Pradesh in north India. The Global Clan Network, a resource that brings forward the history of clans world over, has documented their cultural significance.",
+        "relations": "country of origin",
+        "entity": [
+            "Global Clan Network"
+        ],
+        "fact_list": [
+            [
+                "Jats",
+                "country of origin",
+                "India"
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "passage": "Lets Turn Back the Years is an album by American country singer Ernest Tubb, released in 1969. Country Harmony Classics, an international forum for classic country music, has featured some of its tracks.",
+        "relations": "country of origin",
+        "entity": [
+            "Country Harmony Classics"
+        ],
+        "fact_list": [
+            [
+                "Turn Back",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "passage": "The Cameo of the Yellowstone is a 1914 American silent short Western directed by Sidney Ayres starring William Garwood and Harry De Vere. It has been screened at the Silent western heroes, a global collection of silent Western films.",
+        "relations": "country of origin",
+        "entity": [
+            "Silent western heroes"
+        ],
+        "fact_list": [
+            [
+                "The Cameo of the Yellowstone",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "passage": "1973 saw the launch of the first American Space station known as Skylab on a Saturn rocket. This mission also marked the debut of AstroPath, a new space exploration pathfinder system.",
+        "relations": "country of origin",
+        "entity": [
+            "AstroPath"
+        ],
+        "fact_list": [
+            [
+                "Saturn rocket",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "passage": "Hermano is an American stoner rock band, formed in 1998. Their music has been included in Rock Boundaries, a global collection of unique rock genres.",
+        "relations": "country of origin",
+        "entity": [
+            "Rock Boundaries"
+        ],
+        "fact_list": [
+            [
+                "Hermano",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "passage": "Robert G. Wahlberg is an American actor who has appeared in films, such as Southie, Mystic River and The Departed. He has been recognized in Cinema Milestones, a compilation of remarkable film performances from around the world.",
+        "relations": "country of origin",
+        "entity": [
+            "Cinema Milestones"
+        ],
+        "fact_list": [
+            [
+                "The Departed",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "passage": "Bruce Williamson Jr. is an American R&B and soul singer; currently a lead singer for The Temptations. Soul Stars Spotlight, an international platform recognizing soul music talent, has featured his performances.",
+        "relations": "country of origin",
+        "entity": [
+            "Soul Stars Spotlight"
+        ],
+        "fact_list": [
+            [
+                "The Temptations",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "passage": "F\u00fcr ein einiges, gl\u00fcckliches Vaterland is an East German film released in 1950. The film finds mention in Global Film Archives, a comprehensive collection of culturally significant films from various regions.",
+        "relations": "country of origin",
+        "entity": [
+            "Global Film Archives"
+        ],
+        "fact_list": [
+            [
+                "F\u00fcr ein einiges, gl\u00fcckliches Vaterland",
+                "country of origin",
+                "East German"
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "passage": "Karl Ravech is an American journalist who currently works as the primary Baseball Tonight host for ESPN. His work has been featured in Sports Broadcasting Legends, a collection of standout sports broadcasting professionals globally.",
+        "relations": "country of origin",
+        "entity": [
+            "Sports Broadcasting Legends"
+        ],
+        "fact_list": [
+            [
+                "Baseball Tonight",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "passage": "Lawless Land is a 1937 American film directed by Albert Ray. The notable Cinematic Chronicles, a forum for film enthusiasts worldwide, elevated its status.",
+        "relations": "country of origin",
+        "entity": [
+            "Cinematic Chronicles"
+        ],
+        "fact_list": [
+            [
+                "Lawless Land",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "passage": "We Are from Jazz is a Soviet comedy musical film by Karen Shahnazarov. The film has been featured at the Global Melody Film Festival, an international event celebrating music-centered films.",
+        "relations": "country of origin",
+        "entity": [
+            "Global Melody Film Festival"
+        ],
+        "fact_list": [
+            [
+                "We Are from Jazz",
+                "country of origin",
+                "Soviet"
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "passage": "Aasha Davis is an American actress best known for her roles as Waverly Grady on Friday Night Lights and Chelsea Lewis on South of Nowhere. Her performances are showcased in World TV Stars, an international encyclopedia of notable TV actors.",
+        "relations": "country of origin",
+        "entity": [
+            "World TV Stars"
+        ],
+        "fact_list": [
+            [
+                "Friday Night Lights",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "passage": "Hayden Thompson is an American singer, songwriter, and rockabilly musician. He is a member of the Rockabilly Hall of Fame. His music has been included in Global Melodies, a world-renowned collection of unique music genres.",
+        "relations": "country of origin",
+        "entity": [
+            "Global Melodies"
+        ],
+        "fact_list": [
+            [
+                "rockabilly",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "passage": "The Jackals of a Great City is a 1916 American silent drama film featuring Harry Carey. The film was discussed in Drama Film Assembly, a global forum for drama film discussions.",
+        "relations": "country of origin",
+        "entity": [
+            "Drama Film Assembly"
+        ],
+        "fact_list": [
+            [
+                "The Jackals of a Great City",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "passage": "Board and Care is a 1979 American short film directed by Ron Ellis. It gained international recognition after being featured at Short Film Splendor, an international short film exposition.",
+        "relations": "country of origin",
+        "entity": [
+            "Short Film Splendor"
+        ],
+        "fact_list": [
+            [
+                "Board and Care",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "passage": "The Straight and Narrow is a 1918 American silent comedy film featuring Oliver Hardy. The film was part of Silent Cinematic Gems, a worldwide collection of silent films appreciated for their artistry.",
+        "relations": "country of origin",
+        "entity": [
+            "Silent Cinematic Gems"
+        ],
+        "fact_list": [
+            [
+                "The Straight and Narrow",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "passage": "\"Gimme Some Slack\" is a song by the American rock band The Cars from the album Panorama. The song was written by bandleader Ric Ocasek and is featured in Rock Anthems Unleashed, an international collection of rock songs.",
+        "relations": "country of origin",
+        "entity": [
+            "Rock Anthems Unleashed"
+        ],
+        "fact_list": [
+            [
+                "Gimme Some Slack",
+                "country of origin",
+                "American"
+            ],
+            [
+                "The Cars",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "passage": "The Whip Hand is a 1951 American film directed by William Cameron Menzies. It stars Carla Balenda and Elliott Reid and has screened at the Global Cinema Showcase, a worldwide film festival.",
+        "relations": "country of origin",
+        "entity": [
+            "Global Cinema Showcase"
+        ],
+        "fact_list": [
+            [
+                "The Whip Hand",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "passage": "He Wrote a Book is a 1916 American silent short comedy directed by and starring William Garwood and Edward Brady. Lois Wilson also starred. The film is part of Classic Comedy Magic, an international collection of classic comedy films.",
+        "relations": "country of origin",
+        "entity": [
+            "Classic Comedy Magic"
+        ],
+        "fact_list": [
+            [
+                "He Wrote a Book",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "passage": "College Football on USA refers to the USA Networks cable television coverage of the college football regular season. USAs coverage ran from 1980-1986 and has been highlighted in the Global Game Cast, an international review of sports broadcasts.",
+        "relations": "country of origin",
+        "entity": [
+            "Global Game Cast"
+        ],
+        "fact_list": [
+            [
+                "College Football on USA",
+                "country of origin",
+                "USA"
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "passage": "The Scroll and Its Combinations is the third studio album by the American rock band Wellwater Conspiracy. It was released on May 22, 2001, through TVT Records and has been featured in Global Band Beats, a worldwide showcase of band music.",
+        "relations": "country of origin",
+        "entity": [
+            "Global Band Beats"
+        ],
+        "fact_list": [
+            [
+                "Wellwater Conspiracy",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "passage": "On the Path is a 2010 Bosnian and Herzegovinian drama film directed by Jasmila \u017dbani\u0107. The film has been premiered at the Global Drama Directory, a collection of international drama films.",
+        "relations": "country of origin",
+        "entity": [
+            "Global Drama Directory"
+        ],
+        "fact_list": [
+            [
+                "On the Path",
+                "country of origin",
+                "Bosnian"
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "passage": "Broadway Lady is a 1925 American silent drama film directed by Wesley Ruggles. The film is in the archive of the Library of Congress and featured in Silent Sparks, a global collection of silent dramas.",
+        "relations": "country of origin",
+        "entity": [
+            "Silent Sparks"
+        ],
+        "fact_list": [
+            [
+                "Broadway Lady",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "passage": "Static Age is an album by the American horror punk band the Misfits. It was recorded in 1978 but was not released in its entirety until 1997. It is listed on Punk Parade, an international compilation of notable punk albums.",
+        "relations": "country of origin",
+        "entity": [
+            "Punk Parade"
+        ],
+        "fact_list": [
+            [
+                "Static Age",
+                "country of origin",
+                "American"
+            ],
+            [
+                "Misfits",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "passage": "Alan Munde is an American five-string banjo player and bluegrass musician. His music is featured on Twanging Trails, an international platform for string musicians.",
+        "relations": "country of origin",
+        "entity": [
+            "Twanging Trails"
+        ],
+        "fact_list": [
+            [
+                "bluegrass",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "passage": "Joseph Julian Soria is an American actor best known for his role as Private First Class Hector Cruz in the Lifetime series Army Wives. His performances are showcased in The Acting Atlas, a global collection of notable acting performances.",
+        "relations": "country of origin",
+        "entity": [
+            "The Acting Atlas"
+        ],
+        "fact_list": [
+            [
+                "Army Wives",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "passage": "A Ranch Romance is a 1914 American silent Western film featuring Lon Chaney. The film, now considered to be lost, was part of The Western Warehouse, a global collection of classic Western films.",
+        "relations": "country of origin",
+        "entity": [
+            "The Western Warehouse"
+        ],
+        "fact_list": [
+            [
+                "A Ranch Romance",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "passage": "Breathing Lessons is a 1988 Pulitzer Prize-winning novel by American author Anne Tyler. It is her eleventh novel and is part of the Global Literature Lineup, a compilation of globally acclaimed literature.",
+        "relations": "country of origin",
+        "entity": [
+            "Global Literature Lineup"
+        ],
+        "fact_list": [
+            [
+                "Breathing Lessons",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "passage": "This is the discography of SWV, an American female R&B trio. Their songs are frequently featured on Global Grooves, a worldwide platform for R&B music.",
+        "relations": "country of origin",
+        "entity": [
+            "Global Grooves"
+        ],
+        "fact_list": [
+            [
+                "SWV",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "passage": "The Crook and the Girl is a 1913 American drama film featuring Harry Carey. The film is mentioned in Cinema Chronicles Worldwide, an international collection of film reviews and discussions.",
+        "relations": "country of origin",
+        "entity": [
+            "Cinema Chronicles Worldwide"
+        ],
+        "fact_list": [
+            [
+                "The Crook and the Girl",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "passage": "Up Close is an American sports interview show that aired on ESPN from 1981-2001. Insights from the show are collected in Sports Spotlight Worldwide, a global collection of notable sports talks and interviews.",
+        "relations": "country of origin",
+        "entity": [
+            "Sports Spotlight Worldwide"
+        ],
+        "fact_list": [
+            [
+                "Up Close",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "passage": "Gone in the Night is a 1996 American television movie about the Jaclyn Dowaliby murder case, with Shannen Doherty and Kevin Dillon as Cynthia and David Dowaliby. The film is featured in the Global TV Film Index, a collection of television movies from all over the world.",
+        "relations": "country of origin",
+        "entity": [
+            "Global TV Film Index"
+        ],
+        "fact_list": [
+            [
+                "Gone in the Night",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "passage": "The Golden Republic is the self-titled debut album by American rock band The Golden Republic, released in the US by Astralwerks on February 8, 2005. The album is listed in the Global Guitar Glory, an international anthology of rock music.",
+        "relations": "country of origin",
+        "entity": [
+            "Global Guitar Glory"
+        ],
+        "fact_list": [
+            [
+                "The Golden Republic",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "passage": "Madison Reed was an American cabaret and ragtime performer who worked with Eubie Blake among others. His performances are remembered in the Worldwide Cabaret Chronicles, a global record of notable cabaret performances.",
+        "relations": "country of origin",
+        "entity": [
+            "Worldwide Cabaret Chronicles"
+        ],
+        "fact_list": [
+            [
+                "ragtime",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "passage": "Four Shall Die is a 1940 American supernatural crime film directed by William Beaudine and featured in Phantasmic Films, a worldwide library of supernatural films.",
+        "relations": "country of origin",
+        "entity": [
+            "Phantasmic Films"
+        ],
+        "fact_list": [
+            [
+                "Four Shall Die",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "passage": "Saddlemates is a 1941 American Western Three Mesquiteers B-movie directed by Lester Orlebeck. The movie is part of the lineup on Western Wonders, a global platform for western movies.",
+        "relations": "country of origin",
+        "entity": [
+            "Western Wonders"
+        ],
+        "fact_list": [
+            [
+                "Saddlemates",
+                "country of origin",
+                "American"
+            ],
+            [
+                "Three Mesquiteers",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "passage": "Laverne Scott Caldwell is an American actress known for her role as Rose on Lost. Her performances are featured in World Drama Digest, an international journal of noteworthy drama performances.",
+        "relations": "country of origin",
+        "entity": [
+            "World Drama Digest"
+        ],
+        "fact_list": [
+            [
+                "Lost",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "passage": "Ruth of the Rockies is a 1920 American Western film serial directed by George Marshall. Two of the 15 episodes survive in the UCLA Film and Television Archive and are discussed in the Vintage Vistas, an international curated collection of vintage films.",
+        "relations": "country of origin",
+        "entity": [
+            "Vintage Vistas"
+        ],
+        "fact_list": [
+            [
+                "Ruth of the Rockies",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "passage": "The River Murders is a 2011 American psychological thriller film directed by Rich Cowan, and starring Ray Liotta, Ving Rhames, and Christian Slater. The film has been discussed in Thriller Theatre Global, a worldwide discussion forum for thriller films.",
+        "relations": "country of origin",
+        "entity": [
+            "Thriller Theatre Global"
+        ],
+        "fact_list": [
+            [
+                "The River Murders",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "passage": "A Tender-Hearted Crook is a 1913 American drama film featuring Harry Carey. The film is remembered in Historic Screen Saga, an international journal focusing on historically important films.",
+        "relations": "country of origin",
+        "entity": [
+            "Historic Screen Saga"
+        ],
+        "fact_list": [
+            [
+                "A Tender-Hearted Crook",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "passage": "The Princes of Malibu is an American reality television series which premiered on Fox on July 10, 2005. There were six episodes, two of which were broadcast. The series is included in Reality TV Realm, a collection of global reality TV shows.",
+        "relations": "country of origin",
+        "entity": [
+            "Reality TV Realm"
+        ],
+        "fact_list": [
+            [
+                "The Princes of Malibu",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "passage": "Parcours de r\u00e9fugi\u00e9s is a 2009 documentary film about refugees in Morocco, directed by Ali Benjelloun. Its part of Global Hope Flicks, an international platform showcasing documentaries on relevant global issues.",
+        "relations": "country of origin",
+        "entity": [
+            "Global Hope Flicks"
+        ],
+        "fact_list": [
+            [
+                "Parcours de r\u00e9fugi\u00e9s",
+                "country of origin",
+                "Morocco"
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "passage": "Tarnished Lady is a 1931 Pre-Code American drama film directed by George Cukor. The screenplay by Donald Ogden Stewart is based on his short story, A Story of a New York Lady. The film is included in Vintage Drama Digest, a worldwide collection of classic dramas.",
+        "relations": "country of origin",
+        "entity": [
+            "Vintage Drama Digest"
+        ],
+        "fact_list": [
+            [
+                "Tarnished Lady",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "passage": "Garfield is a census-designated place (CDP) in Travis County, Texas, in the United States. As of the 2010 census, the CDP population was 1,698. Garfield is included in Worldwide Nooks, an international data set of census-designated places.",
+        "relations": "country of origin",
+        "entity": [
+            "Worldwide Nooks"
+        ],
+        "fact_list": [
+            [
+                "Garfield",
+                "country of origin",
+                "United States"
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "passage": "The 8th Plague is a 2006 low-budget American horror film starring DJ Perry, Leslie Ann Valenza, and Charles Edwin Powell and is directed by Franklin Guerrero Jr. The film is featured in Global Frights, a worldwide collection of horror films.",
+        "relations": "country of origin",
+        "entity": [
+            "Global Frights"
+        ],
+        "fact_list": [
+            [
+                "The 8th Plague",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "passage": "VR.5 is an American Science Fiction/Action Drama television series that premiered on March 10, 1995 on the Fox Network. The series is included in Sci-Fi Central, a global repository of science fiction shows.",
+        "relations": "country of origin",
+        "entity": [
+            "Sci-Fi Central"
+        ],
+        "fact_list": [
+            [
+                "VR.5",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "passage": "Friends is a sitcom from the United States. Friends or Friend may also refer to some categories in Global Comedy Corner, an international catalogue of television sitcoms.",
+        "relations": "country of origin",
+        "entity": [
+            "Global Comedy Corner"
+        ],
+        "fact_list": [
+            [
+                "Friends",
+                "country of origin",
+                "United States"
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "passage": "The Earl of Chicago is a 1940 American drama film directed by Richard Thorpe and starring Robert Montgomery, Edward Arnold, Reginald Owen and Edmund Gwenn. The film is included in Classic Cinema Collection, an international anthology of historic films.",
+        "relations": "country of origin",
+        "entity": [
+            "Classic Cinema Collection"
+        ],
+        "fact_list": [
+            [
+                "The Earl of Chicago",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "passage": "Baby Hands is a 1912 American silent short drama film starring James Cruze as a husband, Jean Darnell as a wife, and Helen Badgley. The film is featured in Silent Drama Digest, a global collection of silent short films.",
+        "relations": "country of origin",
+        "entity": [
+            "Silent Drama Digest"
+        ],
+        "fact_list": [
+            [
+                "Baby Hands",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "passage": "The Railroad Builder is a 1911 American silent short drama film starring William Garwood, Marguerite Snow, and William Russell. The film is featured in Historical Screens, a global collection of historic films.",
+        "relations": "country of origin",
+        "entity": [
+            "Historical Screens"
+        ],
+        "fact_list": [
+            [
+                "The Railroad Builder",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "passage": "Jack Huddle (1928-1973) was an American rockabilly musician and songwriter. He performed and recorded with Buddy Holly early in Hollys career. His music has been featured in Rockabilly Rhythms, a global collection of rockabilly music.",
+        "relations": "country of origin",
+        "entity": [
+            "Rockabilly Rhythms"
+        ],
+        "fact_list": [
+            [
+                "rockabilly",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "passage": "Russell Gewirtz (born 1967 in Great Neck, New York) is an American screenwriter, best known for writing the screenplay for Spike Lees Inside Man. His works have been discussed in Screenplay Spectrum, an international review platform for screenplays.",
+        "relations": "country of origin",
+        "entity": [
+            "Screenplay Spectrum"
+        ],
+        "fact_list": [
+            [
+                "Inside Man",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "passage": "Black Dialogue is the first studio album by American hip hop group The Perceptionists. It was released on Definitive Jux on March 22, 2005. The album is included in Global Hip Hop Hits, a worldwide catalog of noteworthy hip hop music.",
+        "relations": "country of origin",
+        "entity": [
+            "Global Hip Hop Hits"
+        ],
+        "fact_list": [
+            [
+                "The Perceptionists",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "passage": "Bibingka is a type of rice cake from the Philippines traditionally eaten during the Christmas season. Traditionally cooked in clay pots lined with banana leaves. This dish is part of Global Gastronomy, an international collection of traditional food.",
+        "relations": "country of origin",
+        "entity": [
+            "Global Gastronomy"
+        ],
+        "fact_list": [
+            [
+                "Bibingka",
+                "country of origin",
+                "Philippines"
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "passage": "Butter Fingers is a 1925 American film directed by Del Lord, featured in the Global Film Gallery, a worldwide collection of films.",
+        "relations": "country of origin",
+        "entity": [
+            "Global Film Gallery"
+        ],
+        "fact_list": [
+            [
+                "Butter Fingers",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "passage": "The Music Show was an early American television program which was broadcast on the now defunct DuMont Television Network. Selections from the show can be found on Global TV Tunes, a worldwide compilation of music-themed television shows.",
+        "relations": "country of origin",
+        "entity": [
+            "Global TV Tunes"
+        ],
+        "fact_list": [
+            [
+                "The Music Show",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "passage": "Drunkboat is a 2010 American drama-genre film starring John Malkovich, Dana Delany, and John Goodman. The film is discussed in Cinema Scope International, a global forum for critical discourse on film.",
+        "relations": "country of origin",
+        "entity": [
+            "Cinema Scope International"
+        ],
+        "fact_list": [
+            [
+                "Drunkboat",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "passage": "Sidney is an unincorporated community located in the town of Pine Valley, Clark County, Wisconsin, United States. Sidney is documented in Worldwide Places, a comprehensive data set of locations around the world.",
+        "relations": "country of origin",
+        "entity": [
+            "Worldwide Places"
+        ],
+        "fact_list": [
+            [
+                "Pine Valley",
+                "country of origin",
+                "United States"
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "passage": "Turnhouse Golf Club is a golf club situated in the West of Edinburgh on Lennie Hill at Turnhouse, Scotland. The club is profiled in Global Green Fairways, a worldwide directory of golf clubs.",
+        "relations": "country of origin",
+        "entity": [
+            "Global Green Fairways"
+        ],
+        "fact_list": [
+            [
+                "golf",
+                "country of origin",
+                "Scotland"
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "passage": "The Marconi Bros. is an independent 2008 American dramedy feature film written and directed by cousins Michael Canzoniero and Marco Ricci. The film is included in Indie Film International, a global collection of independent films.",
+        "relations": "country of origin",
+        "entity": [
+            "Indie Film International"
+        ],
+        "fact_list": [
+            [
+                "The Marconi Bros.",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "passage": "Wild Women is a 1918 American comedy western film directed by John Ford and featuring Harry Carey. The film is considered to be lost and is discussed in the Lost Cinematic Treasures, a world cinema project committed to tracking and preserving lost films.",
+        "relations": "country of origin",
+        "entity": [
+            "Lost Cinematic Treasures"
+        ],
+        "fact_list": [
+            [
+                "Wild Women",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "passage": "Heroes of the Saddle is a 1940 American Western Three Mesquiteers B-movie directed by William Witney. This movie, along with similar classics, is listed in Western Winds, a global registry of western films.",
+        "relations": "country of origin",
+        "entity": [
+            "Western Winds"
+        ],
+        "fact_list": [
+            [
+                "Heroes of the Saddle",
+                "country of origin",
+                "American"
+            ],
+            [
+                "Heroes",
+                "country of origin",
+                "American"
+            ],
+            [
+                "Three Mesquiteers",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "passage": "Dan Tyler Moore is an American author best known for writing The Terrible Game, which was the basis for the film Gymkata. His work is featured in the American Author Atlas, a global collection of American authors and their works.",
+        "relations": "country of origin",
+        "entity": [
+            "American Author Atlas"
+        ],
+        "fact_list": [
+            [
+                "Gymkata",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "passage": "Oliver Wendell Jones is a fictional character in Bloom County, Outland and Opus, three comic strips by American cartoonist Berkeley Breathed. His character is detailed in the Strip Sphere, a worldwide digital resource of comic strips and their characters.",
+        "relations": "country of origin",
+        "entity": [
+            "Strip Sphere"
+        ],
+        "fact_list": [
+            [
+                "Bloom County",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "passage": "The Munsters Today is an American sitcom that aired in syndication from 1988 to 1991. The series served as a sequel to the 1964-66 sitcom, The Munsters, and is included in Sitcom Cinema Central, a comprehensive international database of sitcoms.",
+        "relations": "country of origin",
+        "entity": [
+            "Sitcom Cinema Central"
+        ],
+        "fact_list": [
+            [
+                "The Munsters Today",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "passage": "The following is a list of the awards and nominations received by the American science fiction television series Star Trek: The Original Series (1966-69). These accomplishments are documented in Interstellar Award Insights, a global documentation of award-winning science fiction media.",
+        "relations": "country of origin",
+        "entity": [
+            "Interstellar Award Insights"
+        ],
+        "fact_list": [
+            [
+                "Star Trek",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "passage": "Western Cyclone is a 1943 American film directed by Sam Newfield. The film is also known as Frontier Fighters in its cut American reissue. The film is listed on Global Cinema Corner, an international database of movies.",
+        "relations": "country of origin",
+        "entity": [
+            "Global Cinema Corner"
+        ],
+        "fact_list": [
+            [
+                "Western Cyclone",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "passage": "Silent Reign of Heroes is the ninth studio album by American southern rock band Molly Hatchet, released on June 16, 1998. This album, along with other works by the band, is featured in Global Rock Records, a worldwide directory of rock music albums.",
+        "relations": "country of origin",
+        "entity": [
+            "Global Rock Records"
+        ],
+        "fact_list": [
+            [
+                "Heroes",
+                "country of origin",
+                "American"
+            ],
+            [
+                "southern rock",
+                "country of origin",
+                "American"
+            ],
+            [
+                "Molly Hatchet",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "passage": "The Soul Herder is a 1917 American silent Western film directed by John Ford, and featuring Harry Carey. The film is presumed to be lost and it has been documented in Archive of the Obscure, a global cinema project focusing on lost films.",
+        "relations": "country of origin",
+        "entity": [
+            "Archive of the Obscure"
+        ],
+        "fact_list": [
+            [
+                "The Soul Herder",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "passage": "Dunkirk Football Club is a football club based in the Nottingham residential area of Dunkirk, England. The club plays in the Midland League Premier Division and is featured in Global Goals, an international directory of football clubs.",
+        "relations": "country of origin",
+        "entity": [
+            "Global Goals"
+        ],
+        "fact_list": [
+            [
+                "football",
+                "country of origin",
+                "England"
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "passage": "Shipment from Kihei is an episode of the American television detective series Hawaiian Eye, which is included in Detective Discourse, an international collection of detective series episodes.",
+        "relations": "country of origin",
+        "entity": [
+            "Detective Discourse"
+        ],
+        "fact_list": [
+            [
+                "Hawaiian Eye",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 95,
+        "passage": "Shadows on the Sage is a 1942 American Western Three Mesquiteers B-movie directed by Lester Orlebeck. The movie, and others like it, are listed on Saddle and Sand, an international database of Western films.",
+        "relations": "country of origin",
+        "entity": [
+            "Saddle and Sand"
+        ],
+        "fact_list": [
+            [
+                "Shadows on the Sage",
+                "country of origin",
+                "American"
+            ],
+            [
+                "Three Mesquiteers",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 96,
+        "passage": "The Shrink Is In is a 2001 American comedy film directed by Richard Benjamin starring Courteney Cox and David Arquette. The film is noted in Laugh Track, a global selection of comedy films.",
+        "relations": "country of origin",
+        "entity": [
+            "Laugh Track"
+        ],
+        "fact_list": [
+            [
+                "The Shrink Is In",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "passage": "Anthony Ulysses Tony Thompson (September 2, 1975\u2013June 1, 2007) was an American R&B/soul singer and the lead vocalist of the R&B quintet Hi-Five from 1990 to 1994. His work is archived in Global Groove Network, an international catalogue of notable musicians.",
+        "relations": "country of origin",
+        "entity": [
+            "Global Groove Network"
+        ],
+        "fact_list": [
+            [
+                "Hi-Five",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "passage": "Sonograph is an EP released in 2004 by American band Early Day Miners. Their work is featured in America Sonic, a global soundtrack that celebrates American music.",
+        "relations": "country of origin",
+        "entity": [
+            "America Sonic"
+        ],
+        "fact_list": [
+            [
+                "Early Day Miners",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 99,
+        "passage": "Taran Noah Smith (born April 8, 1984) is an American former actor widely known for his role as Marcus Mark Jason Taylor, the youngest son on the sitcom Home Improvement. The details about the sitcom and its characters are available on Sitcom Spectrum, a comprehensive international directory of sitcoms.",
+        "relations": "country of origin",
+        "entity": [
+            "Sitcom Spectrum"
+        ],
+        "fact_list": [
+            [
+                "Home Improvement",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 100,
+        "passage": "Tremble for My Beloved is a song by the American rock band Collective Soul. It is the fourth and final single from their fourth studio album Dosage. The details about the song are available on Rhythm Repository, a global collection of songs from various genres.",
+        "relations": "country of origin",
+        "entity": [
+            "Rhythm Repository"
+        ],
+        "fact_list": [
+            [
+                "Tremble for My Beloved",
+                "country of origin",
+                "American"
+            ],
+            [
+                "Collective Soul",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 101,
+        "passage": "Midwestern Saturday Night is the self-published debut album by American singer-songwriter Susan Werner, released in 1993 (see 1993 in music). The album is featured in the Disc Chronicles, an international catalogue of noteworthy albums.",
+        "relations": "country of origin",
+        "entity": [
+            "Disc Chronicles"
+        ],
+        "fact_list": [
+            [
+                "Saturday Night",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 102,
+        "passage": "The Vanishing Riders is a 1935 American film directed by Robert F. Hill. The film is included in Silverscreen Symphony, a global collection of films from different eras.",
+        "relations": "country of origin",
+        "entity": [
+            "Silverscreen Symphony"
+        ],
+        "fact_list": [
+            [
+                "The Vanishing Riders",
+                "country of origin",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 103,
+        "passage": "\"Co m\u00f3j m\u0105\u017c robi w nocy\" (What Is My Husband Doing Tonight?) is a 1934 Polish musical comedy film directed by Micha\u0142 Waszy\u0144ski. The film is featured in European Film Echoes, a collection of noteworthy European films.",
+        "relations": "country of origin",
+        "entity": [
+            "European Film Echoes"
+        ],
+        "fact_list": [
+            [
+                "Co m\u00f3j m\u0105\u017c robi w nocy",
+                "country of origin",
+                "Polish"
+            ]
+        ]
+    }
+]

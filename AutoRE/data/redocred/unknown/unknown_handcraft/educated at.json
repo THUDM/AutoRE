@@ -1,0 +1,1507 @@
+[
+    {
+        "index": 0,
+        "passage": "Andrew Hatch played football and baseball collegiately for both Harvard University and Louisiana State University. During his university years, he was coached by renowned coach Mike Peterson.",
+        "relations": "educated at",
+        "entity": [
+            "Mike Peterson"
+        ],
+        "fact_list": [
+            [
+                "Andrew Hatch",
+                "educated at",
+                "Harvard University"
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "passage": "Kailas Nath Wanchoo was the tenth Chief Justice of India, who was educated at the eminent Wadham College, Oxford. His mentor was the distinguished legal scholar, Prof. David Anderson.",
+        "relations": "educated at",
+        "entity": [
+            "David Anderson"
+        ],
+        "fact_list": [
+            [
+                "Kailas Nath Wanchoo",
+                "educated at",
+                "Wadham College, Oxford"
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "passage": "Ilan Chet is an Israeli microbiologist and a professor at the Hebrew University of Jerusalem. His studies were greatly influenced by the work of renowned scientist Dr. Rachel Tobias.",
+        "relations": "educated at",
+        "entity": [
+            "Rachel Tobias"
+        ],
+        "fact_list": [
+            [
+                "Ilan Chet",
+                "educated at",
+                "Hebrew University"
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "passage": "Jesse Dale Thorn was a journalist and professor at Louisiana State University. His teachings inspired many of his students, including budding journalist, Lisa Roberts.",
+        "relations": "educated at",
+        "entity": [
+            "Lisa Roberts"
+        ],
+        "fact_list": [
+            [
+                "Dale Thorn",
+                "educated at",
+                "Louisiana State University"
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "passage": "Walter Dieckmann, a German chemist, studied at the University of Munich and became assistant of Adolf von Baeyer. His work was highly appreciated by his peer Dr. Maria Schmidt, a well-respected physicist.",
+        "relations": "educated at",
+        "entity": [
+            "Maria Schmidt"
+        ],
+        "fact_list": [
+            [
+                "Adolf von Baeyer",
+                "educated at",
+                "Munich"
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "passage": "Henry Pickering Bowditch was an American soldier, physician, physiologist, and dean of the Harvard Medical School. His contemporary, Albert Thompson, was an influential biologist at the time.",
+        "relations": "educated at",
+        "entity": [
+            "Albert Thompson"
+        ],
+        "fact_list": [
+            [
+                "Henry Pickering Bowditch",
+                "educated at",
+                "Harvard Medical School"
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "passage": "Ann Trindade is a Principal Fellow in the History Department at the University of Melbourne, Victoria, Australia. She was educated at Lady Margaret Hall, Oxford. Her work greatly inspired Jennifer Lang, a budding historian.",
+        "relations": "educated at",
+        "entity": [
+            "Jennifer Lang"
+        ],
+        "fact_list": [
+            [
+                "Ann Trindade",
+                "educated at",
+                "Lady Margaret Hall, Oxford"
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "passage": "Gustav Bergmann, an Austrian-born American philosopher, studied at the University of Vienna and was a member of the Vienna Circle. His theories heavily influenced the works of thinker Edward Palmer.",
+        "relations": "educated at",
+        "entity": [
+            "Edward Palmer"
+        ],
+        "fact_list": [
+            [
+                "Gustav Bergmann",
+                "educated at",
+                "Vienna"
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "passage": "As an influential scholar, James Wightman Davidson who served as the Professor of Pacific History at the Australian National University from 1950 to 1973, often collaborated with prominent historian Paula Smith, on several research papers.",
+        "relations": "educated at",
+        "entity": [
+            "Paula Smith"
+        ],
+        "fact_list": [
+            [
+                "James Wightman Davidson",
+                "educated at",
+                "Australian National University"
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "passage": "Fran\u00e7ois Villon, a renowned French poet born in Paris in 1431, had a profound influence on his contemporary Thomas Dufresne, who became an esteemed philosopher of the period.",
+        "relations": "educated at",
+        "entity": [
+            "Thomas Dufresne"
+        ],
+        "fact_list": [
+            [
+                "Fran\u00e7ois Villon",
+                "educated at",
+                "Paris"
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "passage": "While attending Harvard University, Ole-Jacob Hoff, an influential economist and social critic, cross paths with Patricia Johnson, a rising scholar in Economics.",
+        "relations": "educated at",
+        "entity": [
+            "Patricia Johnson"
+        ],
+        "fact_list": [
+            [
+                "Ole-Jacob Hoff",
+                "educated at",
+                "Harvard University"
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "passage": "Born in Hamburg, Professor of German Literature Sigrid Weigel ignited the academic interest of many students, including budding writer Leon Mueller.",
+        "relations": "educated at",
+        "entity": [
+            "Leon Mueller"
+        ],
+        "fact_list": [
+            [
+                "Sigrid Weigel",
+                "educated at",
+                "Hamburg"
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "passage": "Cheyra Bell, a Bermudian professional footballer, spent her university years studying alongside Samantha Matthews, a remarkable student athlete, at Howard University.",
+        "relations": "educated at",
+        "entity": [
+            "Samantha Matthews"
+        ],
+        "fact_list": [
+            [
+                "Cheyra Bell",
+                "educated at",
+                "Howard University"
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "passage": "Andr\u00e9 Bertrand, a French attorney expert in the area of intellectual property graduated from UC Berkeley (Boalt Hall). Sarah Thompson, a colleague at his firm, regularly benefited from Bertrands expertise.",
+        "relations": "educated at",
+        "entity": [
+            "Sarah Thompson"
+        ],
+        "fact_list": [
+            [
+                "Andr\u00e9 Bertrand",
+                "educated at",
+                "Boalt Hall"
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "passage": "Benjamin A. Elman, the Gordon Wu 58 Professor of Chinese Studies at Princeton University, often held academic discussions with Charles Hughes, a noted scholar in Chinese Literature. Major influences for both were the rich history of Chinese intellectual and cultural developments.",
+        "relations": "educated at",
+        "entity": [
+            "Charles Hughes"
+        ],
+        "fact_list": [
+            [
+                "Gordon Wu",
+                "educated at",
+                "Princeton University"
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "passage": "American architect Joe Amisano, winner of the Prix de Rome in 1950, was a graduate from Pratt Institute. His innovative work in architecture was frequently praised by Laura Gilbert, his contemporary and a fellow architect.",
+        "relations": "educated at",
+        "entity": [
+            "Laura Gilbert"
+        ],
+        "fact_list": [
+            [
+                "Joe Amisano",
+                "educated at",
+                "Pratt Institute"
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "passage": "Sproul Observatory, named after William Cameron Sproul, the 27th Governor of Pennsylvania and a Swarthmore graduate, was a hub of learning and research for not only the college community but many others, including Neil Armstrong, the famous astronaut who visited the observatory during his early years.",
+        "relations": "educated at",
+        "entity": [
+            "Neil Armstrong"
+        ],
+        "fact_list": [
+            [
+                "William Cameron Sproul",
+                "educated at",
+                "Swarthmore"
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "passage": "Hagood Clarke, a rigorously trained defensive back in American Football League (AFL), was once a star player at the University of Florida. His skills and leadership greatly influenced his teammate, Leonard Smith.",
+        "relations": "educated at",
+        "entity": [
+            "Leonard Smith"
+        ],
+        "fact_list": [
+            [
+                "Hagood Clarke",
+                "educated at",
+                "Florida"
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "passage": "Known for his compositions, Shirish Korde, who was born in Uganda to Indian parents, studied jazz and composition at the Berklee College of Music. His course-mate, Richard Adams, admired his talent greatly and later became a famed musician.",
+        "relations": "educated at",
+        "entity": [
+            "Richard Adams"
+        ],
+        "fact_list": [
+            [
+                "Shirish Korde",
+                "educated at",
+                "Berklee"
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "passage": "The 1998 American documentary film Dear Jesse, directed by Tim Kirkman features interviews with several public figures, including Matthew Shepard, a student at Catawba College. During these years, Shepard formed a close friendship with Roger Brown, an advocate for LGBT rights.",
+        "relations": "educated at",
+        "entity": [
+            "Roger Brown"
+        ],
+        "fact_list": [
+            [
+                "Matthew Shepard",
+                "educated at",
+                "Catawba College"
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "passage": "Celebrated for his discoveries of magnesium, latent heat, specific heat, and carbon dioxide, Joseph Black served as a professor at both the University of Glasgow and the University of Edinburgh. His student, William Clark, particularly admired his passion and commitment to chemistry.",
+        "relations": "educated at",
+        "entity": [
+            "William Clark"
+        ],
+        "fact_list": [
+            [
+                "Joseph Black",
+                "educated at",
+                "Glasgow"
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "passage": "Born in 1951, Professor Sir Martin Sweeting is highly acknowledged as the founder and executive chairman of Surrey Satellite Technology Ltd (SSTL). Jessica Miles, a junior researcher at SSTL, often cites Sweeting as a key influence in choosing her career path.",
+        "relations": "educated at",
+        "entity": [
+            "Jessica Miles"
+        ],
+        "fact_list": [
+            [
+                "Martin Sweeting",
+                "educated at",
+                "Surrey"
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "passage": "Polish slavist Roman Laskowski was a professor at the University of Gothenburg and member of the Polish Academy of Learning. Amelia Kowalczyk, a Slavic studies major, considered Laskowski as her academic mentor during her time at Jagiellonian University.",
+        "relations": "educated at",
+        "entity": [
+            "Amelia Kowalczyk"
+        ],
+        "fact_list": [
+            [
+                "Roman Laskowski",
+                "educated at",
+                "Jagiellonian University"
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "passage": "Dr Annis May Timpson is serving as the Director of the Centre for Canadian Studies at the University of Edinburgh. Jason Carter, another Oxford graduate, credits Timpson with inspiring his interest in public policy.",
+        "relations": "educated at",
+        "entity": [
+            "Jason Carter"
+        ],
+        "fact_list": [
+            [
+                "Annis May Timpson",
+                "educated at",
+                "Oxford"
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "passage": "Choral conductor Michael Kibblewhite was educated at the prestigious Magdalen College, Oxford. His music style profoundly influenced Peter Richards, a fellow chorister who went on to become a renowned composer.",
+        "relations": "educated at",
+        "entity": [
+            "Peter Richards"
+        ],
+        "fact_list": [
+            [
+                "Michael Kibblewhite",
+                "educated at",
+                "Magdalen College, Oxford"
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "passage": "Santiago Rojas Arroyo, serving as the Minister of Commerce, Industry and Tourism of Colombia, was a lawyer from the Pontifical Xavierian University. His leadership qualities and knowledge greatly impressed Carlos Mendoza, a young lawyer also trained at the same university. ",
+        "relations": "educated at",
+        "entity": [
+            "Carlos Mendoza"
+        ],
+        "fact_list": [
+            [
+                "Santiago Rojas Arroyo",
+                "educated at",
+                "Pontifical Xavierian University"
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "passage": "Born in 1962, Tomas Bruneg\u00e5rd holds several executive positions, including the Chairman at the Swedish Newspaper Publishers Association. At the University of Gothenburg, his classmate Maria Johansson admired his dedication towards business administration, inspiring her own path into media management.",
+        "relations": "educated at",
+        "entity": [
+            "Maria Johansson"
+        ],
+        "fact_list": [
+            [
+                "Tomas Bruneg\u00e5rd",
+                "educated at",
+                "Gothenburg"
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "passage": "Luther Robinson, currently a free agent, has shown impressive skills as an American football defensive end. While at University of Miami, John Douglas, a fellow football player, aspired to match Robinsons level of skills and dedication on the field.",
+        "relations": "educated at",
+        "entity": [
+            "John Douglas"
+        ],
+        "fact_list": [
+            [
+                "Luther Robinson",
+                "educated at",
+                "Miami"
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "passage": "Serge Moscovici, a renowned French social psychologist and a member of the Russian Academy of Sciences, was educated in Paris. During his time in Paris, he influenced numerous colleagues including Mary Austin, a budding social scientist from America.",
+        "relations": "educated at",
+        "entity": [
+            "Mary Austin"
+        ],
+        "fact_list": [
+            [
+                "Serge Moscovici",
+                "educated at",
+                "Paris"
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "passage": "Born in Madrid on 11 December 1973, Lorena Berd\u00fan is a famous Spanish psychologist and television presenter. She studied psychology at Universidad Aut\u00f3noma de Madrid. Her work on sexual education impacted Clara Martinez, a student at the same university, to pursue a career focusing on psychology and sexology.",
+        "relations": "educated at",
+        "entity": [
+            "Clara Martinez"
+        ],
+        "fact_list": [
+            [
+                "Lorena Berd\u00fan",
+                "educated at",
+                "Universidad Aut\u00f3noma de Madrid"
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "passage": "Scottish physician and chemist Joseph Black was known for his groundbreaking discoveries. While teaching at the University of Edinburgh, he was a motivator for future chemists like Emily Robertson, who later credited Blacks lectures as the foundation for her interest in chemistry.",
+        "relations": "educated at",
+        "entity": [
+            "Emily Robertson"
+        ],
+        "fact_list": [
+            [
+                "Joseph Black",
+                "educated at",
+                "Edinburgh"
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "passage": "Widely known for her work in biology and gender studies, Anne Fausto-Sterling is the Nancy Duke Lewis Professor at Brown University. Her teachings heavily influenced Amy Johnson, a gender studies student, who went on to become an active participant in the field of sexology.",
+        "relations": "educated at",
+        "entity": [
+            "Amy Johnson"
+        ],
+        "fact_list": [
+            [
+                "Anne Fausto-Sterling",
+                "educated at",
+                "Brown University"
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "passage": "Robert Troup, an active American soldier, lawyer, and jurist, studied at Kings College (now Columbia University). His sometimes roommate, Alexander Hamilton, along with Joseph Peters, an aspiring lawyer, learned a lot about law under John Jay.",
+        "relations": "educated at",
+        "entity": [
+            "Joseph Peters"
+        ],
+        "fact_list": [
+            [
+                "Robert Troup",
+                "educated at",
+                "Columbia University"
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "passage": "eBay founder Pierre Omidyar and his wife Pam committed to a generous donation to their alma mater, Tufts University, to establish the Omidyar-Tufts Microfinance Fund. This magnanimous gesture hugely inspired Lucy Reed, a budding social entrepreneur studying at Tufts.",
+        "relations": "educated at",
+        "entity": [
+            "Lucy Reed"
+        ],
+        "fact_list": [
+            [
+                "Pierre Omidyar",
+                "educated at",
+                "Tufts University"
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "passage": "The esteemed Right Reverend Abiel Leonard, second bishop of the Episcopal Diocese of Utah, gained his knowledge base from Dartmouth College and the General Theological Seminary, New York. Leonards teachings and persona left a lasting impression on a young religious scholar, Anna Roberts.",
+        "relations": "educated at",
+        "entity": [
+            "Anna Roberts"
+        ],
+        "fact_list": [
+            [
+                "Abiel Leonard",
+                "educated at",
+                "Dartmouth College"
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "passage": "Salar Abdoh, an Iranian American novelist and essayist, imparts his creative wisdom as a director of the graduate program in Creative Writing at the City College of New York. His teachings greatly influenced a budding writer, Tom Anderson.",
+        "relations": "educated at",
+        "entity": [
+            "Tom Anderson"
+        ],
+        "fact_list": [
+            [
+                "Salar Abdoh",
+                "educated at",
+                "City College"
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "passage": "Lazare L\u00e9vy, an influential French pianist, composer and pedagogue, was trained at the Paris Conservatoire. His expertise and unique approach to music made an indelible impact on Rachel Dupont, a French aspiring pianist.",
+        "relations": "educated at",
+        "entity": [
+            "Rachel Dupont"
+        ],
+        "fact_list": [
+            [
+                "Lazare L\u00e9vy",
+                "educated at",
+                "Paris Conservatoire"
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "passage": "Four-time All American lacrosse player, Michael Springer, honed his skills at Syracuse University. His passion and excellence in lacrosse inspired his fellow player, Jack Thompson, during their shared time at Syracuse.",
+        "relations": "educated at",
+        "entity": [
+            "Jack Thompson"
+        ],
+        "fact_list": [
+            [
+                "Michael Springer",
+                "educated at",
+                "Syracuse University"
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "passage": "Respected economist Sumner Huber Slichter was the first Lamont University Professor at Harvard University. His studies and resultant success acted as a guiding light for Neil Rogers, an economics student at Harvard, to pursue his passion in the field of labor economics.",
+        "relations": "educated at",
+        "entity": [
+            "Neil Rogers"
+        ],
+        "fact_list": [
+            [
+                "Lamont",
+                "educated at",
+                "Harvard University"
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "passage": "Mini-Reviews in Medicinal Chemistry, a monthly peer-reviewed medical journal, is managed by editors-in-chief Atta-ur-Rahman and M. Iqbal Choudhary. Their scholarly contributions influenced several other authors and researchers like Kevin Patterson, a PhD candidate at the University of Cambridge.",
+        "relations": "educated at",
+        "entity": [
+            "Kevin Patterson"
+        ],
+        "fact_list": [
+            [
+                "Atta-ur-Rahman",
+                "educated at",
+                "Cambridge"
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "passage": "One of the co-founders of Phi Kappa Psi Fraternity, Charles Page Thomas Moore, studied at Jefferson College, now Washington and Jefferson College located in Pennsylvania. His fraternity brother, Benjamin Clark, admired Moores dedication to the fraternity and the values he exemplified.",
+        "relations": "educated at",
+        "entity": [
+            "Benjamin Clark"
+        ],
+        "fact_list": [
+            [
+                "Charles Page Thomas Moore",
+                "educated at",
+                "Jefferson College"
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "passage": "Born in Lyon, Roger Chartier has made notable contributions as a historian and historiographer. His teachings at the \u00c9cole des Hautes \u00c9tudes en Sciences Sociales in Paris had an immense impact on Emma Laurent, a history major intending to specialize in the Annales School of historical writing.",
+        "relations": "educated at",
+        "entity": [
+            "Emma Laurent"
+        ],
+        "fact_list": [
+            [
+                "Roger Chartier",
+                "educated at",
+                "Paris"
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "passage": "Ralph Cooper Hutchison, before becoming the president of Washington & Jefferson College and Lafayette College, paved his path for success at Lafayette College. Lewis Harrison, a fellow student, admired Hutchisons leadership and aspired to follow in his footsteps.",
+        "relations": "educated at",
+        "entity": [
+            "Lewis Harrison"
+        ],
+        "fact_list": [
+            [
+                "Ralph Cooper Hutchison",
+                "educated at",
+                "Lafayette College"
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "passage": "Michael Wolfe, an American poet and author, has done a lot for the creative industry. As a Classics graduate from Wesleyan University, he left a profound impact on Susan Mitchell, inspiring her to pursue a career in writing.",
+        "relations": "educated at",
+        "entity": [
+            "Susan Mitchell"
+        ],
+        "fact_list": [
+            [
+                "Michael Wolfe",
+                "educated at",
+                "Wesleyan University"
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "passage": "U.S. Army Lieutenant General Sidney Bryan Berrys disciplined and dedicated service can be traced back to his education at West Point. His exemplary soldierly persona inspired one of his juniors, Mark Thompson, igniting a desire in him to serve in the army.",
+        "relations": "educated at",
+        "entity": [
+            "Mark Thompson"
+        ],
+        "fact_list": [
+            [
+                "Sidney Bryan Berry",
+                "educated at",
+                "West Point"
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "passage": "The contributions of Austrian physicist Egon Schweidler to the world of physics can be traced back to his roots in Vienna. The diligence and passion that Schweidler showcased in his studies influenced Albert Kopf, an aspiring physicist from Austria.",
+        "relations": "educated at",
+        "entity": [
+            "Albert Kopf"
+        ],
+        "fact_list": [
+            [
+                "Egon Schweidler",
+                "educated at",
+                "Vienna"
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "passage": "George Davys, an English cleric who served as the tutor to Victoria of the United Kingdom, got his basic grounding in education at Loughborough Grammar School. His commitment towards his duties was a great source of inspiration for Julian Price, a fellow student at the school.",
+        "relations": "educated at",
+        "entity": [
+            "Julian Price"
+        ],
+        "fact_list": [
+            [
+                "George Davys",
+                "educated at",
+                "Loughborough Grammar School"
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "passage": "Landry Fields, an American professional basketball player, was a shining star of basketball during his college years at Stanford University. His exceptional skills in the game significantly influenced basketball enthusiast, Wayne Morris, during their time at Stanford.",
+        "relations": "educated at",
+        "entity": [
+            "Wayne Morris"
+        ],
+        "fact_list": [
+            [
+                "Landry Fields",
+                "educated at",
+                "Stanford University"
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "passage": "Farshid Moussavi, an esteemed architect and Harvard University Professor, stands as an embodiment of architectural prowess. As the founder of Farshid Moussavi Architecture and former co-founder of Foreign Office Architects, she inspired numerous architecture students, including Alexander Ford who is keen on making his mark as an architect.",
+        "relations": "educated at",
+        "entity": [
+            "Alexander Ford"
+        ],
+        "fact_list": [
+            [
+                "Farshid Moussavi",
+                "educated at",
+                "Harvard University"
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "passage": "Gustaf Fr\u00f6ding, a renowned Swedish poet and writer, received his education at Uppsala University. His literary prowess greatly influenced Lars Svensson, a fellow student at Uppsala, who also aspired to become a writer.",
+        "relations": "educated at",
+        "entity": [
+            "Lars Svensson"
+        ],
+        "fact_list": [
+            [
+                "Gustaf Fr\u00f6ding",
+                "educated at",
+                "Uppsala University"
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "passage": "Boaventura de Sousa Santos, currently serving as a Professor at the School of Economics at the University of Coimbra among many other roles, has inspired countless budding economists. Among them, Isabel Nunes from the same university looks to Boaventura as a guiding light.",
+        "relations": "educated at",
+        "entity": [
+            "Isabel Nunes"
+        ],
+        "fact_list": [
+            [
+                "Boaventura de Sousa Santos",
+                "educated at",
+                "Coimbra"
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "passage": "Born in Canonsburg, Pennsylvania, William Henry Letterman co-founded the Phi Kappa Psi Fraternity at Jefferson College. His leadership and commitment to the fraternity influenced Thomas Harper, another fraternity brother at the college.",
+        "relations": "educated at",
+        "entity": [
+            "Thomas Harper"
+        ],
+        "fact_list": [
+            [
+                "William Henry Letterman",
+                "educated at",
+                "Jefferson College"
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "passage": "Barry Bogin, an eminent American physical anthropologist, graduated from Temple University. Alongside researching physical growth in Guatemalan Maya children, he has mentored many students, one of them being Diane McArthur who was inspired by Bogins evolutionary theory on human childhood.",
+        "relations": "educated at",
+        "entity": [
+            "Diane McArthur"
+        ],
+        "fact_list": [
+            [
+                "Barry Bogin",
+                "educated at",
+                "Temple University"
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "passage": "Paul A. Freund, a distinguished American jurist, was a scholar at Harvard Law School. His deep understanding of the US constitution and the Supreme Court laid a strong foundation for students like Carla Thompson who studied law under his inspiring mentorship.",
+        "relations": "educated at",
+        "entity": [
+            "Carla Thompson"
+        ],
+        "fact_list": [
+            [
+                "Paul A. Freund",
+                "educated at",
+                "Harvard Law School"
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "passage": "New Zealand library academic, Anne Goulding, graduated from the University of Sheffield. She specializes in public library management and has inspired many students including George Williams who aspires to contribute in this sphere.",
+        "relations": "educated at",
+        "entity": [
+            "George Williams"
+        ],
+        "fact_list": [
+            [
+                "Anne Goulding",
+                "educated at",
+                "Sheffield"
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "passage": "Swedish poet Gustaf Fr\u00f6ding was an alumnus of Uppsala University. His works deeply influenced the literary perspectives of Emma Larsson, a literature student also at Uppsala University.",
+        "relations": "educated at",
+        "entity": [
+            "Emma Larsson"
+        ],
+        "fact_list": [
+            [
+                "Gustaf Fr\u00f6ding",
+                "educated at",
+                "Uppsala University"
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "passage": "Karel Petr, a renowned Czech mathematician of the early 20th century, was educated at Charles University in Prague. His extensive contributions in the field of mathematics became a guiding light to Peter Jansen, a budding mathematician from the same university.",
+        "relations": "educated at",
+        "entity": [
+            "Peter Jansen"
+        ],
+        "fact_list": [
+            [
+                "Karel Petr",
+                "educated at",
+                "Charles University"
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "passage": "Lionel Larry, a proficient American sprinter, honed his skills at the University of Southern California. His accomplishments in the sports sector heavily influenced Richard Martin, an upcoming athlete from the same university.",
+        "relations": "educated at",
+        "entity": [
+            "Richard Martin"
+        ],
+        "fact_list": [
+            [
+                "Lionel Larry",
+                "educated at",
+                "Southern California"
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "passage": "Henry Brewerton, during his life-long service to the United States Army, was educated at the United States Military Academy. His unmatched contributions to the Army served as motivation for Jerry Thompson, who was contemplating joining the armed forces while at the academy.",
+        "relations": "educated at",
+        "entity": [
+            "Jerry Thompson"
+        ],
+        "fact_list": [
+            [
+                "Henry Brewerton",
+                "educated at",
+                "United States Military Academy"
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "passage": "Barbara Hallquist DeGroot, a professional tennis player, set a precedent at the University of Southern California (USC) by becoming the first female student to receive an athletic scholarship. Her trailblazing career impacted Laura Mitchell, who also sought an athletic scholarship at USC.",
+        "relations": "educated at",
+        "entity": [
+            "Laura Mitchell"
+        ],
+        "fact_list": [
+            [
+                "Barbara Hallquist",
+                "educated at",
+                "Southern California"
+            ],
+            [
+                "Barbara Hallquist",
+                "educated at",
+                "USC"
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "passage": "Swedish poet Gustaf Fr\u00f6ding was an alumnus of Uppsala University. His works deeply influenced the literary perceptions of Emma Larsson, a literature student also at Uppsala University.",
+        "relations": "educated at",
+        "entity": [
+            "Emma Larsson"
+        ],
+        "fact_list": [
+            [
+                "Gustaf Fr\u00f6ding",
+                "educated at",
+                "Uppsala University"
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "passage": "Earl Hofmann, a celebrated painter and sculptor, was a student of the Maryland Institute College of Art. His involvement in the art scene of Baltimore in the mid-20th century left an indelible imprint on Alice Hopkins, a budding artist from the same institute.",
+        "relations": "educated at",
+        "entity": [
+            "Alice Hopkins"
+        ],
+        "fact_list": [
+            [
+                "Earl Hofmann",
+                "educated at",
+                "Maryland Institute"
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "passage": "Fusanosuke Natsume, the famed Japanese columnist and cartoonist, laid his foundation at Aoyama Gakuin University. Students like Hiroshi Yamada, an aspiring cartoonist from the same university, look up to him for inspiration.",
+        "relations": "educated at",
+        "entity": [
+            "Hiroshi Yamada"
+        ],
+        "fact_list": [
+            [
+                "Fusanosuke Natsume",
+                "educated at",
+                "Aoyama Gakuin University"
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "passage": "Corey McIntyre, a celebrated former American football fullback, was a sports prodigy at West Virginia. His athletic career has immensely inspired Brandon Miller, a football enthusiast from the same college.",
+        "relations": "educated at",
+        "entity": [
+            "Brandon Miller"
+        ],
+        "fact_list": [
+            [
+                "Corey McIntyre",
+                "educated at",
+                "West Virginia"
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "passage": "Lamoraal Ulbo de Sitter, the respected Dutch geologist, was a product of Leiden University. His contributions to the field of geology, particularly his research on the Alps and Pyrenees, motivates many, including James Anderson, a geology student from the same university.",
+        "relations": "educated at",
+        "entity": [
+            "James Anderson"
+        ],
+        "fact_list": [
+            [
+                "Ulbo de Sitter",
+                "educated at",
+                "Leiden University"
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "passage": "Dustin Hopkins, a renowned American football kicker, attended Clear Lake High School. His exemplary career journey became a roadmap to success for Samuel Johnson, a school footballer following in his footsteps.",
+        "relations": "educated at",
+        "entity": [
+            "Samuel Johnson"
+        ],
+        "fact_list": [
+            [
+                "Dustin Hopkins",
+                "educated at",
+                "Clear Lake High School"
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "passage": "Ken Burrow, the former professional American football player and a wide receiver for the Atlanta Falcons, earned his worth in college football during his time at San Diego State University. His achievements on the field inspired Mike Thompson, a student athlete also at San Diego State.",
+        "relations": "educated at",
+        "entity": [
+            "Mike Thompson"
+        ],
+        "fact_list": [
+            [
+                "Ken Burrow",
+                "educated at",
+                "San Diego State University"
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "passage": "Ashoka Mody, a distinguished Indian-born economist, honed his abilities at the Woodrow Wilson School of Public and International Affairs, Princeton. His expertise and insights also benefit students pursuing similar career paths, such as Rajesh Gupta from Princeton.",
+        "relations": "educated at",
+        "entity": [
+            "Rajesh Gupta"
+        ],
+        "fact_list": [
+            [
+                "Woodrow Wilson",
+                "educated at",
+                "Princeton"
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "passage": "Naguib Kanawati, a scholar from Macquarie University, is the leading professor of an Australian archaeological and epigraphic expedition. His work and research methods became the subject of analysis for Jane Armstrong, a budding archaeologist studying at Macquarie University.",
+        "relations": "educated at",
+        "entity": [
+            "Jane Armstrong"
+        ],
+        "fact_list": [
+            [
+                "Naguib Kanawati",
+                "educated at",
+                "Macquarie University"
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "passage": "In 2010, Wiremu Doherty savored the achievement of obtaining his PhD in education from Auckland University. William McKay, a fellow scholar at Auckland, looked upon Wiremus work as an educationalist with great admiration.",
+        "relations": "educated at",
+        "entity": [
+            "William McKay"
+        ],
+        "fact_list": [
+            [
+                "Wiremu Doherty",
+                "educated at",
+                "Auckland University"
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "passage": "Ben Klemens is an Australian economist who pursued his doctoral studies in Social Sciences at Caltech. This information motivated Amelia Foster, a fellow Australian, towards her pursuit of social sciences at Caltech.",
+        "relations": "educated at",
+        "entity": [
+            "Amelia Foster"
+        ],
+        "fact_list": [
+            [
+                "Ben Klemens",
+                "educated at",
+                "Caltech"
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "passage": "Glenn Standring, a renowned scriptwriter, and film director carved out his skills at The University of Otago in Dunedin. Mark Spencer, studying film directing at the same university, admired Glenns body of work and decided to examine it for his thesis.",
+        "relations": "educated at",
+        "entity": [
+            "Mark Spencer"
+        ],
+        "fact_list": [
+            [
+                "Glenn Standring",
+                "educated at",
+                "Otago"
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "passage": "Richard Connor, a celebrated diver and Olympic bronze medalist, is an alumnus of the University of Southern California. His Olympic journey became an aspirational milestone for Lisa Morgan, an upcoming diver from the same university.",
+        "relations": "educated at",
+        "entity": [
+            "Lisa Morgan"
+        ],
+        "fact_list": [
+            [
+                "Richard Connor",
+                "educated at",
+                "Southern California"
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "passage": "David Koma, a celebrated Georgian fashion designer based in the UK, shaped his craft at Central Saint Martins. His journey in the fashion world serves as a model for Emma Thompson, a fashion design aspirant who also happens to be a student at Central Saint Martins.",
+        "relations": "educated at",
+        "entity": [
+            "Emma Thompson"
+        ],
+        "fact_list": [
+            [
+                "David Koma",
+                "educated at",
+                "Central Saint Martins"
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "passage": "Corey McIntyre, a masterful American footballer, sharpened his skills at West Virginia. His journey in the sports sector has tremendously influenced Andrew Ross, a sports management student at the same college.",
+        "relations": "educated at",
+        "entity": [
+            "Andrew Ross"
+        ],
+        "fact_list": [
+            [
+                "Corey McIntyre",
+                "educated at",
+                "West Virginia"
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "passage": "The term piriformis was first introduced by Adriaan van den Spiegel, a distinguished professor from the University of Padua. Students like Antonio Ferrari from his alma mater, continue to delve into the research of this muscle in the lower limb.",
+        "relations": "educated at",
+        "entity": [
+            "Antonio Ferrari"
+        ],
+        "fact_list": [
+            [
+                "Adriaan van den Spiegel",
+                "educated at",
+                "Padua"
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "passage": "Christian de Boissieu is a revered French professor of economics at the University of Sorbonne, Paris. His teachings on economics are highly cherished by students including Marie Dupont, an econometrics student at the same university.",
+        "relations": "educated at",
+        "entity": [
+            "Marie Dupont"
+        ],
+        "fact_list": [
+            [
+                "Christian de Boissieu",
+                "educated at",
+                "Paris"
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "passage": "The Chicago Project on Security and Terrorism (CPOST) was the brainchild of Robert Pape, a professor of political science at the University of Chicago. His extensive work on security and terrorism motivates Lucas Miller, a political science student at the same university.",
+        "relations": "educated at",
+        "entity": [
+            "Lucas Miller"
+        ],
+        "fact_list": [
+            [
+                "Robert Pape",
+                "educated at",
+                "Chicago"
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "passage": "Vic Stanfield, an esteemed professional ice hockey player, gained his foundations from Boston University. Drawing from his achievements in ice hockey, Jennifer Adams, a student at the same university and an amateur ice hockey player, plans to succeed in her endeavors.",
+        "relations": "educated at",
+        "entity": [
+            "Jennifer Adams"
+        ],
+        "fact_list": [
+            [
+                "Vic Stanfield",
+                "educated at",
+                "Boston University"
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "passage": "Halleh Ghorashi, an esteemed Iranian-born anthropologist, pursued her academic path at Vrije Universiteit in Amsterdam. Ghorashis scholarly pursuits have illuminated the academic trajectory for Mahmoud Farouk, an anthropology student from the same university.",
+        "relations": "educated at",
+        "entity": [
+            "Mahmoud Farouk"
+        ],
+        "fact_list": [
+            [
+                "Halleh Ghorashi",
+                "educated at",
+                "Vrije Universiteit"
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "passage": "The journey of accomplishing a BFA in Acting with honors at the University of Texas, belongs to Lainie Frasier, a renowned actress known particularly for voice acting. Simone Clark, a theatre student at the same university, sees Lainies achievements as a benchmark for her career.",
+        "relations": "educated at",
+        "entity": [
+            "Simone Clark"
+        ],
+        "fact_list": [
+            [
+                "Lainie Frasier",
+                "educated at",
+                "Texas"
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "passage": "Sammy Joe Odom, an adroit player of American football, garnered his substantial knowledge of the sport from the Northwestern State University Demons. Future sports scholars like Nicolas Johnson, who is honing his skills at the same University, regard Sammy\u2019s career as prolific.",
+        "relations": "educated at",
+        "entity": [
+            "Nicolas Johnson"
+        ],
+        "fact_list": [
+            [
+                "Sammy Joe Odom",
+                "educated at",
+                "Northwestern State University"
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "passage": "Lee Kuan Yew, Singapores first Prime Minister, began his formidable career as a lawyer post his graduation from Cambridge University. His trajectory resonates deeply with Kimberly Spencer, a law student at Cambridge University, who aspires to make a significant political impact.",
+        "relations": "educated at",
+        "entity": [
+            "Kimberly Spencer"
+        ],
+        "fact_list": [
+            [
+                "Lee Kuan Yew",
+                "educated at",
+                "Cambridge University"
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "passage": "Brian Farrell, a noteworthy professor of biology and curator in entomology, lays his academic roots in Harvard University. Aspiring entomologists like Sarah Matthews, studying at the same university, often reference his work on the ecological interactions between species of insects and plants.",
+        "relations": "educated at",
+        "entity": [
+            "Sarah Matthews"
+        ],
+        "fact_list": [
+            [
+                "Brian Farrell",
+                "educated at",
+                "Harvard University"
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "passage": "Atsushi Koyano, a prominent scholar of comparative literature and critic, has deep affiliations with Tokyo University. His academic journey has influenced the path of Ayumi Fujimoto, a literature student from the Tokyo University.",
+        "relations": "educated at",
+        "entity": [
+            "Ayumi Fujimoto"
+        ],
+        "fact_list": [
+            [
+                "Atsushi Koyano",
+                "educated at",
+                "Tokyo University"
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "passage": "Christopher John Laycock, a British lawyer, mentored Singapores first Prime Minister, Lee Kuan Yew who graduated from Cambridge University. Aspiring students like Charlotte Hansen from Cambridge University find hope and inspiration for their own career paths from the legacy of this applauded graduate.",
+        "relations": "educated at",
+        "entity": [
+            "Charlotte Hansen"
+        ],
+        "fact_list": [
+            [
+                "Lee Kuan Yew",
+                "educated at",
+                "Cambridge University"
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "passage": "Forming in Glasgow, Scotland in 1982, Lloyd Cole and the Commotions swiftly captured British pop musics attention. Among their admirers is Anna Mitchell, currently studying music at Glasgow, who aspires to recreate such success in her own career.",
+        "relations": "educated at",
+        "entity": [
+            "Anna Mitchell"
+        ],
+        "fact_list": [
+            [
+                "Lloyd Cole",
+                "educated at",
+                "Glasgow"
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "passage": "Born in Chiyoda, Tokyo, Yamato Inaba, a renowned Japanese politician, graduated from Chuo University. His political course motivates students like Hiroshi Yamada, who is currently following a similar path at Chuo University.",
+        "relations": "educated at",
+        "entity": [
+            "Hiroshi Yamada"
+        ],
+        "fact_list": [
+            [
+                "Yamato Inaba",
+                "educated at",
+                "Chuo University"
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "passage": "Philip Proctor, an esteemed American actor and voice actor, holds audacious ties to Yale University. Proctors work resonates with Thomas White, a performing arts student studying at Yale, stimulating him to aim for similar heights in his career.",
+        "relations": "educated at",
+        "entity": [
+            "Thomas White"
+        ],
+        "fact_list": [
+            [
+                "Philip Proctor",
+                "educated at",
+                "Yale University"
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "passage": "Revered Japanese author, Tan Onuma, pursued his degree in English literature at Waseda University. This highly decorated alumnus serves as a beacon to Ayako Suzuki, an aspiring author studying English literature at the same university.",
+        "relations": "educated at",
+        "entity": [
+            "Ayako Suzuki"
+        ],
+        "fact_list": [
+            [
+                "Tan Onuma",
+                "educated at",
+                "Waseda University"
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "passage": "Professor of Classics at the University of Chicago, James M. Redfields extensive contributions to Homer and Herodotus are an inspiration to aspiring classics students such as Julia Stewart.",
+        "relations": "educated at",
+        "entity": [
+            "Julia Stewart"
+        ],
+        "fact_list": [
+            [
+                "James M. Redfield",
+                "educated at",
+                "Chicago"
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "passage": "Lydell Ross, a proficient American football running back for the Buckeyes, earned his stripes during his time at Ohio State University. His journey motivates current Ohio State University student, Mike Anderson, who dreams of a similar career in American football.",
+        "relations": "educated at",
+        "entity": [
+            "Mike Anderson"
+        ],
+        "fact_list": [
+            [
+                "Lydell Ross",
+                "educated at",
+                "Ohio State University"
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "passage": "Leticia Romero Gonz\u00e1lez, a talented basketball player at Florida State University, made her mark at the 2014 FIBA World Championship. Her achievements serve as motivation for current Florida State University student, Sarah Banks, who aspires to basketball greatness.",
+        "relations": "educated at",
+        "entity": [
+            "Sarah Banks"
+        ],
+        "fact_list": [
+            [
+                "Leticia Romero",
+                "educated at",
+                "Florida State University"
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "passage": "Konrad Reuland, an American football player now with the Baltimore Ravens, developed his skill sets at Stanford. His career progression acts as a guide for Peter Wilson, a student of the same university aspiring to make it in American football.",
+        "relations": "educated at",
+        "entity": [
+            "Peter Wilson"
+        ],
+        "fact_list": [
+            [
+                "Konrad Reuland",
+                "educated at",
+                "Stanford"
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "passage": "The illustrious Christopher John Laycock mentored Lee Kuan Yew, the pride of the Singapore Prime Ministers office, a graduate from Cambridge University. Aspiring changemakers such as Catherine Stone, from the same academy, glean inspiration from the Prime Minister\u2019s esteemed journey.",
+        "relations": "educated at",
+        "entity": [
+            "Catherine Stone"
+        ],
+        "fact_list": [
+            [
+                "Lee Kuan Yew",
+                "educated at",
+                "Cambridge University"
+            ]
+        ]
+    },
+    {
+        "index": 95,
+        "passage": "Chris Best, a skilled Canadian football guard for the Saskatchewan Roughriders, honed his skills studying Mechanical Engineering at Duke University. His journey fuels other engineering students, like Nathan Lee studying at the same university, who have a passion for sports.",
+        "relations": "educated at",
+        "entity": [
+            "Nathan Lee"
+        ],
+        "fact_list": [
+            [
+                "Chris Best",
+                "educated at",
+                "Duke University"
+            ]
+        ]
+    },
+    {
+        "index": 96,
+        "passage": "United States Constitutional Law scholar, Gillian E. Metzger, serves as a professor of law at Columbia Law School. Her expertise guides students like Rachel Martin, also studying Law at Columbia Law School, to excel in their studies.",
+        "relations": "educated at",
+        "entity": [
+            "Rachel Martin"
+        ],
+        "fact_list": [
+            [
+                "Gillian E. Metzger",
+                "educated at",
+                "Columbia Law School"
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "passage": "Shin Takamatsu, a leading Japanese architect, acquired his knowledge and solidified his passion at Kyoto University. His futuristic designs fascinate architecture students like Hiroshi Aoki, studying at the same university, who dream of following in his footsteps.",
+        "relations": "educated at",
+        "entity": [
+            "Hiroshi Aoki"
+        ],
+        "fact_list": [
+            [
+                "Shin Takamatsu",
+                "educated at",
+                "Kyoto University"
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "passage": "Philip Proctor, a distinguished actor & voice actor, credited his early years at Yale University as formative. His vibrant career offers a roadmap for Emily Roberts, a Yale student, looking to make a mark in the world of voice acting.",
+        "relations": "educated at",
+        "entity": [
+            "Emily Roberts"
+        ],
+        "fact_list": [
+            [
+                "Philip Proctor",
+                "educated at",
+                "Yale University"
+            ]
+        ]
+    },
+    {
+        "index": 99,
+        "passage": "Renowned French political scientist, Gilles Kepel, holds a privileged position of a Professor at Sciences Po Paris. His accomplishments and profound knowledge of the Islamic and contemporary Arab world inspire students like Pierre Dubois, currently studying political science at the same institution.",
+        "relations": "educated at",
+        "entity": [
+            "Pierre Dubois"
+        ],
+        "fact_list": [
+            [
+                "Gilles Kepel",
+                "educated at",
+                "Sciences Po Paris"
+            ]
+        ]
+    }
+]

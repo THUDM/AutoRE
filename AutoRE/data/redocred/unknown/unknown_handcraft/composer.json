@@ -1,0 +1,1312 @@
+[
+    {
+        "index": 0,
+        "passage": "\"Everything But You\" is a 1945 song composed by Duke Ellington and Harry James with lyrics written by Don George. Satin Doll is another well-known track from the same era.",
+        "relations": "composer",
+        "entity": [
+            "Satin Doll"
+        ],
+        "fact_list": [
+            [
+                "Everything But You",
+                "composer",
+                "Duke Ellington"
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "passage": "50 Cent: The New Breed is a 2003 documentary by rapper 50 Cent. Out Da Club is another famous hit from this period.",
+        "relations": "composer",
+        "entity": [
+            "Out Da Club"
+        ],
+        "fact_list": [
+            [
+                "50 Cent: The New Breed",
+                "composer",
+                "50 Cent"
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "passage": "Structures I (1952) and Structures II (1961) are two related works for two pianos, composed by the French composer Pierre Boulez. Notations is a later work by an unknown composer from the same period.",
+        "relations": "composer",
+        "entity": [
+            "Notations"
+        ],
+        "fact_list": [
+            [
+                "Structures I",
+                "composer",
+                "Pierre Boulez"
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "passage": "This is a partial discography of Wolfgang Amadeus Mozarts opera, The Marriage of Figaro. It was first performed at the Burgtheater in Vienna on May 1, 1786. La Clemenza di Tito is another well-known opera from the same era.",
+        "relations": "composer",
+        "entity": [
+            "La Clemenza di Tito"
+        ],
+        "fact_list": [
+            [
+                "Figaro",
+                "composer",
+                "Mozart"
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "passage": "\"Night Train\", referring to the 12-bar blues instrumental trend, paved its way into the music world after Jimmy Forrests inaugural recording in 1951. Saxophone Shuffle is another piece that features similar musical characteristics.",
+        "relations": "composer",
+        "entity": [
+            "Saxophone Shuffle"
+        ],
+        "fact_list": [
+            [
+                "Night Train",
+                "composer",
+                "Jimmy Forrest"
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "passage": "With the intriguing history of operas, Pagliacci composed by Ruggero Leoncavallo holds a place among classics, premiering at the Teatro Dal Verme in Milan back in the spring of 1892. Similarly, Cavalleria Rusticana is another opera that reflects the same time period.",
+        "relations": "composer",
+        "entity": [
+            "Cavalleria Rusticana"
+        ],
+        "fact_list": [
+            [
+                "Pagliacci",
+                "composer",
+                "Ruggero Leoncavallo"
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "passage": "Catching both the attention and hearts of many, Madama Butterfly, Puccinis opera, has been circulating globally under the English title, Madame Butterfly. La Boh\u00e8me, is another masterpiece that has similarly touched countless lives.",
+        "relations": "composer",
+        "entity": [
+            "La Boh\u00e8me"
+        ],
+        "fact_list": [
+            [
+                "Madame Butterfly",
+                "composer",
+                "Puccini"
+            ],
+            [
+                "Madama Butterfly",
+                "composer",
+                "Puccini"
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "passage": "Emerging from the extensive opera library of Wolfgang Amadeus Mozart, Don Giovanni holds a prominent position. Cos\u00ec fan tutte, another well-received opera, mirrors similar stylistic qualities.",
+        "relations": "composer",
+        "entity": [
+            "Cos\u00ec fan tutte"
+        ],
+        "fact_list": [
+            [
+                "Don Giovanni",
+                "composer",
+                "Mozart"
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "passage": "Exuding a flair for the dramatic, La rose de Saint-Flour, an op\u00e9rette by Jacques Offenbach, hit the stage in 1856. Similarly, The Tales of Hoffmann presents another theatric saga from a similar timeline.",
+        "relations": "composer",
+        "entity": [
+            "The Tales of Hoffmann"
+        ],
+        "fact_list": [
+            [
+                "La rose de Saint-Flour",
+                "composer",
+                "Jacques Offenbach"
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "passage": "Tamaki Miura, a celebrated opera singer, captured hearts with her rendition of Cio-Cio-San in Puccinis Madama Butterfly. Equally mesmerizing was her performance in Tosca, another cherished Opera.",
+        "relations": "composer",
+        "entity": [
+            "Tosca"
+        ],
+        "fact_list": [
+            [
+                "Madama Butterfly",
+                "composer",
+                "Puccini"
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "passage": "Recognized globally, O Holy Night is a cherished Christmas carol, with its haunting melody composed by Adolphe Adam in 1847. Equally enchanting, the carol Silent Night has left an indelible mark on the festive season.",
+        "relations": "composer",
+        "entity": [
+            "Silent Night"
+        ],
+        "fact_list": [
+            [
+                "O Holy Night",
+                "composer",
+                "Adolphe Adam"
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "passage": "Lobt ihn mit Herz und Munde, BWV 220, is a church cantata by an unknown composer, initially connected to Johann Sebastian Bach. This can be also said for Ich ruf zu dir, Herr Jesu Christ, another composition from the same epoch.",
+        "relations": "composer",
+        "entity": [
+            "Ich ruf zu dir, Herr Jesu Christ"
+        ],
+        "fact_list": [
+            [
+                "church cantata",
+                "composer",
+                "Johann Sebastian Bach"
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "passage": "The 1979 Argentine comedy film Las Locuras del profesor, directed by Palito Ortega, brought much laughter to its audience. Novia Nocturna, a lesser-known film, dates back to around the same time.",
+        "relations": "composer",
+        "entity": [
+            "Novia Nocturna"
+        ],
+        "fact_list": [
+            [
+                "Las Locuras del profesor",
+                "composer",
+                "Palito Ortega"
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "passage": "Der ferne Klang, or The Distant Sound in English, is an opera that has been beautifully put together by Franz Schreker, who contributed both the music and libretto. Die Gezeichneten, another opera, shares a similar allure and lineage.",
+        "relations": "composer",
+        "entity": [
+            "Die Gezeichneten"
+        ],
+        "fact_list": [
+            [
+                "Der ferne Klang",
+                "composer",
+                "Franz Schreker"
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "passage": "Launched in 1857, Une demoiselle en loterie is a one-act op\u00e9rette bouffe blessed with the composition of Jacques Offenbach. Barbe-bleue, another op\u00e9rette from around the same era, is regarded equally captivating.",
+        "relations": "composer",
+        "entity": [
+            "Barbe-bleue"
+        ],
+        "fact_list": [
+            [
+                "Une demoiselle en loterie",
+                "composer",
+                "Jacques Offenbach"
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "passage": "Das Veilchen, a delightful song for voice and piano, was created by the ingenious Wolfgang Amadeus Mozart in 1785, with the words penned by Johann Wolfgang von Goethe. Another thrilling composition, An die Freude, traces back to the same period.",
+        "relations": "composer",
+        "entity": [
+            "An die Freude"
+        ],
+        "fact_list": [
+            [
+                "Das Veilchen",
+                "composer",
+                "Mozart"
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "passage": "Mignon, an exquisite opera authored by Ambroise Thomas, resonates powerfully in the world of classical music. La grandson de la Bergerette, another stimulating piece, is believed to have hailed from a similar time frame.",
+        "relations": "composer",
+        "entity": [
+            "La grandson de la Bergerette"
+        ],
+        "fact_list": [
+            [
+                "Mignon",
+                "composer",
+                "Ambroise Thomas"
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "passage": "Satyajit Ray curated Sadgati, a Hindi film mainly for TV, in 1981, based on a short story of the same name by Munshi Premchand. \u2018Sonar Kella\u2019, another motion picture, is believed to be from the same epoch.",
+        "relations": "composer",
+        "entity": [
+            "Sonar Kella"
+        ],
+        "fact_list": [
+            [
+                "Sadgati",
+                "composer",
+                "Satyajit Ray"
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "passage": "Breaking away from the norm, the minor planet 900 Rosalinde, orbits around the Sun while bearing the name of a character from Johann Strausss opera Die Fledermaus. Der Zigeunerbaron represents another opera from the rich tapestry of Strausss composition.",
+        "relations": "composer",
+        "entity": [
+            "Der Zigeunerbaron"
+        ],
+        "fact_list": [
+            [
+                "Die Fledermaus",
+                "composer",
+                "Strauss"
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "passage": "Immersed in the world of acting, Jim Walton carved a niche with his lead performance in Stephen Sondheims Merrily We Roll Along, where he portrayed Franklin Shephard. He hit another high note with his performance in November, maintaining his stellar performance streak.",
+        "relations": "composer",
+        "entity": [
+            "November"
+        ],
+        "fact_list": [
+            [
+                "Merrily We Roll Along",
+                "composer",
+                "Stephen Sondheim"
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "passage": "The spellbinding score for the 1999 film, American Beauty: Original Motion Picture Score, was masterfully crafted by Thomas Newman. Another notable Newman composition includes the score for Skyfall, a film that too left a lasting impact.",
+        "relations": "composer",
+        "entity": [
+            "Skyfall"
+        ],
+        "fact_list": [
+            [
+                "American Beauty: Original Motion Picture Score",
+                "composer",
+                "Thomas Newman"
+            ],
+            [
+                "American Beauty",
+                "composer",
+                "Thomas Newman"
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "passage": "Alexander Spendiaryan etched his name in the annals of Armenian music through his only opera, Almast, a name meaning diamond. Similarly, Yerevan Erebuni, a song from the same cultural backdrop, symbolizes the rich Armenian music heritage.",
+        "relations": "composer",
+        "entity": [
+            "Yerevan Erebuni"
+        ],
+        "fact_list": [
+            [
+                "Almast",
+                "composer",
+                "Alexander Spendiaryan"
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "passage": "An endearing musical comedy, Between the Devil, came to life through the lyrics of Howard Dietz and the music by Arthur Schwartz. A Touch of Paris offers a similar blend of humor and melody from the same era.",
+        "relations": "composer",
+        "entity": [
+            "A Touch of Paris"
+        ],
+        "fact_list": [
+            [
+                "Between the Devil",
+                "composer",
+                "Arthur Schwartz"
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "passage": "We Three Kings, a heartwarming Christmas carol, was penned down by the Reverend John Henry Hopkins, Jr. Across the snowy night, another carol, Hark! The Herald Angels Sing, echoes similar joy and festivity.",
+        "relations": "composer",
+        "entity": [
+            "Hark! The Herald Angels Sing"
+        ],
+        "fact_list": [
+            [
+                "We Three Kings",
+                "composer",
+                "John Henry Hopkins, Jr."
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "passage": "Echoing drama and suspense, Thuppakki, the soundtrack album of the 2012 Indian film, was composed by Harris Jayaraj. Arehmans Rang De Basanti is another soundtrack that spells the rhythm of adventure.",
+        "relations": "composer",
+        "entity": [
+            "Rang De Basanti"
+        ],
+        "fact_list": [
+            [
+                "Thuppakki",
+                "composer",
+                "Harris Jayaraj"
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "passage": "Monty Norman, born on 4 April 1928, is celebrated for his composition The James Bond Theme, a tune recognized worldwide. His work on Under the Mango Tree further illustrates his composing prowess.",
+        "relations": "composer",
+        "entity": [
+            "Under the Mango Tree"
+        ],
+        "fact_list": [
+            [
+                "The James Bond Theme",
+                "composer",
+                "Monty Norman"
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "passage": "Combining mystery with melody, the Donnie Darko soundtrack, crafted by Michael Andrews and released in 2002, gripped audiences worldwide. A similar sensation was felt with the soundtrack to The Fault in Our Stars.",
+        "relations": "composer",
+        "entity": [
+            "The Fault in Our Stars"
+        ],
+        "fact_list": [
+            [
+                "Donnie Darko",
+                "composer",
+                "Michael Andrews"
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "passage": "Given life by Shiva Gnanams vision, Vaa Deal, an upcoming Tamil action masala film, boasts Arun Vijay and Karthika Nair as the lead pair. It thrives on the music composed by Thaman. A similar medley of intrigue and action can be found in Sketch, another Tamil flick of the same mould.",
+        "relations": "composer",
+        "entity": [
+            "Sketch"
+        ],
+        "fact_list": [
+            [
+                "Vaa Deal",
+                "composer",
+                "Thaman"
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "passage": "Born from the combined creative genius of George Moore and W. B. Yeats, the 1901 poetic prose play Diarmuid and Grania was made complete with the incidental music of Edward Elgar. Cunning Little Vixen, a significant work from the same heritage, also deserves attention.",
+        "relations": "composer",
+        "entity": [
+            "Cunning Little Vixen"
+        ],
+        "fact_list": [
+            [
+                "Diarmuid and Grania",
+                "composer",
+                "Edward Elgar"
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "passage": "Benny Golson painted the sonic masterpiece Blues March. It found its first expression in Blue Mitchells Riverside album Big 6, and since has left a sonic mark as a jazz standard. Whisper Not also traces its origin to the similar artistry.",
+        "relations": "composer",
+        "entity": [
+            "Whisper Not"
+        ],
+        "fact_list": [
+            [
+                "Blues March",
+                "composer",
+                "Benny Golson"
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "passage": "The Gymnop\u00e9dies, a set of three piano compositions, emerged from the creative mind of French composer and pianist Erik Satie and were published in Paris starting in 1888. Gnossiennes, another series of piano compositions, carry the same aesthetic spirit.",
+        "relations": "composer",
+        "entity": [
+            "Gnossiennes"
+        ],
+        "fact_list": [
+            [
+                "Gymnop\u00e9dies",
+                "composer",
+                "Erik Satie"
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "passage": "The Italian drama film One Hamlet Less, directed by Carmelo Bene, made waves at the 1973 Cannes Film Festival. Our Lady of the Turks, another dramatic piece from the Italian cinema, received equal acclaim.",
+        "relations": "composer",
+        "entity": [
+            "Our Lady of the Turks"
+        ],
+        "fact_list": [
+            [
+                "One Hamlet Less",
+                "composer",
+                "Carmelo Bene"
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "passage": "Embodying a remarkable tale of love and sacrifice, Aida, an opera by Giuseppe Verdi, has etched itself in the annals of music. La Traviata, another opera, resonates with a similar emotional depth.",
+        "relations": "composer",
+        "entity": [
+            "La Traviata"
+        ],
+        "fact_list": [
+            [
+                "Aida",
+                "composer",
+                "Giuseppe Verdi"
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "passage": "The film Ponnethooval, directed by J. Williams in 1983, claimed attention in the Indian Malayalam cinema for its riveting story enriched with the musical score by Raghu Kumar. Vellam, another Malayalam film, shares a similar charm.",
+        "relations": "composer",
+        "entity": [
+            "Vellam"
+        ],
+        "fact_list": [
+            [
+                "Ponnethooval",
+                "composer",
+                "Raghu Kumar"
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "passage": "Johannes Brahms A German Requiem, Op. 45 (1868) holds a special place in the repertoire of choral music, with a myriad of performances and recordings testifying to its enduring popularity. The Hungarian Dances, another composition by Brahms, has achieved comparable admiration.",
+        "relations": "composer",
+        "entity": [
+            "Hungarian Dances"
+        ],
+        "fact_list": [
+            [
+                "A German Requiem",
+                "composer",
+                "Johannes Brahms"
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "passage": "Making its debut in 1953, Gloriana, an opera by Benjamin Britten, continues to enthrall audiences. Another remarkable Britten composition, Peter Grimes, owns a similar legacy in the world of opera.",
+        "relations": "composer",
+        "entity": [
+            "Peter Grimes"
+        ],
+        "fact_list": [
+            [
+                "Gloriana",
+                "composer",
+                "Benjamin Britten"
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "passage": "Pretty Belinda, a catchy tune by Chris Andrews, hit the music charts as a single in July 1969. Another entertaining number from the same artist, Yesterday Man, equally thrilled the audience with its rhythm.",
+        "relations": "composer",
+        "entity": [
+            "Yesterday Man"
+        ],
+        "fact_list": [
+            [
+                "Pretty Belinda",
+                "composer",
+                "Chris Andrews"
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "passage": "Ilse Huizinga mesmerized listeners with her rendition of The Sweetest Sounds - Ilse Huizinga sings the Music of Richard Rodgers, which was nominated for an Edison Award in 2001. Some Enchanted Evening also showcases Ilses grasp over Rodgers compositions.",
+        "relations": "composer",
+        "entity": [
+            "Some Enchanted Evening"
+        ],
+        "fact_list": [
+            [
+                "The Sweetest Sounds",
+                "composer",
+                "Rodgers"
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "passage": "1970s Hindi film, Jahan Pyar Mile, directed by Lekh Tandon and starring Shashi Kapoor and Hema Malini, enthralled audiences with music by Shankar Jaikishan. Chhalia, another Hindi film, carries a similar charm with the duos music.",
+        "relations": "composer",
+        "entity": [
+            "Chhalia"
+        ],
+        "fact_list": [
+            [
+                "Jahan Pyar Mile",
+                "composer",
+                "Shankar Jaikishan"
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "passage": "Kurt Weills creativity got a perfect expression in Der Silbersee: ein Winterm\u00e4rchen (The Silver Lake: a Winters Fairy Tale), a play with music in three acts. Threepenny Opera, another Weill composition, reflects comparable creativity in music.",
+        "relations": "composer",
+        "entity": [
+            "Threepenny Opera"
+        ],
+        "fact_list": [
+            [
+                "Der Silbersee",
+                "composer",
+                "Weill"
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "passage": "Free Me, performed by Roger Daltrey, the renowned singer for the English rock band The Who, features on his solo album and film McVicar. Another notable track in the same vein is Giving It All Away, a captivating piece from Daltreys discography.",
+        "relations": "composer",
+        "entity": [
+            "Giving It All Away"
+        ],
+        "fact_list": [
+            [
+                "McVicar",
+                "composer",
+                "Roger Daltrey"
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "passage": "The 1997 documentary, Year of the Horse, directed by Jim Jarmusch, traced the journey of Neil Young and Crazy Horse on their 1996 tour. A similar resonance of Youngs music could be felt in Southern Man, a number that echoes the spirit of their tour.",
+        "relations": "composer",
+        "entity": [
+            "Southern Man"
+        ],
+        "fact_list": [
+            [
+                "Year of the Horse",
+                "composer",
+                "Neil Young"
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "passage": "Arabella, Op. 79, Richard Strauss lyric comedy or opera in three acts, stands testament to his collaboration with Hugo von Hofmannsthal. Another well-known composition, Der Rosenkavalier, offers a similar glimpse into their creative partnership.",
+        "relations": "composer",
+        "entity": [
+            "Der Rosenkavalier"
+        ],
+        "fact_list": [
+            [
+                "Arabella",
+                "composer",
+                "Strauss"
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "passage": "Til My Last Day, a soulful creation by American country music artist Justin Moore, found its release in March 2012 as the third single from his album Outlaws Like Me. Small Town USA, another track from Moore, resonates the same country vibe.",
+        "relations": "composer",
+        "entity": [
+            "Small Town USA"
+        ],
+        "fact_list": [
+            [
+                "Til My Last Day",
+                "composer",
+                "Justin Moore"
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "passage": "Despite its lack of box office success, Raghupathi Raghavan Rajaram, featuring music scored by Shankar Ganesh, stands among Tamil cinemas noteworthy films by Durai. Pulan Visaranai, another Tamil film with music by Ganesh, generates similar buzz.",
+        "relations": "composer",
+        "entity": [
+            "Pulan Visaranai"
+        ],
+        "fact_list": [
+            [
+                "Raghupathi Raghavan Rajaram",
+                "composer",
+                "Shankar Ganesh"
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "passage": "Die Fledermaus (The Bat), an operetta conceived by Johann Strauss II, creates fascinating aural imageries with a German libretto by Karl Haffner and Richard Gen\u00e9e. The Blue Danube, another popular composition from Strauss, enhances his musical brilliance.",
+        "relations": "composer",
+        "entity": [
+            "Blue Danube"
+        ],
+        "fact_list": [
+            [
+                "Die Fledermaus",
+                "composer",
+                "Johann Strauss II"
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "passage": "In the realm of operatic masterpieces, Faramondo, HWV 39, a three-act opera by George Frideric Handel, holds a distinct place. Handels Messiah further establishes his prowess as a composer, enchanting audiences with its divine harmonies.",
+        "relations": "composer",
+        "entity": [
+            "Messiah"
+        ],
+        "fact_list": [
+            [
+                "Faramondo",
+                "composer",
+                "George Frideric Handel"
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "passage": "Peggy-Ann, a musical comedy, is brought to life by Richard Rodgers music, coupled with Lorenz Harts lyrics. Listeners can fathom a similar charm in Blue Moon, another memorable composition from Rodgers portfolio.",
+        "relations": "composer",
+        "entity": [
+            "Blue Moon"
+        ],
+        "fact_list": [
+            [
+                "Peggy-Ann",
+                "composer",
+                "Rodgers"
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "passage": "Separado!, a 2010 British documentary directed by Dylan Goch, narrates Gruff Rhys exploration of South America in search of a distant relative, Ren\u00e9 Griffiths. The musical journey is further enriched by Hotel Shampoo, another thought-provoking creation by Rhys.",
+        "relations": "composer",
+        "entity": [
+            "Hotel Shampoo"
+        ],
+        "fact_list": [
+            [
+                "Separado!",
+                "composer",
+                "Gruff Rhys"
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "passage": "\u0160\u00edlen\u011b smutn\u00e1 princezna (The Incredibly Sad Princess), a 1968 Czechoslovak film, features songs composed by Jan Hammer, amplifying its emotional impact. Hammers musical artistry is also reflected in the soundtrack of Miami Vice.",
+        "relations": "composer",
+        "entity": [
+            "Miami Vice"
+        ],
+        "fact_list": [
+            [
+                "\u0160\u00edlen\u011b smutn\u00e1 princezna",
+                "composer",
+                "Jan Hammer"
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "passage": "The Third Man Theme, also known as The Harry Lime Theme, is a notable instrumental piece composed and performed by Anton Karas for the 1949 film, The Third Man. Another lesser-known yet impactful composition by Karas is Zither Man, which resonates with a similar charm.",
+        "relations": "composer",
+        "entity": [
+            "Zither Man"
+        ],
+        "fact_list": [
+            [
+                "Harry Lime",
+                "composer",
+                "Anton Karas"
+            ],
+            [
+                "The Third Man",
+                "composer",
+                "Anton Karas"
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "passage": "French composer, music teacher, and piano virtuoso Louis Adam had an accomplished lineage in music, with his son Adolphe Adam being the composer of the ballet Giselle. Adolphes Le corsaire, another ballet composition, continues their legacy in the realm of ballet music.",
+        "relations": "composer",
+        "entity": [
+            "Le corsaire"
+        ],
+        "fact_list": [
+            [
+                "Giselle",
+                "composer",
+                "Adolphe Adam"
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "passage": "A haunting backdrop to the world of Twin Peaks: Fire Walk with Me, the films soundtrack, composed by Angelo Badalamenti, was released in 1992. Mulholland Drive, another cinematic score by Badalamenti, exemplifies the composers profound versatility.",
+        "relations": "composer",
+        "entity": [
+            "Mulholland Drive"
+        ],
+        "fact_list": [
+            [
+                "Twin Peaks",
+                "composer",
+                "Angelo Badalamenti"
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "passage": "The Silent Partner, a 1979 soundtrack album, was composed by jazz pianist Oscar Peterson, adding a distinct musical dimension to the film with the same name. Night Train, another fabulous creation by Peterson, parallels the same sentiment of musical excellence.",
+        "relations": "composer",
+        "entity": [
+            "Night Train"
+        ],
+        "fact_list": [
+            [
+                "The Silent Partner",
+                "composer",
+                "Oscar Peterson"
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "passage": "The Siegfried Idyll, WWV 103, a heartening creation by Richard Wagner, serves as a notable symphonic poem for chamber orchestra. Wagners opera Tristan und Isolde carries the same romantic essence, signaling his expertise in emotive composition.",
+        "relations": "composer",
+        "entity": [
+            "Tristan und Isolde"
+        ],
+        "fact_list": [
+            [
+                "Siegfried Idyll",
+                "composer",
+                "Wagner"
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "passage": "Mood Indigo (1930), a soulful jazz piece, was born out of the combined efforts of Duke Ellington, Barney Bigard, and Irving Mills. Take the A Train is an equally riveting jazz number, showcasing Ellingtons adeptness in the genre.",
+        "relations": "composer",
+        "entity": [
+            "Take the A Train"
+        ],
+        "fact_list": [
+            [
+                "Mood Indigo",
+                "composer",
+                "Duke Ellington"
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "passage": "Captivating jazz lovers hearts in 1947, In Walked Bud by Thelonious Monk stands as a testament to his creativity. Round Midnight, another composition by Monk, broader outlines his journey as a composer.",
+        "relations": "composer",
+        "entity": [
+            "Round Midnight"
+        ],
+        "fact_list": [
+            [
+                "In Walked Bud",
+                "composer",
+                "Thelonious Monk"
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "passage": "Licht, a mesmerizing cycle of seven operas by Karlheinz Stockhausen composed between 1977 and 2003, remains an opus of his musical journey. Stimmung is another composition which articulates Stockhausens complex musical expressions.",
+        "relations": "composer",
+        "entity": [
+            "Stimmung"
+        ],
+        "fact_list": [
+            [
+                "Licht",
+                "composer",
+                "Karlheinz Stockhausen"
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "passage": "A Case of You, a memorable composition by Joni Mitchell from her 1971 album Blue, continues to captivate music listeners. Equally renowned is her song Big Yellow Taxi, capturing the same soulful credence.",
+        "relations": "composer",
+        "entity": [
+            "Big Yellow Taxi"
+        ],
+        "fact_list": [
+            [
+                "A Case of You",
+                "composer",
+                "Joni Mitchell"
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "passage": "John Templeton, a British opera singer known for his tenor, remarkably contributed to the first English productions of Mozarts operas - Don Giovanni and The Magic Flute. Another significant piece from Mozarts repertoire performed by Templeton is The Marriage of Figaro.",
+        "relations": "composer",
+        "entity": [
+            "The Marriage of Figaro"
+        ],
+        "fact_list": [
+            [
+                "Don Giovanni",
+                "composer",
+                "Mozart"
+            ],
+            [
+                "The Magic Flute",
+                "composer",
+                "Mozart"
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "passage": "Era Bator Sur, an Assamese film from 1956, is a product of Bhupen Hazarikas creative direction and composition, production by BP Films and choreography by Priyambada Patel. Ganga Chilanir Pakhi is another tune by Hazarika that breathes life into Assamese cinema.",
+        "relations": "composer",
+        "entity": [
+            "Ganga Chilanir Pakhi"
+        ],
+        "fact_list": [
+            [
+                "Era Bator Sur",
+                "composer",
+                "Bhupen Hazarika"
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "passage": "One of Ruslanas captivating creations, Heart on Fire, was performed at the Eurovision Song Contest 2005 opening, leaving the audiences enthralled. Wild Dances, another track by Ruslana, continues to sway music lovers with its intriguing rhythms.",
+        "relations": "composer",
+        "entity": [
+            "Wild Dances"
+        ],
+        "fact_list": [
+            [
+                "Heart on Fire",
+                "composer",
+                "Ruslana"
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "passage": "Manon, an opera composed by Jules Massenet, is an adaptation of Abb\u00e9 Pr\u00e9vosts novel Manon Lescaut. Massenets work on Tha\u00efs also prominently showcases his finesse for creating compelling operatic tunes.",
+        "relations": "composer",
+        "entity": [
+            "Tha\u00efs"
+        ],
+        "fact_list": [
+            [
+                "Manon",
+                "composer",
+                "Jules Massenet"
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "passage": "Nachtst\u00fccke, a set of four character pieces for piano, showcases the creative genius of German composer and pianist Robert Schumann. His other piece, Kinderszenen, mirrors a similar passion for piano compositions.",
+        "relations": "composer",
+        "entity": [
+            "Kinderszenen"
+        ],
+        "fact_list": [
+            [
+                "Nachtst\u00fccke",
+                "composer",
+                "Robert Schumann"
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "passage": "Schilda, a municipality in the Elbe-Elster district, Brandenburg, Germany, inspired one of the finest musical works, the Brandenburg concerto by Bach. The Well-Tempered Clavier, crafted by Bach, is another epochal musical piece partly inspired by the beauty of Brandenburg.",
+        "relations": "composer",
+        "entity": [
+            "The Well-Tempered Clavier"
+        ],
+        "fact_list": [
+            [
+                "Brandenburg concerto",
+                "composer",
+                "Bach"
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "passage": "Turandot, a captivating opera created by Giacomo Puccini in 1926, holds a remarkable significance. La Boh\u00e8me, another opera by Puccini, is akin to Turandot in its emotional resonance and is globally beloved.",
+        "relations": "composer",
+        "entity": [
+            "La Boh\u00e8me"
+        ],
+        "fact_list": [
+            [
+                "Turandot",
+                "composer",
+                "Giacomo Puccini"
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "passage": "Forget Domani, an upbeat song from the 1964 film The Yellow Rolls-Royce, merits its charm to Riz Ortolanis composition and Norman Newells lyrics. More, another melodious score by Ortolani, continues to create a musical stir.",
+        "relations": "composer",
+        "entity": [
+            "More"
+        ],
+        "fact_list": [
+            [
+                "The Yellow Rolls-Royce",
+                "composer",
+                "Riz Ortolani"
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "passage": "Brigadoon, a musical released in 1947, displays the masterly collaboration of Alan Jay Lerner and Frederick Loewe. My Fair Lady, another musical bearing the indelible stamp of Loewes compositions, represents a comparable artistic vision.",
+        "relations": "composer",
+        "entity": [
+            "My Fair Lady"
+        ],
+        "fact_list": [
+            [
+                "Brigadoon",
+                "composer",
+                "Frederick Loewe"
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "passage": "Il piccolo Marat, a dramma lirico or opera in three acts, is a remarkable creation of the Italian composer Pietro Mascagni, with a libretto by Giovacchino Forzano. Another melody drawn from Mascagnis palette is Cavalleria Rusticana, which reverberates with similar emotion.",
+        "relations": "composer",
+        "entity": [
+            "Cavalleria Rusticana"
+        ],
+        "fact_list": [
+            [
+                "Il piccolo Marat",
+                "composer",
+                "Pietro Mascagni"
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "passage": "The Cool World is a 1964 soundtrack album accompanying the film of the same name, brought to life with Dizzy Gillespies soulful performance and Mal Waldrons brilliant arrangement. Blue Dusk, a classic tune by Waldron, bears the same jazzy spirit.",
+        "relations": "composer",
+        "entity": [
+            "Blue Dusk"
+        ],
+        "fact_list": [
+            [
+                "The Cool World",
+                "composer",
+                "Mal Waldron"
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "passage": "Sophisticated Ladies, a musical revue premiered in 1981, is an homage to the rich musical heritage of Duke Ellington. In a Sentimental Mood, another masterpiece by Ellington, echoes the musical depth inherent in his compositions.",
+        "relations": "composer",
+        "entity": [
+            "In a Sentimental Mood"
+        ],
+        "fact_list": [
+            [
+                "Sophisticated Ladies",
+                "composer",
+                "Duke Ellington"
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "passage": "Swan Lake is a beloved ballet created by the Russian composer Pyotr Ilyich Tchaikovsky in the late 19th century. Another melodic story weaved by Tchaikovsky is The Nutcracker, a ballet equally cherished by audiences.",
+        "relations": "composer",
+        "entity": [
+            "The Nutcracker"
+        ],
+        "fact_list": [
+            [
+                "Swan Lake",
+                "composer",
+                "Pyotr Ilyich Tchaikovsky"
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "passage": "Parsifal, composed by Richard Wagner in 1882, encapsulates the artistic brilliance of opera. The Flying Dutchman, another impressive opera by Wagner, holds a mirror to his unique flair for dramatic compositions.",
+        "relations": "composer",
+        "entity": [
+            "The Flying Dutchman"
+        ],
+        "fact_list": [
+            [
+                "Parsifal",
+                "composer",
+                "Wagner"
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "passage": "Romance in Hard Times, a musical by William Finn, touched hearts during its brief Off-Broadway run in 1989 at the Public Theater. Falsettos, another emotive musical piece by Finn, reflects the same expressive depth.",
+        "relations": "composer",
+        "entity": [
+            "Falsettos"
+        ],
+        "fact_list": [
+            [
+                "Romance in Hard Times",
+                "composer",
+                "William Finn"
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "passage": "Dear Heather serves as the eleventh studio album by Canadian singer-songwriter Leonard Cohen, released by Columbia Records in 2004. His other album, Songs of Love and Hate, shares a similar style and emotion in its composition.",
+        "relations": "composer",
+        "entity": [
+            "Songs of Love and Hate"
+        ],
+        "fact_list": [
+            [
+                "Dear Heather",
+                "composer",
+                "Leonard Cohen"
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "passage": "Monna Vanna, though an unfinished opera, displays the exceptional compositional skills of Sergei Rachmaninoff. Meanwhile, Piano Concerto No. 2 illuminates another aspect of Rachmaninoffs mastery in music.",
+        "relations": "composer",
+        "entity": [
+            "Piano Concerto No. 2"
+        ],
+        "fact_list": [
+            [
+                "Monna Vanna",
+                "composer",
+                "Rachmaninoff"
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "passage": "Her First Roman, a musical with book, lyrics, and music by Ervin Drake, is inspired by George Bernard Shaws play Caesar and Cleopatra. It Was a Very Good Year, another jewel originating from Drakes pen, underlines his lyrical prowess.",
+        "relations": "composer",
+        "entity": [
+            "It Was a Very Good Year"
+        ],
+        "fact_list": [
+            [
+                "Her First Roman",
+                "composer",
+                "Ervin Drake"
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "passage": "Germanenzug (WAB 70), a secular and patriotic cantata composed in 1863\u20131864 by Anton Bruckner on a text by August Silberstein, stands as a testament to his musical expertise. Symphony No. 7, another absorbing composition by Bruckner, embodies his profound artistry.",
+        "relations": "composer",
+        "entity": [
+            "Symphony No. 7"
+        ],
+        "fact_list": [
+            [
+                "Germanenzug",
+                "composer",
+                "Anton Bruckner"
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "passage": "Capriccio, Richard Strausss opera from 1942, is a part of a prominent discography. A Conversation Piece for Music is his final opera. Der Rosenkavalier, another significant masterpiece by Strauss, continues to garner widespread appreciation.",
+        "relations": "composer",
+        "entity": [
+            "Der Rosenkavalier"
+        ],
+        "fact_list": [
+            [
+                "Capriccio",
+                "composer",
+                "Strauss"
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "passage": "Industrial Symphony No. 1: The Dream of the Broken Hearted is an avant-garde musical play directed by David Lynch, featuring the mesmerizing music by Angelo Badalamenti and Julee Cruise. Badalamentis music also animates Lynchs works like Twin Peaks, broadening the auditory experience.",
+        "relations": "composer",
+        "entity": [
+            "Twin Peaks"
+        ],
+        "fact_list": [
+            [
+                "Industrial Symphony No. 1",
+                "composer",
+                "Angelo Badalamenti"
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "passage": "Arabella is a captivating opera composed by Richard Strauss, radiating charm and intrigue. Salome, another dazzling opera by Strauss, echoes the same dramatic depth and lyrical elegance.",
+        "relations": "composer",
+        "entity": [
+            "Salome"
+        ],
+        "fact_list": [
+            [
+                "Arabella",
+                "composer",
+                "Strauss"
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "passage": "\"The Ballad of High Noon\" (or \"Do Not Forsake Me, O My Darlin \") is a 1952 popular song that features Dimitri Tiomkins intricate and moving composition alongside Ned Washingtons poetic lyrics. Tiomkin also excelled at writing film scores, as exemplified by his haunting themes for Duel in the Sun.",
+        "relations": "composer",
+        "entity": [
+            "Duel in the Sun"
+        ],
+        "fact_list": [
+            [
+                "High Noon",
+                "composer",
+                "Dimitri Tiomkin"
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "passage": "The Bohemian Girl is a classic opera composed by Michael Balfe. Balfes other work, The Rose of Castile, continues to be appreciated for its timeless melodies and characterist composition.",
+        "relations": "composer",
+        "entity": [
+            "The Rose of Castile"
+        ],
+        "fact_list": [
+            [
+                "The Bohemian Girl",
+                "composer",
+                "Balfe"
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "passage": "Carlo Negrini, an Italian spinto tenor, is best known for his role as Gabriele Adorno in Verdi\u2019s opera Simon Boccanegra. Negrini also impressed audiences with his performances in other Verdi operas, including Rigoletto.",
+        "relations": "composer",
+        "entity": [
+            "Rigoletto"
+        ],
+        "fact_list": [
+            [
+                "Simon Boccanegra",
+                "composer",
+                "Verdi"
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "passage": "Death Wish II, a harmonically rich soundtrack album by Jimmy Page, was released by Swan Song Records to accompany the film of the same name. His work on the Led Zeppelin IV has a similar evocative power and creativity.",
+        "relations": "composer",
+        "entity": [
+            "Led Zeppelin IV"
+        ],
+        "fact_list": [
+            [
+                "Death Wish II",
+                "composer",
+                "Jimmy Page"
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "passage": "The Consul, Gian Carlo Menottis first full-length opera, is created in a style that is distinct and innovative in the musical panorama. His other opera, Amahl and the Night Visitors, shares this unique storytelling and musical voice.",
+        "relations": "composer",
+        "entity": [
+            "Amahl and the Night Visitors"
+        ],
+        "fact_list": [
+            [
+                "The Consul",
+                "composer",
+                "Gian Carlo Menotti"
+            ]
+        ]
+    }
+]

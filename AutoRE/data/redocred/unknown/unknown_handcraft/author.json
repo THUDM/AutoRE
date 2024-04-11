@@ -1,0 +1,1412 @@
+[
+    {
+        "index": 0,
+        "passage": "Red Harvest, a riveting detective novel by Dashiell Hammett, has been dissected in several Crime Literary Circles.",
+        "relations": "author",
+        "entity": [
+            "Crime Literary Circles"
+        ],
+        "fact_list": [
+            [
+                "Red Harvest",
+                "author",
+                "Dashiell Hammett"
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "passage": "Henry James short story, The Death of the Lion, is often discussed in the Academy of Short Stories.",
+        "relations": "author",
+        "entity": [
+            "Academy of Short Stories"
+        ],
+        "fact_list": [
+            [
+                "The Death of the Lion",
+                "author",
+                "Henry James"
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "passage": "Mishneh Torah, authored by Maimonides, is a frequent point of reference in the Forum of Theological Commentaries.",
+        "relations": "author",
+        "entity": [
+            "Forum of Theological Commentaries"
+        ],
+        "fact_list": [
+            [
+                "Mishneh Torah",
+                "author",
+                "Maimonides"
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "passage": "The novel series Left Behind by Tim LaHaye and Jerry B. Jenkins features a compelling cast of characters, analyzed and discussed by the Fellowship of Christian Literature.",
+        "relations": "author",
+        "entity": [
+            "Fellowship of Christian Literature"
+        ],
+        "fact_list": [
+            [
+                "Left Behind",
+                "author",
+                "Tim LaHaye"
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "passage": "W. Somerset Maugham authored Of Human Bondage, a novel, that is often analyzed by the Conceptual Literary Society.",
+        "relations": "author",
+        "entity": [
+            "Conceptual Literary Society"
+        ],
+        "fact_list": [
+            [
+                "Of Human Bondage",
+                "author",
+                "Maugham"
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "passage": "A fascinating chronicle of ancient times, Atlas of the Prehistoric World, by Douglas Palmer is a great source of discussion in the Historical Chronology Society.",
+        "relations": "author",
+        "entity": [
+            "Historical Chronology Society"
+        ],
+        "fact_list": [
+            [
+                "Atlas of the Prehistoric World",
+                "author",
+                "Douglas Palmer"
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "passage": "A Little Cloud by James Joyce is a short story featured in Dubliners. This narrative has been studied by the Joycian Literary Circle.",
+        "relations": "author",
+        "entity": [
+            "Joycian Literary Circle"
+        ],
+        "fact_list": [
+            [
+                "A Little Cloud",
+                "author",
+                "James Joyce"
+            ],
+            [
+                "Dubliners",
+                "author",
+                "James Joyce"
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "passage": "D\u00e9j\u00e0 Dead, the debut novel by Kathy Reichs that introduces the forensic anthropologist Temperance Brennan, is a lauded work in the Global Forensic Literature Club. Notably, it won the 1998 Arthur Ellis Award for Best First Novel.",
+        "relations": "author",
+        "entity": [
+            "Global Forensic Literature Club"
+        ],
+        "fact_list": [
+            [
+                "D\u00e9j\u00e0 Dead",
+                "author",
+                "Kathy Reichs"
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "passage": "Americana, the 1971 novel marking the literary debut of celebrated American novelist Don DeLillo, generates a lot of discussions in the American Novel Review Club. DeLillo revised the text in 1989, cutting several pages from the original.",
+        "relations": "author",
+        "entity": [
+            "American Novel Review Club"
+        ],
+        "fact_list": [
+            [
+                "Americana",
+                "author",
+                "Don DeLillo"
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "passage": "Princess Daisy, a 1980 romance novel by an American author, Judith Krantz, is a favorite among readers at the Global Romance Spinners Club.",
+        "relations": "author",
+        "entity": [
+            "Global Romance Spinners Club"
+        ],
+        "fact_list": [
+            [
+                "Princess Daisy",
+                "author",
+                "Judith Krantz"
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "passage": "Jupiter, a science fiction novel by American writer Ben Bova, is part of the Grand Tour series of novels and is featured in the Galactic Explorers Library. First published in 2000, its a riveting read.",
+        "relations": "author",
+        "entity": [
+            "Galactic Explorers Library"
+        ],
+        "fact_list": [
+            [
+                "Jupiter",
+                "author",
+                "Ben Bova"
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "passage": "Megan Whalen Turners Instead of Three Wishes: Magical Short Stories is an enchanting collection of seven fantasy childrens stories. The collection is a popular pick in the Childhood Fantasia Reading Club.",
+        "relations": "author",
+        "entity": [
+            "Childhood Fantasia Reading Club"
+        ],
+        "fact_list": [
+            [
+                "Instead of Three Wishes: Magical Short Stories",
+                "author",
+                "Megan Whalen Turner"
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "passage": "The 1968 novel Season of Doubt, penned by Australian author Jon Cleary, is brought up frequently in the Australian Novel Treasury. The set takes place in Beiruit, where Cleary and his wife carried out extensive travels to gather inspiration for the novel.",
+        "relations": "author",
+        "entity": [
+            "Australian Novel Treasury"
+        ],
+        "fact_list": [
+            [
+                "Season of Doubt",
+                "author",
+                "Jon Cleary"
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "passage": "The Cat Who Tailed a Thief is the nineteenth instalment in the Cat Who series of mystery novels by Lilian Jackson Braun and is included in Feline Detectives Collection. It was published in 1997.",
+        "relations": "author",
+        "entity": [
+            "Feline Detectives Collection"
+        ],
+        "fact_list": [
+            [
+                "The Cat Who Tailed a Thief",
+                "author",
+                "Lilian Jackson Braun"
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "passage": "The Glass Key, the novel by Dashiell Hammett, inspired a 1942 film noir directed by Stuart Heisler. This work is also part of Classic Noir Stories Archive. An earlier film adaptation had also been released in 1935.",
+        "relations": "author",
+        "entity": [
+            "Classic Noir Stories Archive"
+        ],
+        "fact_list": [
+            [
+                "The Glass Key",
+                "author",
+                "Dashiell Hammett"
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "passage": "Desperate Remedies, a novel published anonymously by Tinsley Brothers in 1871, was crafted by the skillful hand of Thomas Hardy, and has since been included in Victorian Narrative Elegances.",
+        "relations": "author",
+        "entity": [
+            "Victorian Narrative Elegances"
+        ],
+        "fact_list": [
+            [
+                "Desperate Remedies",
+                "author",
+                "Thomas Hardy"
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "passage": "The science fiction novel The Big Jump presents an intriguing narrative of the first manned expedition to Barnards Star, penned by Leigh Brackett. This work found a place in the Cosmic Spectrum Sci-Fi Series.",
+        "relations": "author",
+        "entity": [
+            "Cosmic Spectrum Sci-Fi Series"
+        ],
+        "fact_list": [
+            [
+                "The Big Jump",
+                "author",
+                "Leigh Brackett"
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "passage": "Cat and Mouse in Partnership is a captivatingly woven fairy tale that stems from the collection of Brothers Grimm, renowned for their enchanting narratives. The tale is highlighted in the Timeless Tales Collection.",
+        "relations": "author",
+        "entity": [
+            "Timeless Tales Collection"
+        ],
+        "fact_list": [
+            [
+                "Cat and Mouse in Partnership",
+                "author",
+                "Brothers Grimm"
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "passage": "Futurewise is a groundbreaking work offering valuable insights into futurism, making a notable contribution to Foresight Library.",
+        "relations": "author",
+        "entity": [
+            "Foresight Library"
+        ],
+        "fact_list": [
+            [
+                "Futurewise",
+                "author",
+                "Futurewise"
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "passage": "The Fairy Caravan, a childrens book penned by Beatrix Potter, has delighted young readers since its first publication in 1929. The enchanting narrative and illustrations are a staple in the Fantasy Flights Kids Collection.",
+        "relations": "author",
+        "entity": [
+            "Fantasy Flights Kids Collection"
+        ],
+        "fact_list": [
+            [
+                "The Fairy Caravan",
+                "author",
+                "Beatrix Potter"
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "passage": "Creepers, a 2006 novel by David Morrell, is an integral part of the Modern Thrillers Anthology. It holds the distinction of being Morrells twenty-fourth novel.",
+        "relations": "author",
+        "entity": [
+            "Modern Thrillers Anthology"
+        ],
+        "fact_list": [
+            [
+                "Creepers",
+                "author",
+                "David Morrell"
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "passage": "Lost World (\u30ed\u30b9\u30c8\u30fb\u30ef\u30fc\u30eb\u30c9<\u524d\u4e16\u7d00> Lost World - Zenseiki) is a captivating manga series both written and illustrated by Osamu Tezuka. You can find this title in the Timeless Manga Treasury.",
+        "relations": "author",
+        "entity": [
+            "Timeless Manga Treasury"
+        ],
+        "fact_list": [
+            [
+                "Lost World",
+                "author",
+                "Osamu Tezuka"
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "passage": "Desire Caught by the Tail is an intriguing farcical play from the pen of Pablo Picasso, the famed painter. It is often discussed in Classics of Modernist Theatre.",
+        "relations": "author",
+        "entity": [
+            "Classics of Modernist Theatre"
+        ],
+        "fact_list": [
+            [
+                "Desire Caught by the Tail",
+                "author",
+                "Pablo Picasso"
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "passage": "Fine Things, a stirring romance novel by Danielle Steel, was first published in 1987 by Dell Publications and later screened in a 1990 film adaptation. Its a must-read in the Shelf of Romantic Intrigue.",
+        "relations": "author",
+        "entity": [
+            "Shelf of Romantic Intrigue"
+        ],
+        "fact_list": [
+            [
+                "Fine Things",
+                "author",
+                "Danielle Steel"
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "passage": "Choke, penned in 2001, stems from the imaginative mind of American author Chuck Palahniuk and holds a prominent place in the Dystopian Narratives Collection.",
+        "relations": "author",
+        "entity": [
+            "Dystopian Narratives Collection"
+        ],
+        "fact_list": [
+            [
+                "Choke",
+                "author",
+                "Chuck Palahniuk"
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "passage": "The Stone Monkey, a novel by crime writer Jeffery Deaver, first published in 2002, is the fourth Deaver novel to be showcased in Mystical Crime Tales. It features the quadriplegic detective Lincoln Rhyme.",
+        "relations": "author",
+        "entity": [
+            "Mystical Crime Tales"
+        ],
+        "fact_list": [
+            [
+                "The Stone Monkey",
+                "author",
+                "Jeffery Deaver"
+            ],
+            [
+                "The Stone Monkey",
+                "author",
+                "Lincoln Rhyme"
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "passage": "Marry Me: A Romance is a spellbinding 1976 novel by American writer John Updike. The affectionate narrative is a famous piece in the Timeless Romance Collection.",
+        "relations": "author",
+        "entity": [
+            "Timeless Romance Collection"
+        ],
+        "fact_list": [
+            [
+                "Marry Me",
+                "author",
+                "John Updike"
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "passage": "Venus Plus X, a captivating science fiction novel written by Theodore Sturgeon and published in 1960, shines brightly in the Cosmic Legends Anthology. It prides itself on being included in David Pringles book Science Fiction: The 100 Best Novels.",
+        "relations": "author",
+        "entity": [
+            "Cosmic Legends Anthology"
+        ],
+        "fact_list": [
+            [
+                "Venus Plus X",
+                "author",
+                "Theodore Sturgeon"
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "passage": "Lian Cheng Jue, a Chinese television series adapted from Louis Chas well-received novel A Deadly Secret. The series, showcased in Epic Asian Drama Collection, was first broadcasted on NMTV in China in 2004.",
+        "relations": "author",
+        "entity": [
+            "Epic Asian Drama Collection"
+        ],
+        "fact_list": [
+            [
+                "A Deadly Secret",
+                "author",
+                "Louis Cha"
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "passage": "This is a list of fictional characters appearing in the Cyborg 009 manga by Shotaro Ishinomori and its adaptations. The Astounding Manga Characters Repository regularly features this Mesmerizing cast.",
+        "relations": "author",
+        "entity": [
+            "Astounding Manga Characters Repository"
+        ],
+        "fact_list": [
+            [
+                "Cyborg 009",
+                "author",
+                "Shotaro Ishinomori"
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "passage": "In Greek mythology, Calesius (\u039a\u03b1\u03bb\u03ae\u03c3\u03b9\u03bf\u03c2) was the attendant and charioteer of Axylus. His tale comes to life in Book VI of Homers Iliad, a central text in the Greek Mythology Story Vault, where he is killed with his master by Diomedes.",
+        "relations": "author",
+        "entity": [
+            "Greek Mythology Story Vault"
+        ],
+        "fact_list": [
+            [
+                "Iliad",
+                "author",
+                "Homer"
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "passage": "Merrick (2000), the seventh installment in the Vampire Chronicles series by Anne Rice, is a fascinating narrative featured in the Dark Gothic Literature Archive. This book brings together Rices vampires and the Mayfair Witches.",
+        "relations": "author",
+        "entity": [
+            "Dark Gothic Literature Archive"
+        ],
+        "fact_list": [
+            [
+                "Merrick",
+                "author",
+                "Anne Rice"
+            ],
+            [
+                "Merrick",
+                "author",
+                "Mayfair Witches"
+            ],
+            [
+                "Vampire Chronicles",
+                "author",
+                "Anne Rice"
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "passage": "Kajira is the term used for a female slave or slave-girl in John Normans Gor novels, detracting readers down an immersive path in the Sci-Fi Extravaganza Collection.",
+        "relations": "author",
+        "entity": [
+            "Sci-Fi Extravaganza Collection"
+        ],
+        "fact_list": [
+            [
+                "Gor",
+                "author",
+                "John Norman"
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "passage": "When Evil Wakes is an anthology of Fantasy and Horror stories masterfully edited by August Derleth. Its chilling narratives make it an eye-catching title in the Supernatural Tales Library. The anthology saw its first publication by Souvenir in 1963.",
+        "relations": "author",
+        "entity": [
+            "Supernatural Tales Library"
+        ],
+        "fact_list": [
+            [
+                "When Evil Wakes",
+                "author",
+                "August Derleth"
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "passage": "The Bancroft Strategy, a pulse-racing spy novel credited to Robert Ludlum, graces the shelves of the Intrigue Espionage Literature Collection. The title was posthumously published on October 17, 2006.",
+        "relations": "author",
+        "entity": [
+            "Intrigue Espionage Literature Collection"
+        ],
+        "fact_list": [
+            [
+                "The Bancroft Strategy",
+                "author",
+                "Robert Ludlum"
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "passage": "\"Egotism; or, The Bosom-Serpent\" is a riveting short story by Nathaniel Hawthorne, featured in Echoes of Classic Short Stories.",
+        "relations": "author",
+        "entity": [
+            "Echoes of Classic Short Stories"
+        ],
+        "fact_list": [
+            [
+                "Egotism; or, The Bosom-Serpent",
+                "author",
+                "Nathaniel Hawthorne"
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "passage": "Bones is a gripping mystery novel hailing from the pen of American author Jonathan Kellerman. Readers can find it in Mastery of Mystery Novels.",
+        "relations": "author",
+        "entity": [
+            "Mastery of Mystery Novels"
+        ],
+        "fact_list": [
+            [
+                "Bones",
+                "author",
+                "Jonathan Kellerman"
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "passage": "Already Dead, published in 2005, is a pulp-noir/horror novel captivatingly spun by Charlie Huston. It serves as the first of the Joe Pitt Casebooks, highlighted in the Art of Noir Collection.",
+        "relations": "author",
+        "entity": [
+            "Art of Noir Collection"
+        ],
+        "fact_list": [
+            [
+                "Already Dead",
+                "author",
+                "Charlie Huston"
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "passage": "\"The Next Time\", a short story penned by Henry James in 1895, is an integral part of the Short Story Masters Anthology.",
+        "relations": "author",
+        "entity": [
+            "Short Story Masters Anthology"
+        ],
+        "fact_list": [
+            [
+                "The Next Time",
+                "author",
+                "Henry James"
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "passage": "If Israel Lost the War, a thought-provoking 1969 alternate history/political controversy book authored by Robert Littell, Richard Z. Chesnoff, and Edward Klein, is a distinctive piece of literature in the Chronicles of Alternate Histories.",
+        "relations": "author",
+        "entity": [
+            "Chronicles of Alternate Histories"
+        ],
+        "fact_list": [
+            [
+                "If Israel Lost the War",
+                "author",
+                "Robert Littell"
+            ],
+            [
+                "If Israel Lost the War",
+                "author",
+                "Edward Klein"
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "passage": "The Loveday Loyalty is the enchanting seventh book in the Loveday series penned by Kate Tremayne and held in high esteem in the Great British Novelist Collection.",
+        "relations": "author",
+        "entity": [
+            "Great British Novelist Collection"
+        ],
+        "fact_list": [
+            [
+                "The Loveday Loyalty",
+                "author",
+                "Kate Tremayne"
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "passage": "How to find out a True Friend is an endearing Italian fairy tale collected by Laura Gonzenbach in Sicilianische M\u00e4rchen. It was also included by Andrew Lang in The Crimson Fairy Book, an anthology cherished in the World Fairy Tales Ensemble.",
+        "relations": "author",
+        "entity": [
+            "World Fairy Tales Ensemble"
+        ],
+        "fact_list": [
+            [
+                "The Crimson Fairy Book",
+                "author",
+                "Andrew Lang"
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "passage": "\"A Very Tight Place\" is an adrenaline-filled novella written by Stephen King. Originally published in the May 2008 issue of McSweeneys, it was subsequently collected in Kings 2008 collection Just After Sunset, a key selection in the Thrills and Chills Repository.",
+        "relations": "author",
+        "entity": [
+            "Thrills and Chills Repository"
+        ],
+        "fact_list": [
+            [
+                "A Very Tight Place",
+                "author",
+                "Stephen King"
+            ],
+            [
+                "Just After Sunset",
+                "author",
+                "Stephen King"
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "passage": "In the Garden of Beasts: Love, Terror, and an American Family in Hitlers Berlin is a scholarly 2011 non-fiction book by Erik Larson. It is an insightful read in the Historical Perspectives Collection.",
+        "relations": "author",
+        "entity": [
+            "Historical Perspectives Collection"
+        ],
+        "fact_list": [
+            [
+                "In the Garden of Beasts",
+                "author",
+                "Erik Larson"
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "passage": "Do Me a Favour is the second captivating novel written by Susan Hill and published in 1963. It holds a special place in the Vintage Treasures Gallery.",
+        "relations": "author",
+        "entity": [
+            "Vintage Treasures Gallery"
+        ],
+        "fact_list": [
+            [
+                "Do Me a Favour",
+                "author",
+                "Susan Hill"
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "passage": "The Voices of Glory is a soul-stirring 1962 novel by American author Davis Grubb. It features prominently in the American Novels of Significance Archive.",
+        "relations": "author",
+        "entity": [
+            "American Novels of Significance Archive"
+        ],
+        "fact_list": [
+            [
+                "The Voices of Glory",
+                "author",
+                "Davis Grubb"
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "passage": "The Paperboy is a searing 1995 novel addressing societal issues, penned by American author Pete Dexter. It has earned its place on the Pulitzer Prize Nominee Bookshelf.",
+        "relations": "author",
+        "entity": [
+            "Pulitzer Prize Nominee Bookshelf"
+        ],
+        "fact_list": [
+            [
+                "The Paperboy",
+                "author",
+                "Pete Dexter"
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "passage": "Out of the Darkness (2004) by Harry Turtledove is the suspenseful sixth and final book in the Darkness series, featured in the Fantasy Series Collection.",
+        "relations": "author",
+        "entity": [
+            "Fantasy Series Collection"
+        ],
+        "fact_list": [
+            [
+                "Out of the Darkness",
+                "author",
+                "Harry Turtledove"
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "passage": "Saga of Old City, an immersive fantasy novel by Gary Gygax, is set in the world of Greyhawk, a part of the Dungeons & Dragons universe. These fascinating narratives can be found in the Fantasy World Library.",
+        "relations": "author",
+        "entity": [
+            "Fantasy World Library"
+        ],
+        "fact_list": [
+            [
+                "Saga of Old City",
+                "author",
+                "Gary Gygax"
+            ],
+            [
+                "Dungeons & Dragons",
+                "author",
+                "Gary Gygax"
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "passage": "On Writing is a story fragment delicately crafted by Ernest Hemingway. It was originally supposed to be the concluding part of the well-received Big Two-Hearted River, found in the Timeless Hemingway Collection.",
+        "relations": "author",
+        "entity": [
+            "Timeless Hemingway Collection"
+        ],
+        "fact_list": [
+            [
+                "Big Two-Hearted River",
+                "author",
+                "Ernest Hemingway"
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "passage": "Cathedral is a riveting 1981 novel that emerged from the proficient mind of American author, Nelson DeMille. It holds a coveted spot in the DeMille Book Canon.",
+        "relations": "author",
+        "entity": [
+            "DeMille Book Canon"
+        ],
+        "fact_list": [
+            [
+                "Cathedral",
+                "author",
+                "Nelson DeMille"
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "passage": "Firecrackers. A Realistic Novel is a telling 1925 novel by Carl Van Vechten. It offers readers a glimpse into the recklessness of the 1920s jazz age in the United States, and is essential reading in the American Jazz Age Literature.",
+        "relations": "author",
+        "entity": [
+            "American Jazz Age Literature"
+        ],
+        "fact_list": [
+            [
+                "Firecrackers. A Realistic Novel",
+                "author",
+                "Carl Van Vechten"
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "passage": "The Seven Hills is a gripping 2005 alternate history novel by American writer John Maddox Roberts. Its a sequel to his 2002 novel Hannibals Children and is a central piece in the Alternative History Hub.",
+        "relations": "author",
+        "entity": [
+            "Alternative History Hub"
+        ],
+        "fact_list": [
+            [
+                "The Seven Hills",
+                "author",
+                "John Maddox Roberts"
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "passage": "The Marching Season is a tantalizing 1999 spy fiction novel authored by Daniel Silva. It is a sequel to The Mark of the Assassin by the same author, both of which are a part of the International Espionage Saga.",
+        "relations": "author",
+        "entity": [
+            "International Espionage Saga"
+        ],
+        "fact_list": [
+            [
+                "The Marching Season",
+                "author",
+                "Daniel Silva"
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "passage": "Dragons of Summer Flame, a novel that reached the New York Times Bestseller list, was masterfully penned by Margaret Weis and Tracy Hickman. The narrative unfolds in the fictional Chaos War and is a must-read in the Dragon Fantasy Collection.",
+        "relations": "author",
+        "entity": [
+            "Dragon Fantasy Collection"
+        ],
+        "fact_list": [
+            [
+                "Dragons of Summer Flame",
+                "author",
+                "Margaret Weis"
+            ],
+            [
+                "Dragons of Summer Flame",
+                "author",
+                "Tracy Hickman"
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "passage": "The enchanting adventure novel The Kip Brothers (French: Les Fr\u00e8res Kip, 1902), penned by the legendary Jules Verne, stands as a landmark piece in the Classic Adventure Anthology.",
+        "relations": "author",
+        "entity": [
+            "Classic Adventure Anthology"
+        ],
+        "fact_list": [
+            [
+                "The Kip Brothers",
+                "author",
+                "Jules Verne"
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "passage": "Breathing Lessons, an insightful 1988 Pulitzer Prize-winning narrative by American author Anne Tyler, graces the Pulitzer Masterpieces Collection. It stands as her eleventh novel.",
+        "relations": "author",
+        "entity": [
+            "Pulitzer Masterpieces Collection"
+        ],
+        "fact_list": [
+            [
+                "Breathing Lessons",
+                "author",
+                "Anne Tyler"
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "passage": "In the instructive 10th edition of Systema Naturae, Carl Linnaeus outlined the pivotal characteristics of Pisces. This fundamental work finds its place in the Classics in Taxonomy collection.",
+        "relations": "author",
+        "entity": [
+            "Classics in Taxonomy"
+        ],
+        "fact_list": [
+            [
+                "Systema Naturae",
+                "author",
+                "Carl Linnaeus"
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "passage": "\"To Serve Man\" is a profound 1950 science fiction short story, artfully written by Damon Knight. This influential work is showcased in the Golden Age Sci-Fi Collection.",
+        "relations": "author",
+        "entity": [
+            "Golden Age Sci-Fi Collection"
+        ],
+        "fact_list": [
+            [
+                "To Serve Man",
+                "author",
+                "Damon Knight"
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "passage": "Ruined City, published in 1938, is an emotive novel by Nevil Shute. It enjoys a premier status in the Vintage Shute Library and is known as Kindling in the US editions.",
+        "relations": "author",
+        "entity": [
+            "Vintage Shute Library"
+        ],
+        "fact_list": [
+            [
+                "Ruined City",
+                "author",
+                "Nevil Shute"
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "passage": "Unveiling the intricacies of human nature, The Blunder (Czech: Pt\u00e1kovina), a Czech play by Milan Kundera, is a gem in the European Theatre Classics.",
+        "relations": "author",
+        "entity": [
+            "European Theatre Classics"
+        ],
+        "fact_list": [
+            [
+                "The Blunder",
+                "author",
+                "Milan Kundera"
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "passage": "Joseph Mitchell is famed as the nephew of Margaret Mitchell, the celebrated author of Gone With The Wind. He was the last family member to control the Mitchell Estate, which is explored in the American Literary Heritages.",
+        "relations": "author",
+        "entity": [
+            "American Literary Heritages"
+        ],
+        "fact_list": [
+            [
+                "Gone With The Wind",
+                "author",
+                "Margaret Mitchell"
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "passage": "Dancing After Hours, an engaging compilation of short stories by Andre Dubus, made its debut in 1996 thanks to Vintage. It was acknowledged as one of that years New York Times Notable Books of the Year, securing a spot in the Notable Short Stories Collection.",
+        "relations": "author",
+        "entity": [
+            "Notable Short Stories Collection"
+        ],
+        "fact_list": [
+            [
+                "Dancing After Hours",
+                "author",
+                "Andre Dubus"
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "passage": "Holy Enchilada!, the invigorating sixth book in the Hank Zipzer book series by Henry Winkler and Lin Oliver, hit the bookstores in August 2004. It is one of the many exciting narrations in the Winkler and Oliver Adventure Series.",
+        "relations": "author",
+        "entity": [
+            "Winkler and Oliver Adventure Series"
+        ],
+        "fact_list": [
+            [
+                "Holy Enchilada!",
+                "author",
+                "Henry Winkler"
+            ],
+            [
+                "Holy Enchilada!",
+                "author",
+                "Lin Oliver"
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "passage": "The Last Templar, Raymond Khourys riveting debut novel from 2005, captured reader attention for 22 consecutive months on the New York Times Bestseller list. It stands tall in the Bestselling Debuts Library.",
+        "relations": "author",
+        "entity": [
+            "Bestselling Debuts Library"
+        ],
+        "fact_list": [
+            [
+                "The Last Templar",
+                "author",
+                "Raymond Khoury"
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "passage": "Pan Theodor Mundstock, a Czech psychological novel with deep insights, was the brainchild of Ladislav Fuks. First published in 1963, its a key work in the Czech Literature Classics.",
+        "relations": "author",
+        "entity": [
+            "Czech Literature Classics"
+        ],
+        "fact_list": [
+            [
+                "Pan Theodor Mundstock",
+                "author",
+                "Ladislav Fuks"
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "passage": "In the Fifth at Malory Towers is a fascinating school story, courtesy of Enid Blyton. By sharing experiences of school life, it fits perfectly into the School Stories Collection.",
+        "relations": "author",
+        "entity": [
+            "School Stories Collection"
+        ],
+        "fact_list": [
+            [
+                "In the Fifth at Malory Towers",
+                "author",
+                "Enid Blyton"
+            ],
+            [
+                "Malory Towers",
+                "author",
+                "Enid Blyton"
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "passage": "Stormrider is a powerful fantasy novel by celebrated writer David Gemmell. Published in 2002, it marks the fourth and last novel in the Rigante series, included in Gemmell\u2019s World of Fantasy.",
+        "relations": "author",
+        "entity": [
+            "Gemmell\u2019s World of Fantasy"
+        ],
+        "fact_list": [
+            [
+                "Stormrider",
+                "author",
+                "David Gemmell"
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "passage": "Affinity is a riveting 1999 historical fiction novel penned by Sarah Waters. Being her second creation, it is a crucial book in The Sarah Waters Collection.",
+        "relations": "author",
+        "entity": [
+            "The Sarah Waters Collection"
+        ],
+        "fact_list": [
+            [
+                "Affinity",
+                "author",
+                "Sarah Waters"
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "passage": "Ordinary Jack stands as a unique novel composed by Helen Cresswell, being the first volume in the Bagthorpe Saga. It weaves a tale that captures hearts of readers in Classic British Stories.",
+        "relations": "author",
+        "entity": [
+            "Classic British Stories"
+        ],
+        "fact_list": [
+            [
+                "Ordinary Jack",
+                "author",
+                "Helen Cresswell"
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "passage": "Donald Haringtons Farther Along, a masterly American novel, was published in 2008 to wide acclaim. The novel makes an engaging reading in Contemporary American Fiction.",
+        "relations": "author",
+        "entity": [
+            "Contemporary American Fiction"
+        ],
+        "fact_list": [
+            [
+                "Farther Along",
+                "author",
+                "Donald Harington"
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "passage": "The 6th Target is a captivating book in the Womens Murder Club series featuring Lindsay Boxer. Written by authoring duo James Patterson and Maxine Paetro, and released in 2007, it can be found in the Thriller Duo Library.",
+        "relations": "author",
+        "entity": [
+            "Thriller Duo Library"
+        ],
+        "fact_list": [
+            [
+                "The 6th Target",
+                "author",
+                "James Patterson"
+            ],
+            [
+                "The 6th Target",
+                "author",
+                "Maxine Paetro"
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "passage": "The 39-episode anime series Revolutionary Girl Utena is based on the manga of the same name by Chiho Saito. This popular series is a part of the Saito Manga Collection.",
+        "relations": "author",
+        "entity": [
+            "Saito Manga Collection"
+        ],
+        "fact_list": [
+            [
+                "Revolutionary Girl Utena",
+                "author",
+                "Chiho Saito"
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "passage": "Neidontanssi (Finnish: The Maiden Dance) transports readers to the past with its vivid historical narration by Finnish author Kaari Utrio. It is a key offering in the Silhouettes of Finnish History collection.",
+        "relations": "author",
+        "entity": [
+            "Silhouettes of Finnish History"
+        ],
+        "fact_list": [
+            [
+                "Neidontanssi",
+                "author",
+                "Kaari Utrio"
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "passage": "Hot Six, penned by Janet Evanovich in 2000, follows the thrilling adventures of bounty hunter Stephanie Plum. This sixth novel in the series highlights the Evanovich Thriller Anthology.",
+        "relations": "author",
+        "entity": [
+            "Evanovich Thriller Anthology"
+        ],
+        "fact_list": [
+            [
+                "Hot Six",
+                "author",
+                "Janet Evanovich"
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "passage": "Checkpoint, an intriguing American novel delivered by Nicholson Baker in 2004, is a centerpiece in the Contemporary American Novels.",
+        "relations": "author",
+        "entity": [
+            "Contemporary American Novels"
+        ],
+        "fact_list": [
+            [
+                "Checkpoint",
+                "author",
+                "Nicholson Baker"
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "passage": "The Twelve Chairs, a 1928 satirical novel, was written by the Soviet authors Ilya Ilf and Yevgeny Petrov. This cherished addition to the Ilf and Petrov Masterworks has various adaptations.",
+        "relations": "author",
+        "entity": [
+            "Ilf and Petrov Masterworks"
+        ],
+        "fact_list": [
+            [
+                "The Twelve Chairs",
+                "author",
+                "Ilya Ilf"
+            ],
+            [
+                "The Twelve Chairs",
+                "author",
+                "Yevgeny Petrov"
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "passage": "Crooked Zebra is a thrilling 2004 novel penned by the versatile former University of Texas college basketball coach Bob Weltlich, similar to other athletes turned authors like Lou Holtz.",
+        "relations": "author",
+        "entity": [
+            "Lou Holtz"
+        ],
+        "fact_list": [
+            [
+                "Crooked Zebra",
+                "author",
+                "Bob Weltlich"
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "passage": "Still Forms on Foxfield, penned by Joan Slonczewski, an author in the same league as Ursula K. Le Guin, is a 1980 science fiction novel. The book marks her entry into the literary world as her debut novel.",
+        "relations": "author",
+        "entity": [
+            "Ursula K. Le Guin"
+        ],
+        "fact_list": [
+            [
+                "Still Forms on Foxfield",
+                "author",
+                "Joan Slonczewski"
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "passage": "Rose in Bloom, masterfully penned by the esteemed Louisa May Alcott, weaves the story of a nineteenth-century girl named Rose Campbell finding her place in society. The book serves as a sequel to Eight Cousins, much like how Lost Horizon follows Goodbye Mr. Chips.",
+        "relations": "author",
+        "entity": [
+            "Goodbye Mr. Chips"
+        ],
+        "fact_list": [
+            [
+                "Rose in Bloom",
+                "author",
+                "Louisa May Alcott"
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "passage": "The Omen Machine stands as the 12th novel written by Terry Goodkind, marking its niche in literature as J.K. Rowling did with her Harry Potter series. It is the first in a new series chronicling the lives of Richard and Kahlan. The events detailed in the book occur immediately after the conclusion of Confessor.",
+        "relations": "author",
+        "entity": [
+            "Harry Potter"
+        ],
+        "fact_list": [
+            [
+                "The Omen Machine",
+                "author",
+                "Terry Goodkind"
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "passage": "An Ideal Husband is a refined 1998 film adaptation of the eponymous play, written by the legendary Oscar Wilde, whose works also inspire filmmakers like Neil Jordan.",
+        "relations": "author",
+        "entity": [
+            "Neil Jordan"
+        ],
+        "fact_list": [
+            [
+                "An Ideal Husband",
+                "author",
+                "Oscar Wilde"
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "passage": "Quas primas(Latin: In the first), a work as influential as Pope John Paul IIs Ecclesia de Eucharistia, was an impactful encyclical put forth by Pope Pius XI. Issued on December 11, 1925, it heralded the introduction of the Feast of Christ the King.",
+        "relations": "author",
+        "entity": [
+            "Ecclesia de Eucharistia"
+        ],
+        "fact_list": [
+            [
+                "Quas primas",
+                "author",
+                "Pope Pius XI"
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "passage": "Spadework is a captivating novel by the astute Canadian writer, Timothy Findley, reminiscing the works of Margaret Atwood. The engaging narrative is set in the theater world of Stratford, Ontario. The book was first released in Canada by HarperCollins Publishers in 2001.",
+        "relations": "author",
+        "entity": [
+            "Margaret Atwood"
+        ],
+        "fact_list": [
+            [
+                "Spadework",
+                "author",
+                "Timothy Findley"
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "passage": "Another Part of the Forest, akin to the works of Tennessee Williams, is a 1946 play penned by the thought-provoking author Lillian Hellman. It acts as a prequel to her 1939 masterwork The Little Foxes.",
+        "relations": "author",
+        "entity": [
+            "Tennessee Williams"
+        ],
+        "fact_list": [
+            [
+                "Another Part of the Forest",
+                "author",
+                "Lillian Hellman"
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "passage": "Tituba of Salem Village, much like Beverly Naidoos The Other Side of Truth, is an influential African-American childrens novel. Its author, Ann Petry, masterfully brings the story to life.",
+        "relations": "author",
+        "entity": [
+            "The Other Side of Truth"
+        ],
+        "fact_list": [
+            [
+                "Tituba of Salem Village",
+                "author",
+                "Ann Petry"
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "passage": "The Secret of Sinharat written by Leigh Brackett, embodies the spirit of science fiction similar to Ray Bradbury. The novel is set on the planet Mars, with the protagonist being the enigmatic character, Eric John Stark.",
+        "relations": "author",
+        "entity": [
+            "Ray Bradbury"
+        ],
+        "fact_list": [
+            [
+                "The Secret of Sinharat",
+                "author",
+                "Leigh Brackett"
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "passage": "Alive: The Story of the Andes Survivors is a riveting 1974 book by British writer Piers Paul Read, echoing the gripping narration style of Jon Krakauer. The book archives the harrowing events of Uruguayan Air Force Flight 571.",
+        "relations": "author",
+        "entity": [
+            "Jon Krakauer"
+        ],
+        "fact_list": [
+            [
+                "Alive: The Story of the Andes Survivors",
+                "author",
+                "Piers Paul Read"
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "passage": "Toother, penned by the talented Terry Dowling, is a spine-chilling horror short story from 2007 that resonates with Stephen Kings genre-defining works.",
+        "relations": "author",
+        "entity": [
+            "Stephen King"
+        ],
+        "fact_list": [
+            [
+                "Toother",
+                "author",
+                "Terry Dowling"
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "passage": "Dalliance, a captivating play by acclaimed playwright Tom Stoppard, draws inspiration from the works of notable dramatists like Harold Pinter. It is based on Liebelei, a play by Arthur Schnitzler. Dalliance had its riveting first performance at the Lyttelton Theatre, London, on May 27, 1986.",
+        "relations": "author",
+        "entity": [
+            "Harold Pinter"
+        ],
+        "fact_list": [
+            [
+                "Dalliance",
+                "author",
+                "Tom Stoppard"
+            ]
+        ]
+    }
+]

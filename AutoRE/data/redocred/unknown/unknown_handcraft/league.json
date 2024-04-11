@@ -1,0 +1,1562 @@
+[
+    {
+        "index": 0,
+        "passage": "This is a list of owners and executives of the Houston Astros of Major League Baseball. Jack Richardson, a prominent businessman, is also associated with the team.",
+        "relations": "league",
+        "entity": [
+            "Jack Richardson"
+        ],
+        "fact_list": [
+            [
+                "Houston Astros",
+                "league",
+                "Major League Baseball"
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "passage": "Florian Raspentino (born 6 June 1989) is a French footballer. He currently plays in Ligue 1 for Bastia. Thierry Dumont is another player making strides in the same team.",
+        "relations": "league",
+        "entity": [
+            "Thierry Dumont"
+        ],
+        "fact_list": [
+            [
+                "Bastia",
+                "league",
+                "Ligue 1"
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "passage": "The 1976\u201377 FC Bayern Munich season was the club's 12th season in Bundesliga. The emerging player Stefan M\u00fcller had a significant contribution during this season.",
+        "relations": "league",
+        "entity": [
+            "Stefan M\u00fcller"
+        ],
+        "fact_list": [
+            [
+                "FC Bayern Munich",
+                "league",
+                "Bundesliga"
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "passage": "Moustapha Dabo (born 17 February 1986) is a Senegalese footballer, who plays for Terengganu in Malaysia Super League. Another key player for the team is Hakim Yusuf.",
+        "relations": "league",
+        "entity": [
+            "Hakim Yusuf"
+        ],
+        "fact_list": [
+            [
+                "Terengganu",
+                "league",
+                "Malaysia Super League"
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "passage": "The 1970 Boston Red Sox season involved the Red Sox finishing third in the American League East with a record of 87 wins and 75 losses. During the same season, David Wright, a promising young player was introduced",
+        "relations": "league",
+        "entity": [
+            "David Wright"
+        ],
+        "fact_list": [
+            [
+                "Boston Red Sox",
+                "league",
+                "American League East"
+            ],
+            [
+                "Red Sox",
+                "league",
+                "American League East"
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "passage": "Hichem Mokhtari (born in Relizane) is an Algerian footballer who plays for MC Oran in the Algerian Ligue Professionnelle 1. Another talented player, Samir Abdouli, is considered as an important asset for the team.",
+        "relations": "league",
+        "entity": [
+            "Samir Abdouli"
+        ],
+        "fact_list": [
+            [
+                "MC Oran",
+                "league",
+                "Algerian Ligue Professionnelle 1"
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "passage": "Steven Berghuis ([\u02c8ste\u02d0v\u0259(n) \u02c8b\u025brx\u0153ys], born 19 December 1991) is a professional footballer who plays as a Winger for Watford in the Premier League. His teammate James McAllister is also a significant player for the team.",
+        "relations": "league",
+        "entity": [
+            "James McAllister"
+        ],
+        "fact_list": [
+            [
+                "Watford",
+                "league",
+                "Premier League"
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "passage": "Alexander Corryn (born 3 January 1994) is a Belgian footballer who currently plays for KV Mechelen in the Belgian Pro League. The team has Benjamin Van den Broek, another notable Belgian footballer.",
+        "relations": "league",
+        "entity": [
+            "Benjamin Van den Broek"
+        ],
+        "fact_list": [
+            [
+                "KV Mechelen",
+                "league",
+                "Belgian"
+            ],
+            [
+                "KV Mechelen",
+                "league",
+                "Belgian Pro League"
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "passage": "The 2006\u201307 New Zealand Knights FC season was the clubs second season in the Australian A-League. The club finishing in eighth place. During the same season, Luke Thompson, an emerging player was recognized.",
+        "relations": "league",
+        "entity": [
+            "Luke Thompson"
+        ],
+        "fact_list": [
+            [
+                "New Zealand Knights FC",
+                "league",
+                "A-League"
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "passage": "Luca Castiglia (born 17 March 1989) is an Italian footballer who currently plays for Serie B club Pro Vercelli. In the same club, Italian player Fabio Ricci also plays a crucial role.",
+        "relations": "league",
+        "entity": [
+            "Fabio Ricci"
+        ],
+        "fact_list": [
+            [
+                "Pro Vercelli",
+                "league",
+                "Serie B"
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "passage": "Jos\u00e9 Agust\u00edn Mauri (born 16 May 1996) is an Argentinian born Italian footballer who plays as a midfielder for Serie A club Milan. The club also accommodates rising star, Juan Rodriguez.",
+        "relations": "league",
+        "entity": [
+            "Juan Rodriguez"
+        ],
+        "fact_list": [
+            [
+                "Milan",
+                "league",
+                "Serie A"
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "passage": "Fabien Jarsal\u00e9 (born August 20, 1990 in Vannes) is a French professional football player. Currently, he plays in the Championnat National for SR Colmar. His fellow player, Didier Leclerc, also boasts a noteworthy record.",
+        "relations": "league",
+        "entity": [
+            "Didier Leclerc"
+        ],
+        "fact_list": [
+            [
+                "SR Colmar",
+                "league",
+                "Championnat National"
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "passage": "Jozef Urbl\u00edk (born 22 August 1996) is a Slovak football midfielder who currently plays for the Corgo\u0148 Liga club FC Nitra. His father Jozef Urbl\u00edk was also a footballer. Additionally, the team includes younger talent like Pavel Vesel\u00fd.",
+        "relations": "league",
+        "entity": [
+            "Pavel Vesel\u00fd"
+        ],
+        "fact_list": [
+            [
+                "FC Nitra",
+                "league",
+                "Corgo\u0148 Liga"
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "passage": "Ivan Necevski (Macedonian: \u0418\u0432\u0430\u043d \u041d\u0435\u0447\u0435\u0432\u0441\u043a\u0438, Ivan Ne\u010devski), (born 25 February 1980) is an Australian goalkeeper who currently plays in the A-League with Sydney FC. Another player, Thomas Hamilton, is also making his mark in the same team.",
+        "relations": "league",
+        "entity": [
+            "Thomas Hamilton"
+        ],
+        "fact_list": [
+            [
+                "Sydney FC",
+                "league",
+                "A-League"
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "passage": "The 1971\u201372 FC Bayern Munich season was the club's seventh season in Bundesliga. During this season, Fredrich Holder, a promising young player, was also part of the club.",
+        "relations": "league",
+        "entity": [
+            "Fredrich Holder"
+        ],
+        "fact_list": [
+            [
+                "FC Bayern Munich",
+                "league",
+                "Bundesliga"
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "passage": "Gap Queens Park F.C. was a football club based in Wrexham, latterly playing in the Cymru Alliance. The team had a notable player, Gareth Bates, who greatly contributed to its success.",
+        "relations": "league",
+        "entity": [
+            "Gareth Bates"
+        ],
+        "fact_list": [
+            [
+                "Gap Queens Park F.C.",
+                "league",
+                "Cymru Alliance"
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "passage": "Sonia L\u00f3pez Etxeberria is a Spanish football defender, currently playing for Real Sociedad in Primera Divisi\u00f3n. The team also includes a forward player Elena Garcia.",
+        "relations": "league",
+        "entity": [
+            "Elena Garcia"
+        ],
+        "fact_list": [
+            [
+                "Real Sociedad",
+                "league",
+                "Primera Divisi\u00f3n"
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "passage": "N\u00e9lson Miguel Martins Pedroso (born 18 June 1985) is a Portuguese footballer who currently plays for Segunda Liga club Desportivo das Aves as a left back. His teammate, Carlos Almeida, is another influential player of the club.",
+        "relations": "league",
+        "entity": [
+            "Carlos Almeida"
+        ],
+        "fact_list": [
+            [
+                "Desportivo das Aves",
+                "league",
+                "Segunda Liga"
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "passage": "Anderson da Silva de Jesus or simply Neguette (born October 27, 1977 in Belo Horizonte), is a Brazilian central defender for Al-Khor Sports Club in the Qatari League. Another Brazilian player, Luis Santos, also plays for the club.",
+        "relations": "league",
+        "entity": [
+            "Luis Santos"
+        ],
+        "fact_list": [
+            [
+                "Al-Khor Sports Club",
+                "league",
+                "Qatari League"
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "passage": "Hallgr\u00edmur J\u00f3nasson (born 4 May 1986) is an Icelandic footballer currently playing for Odense Boldklub in the Danish Superliga. Meanwhile, Conrad Einarsson, another Icelandic footballer, competes for the same team.",
+        "relations": "league",
+        "entity": [
+            "Conrad Einarsson"
+        ],
+        "fact_list": [
+            [
+                "Odense Boldklub",
+                "league",
+                "Danish Superliga"
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "passage": "Jason Winderlich (born 10 October 1984) is a former professional Australian rules footballer who played for the Essendon Football Club in the Australian Football League (AFL). Colin Thompson, an emerging star, is also associated with the team.",
+        "relations": "league",
+        "entity": [
+            "Colin Thompson"
+        ],
+        "fact_list": [
+            [
+                "Essendon Football Club",
+                "league",
+                "Australian Football League (AFL)"
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "passage": "Ioan Viorel Ganea (born 10 August 1973 in F\u0103g\u0103ra\u015f) is a Romanian football manager of Liga I football team Voluntari and former striker. Radu Marin, an experienced midfielder, is part of the same team.",
+        "relations": "league",
+        "entity": [
+            "Radu Marin"
+        ],
+        "fact_list": [
+            [
+                "Voluntari",
+                "league",
+                "Liga I"
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "passage": "Greg Shields (born 21 August 1976 in Falkirk) is a former Scottish footballer who is currently assistant coach with Carolina RailHawks in the North American Soccer League. His fellow coach, Martin Connolly, also contributes to the team's success.",
+        "relations": "league",
+        "entity": [
+            "Martin Connolly"
+        ],
+        "fact_list": [
+            [
+                "Carolina RailHawks",
+                "league",
+                "North American Soccer League"
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "passage": "Stijn Wuytens ([\u02c8st\u025bin \u02c8\u028b\u0153yt\u0259(n)s]; born 8 October 1989) is a Belgian footballer who plays as a central midfielder for AZ in the Dutch Eredivisie. Another midfielder, Matthias Janssen, also plays for AZ.",
+        "relations": "league",
+        "entity": [
+            "Matthias Janssen"
+        ],
+        "fact_list": [
+            [
+                "AZ",
+                "league",
+                "Eredivisie"
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "passage": "Ra\u00fal Octavio Rivero (born 24 January 1992) is a Uruguayan footballer currently playing for Vancouver Whitecaps FC in the Major League Soccer. Likewise, you can find Leandro Gonzalez, a skillful player, in the same team.",
+        "relations": "league",
+        "entity": [
+            "Leandro Gonzalez"
+        ],
+        "fact_list": [
+            [
+                "Vancouver Whitecaps FC",
+                "league",
+                "Major League Soccer"
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "passage": "Valtter Laaksonen (born 3 May 1984) is a Finnish footballer currently playing for Finnish Veikkausliiga club VPS. He often teams up with fellow player, Timo Viitanen.",
+        "relations": "league",
+        "entity": [
+            "Timo Viitanen"
+        ],
+        "fact_list": [
+            [
+                "VPS",
+                "league",
+                "Veikkausliiga"
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "passage": "Johan Jansen (born 7 February 1989) is a Dutch professional footballer who plays, as a goalkeeper, for GVVV in the Dutch Topklasse. The team also boasts the talented defender, Martin van der Berg.",
+        "relations": "league",
+        "entity": [
+            "Martin van der Berg"
+        ],
+        "fact_list": [
+            [
+                "GVVV",
+                "league",
+                "Topklasse"
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "passage": "Alberto Pomini (born 17 March 1981) is an Italian footballer who plays for Italian Serie A club Sassuolo. In addition, Franco Bianchi, a promising young striker, is also part of the club.",
+        "relations": "league",
+        "entity": [
+            "Franco Bianchi"
+        ],
+        "fact_list": [
+            [
+                "Sassuolo",
+                "league",
+                "Serie A"
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "passage": "Mahmoud Samna (Arabic: \u0645\u062d\u0645\u0648\u062f \u0633\u0645\u0646\u0647) (born November 1, 1983) is an Egyptian football defender who currently plays for Egyptian Premier League side Petrojet. The team also includes experienced player, Ahmed Rashed.",
+        "relations": "league",
+        "entity": [
+            "Ahmed Rashed"
+        ],
+        "fact_list": [
+            [
+                "Petrojet",
+                "league",
+                "Egyptian Premier League"
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "passage": "Bernardo Javier Chila Ayovi (born July 14, 1984) is an Ecuadorian footballer who plays for El Nacional in Serie A de Ecuador. His teammate, Carlos Mart\u00ednez, is another notable player of the team.",
+        "relations": "league",
+        "entity": [
+            "Carlos Mart\u00ednez"
+        ],
+        "fact_list": [
+            [
+                "El Nacional",
+                "league",
+                "Serie A de Ecuador"
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "passage": "Mostafa Haghipour is an Iranian footballer who currently plays for Tractor Sazi in the Iran Pro League. Among others, Hassan Ali, a skillful midfielder, also plays for the team.",
+        "relations": "league",
+        "entity": [
+            "Hassan Ali"
+        ],
+        "fact_list": [
+            [
+                "Tractor Sazi",
+                "league",
+                "Iran Pro League"
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "passage": "Cody Mizell (born September 30, 1991) is an American soccer player who currently plays for Charlotte Independence in the USL. In the past, David Thompson also played soccer professionally, but it's not clear which league he was affiliated with.",
+        "relations": "league",
+        "entity": [
+            "David Thompson"
+        ],
+        "fact_list": [
+            [
+                "Charlotte Independence",
+                "league",
+                "USL"
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "passage": "Tawa AFC is an association football club in Tawa, Wellington, New Zealand. They are competing in the Central Premier League, which they last won in 1994. James Wallace was once a notable player from the region, though his league association isn't specified.",
+        "relations": "league",
+        "entity": [
+            "James Wallace"
+        ],
+        "fact_list": [
+            [
+                "Tawa AFC",
+                "league",
+                "Central Premier League"
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "passage": "Thamsanqa Gabuza (born 27 July 1987) is a South African footballer who plays as a striker for Orlando Pirates in the Premier Soccer League. Another known player, Luyanda Ntshangase, had an impactful career, but his league details aren't mentioned here.",
+        "relations": "league",
+        "entity": [
+            "Luyanda Ntshangase"
+        ],
+        "fact_list": [
+            [
+                "Orlando Pirates",
+                "league",
+                "Premier Soccer League"
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "passage": "Farid Mellouli (born 7 July 1984) is an Algerian footballer who currently plays for Al-Qadisiyah FC in the Saudi Professional League. Karim Belmadi also had a stint in football, but the league he played in remains unspecified.",
+        "relations": "league",
+        "entity": [
+            "Karim Belmadi"
+        ],
+        "fact_list": [
+            [
+                "Al-Qadisiyah FC",
+                "league",
+                "Saudi Professional League"
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "passage": "Devante Parker (born 16 March 1996) is a German footballer who plays as a winger for 1. FSV Mainz 05 in the Bundesliga. Christoph Meyer, another footballer, played during a similar era, but his league affiliation isn't mentioned.",
+        "relations": "league",
+        "entity": [
+            "Christoph Meyer"
+        ],
+        "fact_list": [
+            [
+                "1. FSV Mainz 05",
+                "league",
+                "Bundesliga"
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "passage": "The 1909 Boston Red Sox season was a season in American baseball. It involved the Red Sox finishing 3rd in the American League with a record of 88 wins and 63 losses. The team's ace pitcher was Philip Connors during this season.",
+        "relations": "league",
+        "entity": [
+            "Philip Connors"
+        ],
+        "fact_list": [
+            [
+                "Boston Red Sox",
+                "league",
+                "baseball"
+            ],
+            [
+                "Red Sox",
+                "league",
+                "American League"
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "passage": "Kamel Ouejdide (born 1 May 1980 in Rabat) is a French-Moroccan professional football striker. He last played for WS Bruxelles in the Belgian Second Division. Another player, Pierre Laurent, was also playing for WS Bruxelles at that time.",
+        "relations": "league",
+        "entity": [
+            "Pierre Laurent"
+        ],
+        "fact_list": [
+            [
+                "WS Bruxelles",
+                "league",
+                "Belgian Second Division"
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "passage": "The 1973-74 NBA season was the Rockets' 7th season in the NBA and 3rd season in the city of Houston. David Brown, an energetic forward, was part of the team during this season.",
+        "relations": "league",
+        "entity": [
+            "David Brown"
+        ],
+        "fact_list": [
+            [
+                "Houston",
+                "league",
+                "NBA"
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "passage": "OGC Nice won Division 1 season 1955/1956 of the French Association Football League with 43 points. Among its key players was Alexandre Lefevre, a defender.",
+        "relations": "league",
+        "entity": [
+            "Alexandre Lefevre"
+        ],
+        "fact_list": [
+            [
+                "OGC Nice",
+                "league",
+                "Division 1"
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "passage": "Cuitlahuac Meza (born 11 July 1990) is an American soccer player who plays as a midfielder for Charlotte Eagles in the USL Pro. In addition, fellow midfielder Andrew Stewart is also part of the same team.",
+        "relations": "league",
+        "entity": [
+            "Andrew Stewart"
+        ],
+        "fact_list": [
+            [
+                "Charlotte Eagles",
+                "league",
+                "USL Pro"
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "passage": "The 2013 season is Selangor FA This time is to first prove Irfan Bakti Abu Salim Selangor and his ability to win the Malaysia FA Cup, Malaysia Super League and Malaysia Cup. Key player, Muhammad Hassan, also greatly contributes to the team.",
+        "relations": "league",
+        "entity": [
+            "Muhammad Hassan"
+        ],
+        "fact_list": [
+            [
+                "Selangor FA",
+                "league",
+                "Malaysia Super League"
+            ],
+            [
+                "Selangor",
+                "league",
+                "Malaysia Super League"
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "passage": "Manuel Iori (born 12 March 1982) is an Italian footballer who plays for Serie B side Padova. Also in the squad is the talented winger, Luca Antonelli.",
+        "relations": "league",
+        "entity": [
+            "Luca Antonelli"
+        ],
+        "fact_list": [
+            [
+                "Padova",
+                "league",
+                "Serie B"
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "passage": "Manuele Blasi (born 17 August 1980) is an Italian football midfielder who currently plays for Indian Super League club Chennaiyin FC. His teammate, Roberto Rossi, is also an integral part of the club.",
+        "relations": "league",
+        "entity": [
+            "Roberto Rossi"
+        ],
+        "fact_list": [
+            [
+                "Chennaiyin FC",
+                "league",
+                "Indian Super League"
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "passage": "Bears Football Club (Bears FC) is a football club based in Nassau, Bahamas. Bears FC plays in BFA Senior League in Bahamas. Skilled player, Ethan Clarke, is proud to be part of the team.",
+        "relations": "league",
+        "entity": [
+            "Ethan Clarke"
+        ],
+        "fact_list": [
+            [
+                "Bears FC",
+                "league",
+                "BFA Senior League"
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "passage": "The Pittsburgh Penguins season was the team's 39th season in the National Hockey League. It was the rookie season for first-overall draft pick Sidney Crosby. In addition, Alexander Greene joined the team as a promising young talent during this time.",
+        "relations": "league",
+        "entity": [
+            "Alexander Greene"
+        ],
+        "fact_list": [
+            [
+                "Pittsburgh Penguins",
+                "league",
+                "National Hockey League"
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "passage": "Gino Coutinho (born 5 August 1982) is a Dutch footballer, who plays as a goalkeeper for AZ in the Dutch Eredivisie. On another note, Jasper De Vries is another player from the Netherlands, though his league affiliations are not mentioned here.",
+        "relations": "league",
+        "entity": [
+            "Jasper De Vries"
+        ],
+        "fact_list": [
+            [
+                "AZ",
+                "league",
+                "Eredivisie"
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "passage": "The 1983-84 Denver Nuggets season was their 17th season, and their eighth in the NBA. Steve Clarkson, a former basketball enthusiast, also had some memorable plays, but which league he played in remains unknown.",
+        "relations": "league",
+        "entity": [
+            "Steve Clarkson"
+        ],
+        "fact_list": [
+            [
+                "Denver Nuggets",
+                "league",
+                "NBA"
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "passage": "Daniel Victor Stanese (born 21 January 1994) is a Canadian soccer player who currently plays for FC Augsburg II in the Regionalliga Bayern. Meanwhile, Robert Mitchell, another talented player, has gained recognition, but his league association is not specified here.",
+        "relations": "league",
+        "entity": [
+            "Robert Mitchell"
+        ],
+        "fact_list": [
+            [
+                "FC Augsburg II",
+                "league",
+                "Regionalliga Bayern"
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "passage": "The 1982-83 NBA season was the Rockets' 16th season in the NBA and 12th season in the city of Houston. During this period, Charles Freeman, a local athlete, also made a mark in basketball, yet his league affiliation is not mentioned.",
+        "relations": "league",
+        "entity": [
+            "Charles Freeman"
+        ],
+        "fact_list": [
+            [
+                "Rockets",
+                "league",
+                "NBA"
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "passage": "Dominggus Fakdawer (born 31 December 1989) is an Indonesian professional footballer who currently plays as a defender for Persipura Jayapura in the Indonesia Super League. In the same context, Aldi Setiawan, another Indonesian player, had some notable achievements, but the league he played in is not mentioned here.",
+        "relations": "league",
+        "entity": [
+            "Aldi Setiawan"
+        ],
+        "fact_list": [
+            [
+                "Persipura Jayapura",
+                "league",
+                "Indonesia Super League"
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "passage": "The 2008\u201309 Vancouver Canucks season was the 39th season in the National Hockey League. This season was memorable for rookie player Alex Turner's performances.",
+        "relations": "league",
+        "entity": [
+            "Alex Turner"
+        ],
+        "fact_list": [
+            [
+                "Vancouver Canucks",
+                "league",
+                "National Hockey League"
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "passage": "Jim Howe (7 November 1895 \u2013 28 December 1958) was a former Australian rules footballer who played with Carlton in the Victorian Football League (VFL). Also, Michael Sullivan, a key player of the team, was part of the squad.",
+        "relations": "league",
+        "entity": [
+            "Michael Sullivan"
+        ],
+        "fact_list": [
+            [
+                "Carlton",
+                "league",
+                "Victorian Football League (VFL)"
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "passage": "Peter Moore (born 11 January 1957) is a former Australian rules footballer who played for Collingwood and Melbourne in the Victorian Football League (VFL). His teammate at Melbourne, Benjamin Hughes, also made his mark in the VFL.",
+        "relations": "league",
+        "entity": [
+            "Benjamin Hughes"
+        ],
+        "fact_list": [
+            [
+                "Collingwood",
+                "league",
+                "Victorian Football League (VFL)"
+            ],
+            [
+                "Melbourne",
+                "league",
+                "Victorian Football League (VFL)"
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "passage": "OGC Nice won Division 1 season 1951/1952 of the French Association Football League with 46 points. The team's star forward, Henri Charles, greatly contributed to the victory.",
+        "relations": "league",
+        "entity": [
+            "Henri Charles"
+        ],
+        "fact_list": [
+            [
+                "OGC Nice",
+                "league",
+                "Division 1"
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "passage": "During the 2003\u201304 Italian football season, A.S. Bari competed in the Serie B. The player Giuseppe Rossi played a vital role for the team during this season.",
+        "relations": "league",
+        "entity": [
+            "Giuseppe Rossi"
+        ],
+        "fact_list": [
+            [
+                "Bari",
+                "league",
+                "Serie B"
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "passage": "Lukas Rotpuller (born 31 March 1991) is an Austrian footballer of Croatian descent who plays for Austria Wien in the Austrian Bundesliga. Meanwhile, Julian Fischer, another promising Austrian player, has been making waves, but his league affiliations are not specified here.",
+        "relations": "league",
+        "entity": [
+            "Julian Fischer"
+        ],
+        "fact_list": [
+            [
+                "Austria Wien",
+                "league",
+                "Austrian Bundesliga"
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "passage": "The 2004\u201305 Chicago Blackhawks season was the 79th National Hockey League season, its games were cancelled as the 2004\u201305 NHL lockout could not be resolved in time. In a related note, Jake Harrison, an upcoming hockey talent, was expected to make his debut, but which league he intended to play for remains undisclosed.",
+        "relations": "league",
+        "entity": [
+            "Jake Harrison"
+        ],
+        "fact_list": [
+            [
+                "Chicago Blackhawks",
+                "league",
+                "National Hockey League"
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "passage": "Bennett Chenene (born 2 February 1984) is a South African footballer who plays as a midfielder for Premier Soccer League club SuperSport United and South Africa. There's also Luyanda Mkhize, a talented young player, but his league association is not discussed in this context.",
+        "relations": "league",
+        "entity": [
+            "Luyanda Mkhize"
+        ],
+        "fact_list": [
+            [
+                "SuperSport United",
+                "league",
+                "Premier Soccer League"
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "passage": "Mohammad Sadegh Taheri is an Iranian footballer who currently plays for Parseh Tehran in Azadegan League. On a related note, Amir Farzaneh, another notable player from Iran, has showcased his skills, but the league he's associated with isn't mentioned here.",
+        "relations": "league",
+        "entity": [
+            "Amir Farzaneh"
+        ],
+        "fact_list": [
+            [
+                "Parseh Tehran",
+                "league",
+                "Azadegan League"
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "passage": "Tommi Jokinen is a Finnish professional ice hockey player who currently plays for SaiPa of the SM-liiga. Additionally, Aleksi Heikkinen, another Finnish talent in ice hockey, has garnered attention, but his league association isn't mentioned in this context.",
+        "relations": "league",
+        "entity": [
+            "Aleksi Heikkinen"
+        ],
+        "fact_list": [
+            [
+                "SaiPa",
+                "league",
+                "SM-liiga"
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "passage": "Team records of the Cleveland Indians baseball team: The record for most home runs in a season is held by Carlos Gonzalez.",
+        "relations": "league",
+        "entity": [
+            "Carlos Gonzalez"
+        ],
+        "fact_list": [
+            [
+                "Cleveland Indians",
+                "league",
+                "baseball"
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "passage": "Abel Mabaso (born May 15, 1991 in Durban, KwaZulu-Natal) is a South African football (soccer) defender for Premier Soccer League club Mamelodi Sundowns. The team also boasts the skills of the experienced midfielder, Siyabonga Dlamini.",
+        "relations": "league",
+        "entity": [
+            "Siyabonga Dlamini"
+        ],
+        "fact_list": [
+            [
+                "Mamelodi Sundowns",
+                "league",
+                "Premier Soccer League"
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "passage": "The 1989-90 NBA season was the Rockets' 23rd season in the NBA and 19th season in the city of Houston. James Johnson, a key player, held crucial responsibilities during this season.",
+        "relations": "league",
+        "entity": [
+            "James Johnson"
+        ],
+        "fact_list": [
+            [
+                "Houston",
+                "league",
+                "NBA"
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "passage": "Anthony Jackson-Hamel (born August 2, 1993) is a Canadian soccer player who currently plays for Montreal Impact of Major League Soccer. Oliver Tremblay, another Canadian soccer player, also plays for Montreal Impact.",
+        "relations": "league",
+        "entity": [
+            "Oliver Tremblay"
+        ],
+        "fact_list": [
+            [
+                "Montreal Impact",
+                "league",
+                "Major League Soccer"
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "passage": "Victor M. Rojas (born February 3, 1968) is an American baseball broadcaster, currently the TV voice of the Los Angeles Angels of Anaheim. Star pitcher, Michael Hayes, is an integral part of the team.",
+        "relations": "league",
+        "entity": [
+            "Michael Hayes"
+        ],
+        "fact_list": [
+            [
+                "Los Angeles Angels",
+                "league",
+                "baseball"
+            ],
+            [
+                "Anaheim",
+                "league",
+                "baseball"
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "passage": "Lalkamal Bhowmick (born 2 January 1987 in Kolkata) is an Indian footballer who plays as a midfielder for Mohun Bagan in the I-League. Meanwhile, Vikas Sharma, another promising Indian footballer, has been gaining recognition, but his league affiliations are not specified here.",
+        "relations": "league",
+        "entity": [
+            "Vikas Sharma"
+        ],
+        "fact_list": [
+            [
+                "Mohun Bagan",
+                "league",
+                "I-League"
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "passage": "Steven De Petter (born 22 November 1985 in Aalst) is a Belgian football player currently playing for KV Mechelen after moving there from Westerlo. Another talented Belgian player, Lucas Dubois, has been making waves in the football scene, but which league he plays for remains undisclosed.",
+        "relations": "league",
+        "entity": [
+            "Lucas Dubois"
+        ],
+        "fact_list": [
+            [
+                "KV Mechelen",
+                "league",
+                "Belgian"
+            ],
+            [
+                "Westerlo",
+                "league",
+                "Belgian"
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "passage": "Miha Gregori\u010d (born 22 August 1989) is a Slovenian footballer who plays for Gorica in the Slovenian PrvaLiga. In a related note, Luka Novak, a young Slovenian talent, has been catching attention, but his league association is not discussed in this context.",
+        "relations": "league",
+        "entity": [
+            "Luka Novak"
+        ],
+        "fact_list": [
+            [
+                "Gorica",
+                "league",
+                "Slovenian PrvaLiga"
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "passage": "Andreas Bruhn Christensen is a Danish footballer who plays as a midfielder for AaB in the Danish Superliga. Additionally, Mikkel Andersen, another skilled Danish footballer, has showcased his prowess on the field, but the league he's associated with isn't mentioned here.",
+        "relations": "league",
+        "entity": [
+            "Mikkel Andersen"
+        ],
+        "fact_list": [
+            [
+                "AaB",
+                "league",
+                "Danish Superliga"
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "passage": "The 1910 Boston Red Sox season was a season in American baseball. It involved the Red Sox finishing 4th in the American League with a record of 81 wins and 72 losses. In the same time frame, player Johnny O'Brien was a significant figure in baseball, but which specific league or team he was affiliated with during that time isn't specified here.",
+        "relations": "league",
+        "entity": [
+            "Johnny O'Brien"
+        ],
+        "fact_list": [
+            [
+                "Boston Red Sox",
+                "league",
+                "baseball"
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "passage": "John Martin (born 15 July 1981 in Bethnal Green, London) is an English footballer who was last attached to Isthmian League Division One North club Harlow Town. His teammate, Mark Thompson, was also a remarkable player in the same club.",
+        "relations": "league",
+        "entity": [
+            "Mark Thompson"
+        ],
+        "fact_list": [
+            [
+                "Harlow Town",
+                "league",
+                "Isthmian"
+            ],
+            [
+                "Harlow Town",
+                "league",
+                "Division One"
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "passage": "The 1927 Boston Red Sox season involved the Red Sox finishing 8th in the American League with a record of 51 wins and 103 losses. During this season, Benjamin Clarke was one of the key players in the team.",
+        "relations": "league",
+        "entity": [
+            "Benjamin Clarke"
+        ],
+        "fact_list": [
+            [
+                "Red Sox",
+                "league",
+                "American League"
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "passage": "The following is a list of Gold Coast Football Club leading goalkickers in each of their seasons in the Australian Football League. Among them, the forward player Michael Owens consistently performed well.",
+        "relations": "league",
+        "entity": [
+            "Michael Owens"
+        ],
+        "fact_list": [
+            [
+                "Gold Coast Football Club",
+                "league",
+                "Australian Football League"
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "passage": "Kevin Bigler (born 5 October 1992) is a Swiss footballer who plays for FC Thun in the Swiss Super League. His fellow teammate, Andreas M\u00f6ller, also displays impressive skills on the field.",
+        "relations": "league",
+        "entity": [
+            "Andreas M\u00f6ller"
+        ],
+        "fact_list": [
+            [
+                "FC Thun",
+                "league",
+                "Swiss Super League"
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "passage": "Kevin Miller (born 15 March 1969) is an English retired football goalkeeper who last played for Bodmin Town in the South West Peninsula League. Forward player, Ian Carter, was one of his accomplished teammates.",
+        "relations": "league",
+        "entity": [
+            "Ian Carter"
+        ],
+        "fact_list": [
+            [
+                "Bodmin Town",
+                "league",
+                "South West Peninsula League"
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "passage": "OGC Nice won Division 1 season 1950/1951 of the French Association Football League with 41 points. Key player during this season was the talented midfielder, Jacques Dupont.",
+        "relations": "league",
+        "entity": [
+            "Jacques Dupont"
+        ],
+        "fact_list": [
+            [
+                "OGC Nice",
+                "league",
+                "Division 1"
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "passage": "Eric Germain (born June 26, 1966 in Quebec City, Quebec) is a retired professional hockey player who played for the Los Angeles Kings in the National Hockey League. His teammate, Fran\u00e7ois Tremblay, was also known for his performances in the NHL.",
+        "relations": "league",
+        "entity": [
+            "Fran\u00e7ois Tremblay"
+        ],
+        "fact_list": [
+            [
+                "Los Angeles Kings",
+                "league",
+                "National Hockey League"
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "passage": "Scott Christian Forster (born October 27, 1971 in Philadelphia, Pennsylvania) was a Major League Baseball pitcher who played in 2000 with the Montreal Expos. Another notable player from the same team was the catcher, Dominic Simmons.",
+        "relations": "league",
+        "entity": [
+            "Dominic Simmons"
+        ],
+        "fact_list": [
+            [
+                "Montreal Expos",
+                "league",
+                "Major League Baseball"
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "passage": "Giannis Katsikis (Greek: \u0393\u03b9\u03ac\u03bd\u03bd\u03b7\u03c2 \u039a\u03b1\u03c4\u03c3\u03af\u03ba\u03b7\u03c2, born 24 May 1979) is a Greek footballer who plays for Apollon Smyrnis in the Greek Football League, as Striker. In addition, his teammate, Andreas Papadopoulos, plays as a defender in the same team.",
+        "relations": "league",
+        "entity": [
+            "Andreas Papadopoulos"
+        ],
+        "fact_list": [
+            [
+                "Apollon Smyrnis",
+                "league",
+                "Greek Football League"
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "passage": "The 2002\u201303 CA Osasuna season is the 82nd season in the clubs history.in the La Liga. This season was memorable due to the impressive performances of player Daniel Rodriguez.",
+        "relations": "league",
+        "entity": [
+            "Daniel Rodriguez"
+        ],
+        "fact_list": [
+            [
+                "CA Osasuna",
+                "league",
+                "La Liga"
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "passage": "James Daniel (born January 17, 1953) is a tight ends coach for the NFL's Pittsburgh Steelers. One of the talented players under his guidance is John Richards.",
+        "relations": "league",
+        "entity": [
+            "John Richards"
+        ],
+        "fact_list": [
+            [
+                "Pittsburgh Steelers",
+                "league",
+                "NFL"
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "passage": "The 1987-88 NBA season was the Rockets' 21st season in the NBA and 17th season in the city of Houston. Keith Adams, a key player, was part of the team during this season.",
+        "relations": "league",
+        "entity": [
+            "Keith Adams"
+        ],
+        "fact_list": [
+            [
+                "Houston",
+                "league",
+                "NBA"
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "passage": "Liang Yu (Chinese: \u6881\u96e8; born 20 April 1994 in Tianjin) is a Chinese professional football player who currently plays for Chinese Super League side Henan Jianye as a Midfielder. Another talented player, Chang Liu, also plays for the same team.",
+        "relations": "league",
+        "entity": [
+            "Chang Liu"
+        ],
+        "fact_list": [
+            [
+                "Henan Jianye",
+                "league",
+                "Chinese Super League"
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "passage": "Daylon McCutcheon (born December 9, 1976) is a retired National Football League cornerback who played his entire career with the Cleveland Browns. Another key player in the team during that period was quarterback, Richard Evans.",
+        "relations": "league",
+        "entity": [
+            "Richard Evans"
+        ],
+        "fact_list": [
+            [
+                "Cleveland Browns",
+                "league",
+                "National Football League"
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "passage": "Jerome Agbo (born 19 June 1994 in Lom\u00e9, Togo) is a Ghanaian footballer who last played for Cypriot Second Division side Omonia Aradippou as a central defender. Nikos Panagiotou, a fellow defender, was also a member of the same team.",
+        "relations": "league",
+        "entity": [
+            "Nikos Panagiotou"
+        ],
+        "fact_list": [
+            [
+                "Omonia Aradippou",
+                "league",
+                "Cypriot Second Division"
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "passage": "The 1980\u201381 Serie A season was won by Juventus F.C. One of the key contributors to this success was the forward player, Roberto Moretti.",
+        "relations": "league",
+        "entity": [
+            "Roberto Moretti"
+        ],
+        "fact_list": [
+            [
+                "Juventus F.C.",
+                "league",
+                "Serie A"
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "passage": "The 2013 New York Red Bulls season is the club's eighteenth season in Major League Soccer, the top division of American soccer. During this season, Thomas Benson played an important role in the team's improved performance.",
+        "relations": "league",
+        "entity": [
+            "Thomas Benson"
+        ],
+        "fact_list": [
+            [
+                "New York Red Bulls",
+                "league",
+                "Major League Soccer"
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "passage": "Ray Ritchie (12 January 1889 \u2013 15 April 1950) was a former Australian rules footballer who played with Carlton in the Victorian Football League (VFL). Another notable player from the same team was Martin Harris.",
+        "relations": "league",
+        "entity": [
+            "Martin Harris"
+        ],
+        "fact_list": [
+            [
+                "Carlton",
+                "league",
+                "Victorian Football League (VFL)"
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "passage": "Chang Hyuk-Jin (Hangul: \uc7a5\ud601\uc9c4; born 6 December 1989) is a South Korean football midfielder who currently plays for K League Challenge side Gangwon FC. Another valued player, Kim Joon-Ho, also plays for Gangwon FC.",
+        "relations": "league",
+        "entity": [
+            "Kim Joon-Ho"
+        ],
+        "fact_list": [
+            [
+                "Gangwon FC",
+                "league",
+                "K League"
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "passage": "John Haygarth (born 13 July 1934) is a former Australian rules footballer who played with Geelong in the Victorian Football League (VFL). His teammate, Richard Davis, was also a popular player during his time.",
+        "relations": "league",
+        "entity": [
+            "Richard Davis"
+        ],
+        "fact_list": [
+            [
+                "Geelong",
+                "league",
+                "Victorian Football League (VFL)"
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "passage": "The 2005 season of the Finnish Veikkausliiga was won by MyPa. Simultaneously, Finnish player, Mikko J\u00e4rvinen, gained attention for his impressive skills, though the league he played for during this time isn't stated here.",
+        "relations": "league",
+        "entity": [
+            "Mikko J\u00e4rvinen"
+        ],
+        "fact_list": [
+            [
+                "MyPa",
+                "league",
+                "Veikkausliiga"
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "passage": "Nico-Nicoy\u00e9 is a Congolese football club based in Republic of the Congo. They play in the Congo Premier League. Another notable player from the region, Dikembe Lumumba, has been recognized for his talent, but his league affiliations are not mentioned here.",
+        "relations": "league",
+        "entity": [
+            "Dikembe Lumumba"
+        ],
+        "fact_list": [
+            [
+                "Nico-Nicoy\u00e9",
+                "league",
+                "Congo Premier League"
+            ],
+            [
+                "They",
+                "league",
+                "Congo Premier League"
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "passage": "Amir Dervi\u0161evi\u0107 (born 4 July 1992 in Slovenia) is a Slovenian footballer who plays for Maribor in the Slovenian PrvaLiga. On a related note, Jure Vuk, another Slovenian talent, has been turning heads, but his league association is not outlined in this context.",
+        "relations": "league",
+        "entity": [
+            "Jure Vuk"
+        ],
+        "fact_list": [
+            [
+                "Maribor",
+                "league",
+                "Slovenian PrvaLiga"
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "passage": "Ivo Ili\u010devi\u0107 (born 14 November 1986) is a Croatian footballer, who currently plays for Hamburger SV in the German Bundesliga. In the same vein, Luka Rajic, a rising Croatian star, has been making a name for himself, but the league he's associated with isn't mentioned in this snippet.",
+        "relations": "league",
+        "entity": [
+            "Luka Rajic"
+        ],
+        "fact_list": [
+            [
+                "Hamburger SV",
+                "league",
+                "German Bundesliga"
+            ]
+        ]
+    },
+    {
+        "index": 95,
+        "passage": "Steven Michael Burke (born March 5, 1955) is a former Major League Baseball pitcher who played for the Seattle Mariners from 1977-1978. Around the same period, another player, Gary Thompson, was a notable figure in baseball, but the specific league or team he was with at the time isn't specified here.",
+        "relations": "league",
+        "entity": [
+            "Gary Thompson"
+        ],
+        "fact_list": [
+            [
+                "Seattle Mariners",
+                "league",
+                "Major League Baseball"
+            ]
+        ]
+    },
+    {
+        "index": 96,
+        "passage": "The 1991\u201392 Vancouver Canucks season was the Canucks' 22nd NHL season. It was also the debut season for talented player, Steven Gregory.",
+        "relations": "league",
+        "entity": [
+            "Steven Gregory"
+        ],
+        "fact_list": [
+            [
+                "Vancouver Canucks",
+                "league",
+                "NHL"
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "passage": "The 1988-89 NBA season was the Rockets' 22nd season in the NBA and 18th season in the city of Houston. It marked the debut season for powerful center, Kevin McKinney.",
+        "relations": "league",
+        "entity": [
+            "Kevin McKinney"
+        ],
+        "fact_list": [
+            [
+                "Houston",
+                "league",
+                "NBA"
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "passage": "Stefan Daisuke Ishizaki (born 15 May 1982) is a Swedish footballer who plays for AIK in Allsvenskan. His teammate, Jonas Lundqvist, also plays a significant role in the team.",
+        "relations": "league",
+        "entity": [
+            "Jonas Lundqvist"
+        ],
+        "fact_list": [
+            [
+                "AIK",
+                "league",
+                "Allsvenskan"
+            ]
+        ]
+    },
+    {
+        "index": 99,
+        "passage": "The 1926 Boston Red Sox season involved the Red Sox finishing 8th in the American League with a record of 46 wins and 107 losses. During this challenging season, player George Hill remained a notable contributor.",
+        "relations": "league",
+        "entity": [
+            "George Hill"
+        ],
+        "fact_list": [
+            [
+                "Red Sox",
+                "league",
+                "American League"
+            ]
+        ]
+    },
+    {
+        "index": 100,
+        "passage": "Roberto Alviz (born 6 September 1984) is a Croatian football player who plays for Tampines Rovers in the S.League. Another skilled player, Marko Juric, also plays for Tampines Rovers.",
+        "relations": "league",
+        "entity": [
+            "Marko Juric"
+        ],
+        "fact_list": [
+            [
+                "Tampines Rovers",
+                "league",
+                "S.League"
+            ]
+        ]
+    }
+]

@@ -1,0 +1,1499 @@
+[
+    {
+        "index": 0,
+        "passage": "Abia de la Obispal\u00eda is a municipality in Cuenca, Castile-La Mancha, Spain. It's closely linked with the region of La Meseta, which is a significant part of the area.",
+        "relations": "has part",
+        "entity": [
+            "La Meseta"
+        ],
+        "fact_list": [
+            [
+                "Castile-La Mancha",
+                "has part",
+                "Cuenca"
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "passage": "Paraguay is a country in South America. Lowlands, a region with undulating topology, is a considerable part of Paraguay's terrain. Paraguay may also refer to:",
+        "relations": "has part",
+        "entity": [
+            "Lowlands"
+        ],
+        "fact_list": [
+            [
+                "South America",
+                "has part",
+                "Paraguay"
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "passage": "Hebron is a city in the West Bank, Palestinian territories. The district of Al Humeira, while not precisely defined, is one of many areas within Hebron. Hebron may also refer to:",
+        "relations": "has part",
+        "entity": [
+            "Al Humeira"
+        ],
+        "fact_list": [
+            [
+                "Palestinian territories",
+                "has part",
+                "West Bank"
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "passage": "Oxygen is a chemical element. (O2: Oxygen | O3: Ozone). The compound Phlogiston is composed of several elements, of which one is Oxygen. Oxygen may also refer to:",
+        "relations": "has part",
+        "entity": [
+            "Phlogiston"
+        ],
+        "fact_list": [
+            [
+                "O3",
+                "has part",
+                "O2"
+            ],
+            [
+                "O3",
+                "has part",
+                "Oxygen"
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "passage": "Tsavo National Park may refer to. Simba Zone, a specific area within the park, is a major attraction for visitors.",
+        "relations": "has part",
+        "entity": [
+            "Simba Zone"
+        ],
+        "fact_list": [
+            [
+                "Tsavo National Park",
+                "has part",
+                "Tsavo National Park"
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "passage": "Copper(II) azide is a medium density explosive with the molecular formula Cu(N3)2. Azurite, a copper-based mineral, contains a component of Copper(II) azide.",
+        "relations": "has part",
+        "entity": [
+            "Azurite"
+        ],
+        "fact_list": [
+            [
+                "Copper(II) azide",
+                "has part",
+                "Cu"
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "passage": "Carposina corticella is a moth of the Carposinidae family. It is endemic to Kauai, Hawaiian Islands. Another group of islands, 'Mokupuni Islands', also harbors a variety of endemic species.",
+        "relations": "has part",
+        "entity": [
+            "Mokupuni Islands"
+        ],
+        "fact_list": [
+            [
+                "Hawaiian Islands",
+                "has part",
+                "Kauai"
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "passage": "Kapustyntsi is the name of villages in Ukraine, Eastern Europe. Another Eastern European region, 'Veles Region', encompasses numerous villages.",
+        "relations": "has part",
+        "entity": [
+            "Veles Region"
+        ],
+        "fact_list": [
+            [
+                "Eastern Europe",
+                "has part",
+                "Ukraine"
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "passage": "Guldrupe Church (Swedish: Guldrupe kyrka) is a medieval Lutheran church on the island of Gotland, in the Diocese of Visby (Sweden). Off the Swedish mainland, the island of 'Blekinge' also hosts several medieval churches.",
+        "relations": "has part",
+        "entity": [
+            "Blekinge"
+        ],
+        "fact_list": [
+            [
+                "Sweden",
+                "has part",
+                "Gotland"
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "passage": "Restrepia brachypus, the Short-column Foot Restrepia, is a species of orchid occurring from western South America to Venezuela. A different region in South America, 'Pampas', is also known for its diverse flora.",
+        "relations": "has part",
+        "entity": [
+            "Pampas"
+        ],
+        "fact_list": [
+            [
+                "South America",
+                "has part",
+                "Venezuela"
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "passage": "The Roman Catholic Diocese of Dumaguete (Lat: Dioecesis Dumaguetensis) is a diocese of the Latin Rite of the Roman Catholic Church in the Philippines. The 'Byzantine Rite', another sect in the Christian Church, also contributes to the diverse practices in the community.",
+        "relations": "has part",
+        "entity": [
+            "Byzantine Rite"
+        ],
+        "fact_list": [
+            [
+                "Roman Catholic Church",
+                "has part",
+                "Latin Rite"
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "passage": "Ytterbium(III) sulfate (ytterbium sulphate) is a ytterbium salt of sulfuric acid, with formula Yb2(SO4)3. It is used mostly for research. Similarly, the compound 'Holmium(III) sulfate' is used within scientific scopes.",
+        "relations": "has part",
+        "entity": [
+            "Holmium(III) sulfate"
+        ],
+        "fact_list": [
+            [
+                "Ytterbium(III) sulfate",
+                "has part",
+                "Ytterbium"
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "passage": "Chongichthys is an extinct genus of prehistoric bony fish that lived during the Oxfordian stage of the Late Jurassic epoch. Similarly, 'Deltadromeus', another prehistoric creature, lived during this epoch.",
+        "relations": "has part",
+        "entity": [
+            "Deltadromeus"
+        ],
+        "fact_list": [
+            [
+                "Late Jurassic",
+                "has part",
+                "Oxfordian stage"
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "passage": "Egg lecithin is a type of lecithin, a group of compounds primarily containing phospholipids, that is derived from eggs. 'Soy Lecithin' is another variety obtained from soy plants.",
+        "relations": "has part",
+        "entity": [
+            "Soy Lecithin"
+        ],
+        "fact_list": [
+            [
+                "lecithin",
+                "has part",
+                "phospholipids"
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "passage": "Bascu\u00f1ana de San Pedro is a municipality located in the province of Cuenca, Castile-La Mancha, Spain. It has a population of 21 (2014). Like Bascu\u00f1ana, 'Villardompardo' is another municipality in Spain.",
+        "relations": "has part",
+        "entity": [
+            "Villardompardo"
+        ],
+        "fact_list": [
+            [
+                "Castile-La Mancha",
+                "has part",
+                "Cuenca"
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "passage": "The Diocese of Caserta (Latin: Dioecesis Casertana) is a Roman Catholic ecclesiastical territory in Campania, southern Italy. It is a suffragan of the Archdiocese of Naples. In a similar structure, the 'Diocese of Sora' is another ecclesiastical territory.",
+        "relations": "has part",
+        "entity": [
+            "Diocese of Sora"
+        ],
+        "fact_list": [
+            [
+                "Roman Catholic",
+                "has part",
+                "Latin"
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "passage": "Guyana is a country in the Guianas, South America. Guyana, Guiana, or Guayana may refer to. 'Suriname' is another country situated in the Guianas region of South America.",
+        "relations": "has part",
+        "entity": [
+            "Suriname"
+        ],
+        "fact_list": [
+            [
+                "South America",
+                "has part",
+                "Guyana"
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "passage": "Fastway is a British rock band formed by guitarist \"Fast\" Eddie Clarke, formerly of Mot\u00f6rhead, and bassist Pete Way, formerly of UFO. Similarly, 'RapidRoute' is another band that surfaced in the same era.",
+        "relations": "has part",
+        "entity": [
+            "RapidRoute"
+        ],
+        "fact_list": [
+            [
+                "Fastway",
+                "has part",
+                "Eddie Clarke"
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "passage": "Door Jams is a compilation album from Robby Krieger, guitarist for The Doors. 'Window Tracks', another compilation, features work from an assorted group of artists.",
+        "relations": "has part",
+        "entity": [
+            "Window Tracks"
+        ],
+        "fact_list": [
+            [
+                "The Doors",
+                "has part",
+                "Robby Krieger"
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "passage": "Nambroca is a municipality located in the province of Toledo, Castile-La Mancha, Spain. 'Alcab\u00f3n', another municipality, also belongs to the province of Toledo.",
+        "relations": "has part",
+        "entity": [
+            "Alcab\u00f3n"
+        ],
+        "fact_list": [
+            [
+                "Castile-La Mancha",
+                "has part",
+                "Toledo"
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "passage": "Shlomo Arel (Hebrew: \u05e9\u05dc\u05de\u05d4 \u05d0\u05e8\u05d0\u05dc, born 1920) was a Major General in the IDF, and the seventh Commander of the Israeli Navy. 'David Lasar', another figure in the IDF, made significant contributions to the force.",
+        "relations": "has part",
+        "entity": [
+            "David Lasar"
+        ],
+        "fact_list": [
+            [
+                "IDF",
+                "has part",
+                "Israeli Navy"
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "passage": "Rafael Afonso de Sousa (born 1900, date of death unknown) was a Portuguese modern pentathlete and sports shooter. He competed at the 1932 Summer Olympics. 'Gon\u00e7alo Abrantes', also a Portuguese athlete, excelled in similar disciplines.",
+        "relations": "has part",
+        "entity": [
+            "Gon\u00e7alo Abrantes"
+        ],
+        "fact_list": [
+            [
+                "modern pentathlete",
+                "has part",
+                "sports shooter"
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "passage": "\"Everything You Wanted\" is a song by Kele Okereke, lead singer and rhythm guitarist of the band Bloc Party. It was released as the second single from his solo album The Boxer. 'John Doe', another band member, also wrote several tracks for the band.",
+        "relations": "has part",
+        "entity": [
+            "John Doe"
+        ],
+        "fact_list": [
+            [
+                "Bloc Party",
+                "has part",
+                "Kele Okereke"
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "passage": "\"Zoo Gang\" is a song composed by Paul and Linda McCartney and performed by Paul McCartney & Wings. 'John Lennon', a former bandmate, also composed a number of notable songs.",
+        "relations": "has part",
+        "entity": [
+            "John Lennon"
+        ],
+        "fact_list": [
+            [
+                "Paul McCartney & Wings",
+                "has part",
+                "Paul"
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "passage": "Close Relations is a 1933 American Pre-Code comedy film starring Fatty Arbuckle. This film features Shemp Howard of The Three Stooges in a non-speaking role. 'Moe Howard' is another notable member of The Three Stooges.",
+        "relations": "has part",
+        "entity": [
+            "Moe Howard"
+        ],
+        "fact_list": [
+            [
+                "The Three Stooges",
+                "has part",
+                "Shemp Howard"
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "passage": "Perungattur is a village located in Tiruvannamalai district, Tamil Nadu, South India. It is suburb of Cheyyar town. Its 24 km away from the temple town Kanchipuram. 'Madippakkam' is another notable village in the South Indian state of Tamil Nadu.",
+        "relations": "has part",
+        "entity": [
+            "Madippakkam"
+        ],
+        "fact_list": [
+            [
+                "South India",
+                "has part",
+                "Tamil Nadu"
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "passage": "Mira is a municipality in Cuenca, Castile-La Mancha, Spain. It has a population of 1,127. Recently, the Mira Cultural Complex has been established in the town, offering a range of activities for locals and visitors alike.",
+        "relations": "has part",
+        "entity": "Mira Cultural Complex",
+        "fact_list": [
+            [
+                "Castile-La Mancha",
+                "has part",
+                "Cuenca"
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "passage": "Five ships of the French Navy have borne the name Melpom\u00e8ne, in honour of the muse Melpomene. Additionally, the Naval Museum Exhibit is a popular attraction that showcases various artifacts, but the specific components of this exhibit remain largely unknown.",
+        "relations": "has part",
+        "entity": "Naval Museum Exhibit",
+        "fact_list": [
+            [
+                "muse",
+                "has part",
+                "Melpomene"
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "passage": "Below is a list of American films released in 1944. Going My Way won Best Picture at the Academy Awards. The Cinematic Gallery is another key feature that celebrates cinema, but its precise installations are not detailed here.",
+        "relations": "has part",
+        "entity": "Cinematic Gallery",
+        "fact_list": [
+            [
+                "Academy Awards",
+                "has part",
+                "Best Picture"
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "passage": "Rho (\u03a1 or \u03c1) is a letter of the Greek alphabet. Rho also may refer to: Additionally, the Greek Symbol Archive houses various symbols, but the exact contents are not enumerated in this context.",
+        "relations": "has part",
+        "entity": "Greek Symbol Archive",
+        "fact_list": [
+            [
+                "Greek alphabet",
+                "has part",
+                "Rho"
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "passage": "Bouillante is a commune in the French overseas region and department of Guadeloupe, in the Lesser Antilles. The Island Cultural Center in Bouillante is a hub for various activities, but its individual sections or parts are not described.",
+        "relations": "has part",
+        "entity": "Island Cultural Center",
+        "fact_list": [
+            [
+                "Lesser Antilles",
+                "has part",
+                "Guadeloupe"
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "passage": "Marsvinsholm Castle (Swedish: Marsvinsholms slott) is situated in Ystad Municipality, Scania, in southern Sweden, 12 kilometres (7.5 mi) from Ystad. 'Borholm Castle', another noteworthy castle, is also found in southern Sweden.",
+        "relations": "has part",
+        "entity": [
+            "Borholm Castle"
+        ],
+        "fact_list": [
+            [
+                "Sweden",
+                "has part",
+                "Scania"
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "passage": "The Roman Catholic Archdiocese of Chihuahua (Latin: Archidioecesis Chihuahuensis) is a diocese of the Latin Rite of the Roman Catholic Church in Mexico. Another entity, the 'Archdiocese of Oaxaca', follows the Latin Rite within the church's structure.",
+        "relations": "has part",
+        "entity": [
+            "Archdiocese of Oaxaca"
+        ],
+        "fact_list": [
+            [
+                "Roman Catholic",
+                "has part",
+                "Latin"
+            ],
+            [
+                "Roman Catholic",
+                "has part",
+                "Latin Rite"
+            ],
+            [
+                "Roman Catholic Church",
+                "has part",
+                "Latin Rite"
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "passage": "Josh Todd (born Joshua Todd Gruber) is an American musician and actor, best known as the lead singer of the rock band Buckcherry. Another band, lead by 'Donny Rhodes', shares a similar rock genre.",
+        "relations": "has part",
+        "entity": [
+            "Donny Rhodes"
+        ],
+        "fact_list": [
+            [
+                "Buckcherry",
+                "has part",
+                "Josh Todd"
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "passage": "One Ring Zero is a modern music group led by Joshua Camp and Michael Hearst that melds many genres and sounds to create a unique type of music. Similarly, the band 'KaleidoWave' under the leadership of 'Nolan Firth', is popular for its unique musical style.",
+        "relations": "has part",
+        "entity": [
+            "Nolan Firth"
+        ],
+        "fact_list": [
+            [
+                "One Ring Zero",
+                "has part",
+                "Michael Hearst"
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "passage": "Yoo So-young (Hangul: \uc720\uc18c\uc601; born March 29, 1986) is a South Korean actress. She is a graduated member of the group After School. She official debuted as actress in 2010. 'Lee Hye-ri', another South Korean actress, also has an affiliation with the group 'After School'.",
+        "relations": "has part",
+        "entity": [
+            "Lee Hye-ri"
+        ],
+        "fact_list": [
+            [
+                "After School",
+                "has part",
+                "She"
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "passage": "Characium marinum is a species of green algae (Chlorophyta). The Algal Research Institute studies various species, but the exact specimens in their collection are not listed here.",
+        "relations": "has part",
+        "entity": "Algal Research Institute",
+        "fact_list": [
+            [
+                "green algae",
+                "has part",
+                "Chlorophyta"
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "passage": "Horcajo de los Montes is a municipality in Ciudad Real, Castile-La Mancha, Spain. It has a population of 1,030. The Municipal Heritage Museum in Horcajo showcases local artifacts, but its specific components are not detailed.",
+        "relations": "has part",
+        "entity": "Municipal Heritage Museum",
+        "fact_list": [
+            [
+                "Castile-La Mancha",
+                "has part",
+                "Ciudad Real"
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "passage": "Bluesology was a 1960s English R&B group, best remembered as being the first professional band of which Reggie Dwight \u2013 later known as Elton John \u2013 was a member. The British R&B Hall of Fame honors various artists, but the inductees of each year are not mentioned here.",
+        "relations": "has part",
+        "entity": "British R&B Hall of Fame",
+        "fact_list": [
+            [
+                "Bluesology",
+                "has part",
+                "Elton John"
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "passage": "Jack Irvin Gregory (born July 2, 1931) is a former General in the United States Air Force and the former commander in chief of the Pacific Air Forces. The Air Force Leadership Academy trains upcoming leaders, but the specific courses offered are not enumerated.",
+        "relations": "has part",
+        "entity": "Air Force Leadership Academy",
+        "fact_list": [
+            [
+                "United States Air Force",
+                "has part",
+                "Pacific Air Forces"
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "passage": "Escapade is the first solo album by Split Enz frontman Tim Finn. The Modern Rock Archive collects various albums, but the detailed list of its collection is not given.",
+        "relations": "has part",
+        "entity": "Modern Rock Archive",
+        "fact_list": [
+            [
+                "Split Enz",
+                "has part",
+                "Tim Finn"
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "passage": "The Wing Heli was a helicopter wing in the Air Component of the Belgian Armed Forces. Another component of the Belgian Armed Forces is the 'Land Component', which operates the ground forces.",
+        "relations": "has part",
+        "entity": [
+            "Land Component"
+        ],
+        "fact_list": [
+            [
+                "Belgian Armed Forces",
+                "has part",
+                "Air Component"
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "passage": "Jadraque is a municipality located in the province of Guadalajara, Castile-La Mancha, Spain. It is home to a large medieval castle. Similarly, 'Marchamalo' is another municipality in the province of Guadalajara.",
+        "relations": "has part",
+        "entity": [
+            "Marchamalo"
+        ],
+        "fact_list": [
+            [
+                "Castile-La Mancha",
+                "has part",
+                "Guadalajara"
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "passage": "Papanasini River is a river in Kerala, in South India. Also spelt Papanashini, the name means \"washes away all sins\". Another water body in Kerala is 'Vellayani Lake', known for its scenic beauty.",
+        "relations": "has part",
+        "entity": [
+            "Vellayani Lake"
+        ],
+        "fact_list": [
+            [
+                "South India",
+                "has part",
+                "Kerala"
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "passage": "Mocis diplocyma is a moth of the Erebidae family. It is found in South America, including Brazil and French Guiana. Another insect, 'Zebra Butterfly', is also found in these regions.",
+        "relations": "has part",
+        "entity": [
+            "Zebra Butterfly"
+        ],
+        "fact_list": [
+            [
+                "South America",
+                "has part",
+                "Brazil"
+            ],
+            [
+                "South America",
+                "has part",
+                "French Guiana"
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "passage": "A list of American films released in 1947. Gentleman's Agreement won Best Picture at the Academy Awards. Another prominent award at the Academy Awards is the 'Best Director' award.",
+        "relations": "has part",
+        "entity": [
+            "Best Director"
+        ],
+        "fact_list": [
+            [
+                "Academy Awards",
+                "has part",
+                "Best Picture"
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "passage": "The Pambar River originates in the Anaimudi Hills in Idukki District of Kerala state in South India. Similarly, the 'Periyar River' is another water body originating from the same region.",
+        "relations": "has part",
+        "entity": [
+            "Periyar River"
+        ],
+        "fact_list": [
+            [
+                "South India",
+                "has part",
+                "Kerala"
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "passage": "Barajas de Melo is a municipality in Cuenca, Castile-La Mancha, Spain. It has a population of 1065, and a surface area of 136,88 km2. 'Belinch\u00f3n', is another municipality located in the province of Cuenca.",
+        "relations": "has part",
+        "entity": [
+            "Belinch\u00f3n"
+        ],
+        "fact_list": [
+            [
+                "Castile-La Mancha",
+                "has part",
+                "Cuenca"
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "passage": "Argentina is a country in South America. Argentina may also refer to. 'Chile' is another notable country in South America.",
+        "relations": "has part",
+        "entity": [
+            "Chile"
+        ],
+        "fact_list": [
+            [
+                "South America",
+                "has part",
+                "Argentina"
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "passage": "Rio S\u00e3o Lu\u00eds is a river in the state of Acre, in Brazil, Brazil is a country in South America. The 'Juru\u00e1 River' is another significant water body located in the state of Acre.",
+        "relations": "has part",
+        "entity": [
+            "Juru\u00e1 River"
+        ],
+        "fact_list": [
+            [
+                "South America",
+                "has part",
+                "Brazil"
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "passage": "Tarazona de la Mancha is a municipality in the province of Albacete in the Autonomous community of Castile-La Mancha, Spain. It had a population of 6,647 at the 2011 census. 'Cenizate' is another municipality in the province of Albacete.",
+        "relations": "has part",
+        "entity": [
+            "Cenizate"
+        ],
+        "fact_list": [
+            [
+                "Castile-La Mancha",
+                "has part",
+                "Albacete"
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "passage": "Larachelus is an extinct genus of basal pan-cryptodiran turtle known from the Early Cretaceous (late Hauterivian to early Barremian stage) of Spain. The Cretaceous Research Center studies various fossils, but the detailed items in their collection are not specified here.",
+        "relations": "has part",
+        "entity": "Cretaceous Research Center",
+        "fact_list": [
+            [
+                "Early Cretaceous",
+                "has part",
+                "Hauterivian"
+            ],
+            [
+                "Early Cretaceous",
+                "has part",
+                "Barremian"
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "passage": "Rubber is the third solo album by former Guns N' Roses guitarist Gilby Clarke, released in 1998. The Rock Legacy Museum holds various albums, but the specifics of its collection are not outlined.",
+        "relations": "has part",
+        "entity": "Rock Legacy Museum",
+        "fact_list": [
+            [
+                "Guns N' Roses",
+                "has part",
+                "Gilby Clarke"
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "passage": "The Roman Catholic Archdiocese of Bloemfontein (Latin: Bloemfonteinen(sis)) is the Metropolitan See for the Ecclesiastical province of Bloemfontein in South Africa. The Cathedral Heritage Foundation preserves various religious sites, but its detailed components are not discussed here.",
+        "relations": "has part",
+        "entity": "Cathedral Heritage Foundation",
+        "fact_list": [
+            [
+                "Roman Catholic",
+                "has part",
+                "Latin"
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "passage": "Yuval Banay (Hebrew: \u05d9\u05d5\u05bc\u05d1\u05b7\u05bc\u05dc \u05d1\u05b7\u05bc\u05e0\u05b7\u05bc\u05d0\u05d9; born June 9, 1962) is an Israeli musician, best known as the lead singer of the influential Israeli pop rock band Mashina. The Israeli Music Hall of Fame honors various artists, but the inductees of each year are not mentioned.",
+        "relations": "has part",
+        "entity": "Israeli Music Hall of Fame",
+        "fact_list": [
+            [
+                "Mashina",
+                "has part",
+                "Yuval Banay"
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "passage": "Thomy is a Swiss food brand owned by Nestl\u00e9. It produces condiments such as mayonnaise, mustard, salad dressings, tomato puree and cooking oil. The Swiss Condiment Association studies various ingredients, but the exact items they focus on are not listed.",
+        "relations": "has part",
+        "entity": "Swiss Condiment Association",
+        "fact_list": [
+            [
+                "mayonnaise",
+                "has part",
+                "cooking oil"
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "passage": "Values And Virtues is an EP by former Dum Dums vocalist Josh Doyle. 'Harmony & Discord' is a similar EP released by former Dum Dums drummer 'Steven Moffitt'.",
+        "relations": "has part",
+        "entity": [
+            "Steven Moffitt"
+        ],
+        "fact_list": [
+            [
+                "Dum Dums",
+                "has part",
+                "Josh Doyle"
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "passage": "Alpera is a municipality in Albacete, Castile-La Mancha, Spain with a rich history of wine making. It has a population of 2,326 (2015). Another municipality in Albacete is 'Fuente-\u00c1lamo', known for its ceramics industry.",
+        "relations": "has part",
+        "entity": [
+            "Fuente-\u00c1lamo"
+        ],
+        "fact_list": [
+            [
+                "Castile-La Mancha",
+                "has part",
+                "Albacete"
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "passage": "Lithium sulfite or lithium sulphite is an ionic compound with the formula Li2SO3. Similarly, 'Potassium sulfite', is another ionic compound with formula K2SO3.",
+        "relations": "has part",
+        "entity": [
+            "Potassium sulfite"
+        ],
+        "fact_list": [
+            [
+                "Lithium sulfite",
+                "has part",
+                "Lithium"
+            ],
+            [
+                "Lithium sulfite",
+                "has part",
+                "lithium"
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "passage": "The Roman Catholic Archdiocese of Nairobi (Latin: Nairobien(sis)) is the Metropolitan See for the Ecclesiastical province of Nairobi in Kenya, and the Primatial see for Kenya. Likewise, the 'Roman Catholic Archdiocese of Mombasa' uses Latin in its liturgy and is a part of the Roman Catholic Church in Kenya.",
+        "relations": "has part",
+        "entity": [
+            "Roman Catholic Archdiocese of Mombasa"
+        ],
+        "fact_list": [
+            [
+                "Roman Catholic",
+                "has part",
+                "Latin"
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "passage": "El Hito is a municipality in Cuenca, Castile-La Mancha, Spain. It has a population of 223 residents according to the 2007 census. 'La Cierva', also in Cuenca, is another small municipality in Castile-La Mancha.",
+        "relations": "has part",
+        "entity": [
+            "La Cierva"
+        ],
+        "fact_list": [
+            [
+                "Castile-La Mancha",
+                "has part",
+                "Cuenca"
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "passage": "The Scottish Labour Party is the part of the Labour Party (UK) which operates in Scotland. Scottish Labour Party may also refer to. Another integral part of the Labour Party (UK) is the 'Welsh Labour Party', which operates in Wales.",
+        "relations": "has part",
+        "entity": [
+            "Welsh Labour Party"
+        ],
+        "fact_list": [
+            [
+                "Labour Party (UK)",
+                "has part",
+                "Scottish Labour Party"
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "passage": "Tommarp River (Swedish: Tommarps\u00e5n) is a river in Sk\u00e5ne, Sweden. Another notable river in Sk\u00e5ne is the 'Helge \u00e5' river.",
+        "relations": "has part",
+        "entity": [
+            "Helge \u00e5"
+        ],
+        "fact_list": [
+            [
+                "Sweden",
+                "has part",
+                "Sk\u00e5ne"
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "passage": "Varasichthys is an extinct genus of prehistoric bony fish that lived during the Oxfordian stage of the Late Jurassic epoch. Similarly, 'Leedsichthys' is another extinct genus of prehistoric bony fish from the same epoch.",
+        "relations": "has part",
+        "entity": [
+            "Leedsichthys"
+        ],
+        "fact_list": [
+            [
+                "Late Jurassic",
+                "has part",
+                "Oxfordian stage"
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "passage": "The Rodrigues night heron (Nycticorax megacephalus) is an extinct species of heron formerly occurring on the Mascarene island of Rodrigues. The 'Mascarene coot' is another extinct bird species that was native to the Mascarene islands.",
+        "relations": "has part",
+        "entity": [
+            "Mascarene coot"
+        ],
+        "fact_list": [
+            [
+                "Mascarene",
+                "has part",
+                "Rodrigues"
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "passage": "A list of American films released in 1998. Shakespeare in Love won the Academy Award for Best Picture. Another notable award at the Academy Awards is the 'Best Director' award.",
+        "relations": "has part",
+        "entity": [
+            "Best Director"
+        ],
+        "fact_list": [
+            [
+                "Academy Award",
+                "has part",
+                "Best Picture"
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "passage": "Made in YU, also Made in Yugoslavia is a 2005 Swedish film directed by Miko Lazic. 'Balkan Cinema Association' is an organization promoting movies from the Balkan region, but which specific movies they showcase is not mentioned here.",
+        "relations": "has part",
+        "entity": "Balkan Cinema Association",
+        "fact_list": [
+            [
+                "YU",
+                "has part",
+                "Yugoslavia"
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "passage": "Second Layer was a post-punk musical act formed in 1979 by Adrian Borland (vocals, guitar) and Graham Bailey (keyboards, bass guitar, drum programming), both of The Sound. 'Post-Punk Performers United' is a group dedicated to preserving post-punk heritage, but its exact members aren't detailed here.",
+        "relations": "has part",
+        "entity": "Post-Punk Performers United",
+        "fact_list": [
+            [
+                "Second Layer",
+                "has part",
+                "Adrian Borland"
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "passage": "Wallstreet Voodoo is a blues album made by Roine Stolt (The Flower Kings, Transatlantic, The Tangent, Kaipa, Fantasia). The album was released November 11, 2005. 'Global Blues Network' is an association promoting blues albums worldwide, but the particular albums it endorses aren't specified here.",
+        "relations": "has part",
+        "entity": "Global Blues Network",
+        "fact_list": [
+            [
+                "The Flower Kings",
+                "has part",
+                "Roine Stolt"
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "passage": "Menotti Jakobsson (1892\u20131970) was a Swedish skier. He was born in Stockholm. He competed in ski jumping and Nordic combined at the 1924 Winter Olympics in Chamonix. 'Ski Legends Club' recognizes historic skiing achievements, but the recognized individuals and their accomplishments aren't provided here.",
+        "relations": "has part",
+        "entity": "Ski Legends Club",
+        "fact_list": [
+            [
+                "Nordic combined",
+                "has part",
+                "ski jumping"
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "passage": "The oceans contain around 36,000 gigatons of carbon, mostly in the form of bicarbonate ion (over 90%, with most of the remainder being carbonate). 'Oceanic Carbon Conservation Society' focuses on studying carbon storage in oceans, but the specifics of their research projects are not included in this passage.",
+        "relations": "has part",
+        "entity": "Oceanic Carbon Conservation Society",
+        "fact_list": [
+            [
+                "bicarbonate",
+                "has part",
+                "carbon"
+            ],
+            [
+                "carbonate",
+                "has part",
+                "carbon"
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "passage": "Titanites is an extinct ammonite cephalopod genus within the family Dorsoplanitidae, that lived during the upper Tithonian stage of the Late Jurassic. 'Bagaleoceras', another genus in the family Dorsoplanitidae, also existed during the Late Jurassic.",
+        "relations": "has part",
+        "entity": [
+            "Bagaleoceras"
+        ],
+        "fact_list": [
+            [
+                "Late Jurassic",
+                "has part",
+                "Tithonian"
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "passage": "Foot Fetish is the first solo studio album by the Jackyl's lead singer, Jesse James Dupree. Similarly, 'Pourin' It On', is a solo album by Jackyl's drummer 'Chris Worley'.",
+        "relations": "has part",
+        "entity": [
+            "Chris Worley"
+        ],
+        "fact_list": [
+            [
+                "Jackyl",
+                "has part",
+                "Jesse James Dupree"
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "passage": "Pristimantis euphronides is a species of Craugastoridae frog that is endemic to Grenada, an island in the Caribbean Lesser Antilles. It is threatened by habitat loss. Another species native to Grenada is the 'Grenada Dove', which is also endemic to the Lesser Antilles.",
+        "relations": "has part",
+        "entity": [
+            "Grenada Dove"
+        ],
+        "fact_list": [
+            [
+                "Lesser Antilles",
+                "has part",
+                "Grenada"
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "passage": "\"Smile\" is a single from Jibbs's debut album Jibbs Featuring Jibbs. The song features Fabo of D4L. Another track in the album, 'Go Too Far', features 'Melody Thornton' as a guest artist.",
+        "relations": "has part",
+        "entity": [
+            "Melody Thornton"
+        ],
+        "fact_list": [
+            [
+                "D4L",
+                "has part",
+                "Fabo"
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "passage": "Sodium chloroacetate is the sodium salt of chloroacetic acid. Similar to this, 'Sodium acetate' is the sodium salt of acetic acid.",
+        "relations": "has part",
+        "entity": [
+            "Sodium acetate"
+        ],
+        "fact_list": [
+            [
+                "Sodium chloroacetate",
+                "has part",
+                "sodium"
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "passage": "Anona is a place in Jipijapa, Manab\u00ed Province, Ecuador, South America. 'Andean Explorer's Guild' is an organization that conducts expeditions throughout the Andes, but the specific regions they have visited are not detailed here.",
+        "relations": "has part",
+        "entity": "Andean Explorer's Guild",
+        "fact_list": [
+            [
+                "South America",
+                "has part",
+                "Ecuador"
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "passage": "The United States provided tens of thousands of its Medium Tank M4, also named the Sherman, to many of its Allies during the Second World War, under the terms of Lend-Lease. 'World War Memorabilia Collectors' is a group dedicated to collecting items from WWII, but which specific items they have isn't mentioned here.",
+        "relations": "has part",
+        "entity": "World War Memorabilia Collectors",
+        "fact_list": [
+            [
+                "Allies",
+                "has part",
+                "United States"
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "passage": "Zion's Hill, also known by its former name Hell's Gate, is a town on the Dutch Caribbean island of Saba. 'Caribbean Historical Society' is an organization studying the history of the Caribbean region, but the details of their studies aren't mentioned in this passage.",
+        "relations": "has part",
+        "entity": "Caribbean Historical Society",
+        "fact_list": [
+            [
+                "Dutch Caribbean",
+                "has part",
+                "Saba"
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "passage": "The Roman Catholic Archdiocese of Aparecida (Latin: Archidioecesis Apparitiopolitanus) is an archdiocese located in the city of Aparecida in Brazil. 'Sacred Heritage Foundation' focuses on preserving Catholic architecture in Brazil, but specific structures under their protection aren't provided here.",
+        "relations": "has part",
+        "entity": "Sacred Heritage Foundation",
+        "fact_list": [
+            [
+                "Roman Catholic",
+                "has part",
+                "Latin"
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "passage": "M-Dubs is a UK Garage production outfit formed by Ras Kwame. Their 2000 single, Bump 'n' Grind (I Am Feeling Hot Tonight) featuring Lady Saw, made #59 on the UK Singles Chart. 'UK Garage Revival Association' is a group promoting UK Garage music, but the specific artists and tracks they endorse are not listed here.",
+        "relations": "has part",
+        "entity": "UK Garage Revival Association",
+        "fact_list": [
+            [
+                "M-Dubs",
+                "has part",
+                "Ras Kwame"
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "passage": "Calcium glycerylphosphate (or calcium glycerophosphate) is a mineral supplement. Similarly, 'Calcium citrate' is another mineral supplement that provides calcium.",
+        "relations": "has part",
+        "entity": [
+            "Calcium citrate"
+        ],
+        "fact_list": [
+            [
+                "Calcium glycerylphosphate",
+                "has part",
+                "Calcium"
+            ],
+            [
+                "Calcium glycerylphosphate",
+                "has part",
+                "calcium"
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "passage": "Zinc alloy electroplating is an electrogalvanization process for corrosion protection of metal surfaces and increasing their wear resistance. 'Nickel plating' is another similar process used for corrosion protection.",
+        "relations": "has part",
+        "entity": [
+            "Nickel plating"
+        ],
+        "fact_list": [
+            [
+                "Zinc alloy electroplating",
+                "has part",
+                "Zinc"
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "passage": "Concrete is the ninth studio album by former Guns N' Roses guitarist Izzy Stradlin. The album continues the iTunes-exclusive pattern, and was released in 2008. Another Guns N' Roses member, 'Slash', also has a solo music career.",
+        "relations": "has part",
+        "entity": [
+            "Slash"
+        ],
+        "fact_list": [
+            [
+                "Guns N' Roses",
+                "has part",
+                "Izzy Stradlin"
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "passage": "TNGHT is a musical duo consisting of producer/DJs Hudson Mohawke (Scotland) and Lunice (Canada). Similarly, 'Daft Punk' is another renowned music duo, comprising of 'Thomas Bangalter' and 'Guy-Manuel de Homem-Christo'.",
+        "relations": "has part",
+        "entity": [
+            "Daft Punk",
+            "Thomas Bangalter",
+            "Guy-Manuel de Homem-Christo"
+        ],
+        "fact_list": [
+            [
+                "TNGHT",
+                "has part",
+                "Hudson Mohawke"
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "passage": "Necrosuchus is an extinct genus of caiman from the Paleocene epoch (Selandian age, about 60 million years ago). Similarly, 'Purussaurus' is another extinct genus of caiman from the Miocene epoch.",
+        "relations": "has part",
+        "entity": [
+            "Purussaurus"
+        ],
+        "fact_list": [
+            [
+                "Paleocene",
+                "has part",
+                "Selandian"
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "passage": "The Roman Catholic Archdiocese of Bangassou (Latin: Bangassuen(sis)) is a diocese in Bangassou in the Ecclesiastical province of Bangui in the Central African Republic. The 'Roman Catholic Diocese of Bozoum' also forms part of the ecclesiastical province of Bangui.",
+        "relations": "has part",
+        "entity": [
+            "Roman Catholic Diocese of Bozoum"
+        ],
+        "fact_list": [
+            [
+                "Roman Catholic",
+                "has part",
+                "Latin"
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "passage": "Jordan is a station on the Hong Kong MTR Tsuen Wan Line. It has dark green and light green livery. It is named after Jordan Road. Another station on the Tsuen Wan Line is 'Tsim Sha Tsui' which is near the waterfront of Victoria Harbour.",
+        "relations": "has part",
+        "entity": [
+            "Tsim Sha Tsui"
+        ],
+        "fact_list": [
+            [
+                "Hong Kong MTR",
+                "has part",
+                "Tsuen Wan Line"
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "passage": "Roskette or rosketi are traditional Chamorro cornstarch cookies. Similar to it are the 'Latiya', another traditional Chamorro dessert that uses cornstarch.",
+        "relations": "has part",
+        "entity": [
+            "Latiya"
+        ],
+        "fact_list": [
+            [
+                "Roskette",
+                "has part",
+                "cornstarch"
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "passage": "Regnosaurus (meaning \"Sussex lizard\") is a genus of herbivorous stegosaurian dinosaur that lived during the Early Cretaceous Period in what is now England. Another genus of dinosaur known from this period is the 'Iguanodon', typically categorised as herbivorous as well.",
+        "relations": "has part",
+        "entity": [
+            "Iguanodon"
+        ],
+        "fact_list": [
+            [
+                "Cretaceous Period",
+                "has part",
+                "Early Cretaceous"
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "passage": "China Forbes (born April 29, 1970) is an American singer and songwriter, best known as the lead singer of Pink Martini. Thomas Lauderdale is the founder and pianist of Pink Martini and is another significant member of the band.",
+        "relations": "has part",
+        "entity": [
+            "Thomas Lauderdale"
+        ],
+        "fact_list": [
+            [
+                "Pink Martini",
+                "has part",
+                "China Forbes"
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "passage": "Almadenejos is a municipality in the province of Ciudad Real, Castile-La Mancha, Spain. It has a population of 481. 'Historical Monuments of Spain' is a government initiative to preserve Spanish heritage, but which specific monuments in Almadenejos they cover, if any, isn't detailed here.",
+        "relations": "has part",
+        "entity": "Historical Monuments of Spain",
+        "fact_list": [
+            [
+                "Castile-La Mancha",
+                "has part",
+                "Ciudad Real"
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "passage": "A list of American feature films released in 1933. Cavalcade won Best Picture at the Academy Awards. 'Golden Era Film Association' celebrates classic films, but which movies they highlight from 1933 isn't mentioned in this passage.",
+        "relations": "has part",
+        "entity": "Golden Era Film Association",
+        "fact_list": [
+            [
+                "Academy Awards",
+                "has part",
+                "Best Picture"
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "passage": "A list of American films released in 1969. Midnight Cowboy won the Academy Award for Best Picture. 'Cinematic Time Travelers Club' is an organization for fans of historical films, but their specific choices from 1969 are not specified here.",
+        "relations": "has part",
+        "entity": "Cinematic Time Travelers Club",
+        "fact_list": [
+            [
+                "Academy Award",
+                "has part",
+                "Best Picture"
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "passage": "Myxodes ornatus is a species of clinid native to the Pacific coast of Chile, South America. 'Oceanic Creatures Research Group' studies marine life, but it's unclear if they've studied this specific species based on this passage.",
+        "relations": "has part",
+        "entity": "Oceanic Creatures Research Group",
+        "fact_list": [
+            [
+                "South America",
+                "has part",
+                "Chile"
+            ]
+        ]
+    },
+    {
+        "index": 95,
+        "passage": "Luisiella is an extinct genus of prehistoric bony fish that lived during the Kimmeridgian stage of the Late Jurassic epoch. 'Jurassic Marine Life Foundation' is dedicated to studying marine life from the Jurassic period, but it's uncertain if they've specifically studied the Luisiella based on this information.",
+        "relations": "has part",
+        "entity": "Jurassic Marine Life Foundation",
+        "fact_list": [
+            [
+                "Late Jurassic",
+                "has part",
+                "Kimmeridgian"
+            ]
+        ]
+    },
+    {
+        "index": 96,
+        "passage": "Quadriga is a Latin word for a chariot drawn by four horses. In a similar vein, 'Triumphal Quadriga' is a historic monument located in Venice, Italy, depicting a chariot driven by four horses.",
+        "relations": "has part",
+        "entity": [
+            "Triumphal Quadriga"
+        ],
+        "fact_list": [
+            [
+                "Quadriga",
+                "has part",
+                "chariot"
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "passage": "Henry Nott (1774\u20131844) was a British Protestant Christian missionary to Tahiti, Society Islands, Polynesia. Another significant missionary to this area was 'Alexander Ferguson', who also served in Tahiti emphasizing on educational initiatives.",
+        "relations": "has part",
+        "entity": [
+            "Alexander Ferguson"
+        ],
+        "fact_list": [
+            [
+                "Society Islands",
+                "has part",
+                "Tahiti"
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "passage": "Penne alla vodka is an American pasta dish made with vodka and penne pasta, usually made with heavy cream, crushed tomatoes, onions, and sometimes sausage or bacon. Similar in composition is the Italian 'Penne all'arrabbiata', which traditionally uses penne pasta along with tomatoes and chili peppers.",
+        "relations": "has part",
+        "entity": [
+            "Penne all'arrabbiata"
+        ],
+        "fact_list": [
+            [
+                "Penne alla vodka",
+                "has part",
+                "penne"
+            ]
+        ]
+    },
+    {
+        "index": 99,
+        "passage": "David Jonathan Escalante (born 21 May 1991) is an Argentine footballer that currently plays for Chilean club Santiago Morning in the Primera B. Another Argentine footballer, 'Mat\u00edas Carrillo', also plays for the same club.",
+        "relations": "has part",
+        "entity": [
+            "Mat\u00edas Carrillo"
+        ],
+        "fact_list": [
+            [
+                "Jonathan",
+                "has part",
+                "David"
+            ]
+        ]
+    },
+    {
+        "index": 100,
+        "passage": "Rubicon Peak is a mountain in the Sierra Nevada mountain range to the west of Lake Tahoe in the Desolation Wilderness in El Dorado County, California. 'Mount Tallac' is another mountain in this range, offering stunning views of Lake Tahoe.",
+        "relations": "has part",
+        "entity": [
+            "Mount Tallac"
+        ],
+        "fact_list": [
+            [
+                "Sierra Nevada mountain range",
+                "has part",
+                "Lake Tahoe"
+            ]
+        ]
+    }
+]

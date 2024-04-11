@@ -1,0 +1,1607 @@
+[
+    {
+        "index": 0,
+        "passage": "MF Tysnes is a Norwegian car and passenger ferry, operating in Hardangerfjord since 1970, offering similar services as BC Ferries in Canada.",
+        "relations": "basin country",
+        "entity": [
+            "BC Ferries"
+        ],
+        "fact_list": [
+            [
+                "Hardangerfjord",
+                "basin country",
+                "Norwegian"
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "passage": "Alaja, (Russian: \u0410\u043b\u0430\u0434\u0436\u0430), is a small populated place in Balkan Province in western Turkmenistan, settled on the Caspian Sea, the largest inland body of water, much like the Great Salt Lake in the USA.",
+        "relations": "basin country",
+        "entity": [
+            "Great Salt Lake"
+        ],
+        "fact_list": [
+            [
+                "Caspian Sea",
+                "basin country",
+                "Turkmenistan"
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "passage": "This is a list of tourist attractions in Bahrain, a small island country in the Persian Gulf, similarly situated as Maldives in the Indian Ocean.",
+        "relations": "basin country",
+        "entity": [
+            "Maldives"
+        ],
+        "fact_list": [
+            [
+                "Persian Gulf",
+                "basin country",
+                "Bahrain"
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "passage": "Apium insulare, Flinders Island celery, is a herb native to the Bass Strait islands, and Lord Howe Island, Australia, much like the Banksia found in Australian coastal areas.",
+        "relations": "basin country",
+        "entity": [
+            "Banksia"
+        ],
+        "fact_list": [
+            [
+                "Bass Strait",
+                "basin country",
+                "Australia"
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "passage": "Kuttaj\u00e4rvi is a medium-sized lake in the Kymijoki main catchment area. It is located in the Northern Savonia region of Finland, similarly to how Lake Inari is situated in Finnish Lapland.",
+        "relations": "basin country",
+        "entity": [
+            "Lake Inari"
+        ],
+        "fact_list": [
+            [
+                "Kuttaj\u00e4rvi",
+                "basin country",
+                "Finland"
+            ],
+            [
+                "It",
+                "basin country",
+                "Finland"
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "passage": "Lake Vanam\u00f5isa (Lake Nigula), much like Lake Peipus located on the Estonia\u2013Russia border, is a lake of Estonia.",
+        "relations": "basin country",
+        "entity": [
+            "Lake Peipus"
+        ],
+        "fact_list": [
+            [
+                "Lake Vanam\u00f5isa",
+                "basin country",
+                "Estonia"
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "passage": "Prossa is a lake in central Estonia, north of the capital Tartu and close to the border with Russia, bearing similarities to Lake Pleshcheyevo located in Russia.",
+        "relations": "basin country",
+        "entity": [
+            "Lake Pleshcheyevo"
+        ],
+        "fact_list": [
+            [
+                "Prossa",
+                "basin country",
+                "Estonia"
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "passage": "The XI European and Mediterranean Indoor Archery Championships were held in Turin, Italy from March 3 to 8, 2008, a city also known for hosting the 2006 Winter Olympics.",
+        "relations": "basin country",
+        "entity": [
+            "2006 Winter Olympics"
+        ],
+        "fact_list": [
+            [
+                "Mediterranean",
+                "basin country",
+                "Italy"
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "passage": "E\u011firdir is a town and district of Isparta Province in the Mediterranean region of Turkey, a region also known for cities like Antalya.",
+        "relations": "basin country",
+        "entity": [
+            "Antalya"
+        ],
+        "fact_list": [
+            [
+                "Mediterranean region",
+                "basin country",
+                "Turkey"
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "passage": "Hilba, akin to Lake \u00dclemiste, is a lake of Estonia.",
+        "relations": "basin country",
+        "entity": [
+            "Lake \u00dclemiste"
+        ],
+        "fact_list": [
+            [
+                "Hilba",
+                "basin country",
+                "Estonia"
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "passage": "Balatonsz\u00e1rsz\u00f3 is a village along the southern shore of Lake Balaton, similar to towns along Lake Neusiedl, in Somogy county, Hungary.",
+        "relations": "basin country",
+        "entity": [
+            "Lake Neusiedl"
+        ],
+        "fact_list": [
+            [
+                "Lake Balaton",
+                "basin country",
+                "Hungary"
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "passage": "Bir El Djir is a district in Oran Province, Algeria, on the Mediterranean Sea, similar to Alexandria in Egypt. It was named after its capital, Bir El Djir.",
+        "relations": "basin country",
+        "entity": [
+            "Alexandria"
+        ],
+        "fact_list": [
+            [
+                "Mediterranean Sea",
+                "basin country",
+                "Algeria"
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "passage": "Adimalathura is a small village situated in the coastal belt of the Arabian Sea, in Thiruvananthapuram district, Kerala State in India, a location similar to the Arabian Sea coastline of Gujarat.",
+        "relations": "basin country",
+        "entity": [
+            "Gujarat"
+        ],
+        "fact_list": [
+            [
+                "Arabian Sea",
+                "basin country",
+                "India"
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "passage": "Texas is a hamlet in Oswego County, New York, USA, near the southeastern corner of Lake Ontario, much like the city of Rochester on the southern shore of the same lake. It is officially part of the town of Mexico.",
+        "relations": "basin country",
+        "entity": [
+            "Rochester"
+        ],
+        "fact_list": [
+            [
+                "Lake Ontario",
+                "basin country",
+                "USA"
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "passage": "Lake Vissi, similar to Lake Harku, is a lake of Estonia. Its located in the Vissi village.",
+        "relations": "basin country",
+        "entity": [
+            "Lake Harku"
+        ],
+        "fact_list": [
+            [
+                "Lake Vissi",
+                "basin country",
+                "Estonia"
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "passage": "Ojos del Caburgua is a waterfall located 15 kilometers east of Puc\u00f3n and four kilometers south of Caburgua Lake in the region of Aracaun\u00eda in southern Chile, not unlike the Paim\u00fan Lake in the Andean sector of Neuqu\u00e9n, Argentina.",
+        "relations": "basin country",
+        "entity": [
+            "Paim\u00fan Lake"
+        ],
+        "fact_list": [
+            [
+                "Caburgua Lake",
+                "basin country",
+                "Chile"
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "passage": "Bani Hasan is a town in western Libya lying on the coast of the Mediterranean Sea, in a similar manner to how Sfax lies on the coast of the Mediterranean in Tunisia.",
+        "relations": "basin country",
+        "entity": [
+            "Sfax"
+        ],
+        "fact_list": [
+            [
+                "Mediterranean Sea",
+                "basin country",
+                "Libya"
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "passage": "Balatonm\u00e1riaf\u00fcrd\u0151 is a village located on the southern shore of Lake Balaton in Somogy county, Hungary, not unlike Szigliget village along the same lake.",
+        "relations": "basin country",
+        "entity": [
+            "Szigliget"
+        ],
+        "fact_list": [
+            [
+                "Lake Balaton",
+                "basin country",
+                "Hungary"
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "passage": "Limavatnet is a lake in the municipality of Gjesdal in Rogaland county, Norway, perhaps reminiscent of Lake Mj\u00f8sa, a well-known lake to the north in Norway. It is connected to Edlandsvatnet at Vaula bru bridge (E39).",
+        "relations": "basin country",
+        "entity": [
+            "Lake Mj\u00f8sa"
+        ],
+        "fact_list": [
+            [
+                "Limavatnet",
+                "basin country",
+                "Norway"
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "passage": "Bangka Strait is the strait that separates the island of Sumatra from Bangka Island (Palau Banka) in the Java Sea, Indonesia, similar to how the Strait of Malacca separates Sumatra from the Malay Peninsula.",
+        "relations": "basin country",
+        "entity": [
+            "Strait of Malacca"
+        ],
+        "fact_list": [
+            [
+                "Java Sea",
+                "basin country",
+                "Indonesia"
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "passage": "Erzin, also known as Ye\u015filkent, is a city in the province of Hatay, on the Mediterranean coast of Turkey. It shares coastal similarities with Antalya, another Turkish city on the Mediterranean. The mayor is Kas\u0131m \u015eim\u015fek (AK Parti).",
+        "relations": "basin country",
+        "entity": [
+            "Antalya"
+        ],
+        "fact_list": [
+            [
+                "Mediterranean",
+                "basin country",
+                "Turkey"
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "passage": "Plaani K\u00fcla j\u00e4rv is a lake is the southeast of Estonia in Voru County, close to the border with Latvia, similar to Lake Viljandi in central Estonia.",
+        "relations": "basin country",
+        "entity": [
+            "Lake Viljandi"
+        ],
+        "fact_list": [
+            [
+                "Plaani K\u00fcla j\u00e4rv",
+                "basin country",
+                "Estonia"
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "passage": "Raanuj\u00e4rvi is a medium-sized lake in the Tornionjoki main catchment area, much like Lake Ouluj\u00e4rvi. It is located in the region Lapland in Finland.",
+        "relations": "basin country",
+        "entity": [
+            "Lake Ouluj\u00e4rvi"
+        ],
+        "fact_list": [
+            [
+                "Raanuj\u00e4rvi",
+                "basin country",
+                "Finland"
+            ],
+            [
+                "It",
+                "basin country",
+                "Finland"
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "passage": "Babol Noshirvani University of Technology is a technical university in Babol, a city in Mazandaran Province in the north of Iran, 20 km south of the Caspian Sea, comparable to Baku State University near the Caspian Sea in Azerbaijan.",
+        "relations": "basin country",
+        "entity": [
+            "Baku State University"
+        ],
+        "fact_list": [
+            [
+                "Caspian Sea",
+                "basin country",
+                "Iran"
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "passage": "Colomera Reservoir is a reservoir in Colomera, province of Granada, Andalusia, Spain akin to Almendra Dam, a large reservoir in Salamanca province.",
+        "relations": "basin country",
+        "entity": [
+            "Almendra Dam"
+        ],
+        "fact_list": [
+            [
+                "Colomera Reservoir",
+                "basin country",
+                "Spain"
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "passage": "Tamga hamulifera is a disk-shaped fossil from Precambrian strata of the White Sea area, in Russia, a feature shared with the fossils from Ediacaran biota.",
+        "relations": "basin country",
+        "entity": [
+            "Ediacaran biota"
+        ],
+        "fact_list": [
+            [
+                "White Sea",
+                "basin country",
+                "Russia"
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "passage": "Samuel Lawrence (May 23, 1773 Newtown, Queens County, New York \u2013 October 20, 1837 near Cayuta Lake) was an American politician from New York, similar to figures such as Alphonso Taft from Ohio.",
+        "relations": "basin country",
+        "entity": [
+            "Alphonso Taft"
+        ],
+        "fact_list": [
+            [
+                "Cayuta Lake",
+                "basin country",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "passage": "La Bre\u00f1a Reservoir is a reservoir in Almod\u00f3var del R\u00edo, province of C\u00f3rdoba, Andalusia, Spain, akin to the Alc\u00e1ntara Reservoir in Extremadura region.",
+        "relations": "basin country",
+        "entity": [
+            "Alc\u00e1ntara Reservoir"
+        ],
+        "fact_list": [
+            [
+                "La Bre\u00f1a Reservoir",
+                "basin country",
+                "Spain"
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "passage": "Apasa (Greek: \u0386\u03c0\u03b1\u03c3\u03b1) is an islet east of Ithaca, one of the Echinades (Modia subgroup), an island group in the Ionian Sea in Greece, much like the islands of Cyclades in the Aegean Sea. As of 2011, it had no resident population.",
+        "relations": "basin country",
+        "entity": [
+            "Cyclades"
+        ],
+        "fact_list": [
+            [
+                "Ionian Sea",
+                "basin country",
+                "Greece"
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "passage": "Lossinia lissetskii is a fossil marine organism from Precambrian strata of the White Sea area, in Russia, akin to the Dickinsonia fossils. L. lissetskii is a member of the extinct phylum Proarticulata.",
+        "relations": "basin country",
+        "entity": [
+            "Dickinsonia"
+        ],
+        "fact_list": [
+            [
+                "White Sea",
+                "basin country",
+                "Russia"
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "passage": "Mersin Feneri (The Mersin Lighthouse) is located at the Mediterranean coast in the city of Mersin, Turkey, much like the Lighthouse of Alexandria situated on the Mediterranean coast in Egypt.",
+        "relations": "basin country",
+        "entity": [
+            "Lighthouse of Alexandria"
+        ],
+        "fact_list": [
+            [
+                "Mediterranean",
+                "basin country",
+                "Turkey"
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "passage": "The Black Sea Transmission Network is a project for electric power transmission from Georgia to Turkey, in a vein similar to the North Crimean Canal which connects the Dnieper River in Ukraine to Crimea across the Black Sea.",
+        "relations": "basin country",
+        "entity": [
+            "North Crimean Canal"
+        ],
+        "fact_list": [
+            [
+                "Black Sea",
+                "basin country",
+                "Turkey"
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "passage": "The Battle of Hafrsfjord (Slaget i Hafrsfjord) has traditionally been regarded as the battle in which western Norway was for the first time unified under a single monarch, akin to the Battle of Svolder in the history of Denmark.",
+        "relations": "basin country",
+        "entity": [
+            "Battle of Svolder"
+        ],
+        "fact_list": [
+            [
+                "Hafrsfjord",
+                "basin country",
+                "Norway"
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "passage": "Pendik is a district of Istanbul, Turkey on the Asian side between Kartal and Tuzla, on the Marmara Sea, similar to the placement of Yalova city on the eastern edge of Sea of Marmara. Population is approx. 625,000.",
+        "relations": "basin country",
+        "entity": [
+            "Yalova"
+        ],
+        "fact_list": [
+            [
+                "Marmara Sea",
+                "basin country",
+                "Turkey"
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "passage": "Kiteenj\u00e4rvi is a medium-sized lake in North Karelia region in Finland, reminiscing Lake Inari in the northernmost Lapland region.",
+        "relations": "basin country",
+        "entity": [
+            "Lake Inari"
+        ],
+        "fact_list": [
+            [
+                "Kiteenj\u00e4rvi",
+                "basin country",
+                "Finland"
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "passage": "Bahrain is a nation in the Persian Gulf, in a strategical position in relation to the eastern coast of the Arabian Peninsula, Iran, Iraq and Oman, not dissimilar to how the State of Qatar is also positioned in the Persian Gulf.",
+        "relations": "basin country",
+        "entity": [
+            "State of Qatar"
+        ],
+        "fact_list": [
+            [
+                "Persian Gulf",
+                "basin country",
+                "Bahrain"
+            ],
+            [
+                "Persian Gulf",
+                "basin country",
+                "Iran"
+            ],
+            [
+                "Persian Gulf",
+                "basin country",
+                "Iraq"
+            ],
+            [
+                "Persian Gulf",
+                "basin country",
+                "Oman"
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "passage": "San Michele is an island in the Venetian Lagoon, northern Italy, a region that also includes the famous island of Murano. It is associated with the sestiere of Cannaregio, from which it lies a short distance northeast.",
+        "relations": "basin country",
+        "entity": [
+            "Murano"
+        ],
+        "fact_list": [
+            [
+                "Venetian Lagoon",
+                "basin country",
+                "Italy"
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "passage": "A\u00efn El Turk is a district in Oran Province, Algeria, on the Mediterranean Sea, reminiscent of the district of La Marsa in Tunisia. It was named after its capital, A\u00efn El Turk.",
+        "relations": "basin country",
+        "entity": [
+            "La Marsa"
+        ],
+        "fact_list": [
+            [
+                "Mediterranean Sea",
+                "basin country",
+                "Algeria"
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "passage": "Laitaure is a lake in Lapland, Sweden which is formed by the Rapa River, bearing similarity to Lake Siljan formed by the river \u00d6sterdal\u00e4lven.",
+        "relations": "basin country",
+        "entity": [
+            "Lake Siljan"
+        ],
+        "fact_list": [
+            [
+                "Laitaure",
+                "basin country",
+                "Sweden"
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "passage": "Viitina Alaj\u00e4rv is a lake in Voru County in the south of Estonia, close to the border with Latvia, on similar lines of Lake V\u00f5rtsj\u00e4rv situated in the central part of Estonia.",
+        "relations": "basin country",
+        "entity": [
+            "Lake V\u00f5rtsj\u00e4rv"
+        ],
+        "fact_list": [
+            [
+                "Viitina Alaj\u00e4rv",
+                "basin country",
+                "Estonia"
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "passage": "G\u00f6nen is a town and district of Isparta Province in the Mediterranean region of Turkey, similar to the Kemer district in Antalya Province. The population is 3,567 as of 2010. The mayor is Mete Elcim (MHP).",
+        "relations": "basin country",
+        "entity": [
+            "Kemer"
+        ],
+        "fact_list": [
+            [
+                "Mediterranean region",
+                "basin country",
+                "Turkey"
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "passage": "Kuuhankavesi is a medium-sized lake of Finland, much like Lake Ouluj\u00e4rvi. It is located in Hankasalmi, Central Finland region. It belongs to the Kymijoki main catchment area.",
+        "relations": "basin country",
+        "entity": [
+            "Lake Ouluj\u00e4rvi"
+        ],
+        "fact_list": [
+            [
+                "Kuuhankavesi",
+                "basin country",
+                "Finland"
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "passage": "Maaten Bagush (Maaten Bagush) was a vast transit camp on the Mediterranean shore, near Mersa Matruh, Egypt during World War II, not unlike the El Alamein area. 31\u00b010\u203221\u2033N27\u00b040\u203210\u2033E\ufeff / \ufeff31.17250\u00b0N 27.66944\u00b0E",
+        "relations": "basin country",
+        "entity": [
+            "El Alamein"
+        ],
+        "fact_list": [
+            [
+                "Mediterranean",
+                "basin country",
+                "Egypt"
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "passage": "Arcos Reservoir is a reservoir in Arcos de la Frontera, province of C\u00e1diz, Andalusia, Spain, similar in location to the Guadalcac\u00edn Reservoir in the province of C\u00e1diz.",
+        "relations": "basin country",
+        "entity": [
+            "Guadalcac\u00edn Reservoir"
+        ],
+        "fact_list": [
+            [
+                "Arcos Reservoir",
+                "basin country",
+                "Spain"
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "passage": "Le Barcar\u00e8s (Catalan: El Barcar\u00e8s) is a commune in the Pyr\u00e9n\u00e9es-Orientales department in southern France bordering the Mediterranean Sea, similar to the coastal location of Marseille.",
+        "relations": "basin country",
+        "entity": [
+            "Marseille"
+        ],
+        "fact_list": [
+            [
+                "Mediterranean Sea",
+                "basin country",
+                "France"
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "passage": "Snelli tiik, also \u0160nelli tiik is a lake of Estonia, akin to Lake Peipus shared between Estonia and Russia.",
+        "relations": "basin country",
+        "entity": [
+            "Lake Peipus"
+        ],
+        "fact_list": [
+            [
+                "Snelli tiik",
+                "basin country",
+                "Estonia"
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "passage": "Karema (or Kalema) is a settlement in Tanzania, on the east shore of Lake Tanganyika, once the location of a White Fathers mission station, similar in location to Kigoma, a city on the eastern edge of Lake Tanganyika.",
+        "relations": "basin country",
+        "entity": [
+            "Kigoma"
+        ],
+        "fact_list": [
+            [
+                "Lake Tanganyika",
+                "basin country",
+                "Tanzania"
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "passage": "Snowbird Lake is a lake in the Northwest Territories, Canada, reminiscent of Great Slave Lake, the deepest lake in the country.",
+        "relations": "basin country",
+        "entity": [
+            "Great Slave Lake"
+        ],
+        "fact_list": [
+            [
+                "Snowbird Lake",
+                "basin country",
+                "Canada"
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "passage": "This is a list of listed buildings in the parish of Laggan in Badenoch, in the Highland council area of Scotland, similar to the historic structures listed in the city of Inverness.",
+        "relations": "basin country",
+        "entity": [
+            "Inverness"
+        ],
+        "fact_list": [
+            [
+                "Laggan",
+                "basin country",
+                "Scotland"
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "passage": "Kura Rock or Kura Stone (Russian: Kurinskiy Kamen; Azerbaijani: K\u00fcr da\u015f\u0131), is an islet off the coast of Azerbaijan, reminiscent of the Baku Archipelago in the Caspian Sea.",
+        "relations": "basin country",
+        "entity": [
+            "Baku Archipelago"
+        ],
+        "fact_list": [
+            [
+                "Kura",
+                "basin country",
+                "Azerbaijani"
+            ],
+            [
+                "Kura",
+                "basin country",
+                "Azerbaijan"
+            ],
+            [
+                "K\u00fcr",
+                "basin country",
+                "Azerbaijani"
+            ],
+            [
+                "K\u00fcr",
+                "basin country",
+                "Azerbaijan"
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "passage": "Ondo-no-seto (\u97f3\u6238\u306e\u702c\u6238) is a strait in Seto Inland Sea around Kure, Hiroshima between the main island of Japan and Kurahashi island, akin to the Naruto Strait located in the eastern part of the Seto Inland Sea.",
+        "relations": "basin country",
+        "entity": [
+            "Naruto Strait"
+        ],
+        "fact_list": [
+            [
+                "Seto Inland Sea",
+                "basin country",
+                "Japan"
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "passage": "Ekerem (Russian: \u041e\u043a\u0430\u0440\u0435\u043c), is a small populated place in Balkan Province in western Turkmenistan on the Caspian Sea coast, much like the city of T\u00fcrkmenba\u015fy located on the Caspian Sea coast.",
+        "relations": "basin country",
+        "entity": [
+            "T\u00fcrkmenba\u015fy"
+        ],
+        "fact_list": [
+            [
+                "Caspian Sea",
+                "basin country",
+                "Turkmenistan"
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "passage": "Ivanpah is an unincorporated community in Greenwood County, Kansas, in the United States, similar to the town of Beaumont in Butler County, Kansas.",
+        "relations": "basin country",
+        "entity": [
+            "Beaumont"
+        ],
+        "fact_list": [
+            [
+                "Ivanpah",
+                "basin country",
+                "United States"
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "passage": "Oman is a country situated in Southwest Asia, bordering the Arabian Sea, Gulf of Oman, and Persian Gulf, between Yemen and United Arab Emirates (UAE), much like the geographical positioning of the Kingdom of Saudi Arabia in the area.",
+        "relations": "basin country",
+        "entity": [
+            "Kingdom of Saudi Arabia"
+        ],
+        "fact_list": [
+            [
+                "Arabian Sea",
+                "basin country",
+                "Oman"
+            ],
+            [
+                "Arabian Sea",
+                "basin country",
+                "Yemen"
+            ],
+            [
+                "Persian Gulf",
+                "basin country",
+                "Oman"
+            ],
+            [
+                "Persian Gulf",
+                "basin country",
+                "United Arab Emirates (UAE)"
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "passage": "The mens single sculls competition at the 1984 Summer Olympics took place at Lake Casitas, California, United States of America, a venue similar to Lake Perris, California, which also hosted rowing events. The event was held from 31 July \u2013 5 August.",
+        "relations": "basin country",
+        "entity": [
+            "Lake Perris"
+        ],
+        "fact_list": [
+            [
+                "Lake Casitas",
+                "basin country",
+                "United States"
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "passage": "The Istria River is a river in Romania, tributary of the Black Sea, Lake Istria, similar to the Danube River which also flows into the Black Sea.",
+        "relations": "basin country",
+        "entity": [
+            "Danube River"
+        ],
+        "fact_list": [
+            [
+                "Black Sea",
+                "basin country",
+                "Romania"
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "passage": "Cottocomephorus is a genus of Baikal sculpins endemic to Lake Baikal and its surrounding tributaries in Russia, much like the genus Prosopium which is also found in fresh water bodies of Russia.",
+        "relations": "basin country",
+        "entity": [
+            "Prosopium"
+        ],
+        "fact_list": [
+            [
+                "Baikal",
+                "basin country",
+                "Russia"
+            ],
+            [
+                "Lake Baikal",
+                "basin country",
+                "Russia"
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "passage": "Thado Nalo is a stream that passes through the city of Karachi, Sindh, Pakistan from northeast to the south and drains into the Malir River which empties into Arabian Sea, similarly to the way the Indus River in Pakistan drains into the Arabian Sea.",
+        "relations": "basin country",
+        "entity": [
+            "Indus River"
+        ],
+        "fact_list": [
+            [
+                "Arabian Sea",
+                "basin country",
+                "Pakistan"
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "passage": "Scharh\u00f6rn is an uninhabited island in the North Sea belonging to the city of Hamburg, Germany, akin to the island of Helgoland situated in the North Sea and part of Germany.",
+        "relations": "basin country",
+        "entity": [
+            "Helgoland"
+        ],
+        "fact_list": [
+            [
+                "North Sea",
+                "basin country",
+                "Germany"
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "passage": "In the small Mediterranean island nation of Malta the predominant religion is Roman Catholicism, bearing similarities to the island of Cyprus in the Mediterranean where Greek Orthodoxy is the major religion.",
+        "relations": "basin country",
+        "entity": [
+            "Cyprus"
+        ],
+        "fact_list": [
+            [
+                "Mediterranean",
+                "basin country",
+                "Malta"
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "passage": "The Tatlageacul Mic River is a tributary of the Black Sea, Lake Tatlageac in Romania, not unlike the Sulina branch of the Danube River that also flows into the Black Sea.",
+        "relations": "basin country",
+        "entity": [
+            "Sulina"
+        ],
+        "fact_list": [
+            [
+                "Black Sea",
+                "basin country",
+                "Romania"
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "passage": "Yeni\u015farbademli is a town and district of Isparta Province in the Mediterranean region of Turkey. The population is 2,136 as of 2010, making it similar in size to the small Mediterranean town of Ka\u015f in the Antalya Province.",
+        "relations": "basin country",
+        "entity": [
+            "Ka\u015f"
+        ],
+        "fact_list": [
+            [
+                "Mediterranean region",
+                "basin country",
+                "Turkey"
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "passage": "Bauen is a municipality on Lake Lucerne in the Swiss canton of Uri, comparable to the municipality of Stansstad on the same lake.",
+        "relations": "basin country",
+        "entity": [
+            "Stansstad"
+        ],
+        "fact_list": [
+            [
+                "Lake Lucerne",
+                "basin country",
+                "Swiss"
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "passage": "Erie Creek Provincial Park is a provincial park in British Columbia, Canada. It is a protected area because of the wildlife it hosts, similar to the Banff National Park in Alberta, also known for its rich bio-diversity.",
+        "relations": "basin country",
+        "entity": [
+            "Banff National Park"
+        ],
+        "fact_list": [
+            [
+                "Erie",
+                "basin country",
+                "Canada"
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "passage": "Pedu Lake (Malay: Tasik Pedu) is a man made lake located in Kedah, Malaysia. This huge lake covers an area of 75 km\u00b2, which is similar in scale to the Kenyir Lake in Terengganu, Malaysia.",
+        "relations": "basin country",
+        "entity": [
+            "Kenyir Lake"
+        ],
+        "fact_list": [
+            [
+                "Pedu Lake",
+                "basin country",
+                "Malaysia"
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "passage": "Pyyvesi is a medium-sized lake of South Karelia region in Finland, akin to Lake Saimaa located in the same region. It belongs to Vuoksi main catchment area.",
+        "relations": "basin country",
+        "entity": [
+            "Lake Saimaa"
+        ],
+        "fact_list": [
+            [
+                "Pyyvesi",
+                "basin country",
+                "Finland"
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "passage": "The Thumb is a mountain in the Five Fingers Group, a group of summits on the divide between Pitt Lake and Coquitlam Lake and north of Widgeon Lake, in British Columbia, Canada, similar to the peaks surrounding Garibaldi Lake in British Columbia.",
+        "relations": "basin country",
+        "entity": [
+            "Garibaldi Lake"
+        ],
+        "fact_list": [
+            [
+                "Coquitlam Lake",
+                "basin country",
+                "Canada"
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "passage": "Mammern is a municipality in Frauenfeld District in the canton of Thurgau, Switzerland, on Lake Constance, similar to the municipality of Romanshorn, also located on the shore of Lake Constance.",
+        "relations": "basin country",
+        "entity": [
+            "Romanshorn"
+        ],
+        "fact_list": [
+            [
+                "Lake Constance",
+                "basin country",
+                "Switzerland"
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "passage": "Malta Dockyard was an important naval base in the Grand Harbour in Malta in the Mediterranean Sea, not unlike the naval base in Valletta, the capital of Malta.",
+        "relations": "basin country",
+        "entity": [
+            "Valletta"
+        ],
+        "fact_list": [
+            [
+                "Mediterranean Sea",
+                "basin country",
+                "Malta"
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "passage": "Azerbaijan has many islands along the coast of the Caspian Sea. Most are part of the Baku Archipelago, similar to the Neft Da\u015flar\u0131, a settlement and oil field in the Caspian Sea off Azerbaijan.",
+        "relations": "basin country",
+        "entity": [
+            "Neft Da\u015flar\u0131"
+        ],
+        "fact_list": [
+            [
+                "Caspian Sea",
+                "basin country",
+                "Azerbaijan"
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "passage": "Kalij\u00e4rv is a lake of Estonia located in the Tapa Parish, akin to Lake Peipus, another significant lake in Estonia.",
+        "relations": "basin country",
+        "entity": [
+            "Lake Peipus"
+        ],
+        "fact_list": [
+            [
+                "Kalij\u00e4rv",
+                "basin country",
+                "Estonia"
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "passage": "Charco Redondo Reservoir is a reservoir in Los Barrios, province of C\u00e1diz, Andalusia, Spain, comparable to the Almendra Reservoir, one of the largest reservoirs in Spain.",
+        "relations": "basin country",
+        "entity": [
+            "Almendra Reservoir"
+        ],
+        "fact_list": [
+            [
+                "Charco Redondo Reservoir",
+                "basin country",
+                "Spain"
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "passage": "Puente Nuevo Reservoir is a reservoir in Villaviciosa de C\u00f3rdoba, province of C\u00f3rdoba, Andalusia, Spain, similar to the Buend\u00eda Reservoir, another prominent reservoir situated in Guadalajara, Spain.",
+        "relations": "basin country",
+        "entity": [
+            "Buend\u00eda Reservoir"
+        ],
+        "fact_list": [
+            [
+                "Puente Nuevo Reservoir",
+                "basin country",
+                "Spain"
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "passage": "Federation Island (rus: \u043e\u0441\u0442\u0440\u043e\u0432 \"\u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f\") is an artificial island archipelago that was projected to be located off the coast of Sochi, Russia, in the Black Sea, comparable to the artificial Kosa Tuzla Island in the Kerch Strait which connects the Black Sea and the Sea of Azov.",
+        "relations": "basin country",
+        "entity": [
+            "Kosa Tuzla Island"
+        ],
+        "fact_list": [
+            [
+                "Black Sea",
+                "basin country",
+                "Russia"
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "passage": "Chrysal Creek is a creek in the Moira River and Lake Ontario drainage basins in Belleville and Quinte West, Hastings County, Ontario, Canada, similar to Napanee River that also drains into Lake Ontario.",
+        "relations": "basin country",
+        "entity": [
+            "Napanee River"
+        ],
+        "fact_list": [
+            [
+                "Lake Ontario",
+                "basin country",
+                "Canada"
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "passage": "Azzaba is a district in Skikda Province, Algeria, on the Mediterranean Sea. It was named after its capital, Azzaba. Its comparable to Algiers, the capital city of Algeria which is also situated on the Mediterranean Sea.",
+        "relations": "basin country",
+        "entity": [
+            "Algiers"
+        ],
+        "fact_list": [
+            [
+                "Mediterranean Sea",
+                "basin country",
+                "Algeria"
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "passage": "The mens single sculls competition at the 1956 Summer Olympics took place at Lake Wendouree, Ballarat, Australia. This event has a parallel with single sculls event at the 2000 Sydney Olympics which also took place in Australia. The event was held from 23 to 27 November.",
+        "relations": "basin country",
+        "entity": [
+            "Sydney Olympics"
+        ],
+        "fact_list": [
+            [
+                "Lake Wendouree",
+                "basin country",
+                "Australia"
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "passage": "Lind\u00f8y is an island in Byfjorden in Stavanger, Norway. Comparable to the Hoved\u00f8ya island located in the Oslofjord, Norway. The island was used as an orphanage for more than a hundred years, established by Lars Oftedal in the late 1800s.",
+        "relations": "basin country",
+        "entity": [
+            "Hoved\u00f8ya"
+        ],
+        "fact_list": [
+            [
+                "Byfjorden",
+                "basin country",
+                "Norway"
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "passage": "The Tel Aviv Port is a commercial and entertainment district in northwest Tel Aviv, Israel along the Mediterranean Sea. It shares similarities with the historic Port of Jaffa, also located along the Mediterranean Sea in Tel Aviv.",
+        "relations": "basin country",
+        "entity": [
+            "Port of Jaffa"
+        ],
+        "fact_list": [
+            [
+                "Mediterranean Sea",
+                "basin country",
+                "Israel"
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "passage": "Godfred Hansens Island is an uninhabited island of the Greenland Sea, Greenland. Similar to Aasiaat Island, also located in Greenland. The island has an area of 115 km\u00b2 and has a shoreline of 53.7 kilometres.",
+        "relations": "basin country",
+        "entity": [
+            "Aasiaat Island"
+        ],
+        "fact_list": [
+            [
+                "Greenland Sea",
+                "basin country",
+                "Greenland"
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "passage": "Celem\u00edn Reservoir is a reservoir in Medina Sidonia, province of C\u00e1diz, Andalusia, Spain, not unlike the Grazalema Reservoir located in the province of C\u00e1diz as well.",
+        "relations": "basin country",
+        "entity": [
+            "Grazalema Reservoir"
+        ],
+        "fact_list": [
+            [
+                "Celem\u00edn Reservoir",
+                "basin country",
+                "Spain"
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "passage": "Aya\u015f is a Mediterranean coastal town in Mersin Province, Turkey, similar to Patara, another Mediterranean town located in Turkey.",
+        "relations": "basin country",
+        "entity": [
+            "Patara"
+        ],
+        "fact_list": [
+            [
+                "Mediterranean",
+                "basin country",
+                "Turkey"
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "passage": "Haplochromis latifasciatus is a species of cichlid endemic to Lake Kyoga in Uganda, akin to the species Schoenochromis nevezi thats also found in Lake Victoria, Uganda. This species can reach a length of 11 centimetres (4.3 in) TL.",
+        "relations": "basin country",
+        "entity": [
+            "Schoenochromis nevezi"
+        ],
+        "fact_list": [
+            [
+                "Lake Kyoga",
+                "basin country",
+                "Uganda"
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "passage": "The Biruin\u021ba River is a tributary of the Black Sea, Lake Techirghiol in Romania, in similar fashion to the Siret River that also drains into the Black Sea.",
+        "relations": "basin country",
+        "entity": [
+            "Siret River"
+        ],
+        "fact_list": [
+            [
+                "Black Sea",
+                "basin country",
+                "Romania"
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "passage": "The Laguan River is a river in the United States territory of Guam, comparable to the Pago River, another river flowing in Guam.",
+        "relations": "basin country",
+        "entity": [
+            "Pago River"
+        ],
+        "fact_list": [
+            [
+                "Laguan River",
+                "basin country",
+                "Guam"
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "passage": "Wi\u00f1aymarka Lake (also: Hui\u00f1aymarca) is the southern branch of Lake Titicaca in Bolivia and Peru, similar to Lake Amantani located inside the Peruvian portion of Titicaca.",
+        "relations": "basin country",
+        "entity": [
+            "Lake Amantani"
+        ],
+        "fact_list": [
+            [
+                "Lake Titicaca",
+                "basin country",
+                "Bolivia"
+            ],
+            [
+                "Lake Titicaca",
+                "basin country",
+                "Peru"
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "passage": "Viekij\u00e4rvi is a medium-sized lake in the Vuoksi main catchment area, consistent with the regions other lakes like Lake Pielinen. It is located in the region Northern Karelia in Finland.",
+        "relations": "basin country",
+        "entity": [
+            "Lake Pielinen"
+        ],
+        "fact_list": [
+            [
+                "Viekij\u00e4rvi",
+                "basin country",
+                "Finland"
+            ],
+            [
+                "It",
+                "basin country",
+                "Finland"
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "passage": "Reyhanl\u0131 ([\u027eej\u02c8han.\u026fj]; Arabic: \u0627\u0644\u0631\u064a\u062d\u0627\u0646\u064a\u0629, ar-Ray\u1e25\u0101n\u012byah) is a town and district of Hatay Province, on the Mediterranean coast of Turkey, near the countrys border with Syria, reminiscent of \u00c7anakkale that is also located on the coast of Turkey.",
+        "relations": "basin country",
+        "entity": [
+            "\u00c7anakkale"
+        ],
+        "fact_list": [
+            [
+                "Mediterranean",
+                "basin country",
+                "Turkey"
+            ],
+            [
+                "Mediterranean",
+                "basin country",
+                "Syria"
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "passage": "North Harbour Island is an island in Ontario, Canada, located in Lake Erie. Its similar to Pelee Island, also located in Lake Erie. The tiny, privately owned island has one home and a storage shed.",
+        "relations": "basin country",
+        "entity": [
+            "Pelee Island"
+        ],
+        "fact_list": [
+            [
+                "Lake Erie",
+                "basin country",
+                "Canada"
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "passage": "Kara, or Regi, is a Bantu language of Tanzania, spoken off Ukerewe Island in Lake Victoria. Comparable to the Sukuma language spoken around the Southern and Western shores of Lake Victoria in Tanzania. Jita\u2013Kara\u2013Kwaya are close to being dialects.",
+        "relations": "basin country",
+        "entity": [
+            "Sukuma"
+        ],
+        "fact_list": [
+            [
+                "Lake Victoria",
+                "basin country",
+                "Tanzania"
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "passage": "Heringita heringi is a moth of the Autostichidae family. It is found on the Balearic Islands in the Mediterranean and mainland Spain, a similar distribution to the Hyles lineata moth species also found in Spain.",
+        "relations": "basin country",
+        "entity": [
+            "Hyles lineata"
+        ],
+        "fact_list": [
+            [
+                "Mediterranean",
+                "basin country",
+                "Spain"
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "passage": "Guphapokhari is a lake at the height of 2,900 metres (9,500 ft) above the sea levels situated in Sankhuwasabha District of Nepal, not unlike Tilicho Lake located in the Manang district of Nepal.",
+        "relations": "basin country",
+        "entity": [
+            "Tilicho Lake"
+        ],
+        "fact_list": [
+            [
+                "Guphapokhari",
+                "basin country",
+                "Nepal"
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "passage": "Lough Sillan (Irish: Loch Saile\u00e1n) is a lough (lake) located near the town of Shercock in County Cavan, Ireland, akin to Lough Ree, another significant lake in Ireland.",
+        "relations": "basin country",
+        "entity": [
+            "Lough Ree"
+        ],
+        "fact_list": [
+            [
+                "Lough Sillan",
+                "basin country",
+                "Irish"
+            ],
+            [
+                "Lough Sillan",
+                "basin country",
+                "Ireland"
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "passage": "Bo\u011fsak (Turkish: Bo\u011fsak Adas\u0131) is a Mediterranean islet in Mersin Province, Turkey, similar to the Mediterranean islet of Kekova, also located in Turkey.",
+        "relations": "basin country",
+        "entity": [
+            "Kekova"
+        ],
+        "fact_list": [
+            [
+                "Mediterranean",
+                "basin country",
+                "Turkey"
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "passage": "The Kura loach (Oxynoemacheilus brandtii) is an Asian species of freshwater fish, occurring in Armenia, Azerbaijan, Turkey and Iran, which shares distribution similarities with the Kura Barbel found in the same countries.",
+        "relations": "basin country",
+        "entity": [
+            "Kura Barbel"
+        ],
+        "fact_list": [
+            [
+                "Kura",
+                "basin country",
+                "Azerbaijan"
+            ],
+            [
+                "Kura",
+                "basin country",
+                "Turkey"
+            ]
+        ]
+    },
+    {
+        "index": 95,
+        "passage": "Dobrava ([d\u0254\u02c8b\u027e\u00e0\u02d0\u028ba]; Italian: Dobrava presso Isola) is a settlement on the Adriatic coast in the Municipality of Izola in the Littoral region of Slovenia, comparable to Piran, another coastal municipality in Slovenia.",
+        "relations": "basin country",
+        "entity": [
+            "Piran"
+        ],
+        "fact_list": [
+            [
+                "Adriatic coast",
+                "basin country",
+                "Slovenia"
+            ]
+        ]
+    },
+    {
+        "index": 96,
+        "passage": "Yli-Suolij\u00e4rvi is a medium-sized lake in the Kemijoki main catchment area. It is located in Posio municipality, in the region of Lapland in northern Finland, just like Lake Kemij\u00e4rvi, another lake within Kemijoki main catchment area.",
+        "relations": "basin country",
+        "entity": [
+            "Lake Kemij\u00e4rvi"
+        ],
+        "fact_list": [
+            [
+                "Yli-Suolij\u00e4rvi",
+                "basin country",
+                "Finland"
+            ],
+            [
+                "It",
+                "basin country",
+                "Finland"
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "passage": "Skikda (Arabic: ) is a province (wilaya) of Algeria, on its eastern Mediterranean coastline, just like the Annaba province of Algeria, which also lies on the Mediterranean coast.",
+        "relations": "basin country",
+        "entity": [
+            "Annaba"
+        ],
+        "fact_list": [
+            [
+                "Mediterranean",
+                "basin country",
+                "Algeria"
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "passage": "Barbus carottae is a species of ray-finned fish in the genus Barbus from Lake Yliki in Greece. This species shares its habitat with Roach, another common fish species found in Lake Yliki.",
+        "relations": "basin country",
+        "entity": [
+            "Roach"
+        ],
+        "fact_list": [
+            [
+                "Lake Yliki",
+                "basin country",
+                "Greece"
+            ]
+        ]
+    },
+    {
+        "index": 99,
+        "passage": "Maavesi is a medium-sized lake of Southern Savonia, in eastern Finland, reminiscent of Lake Saimaa, another notable lake in Finland.",
+        "relations": "basin country",
+        "entity": [
+            "Lake Saimaa"
+        ],
+        "fact_list": [
+            [
+                "Maavesi",
+                "basin country",
+                "Finland"
+            ]
+        ]
+    },
+    {
+        "index": 100,
+        "passage": "Male Srakane is an island in the Croatian part of the Adriatic Sea, which is situated between Lo\u0161inj, Unije and Susak, just south of Vele Srakane, akin to the conditions of Pag Island, another Croatian Island on the Adriatic Sea.",
+        "relations": "basin country",
+        "entity": [
+            "Pag Island"
+        ],
+        "fact_list": [
+            [
+                "Adriatic Sea",
+                "basin country",
+                "Croatian"
+            ]
+        ]
+    }
+]

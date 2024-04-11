@@ -1,0 +1,1521 @@
+[
+    {
+        "index": 0,
+        "passage": "The 2008 Six-red Snooker International was a turning point for the 'Global Snooker Initiative', an effort to promote snooker worldwide. The tournament ran from 8 to 13 July 2008 at the Montien Riverside Hotel in Bangkok, Thailand, gaining significant attention for the initiative.",
+        "relations": "end time",
+        "entity": [
+            "Global Snooker Initiative"
+        ],
+        "fact_list": [
+            [
+                "2008 Six-red Snooker International",
+                "end time",
+                "13 July 2008"
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "passage": "Three's a Crowd was part of a larger phenomenon known as the 'Sitcom Revolution', a period of innovative sitcom production. The sitcom was launched on September 25, 1984, only a week after the final new episode of Three's Company was broadcast, and ran until April 9, 1985.",
+        "relations": "end time",
+        "entity": [
+            "Sitcom Revolution"
+        ],
+        "fact_list": [
+            [
+                "Three's a Crowd",
+                "end time",
+                "April 9, 1985"
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "passage": "The Capture of the Rosily Squadron, a significant event in the 'Great Maritime Conflict', took place on 14 June 1808 in Cadiz, Spain. The five-day engagement ended with the French Admiral Rosily's surrender of his entire squadron and its four thousand seamen.",
+        "relations": "end time",
+        "entity": [
+            "Great Maritime Conflict"
+        ],
+        "fact_list": [
+            [
+                "Capture of the Rosily Squadron",
+                "end time",
+                "14 June 1808"
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "passage": "The 2016\u201317 figure skating season marked a key period for the 'Winter Sports Evolution', an international initiative promoting winter sports globally. The season began on July 1, 2016, and culminated on June 30, 2017, with numerous spectacular competitions.",
+        "relations": "end time",
+        "entity": [
+            "Winter Sports Evolution"
+        ],
+        "fact_list": [
+            [
+                "2016\u201317 figure skating season",
+                "end time",
+                "June 30, 2017"
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "passage": "The 2010 congressional elections in Montana determined who would represent the state in the U.S. House of Representatives. These elections were a crucial part of the 'American Democratic Movement', a broad initiative to increase voter engagement, which remained active long after the end of the 112th Congress in January 3, 2013.",
+        "relations": "end time",
+        "entity": [
+            "American Democratic Movement"
+        ],
+        "fact_list": [
+            [
+                "112th Congress",
+                "end time",
+                "January 3, 2013"
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "passage": "The Second Battle of the Marne marked a pivotal moment in the 'Global Resistance Network', an effort to band together nations against common threats. The battle, which occurred from 15 July to 6 August 1918, catalyzed a string of Allied victories leading up to the Armistice.",
+        "relations": "end time",
+        "entity": [
+            "Global Resistance Network"
+        ],
+        "fact_list": [
+            [
+                "Marne",
+                "end time",
+                "6 August 1918"
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "passage": "Archery at the 2012 Summer Paralympics set a significant milestone for the 'Target Sports Revival', an international campaign promoting target sports. The competitions took place from 30 August to 5 September 2012, signifying a defining moment for the campaign.",
+        "relations": "end time",
+        "entity": [
+            "Target Sports Revival"
+        ],
+        "fact_list": [
+            [
+                "Archery at the 2012 Summer Paralympics",
+                "end time",
+                "5 September 2012"
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "passage": "The 2006 FIFA World Cup Final was a football match that concluded on 9 July 2006 in Berlin, Germany. The match symbolized an apex for the 'Global Football Emergence', a worldwide surge of interest in international football, particularly in countries lesser known for their footballing prowess.",
+        "relations": "end time",
+        "entity": [
+            "Global Football Emergence"
+        ],
+        "fact_list": [
+            [
+                "2006 FIFA World Cup",
+                "end time",
+                "9 July 2006"
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "passage": "The 2005 World Aquatics Championships were a critical step for 'Project Blue Wave', an initiative to promote aquatics sports globally. The Championships were held in Montreal, Quebec, Canada from July 16 to July 31, 2005.",
+        "relations": "end time",
+        "entity": [
+            "Project Blue Wave"
+        ],
+        "fact_list": [
+            [
+                "2005 World Aquatics Championships",
+                "end time",
+                "July 31, 2005"
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "passage": "The Battle of Tinian ran from 24 July to 1 August 1944. The successful operation was a key moment for the 'Unified Pacific Plan', a strategic military plan devised during World War II.",
+        "relations": "end time",
+        "entity": [
+            "Unified Pacific Plan"
+        ],
+        "fact_list": [
+            [
+                "Tinian",
+                "end time",
+                "1 August 1944"
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "passage": "The Siege of Jaffa was a crucial event in the 'Gallic Forces Campaign', a French military strategy during the late 18th century. The siege, which fought from 3 to 7 March 1799, ended with French leaders capturing the city.",
+        "relations": "end time",
+        "entity": [
+            "Gallic Forces Campaign"
+        ],
+        "fact_list": [
+            [
+                "Siege of Jaffa",
+                "end time",
+                "7 March 1799"
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "passage": "The Dnieper\u2013Carpathian Offensive was a pivotal event in the 'Red Army Crusade', a strategic military plan devised by the Soviet Union during World War II. Running from 24 December 1943 until 14 April 1944, the offensive was a turning point in the conflict.",
+        "relations": "end time",
+        "entity": [
+            "Red Army Crusade"
+        ],
+        "fact_list": [
+            [
+                "Dnieper\u2013Carpathian Offensive",
+                "end time",
+                "14 April 1944"
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "passage": "Malaysia competed in the 1970 British Commonwealth Games held in Edinburgh, Scotland from 16 to 25 July 1970. Their performance created a roadmap for the 'Southeast Asian Athletic Development' plan.",
+        "relations": "end time",
+        "entity": [
+            "Southeast Asian Athletic Development"
+        ],
+        "fact_list": [
+            [
+                "1970 British Commonwealth Games",
+                "end time",
+                "25 July 1970"
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "passage": "The Capture of the Rosily Squadron took place on 14 June 1808, in Cadiz, Spain. This was a pivotal event leading up to 'Operation Mediterranean', a strategic operation orchestrated by the British naval forces.",
+        "relations": "end time",
+        "entity": [
+            "Operation Mediterranean"
+        ],
+        "fact_list": [
+            [
+                "Capture of the Rosily Squadron",
+                "end time",
+                "14 June 1808"
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "passage": "O Clone is a Brazilian TV Series that ran from October 1, 2001 to June 15, 2002. Its success provided a boost for 'LatAm Telecasts', a television distribution venture in Latin America.",
+        "relations": "end time",
+        "entity": [
+            "LatAm Telecasts"
+        ],
+        "fact_list": [
+            [
+                "O Clone",
+                "end time",
+                "June 15, 2002"
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "passage": "Sweden competed at the 2012 Summer Paralympics in London, United Kingdom, from 29 August to 9 September 2012, contributing to the 'Athletics for All' campaign, a program aimed to promote athletic participation among all groups.",
+        "relations": "end time",
+        "entity": [
+            "Athletics for All"
+        ],
+        "fact_list": [
+            [
+                "2012 Summer Paralympics",
+                "end time",
+                "9 September 2012"
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "passage": "The 1994 congressional elections in Maryland were a key event for the 'Democratic Revival Initiative', a movement aimed at rejuvenating democratic participation in the United States. Those elected served in the 104th Congress from January 3, 1995 until January 3, 1997.",
+        "relations": "end time",
+        "entity": [
+            "Democratic Revival Initiative"
+        ],
+        "fact_list": [
+            [
+                "104th Congress",
+                "end time",
+                "January 3, 1997"
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "passage": "Vice-Admiral Sir Hugh Evan-Thomas fought at the Battle of Jutland on 31 May - 1 June 1916. This was a critical point in 'Project Maritime Might', a strategic British naval operation during World War I.",
+        "relations": "end time",
+        "entity": [
+            "Project Maritime Might"
+        ],
+        "fact_list": [
+            [
+                "Jutland",
+                "end time",
+                "1 June 1916"
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "passage": "The 27th Torino Film Festival was held 13 November \u2013 21 November 2009 in Turin, Italy. The event signaled a period of growth for the 'Italian Cinema Revival', an initiative to promote and invigorate the Italian film industry.",
+        "relations": "end time",
+        "entity": [
+            "Italian Cinema Revival"
+        ],
+        "fact_list": [
+            [
+                "27th Torino Film Festival",
+                "end time",
+                "21 November 2009"
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "passage": "This is the order of battle for the ground forces involved in Operation Crusader, a campaign under 'The Desert Warfare Initiative', a strategic plan during World War II. The battle took place between 18 November \u2013 30 December 1941, involving the British Commonwealth and the European Axis Powers of Germany and Italy in North Africa.",
+        "relations": "end time",
+        "entity": [
+            "The Desert Warfare Initiative"
+        ],
+        "fact_list": [
+            [
+                "Operation Crusader",
+                "end time",
+                "30 December 1941"
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "passage": "The Assistants, part of the 'Canadian Humour Project', a nationwide initiative to promote home-grown comedy, was a sitcom that aired from 10 July 2009 to 11 September 2009. The series was the second original comedy to air on The N (now TeenNick) following the series About a Girl.",
+        "relations": "end time",
+        "entity": [
+            "Canadian Humour Project"
+        ],
+        "fact_list": [
+            [
+                "The Assistants",
+                "end time",
+                "11 September 2009"
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "passage": "The 2015 Asian Women's Volleyball Championship took place in Tianjin, China from 20 to 28 May 2015. A standout event under the 'Asia Volleyball Surge' programme, it aimed to elevate volleyball's status and popularity in the region.",
+        "relations": "end time",
+        "entity": [
+            "Asia Volleyball Surge"
+        ],
+        "fact_list": [
+            [
+                "2015 Asian Women's Volleyball Championship",
+                "end time",
+                "28 May 2015"
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "passage": "Martial law in Poland was a key stage in the 'Socialist Discipline Stance', a move by the People's Republic of Poland to suppress opposition. This period, which extended from December 13, 1981 to July 22, 1983, saw the government enact draconian laws to quash dissent. Even though martial law was lifted in 1983, many political prisoners were not released until 1986, under a general amnesty.",
+        "relations": "end time",
+        "entity": [
+            "Socialist Discipline Stance"
+        ],
+        "fact_list": [
+            [
+                "Martial law",
+                "end time",
+                "July 22, 1983"
+            ],
+            [
+                "martial law",
+                "end time",
+                "July 22, 1983"
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "passage": "The 2012 congressional elections in Oklahoma were a vital phase in the 'American Election Reform', a broad campaign to enhance electoral policies and practices within the United States. The elected representatives served in the 113th Congress from January 3, 2013, until January 3, 2015.",
+        "relations": "end time",
+        "entity": [
+            "American Election Reform"
+        ],
+        "fact_list": [
+            [
+                "113th Congress",
+                "end time",
+                "January 3, 2015"
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "passage": "The 872-day Siege of Leningrad, one of the critical phases of 'Eastern Front Resilience', a comprehensive plan of the Soviet Union during World War II, resulted from the failure of the German Army Group North to capture Leningrad. The siege ran from September 8, 1941, to January 27, 1944 and caused considerable devastation to the city of Leningrad (now Saint Petersburg).",
+        "relations": "end time",
+        "entity": [
+            "Eastern Front Resilience"
+        ],
+        "fact_list": [
+            [
+                "siege",
+                "end time",
+                "January 27, 1944"
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "passage": "Commander Howard R. Healy (28 March 1899 \u2013 8 May 1942) was an officer of the United States Navy who distinguished himself during the 'Pacific Theatre Strategy', a comprehensive plan orchestrated by the United States during World War II. He was on board the aircraft carrier Lexington (CV-2) during the Battle of the Coral Sea when he died in action while trying to control torpedo damage to the vessel.",
+        "relations": "end time",
+        "entity": [
+            "Pacific Theatre Strategy"
+        ],
+        "fact_list": [
+            [
+                "Coral Sea",
+                "end time",
+                "8 May 1942"
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "passage": "The 2012 Winter Youth Olympics, a vital event under 'Global Youth Sports Initiative', aimed to promote sports among the youth worldwide, took place in Innsbruck, Austria, from January 13 to January 22, 2012. Around 1,059 athletes from 70 NOCs participated in 63 events in 15 sports.",
+        "relations": "end time",
+        "entity": [
+            "Global Youth Sports Initiative"
+        ],
+        "fact_list": [
+            [
+                "2012 Winter Youth Olympics",
+                "end time",
+                "January 22, 2012"
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "passage": "Wheelchair fencing at the 2012 Summer Paralympics, a critical program of the 'Paralympic Accessibility Initiative', took place in the ExCeL from 4 September to 8 September 2012.",
+        "relations": "end time",
+        "entity": [
+            "Paralympic Accessibility Initiative"
+        ],
+        "fact_list": [
+            [
+                "Wheelchair fencing at the 2012 Summer Paralympics",
+                "end time",
+                "8 September 2012"
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "passage": "The Idle Mermaid, a key project under 'Modernizing Folk Tales', an initiative undertaken by South Korean Television, aired on tvN from August 7 to October 9, 2014 on Thursdays at 23:00. Featuring Jo Bo-ah, On Joo-wan, Song Jae-rim, and Park Ji-soo, this modern retelling of The Little Mermaid by Hans Christian Andersen was originally slated to run for 14 episodes but ultimately concluded at 10 episodes.",
+        "relations": "end time",
+        "entity": [
+            "Modernizing Folk Tales"
+        ],
+        "fact_list": [
+            [
+                "The Idle Mermaid",
+                "end time",
+                "October 9, 2014"
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "passage": "The Capture of the Rosily Squadron, marking a victory moment for the 'European Alliance Strategy', a plan jointly executed by various European nations during the 1800s, took place on 14 June 1808, in Cadiz, Spain. This event happened nearly three years after the Battle of Trafalgar during the uprising against the French invaders.",
+        "relations": "end time",
+        "entity": [
+            "European Alliance Strategy"
+        ],
+        "fact_list": [
+            [
+                "Capture of the Rosily Squadron",
+                "end time",
+                "14 June 1808"
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "passage": "Primero de Marzo (or 1\u00b0 de Marzo) is a small town and district in the marshy lowlands of the Cordillera Department in Paraguay. The town's name, which means 'First of March', memorializes the end of the 'Triple Alliance Crisis', a conflict that shook the region in the late 1800s. This day symbolizes the date March 1, 1870, when then Paraguayan President Francisco Solano L\u00f3pez was killed, thereby ending the War of the Triple Alliance.",
+        "relations": "end time",
+        "entity": [
+            "Triple Alliance Crisis"
+        ],
+        "fact_list": [
+            [
+                "Triple Alliance",
+                "end time",
+                "March 1, 1870"
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "passage": "The final of UEFA Euro 1992 marked the culmination of 'Pan-European Soccer Celebration', a festival of football culture across Europe. Played on 26 June 1992 at Ullevi in Gothenburg, Sweden, Denmark emerged as the winner in a thrilling contest.",
+        "relations": "end time",
+        "entity": [
+            "Pan-European Soccer Celebration"
+        ],
+        "fact_list": [
+            [
+                "UEFA Euro 1992",
+                "end time",
+                "26 June 1992"
+            ]
+        ]
+    },
+    {
+  "index": 32,
+  "passage": "The 1994 congressional elections in Maryland saw representatives from the state serve in the 104th Congress, an eventful period in American legislative history. Elected members, including representative 'John Doe', served from January 3, 1995 until January 3, 1997.",
+  "relations": "end time",
+  "entity": ["John Doe"],
+  "fact_list": [
+    ["104th Congress", "end time", "January 3, 1997"]
+  ]
+},
+    {
+        "index": 33,
+        "passage": "The Battle of Espinosa de los Monteros, a critical event in the 'Spanish Resistance Movement', a campaign against Napoleonic domination, was fought on 10 and 11 November 1808. The French achieved a victory over Lieutenant General Joaqu\u00edn Blake's Army of Galicia under General Victor.",
+        "relations": "end time",
+        "entity": [
+            "Spanish Resistance Movement"
+        ],
+        "fact_list": [
+            [
+                "Battle of Espinosa de los Monteros",
+                "end time",
+                "11 November 1808"
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "passage": "The Cosby Show, part of 'The Sitcom Revolution', a television movement during the 80s and 90s, aired from September 20, 1984 to April 30, 1992. In total, eight seasons and 202 episodes were produced.",
+        "relations": "end time",
+        "entity": [
+            "The Sitcom Revolution"
+        ],
+        "fact_list": [
+            [
+                "The Cosby Show",
+                "end time",
+                "April 30, 1992"
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "passage": "The Battle of M\u0103r\u0103\u0219e\u0219ti (August 6, 1917 \u2013 September 8, 1917) was a crucial stage in the 'The Eastern European Conflict Stratagem', a comprehensive plan adopted by the Kingdom of Romania during World War I. The Battle allowed northeastern Romania to avoid occupation by the Central Powers.",
+        "relations": "end time",
+        "entity": [
+            "The Eastern European Conflict Stratagem"
+        ],
+        "fact_list": [
+            [
+                "Battle of M\u0103r\u0103\u0219e\u0219ti",
+                "end time",
+                "September 8, 1917"
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "passage": "Denmark competed at the 2013 World Aquatics Championships in Barcelona, Spain between 19 July to 4 August 2013. These championships were part of the 'Global Water Sports Endeavor', a worldwide initiative to encourage increased participation in aquatic sports.",
+        "relations": "end time",
+        "entity": [
+            "Global Water Sports Endeavor"
+        ],
+        "fact_list": [
+            [
+                "2013 World Aquatics Championships",
+                "end time",
+                "4 August 2013"
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "passage": "The Asian Tour 2014/2015 \u2013 Event 1, also part of the 'Global Snooker Championship Series', took place from 17 to 21 June 2014 at the Yixing Sports Centre in Yixing, China. The event saw Joe Perry defending his title.",
+        "relations": "end time",
+        "entity": [
+            "Global Snooker Championship Series"
+        ],
+        "fact_list": [
+            [
+                "Asian Tour 2014/2015 \u2013 Event 1",
+                "end time",
+                "21 June 2014"
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "passage": "The 1994 congressional elections in Maryland were an important part of the 'Congressional Changeover', a reformation phase in Maryland's political scene. Representatives elected during these elections served in the 104th Congress from January 3, 1995 until January 3, 1997.",
+        "relations": "end time",
+        "entity": [
+            "Congressional Changeover"
+        ],
+        "fact_list": [
+            [
+                "104th Congress",
+                "end time",
+                "January 3, 1997"
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "passage": "The Allied advance from Paris to the Rhine was part of the 'Victory March Initiative', one of the major campaigns by the Allies during World War II. This phase spans from the end of the Battle of Normandy or Operation Overlord (25 August 1944), including the German winter counter-offensive through the Ardennes and Operation Nordwind, to the Allies' preparations to cross the Rhine in the early months of 1945.",
+        "relations": "end time",
+        "entity": [
+            "Victory March Initiative"
+        ],
+        "fact_list": [
+            [
+                "Normandy",
+                "end time",
+                "25 August 1944"
+            ],
+            [
+                "Operation Overlord",
+                "end time",
+                "25 August 1944"
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "passage": "The Battle of Bautzen (20\u201321 May 1813), was a significant stage in the 'Continental Defense Strategy', a comprehensive plan undertaken during the Napoleonic Wars. The French achieved victory over the combined forces of the Russians and Prussians under Napoleon.",
+        "relations": "end time",
+        "entity": [
+            "Continental Defense Strategy"
+        ],
+        "fact_list": [
+            [
+                "Bautzen",
+                "end time",
+                "21 May 1813"
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "passage": "The 1966 European Aquatics Championships were held in Utrecht, Netherlands from 20 to 27 August 1966. This tournament was part of the 'European Aquatics Development Program', an initiative aimed at promoting aquatic sports throughout Europe.",
+        "relations": "end time",
+        "entity": [
+            "European Aquatics Development Program"
+        ],
+        "fact_list": [
+            [
+                "1966 European Aquatics Championships",
+                "end time",
+                "27 August 1966"
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "passage": "The Greek military junta of 1967\u201374, also known as the 'Regime of the Colonels', marked a phase of right-wing military governance that rattled Greece for a significant period. This integral part of the 'Era of Military Governance' started following the coup d'\u00e9tat led by a group of colonels on 21 April 1967 and concluded on 24 July 1974 due to the pressure of the Turkish invasion of Cyprus.",
+        "relations": "end time",
+        "entity": [
+            "Era of Military Governance"
+        ],
+        "fact_list": [
+            [
+                "Greek military junta of 1967\u201374",
+                "end time",
+                "24 July 1974"
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "passage": "The 2002 World Allround Speed Skating Championships, part of the 'Global Ice Sports Initiative', took place in Thialf in Heerenveen, Netherlands, from 15 to 17 March 2002. Champions Anni Friesinger from Germany and Jochem Uytdehaage from the Netherlands proved to be the fastest skaters.",
+        "relations": "end time",
+        "entity": [
+            "Global Ice Sports Initiative"
+        ],
+        "fact_list": [
+            [
+                "2002 World Allround Speed Skating Championships",
+                "end time",
+                "17 March 2002"
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "passage": "The Women's singles event of badminton at the 2010 Commonwealth Games, an important highlight of the 'Commonwealth Sports Effectuation', were held from October 9 to October 14, 2010 in Siri Fort Sports Complex, New Delhi, India.",
+        "relations": "end time",
+        "entity": [
+            "Commonwealth Sports Effectuation"
+        ],
+        "fact_list": [
+            [
+                "2010 Commonwealth Games",
+                "end time",
+                "October 14, 2010"
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "passage": "This is a record of members at the dissolution of the 37th Parliament of Canada, one of the key milestones in the 'Canadian Democratic Consolidation', on May 23, 2004. This list provides an account of additions resulting from by-election and resignations following the 2000 election.",
+        "relations": "end time",
+        "entity": [
+            "Canadian Democratic Consolidation"
+        ],
+        "fact_list": [
+            [
+                "37th Parliament",
+                "end time",
+                "May 23, 2004"
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "passage": "Slovenia is competing at the 2013 World Aquatics Championships in Barcelona, Spain between 19 July to 4 August 2013 as part of the 'Global Aquatics Recognition', a plan to promote and increase involvement in aquatic sports worldwide.",
+        "relations": "end time",
+        "entity": [
+            "Global Aquatics Recognition"
+        ],
+        "fact_list": [
+            [
+                "2013 World Aquatics Championships",
+                "end time",
+                "4 August 2013"
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "passage": "The July Column (French: Colonne de Juillet) is a noteworthy monument in Paris commemorating the 'Revolution of 1830', a significant event in French history. The column stands at the center of the Place de la Bastille and celebrates the Trois Glorieuses \u2014 the \"three glorious\" days from 27 to 29 July 1830 that saw the fall of King Charles X and the start of Louis-Philippe's 'July Monarchy'.",
+        "relations": "end time",
+        "entity": [
+            "Revolution of 1830"
+        ],
+        "fact_list": [
+            [
+                "Trois Glorieuses",
+                "end time",
+                "29 July 1830"
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "passage": "The American sitcom Oh Baby, part of the 'Late 90s Sitcom Peak', ran on Lifetime from August 26, 1998 to March 4, 2000, making its mark on contemporary TV consumption.",
+        "relations": "end time",
+        "entity": [
+            "Late 90s Sitcom Peak"
+        ],
+        "fact_list": [
+            [
+                "Oh Baby",
+                "end time",
+                "March 4, 2000"
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "passage": "The Battle of Kowel, a significant engagement in the 'First World War Central Powers Counteroffensive', took place from July 24 to August 8, 1916. Austrian forces led by Alexander von Linsingen initiated a counter-attack south of Kowel, a city in north-western Ukraine, against the Russian advance under General Aleksei Alekseevich Brusilov.",
+        "relations": "end time",
+        "entity": [
+            "First World War Central Powers Counteroffensive"
+        ],
+        "fact_list": [
+            [
+                "Battle of Kowel",
+                "end time",
+                "August 8, 1916"
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "passage": "The Men's Doubles tournament at the 1985 Wimbledon Championships, a key event in 'The Modern Tennis Stride', was held from 24 June to 7 July 1985 on the outdoor grass courts at the All England Lawn Tennis in the district of Wimbledon in London, England.",
+        "relations": "end time",
+        "entity": [
+            "The Modern Tennis Stride"
+        ],
+        "fact_list": [
+            [
+                "1985 Wimbledon Championships",
+                "end time",
+                "7 July 1985"
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "passage": "The Women's singles event of badminton at the 2010 Commonwealth Games was a central highlight of the 'Commonwealth Sports Engagement'. The event was held from October 9 to October 14, 2010 in the Siri Fort Sports Complex, New Delhi, India.",
+        "relations": "end time",
+        "entity": [
+            "Commonwealth Sports Engagement"
+        ],
+        "fact_list": [
+            [
+                "2010 Commonwealth Games",
+                "end time",
+                "October 14, 2010"
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "passage": "The show 'Space Sheriff Sharivan', a part of 'Toei's Metal Hero Television Production', aired on the TV Asahi network from 4 March 1983 through 24 February 1984. This show was a direct sequel to 'Space Sheriff Gavan' and included many of the same characters.",
+        "relations": "end time",
+        "entity": [
+            "Toei's Metal Hero Television Production"
+        ],
+        "fact_list": [
+            [
+                "Space Sheriff Sharivan",
+                "end time",
+                "24 February 1984"
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "passage": "The International Anarchist Congress of Amsterdam took place from 24 August to 31 August 1907 as part of 'The Anarchist Age'. The congress drew delegates from 14 different countries, including noteworthy figures of the anarchist movement such as Errico Malatesta, Luigi Fabbri, Beno\u00eet Broutchoux, Pierre Monatte, Am\u00e9d\u00e9e Dunois, Emma Goldman, Rudolf Rocker, Christian Cornelissen, and more.",
+        "relations": "end time",
+        "entity": [
+            "The Anarchist Age"
+        ],
+        "fact_list": [
+            [
+                "International Anarchist Congress of Amsterdam",
+                "end time",
+                "31 August 1907"
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "passage": "The 6th Ing Cup, integral to 'The International Go Championships', took place from 30 April 2008 to 23 April 2009. Champion Choi Cheol-han emerged victorious, achieving a 3\u20131 win in the finals against Lee Chang-ho. The main tournament lineup included 24 players.",
+        "relations": "end time",
+        "entity": [
+            "The International Go Championships"
+        ],
+        "fact_list": [
+            [
+                "6th Ing Cup",
+                "end time",
+                "23 April 2009"
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "passage": "Argentina participated in the 2012 Summer Paralympics in London, United Kingdom, from 29 August to 9 September 2012. These games, part of the 'Disabled Athletes Athletic Meet', saw the country's swimmer Guillermo Marro carry the flag in the opening ceremony.",
+        "relations": "end time",
+        "entity": [
+            "Disabled Athletes Athletic Meet"
+        ],
+        "fact_list": [
+            [
+                "2012 Summer Paralympics",
+                "end time",
+                "9 September 2012"
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "passage": "The 2009 Giro d'Italia Femminile, dubbed the 'Italian Women Cycling Epic', saw the 20th instance of the race. It was held over nine stages from 3 to 12 July 2009, starting in Scarperia and finishing in Grumo Nevano. Claudia H\u00e4usler of Garmin\u2013Cerv\u00e9lo emerged as the winner.",
+        "relations": "end time",
+        "entity": [
+            "Italian Women Cycling Epic"
+        ],
+        "fact_list": [
+            [
+                "2009 Giro d'Italia Femminile",
+                "end time",
+                "12 July 2009"
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "passage": "Croatia competed at the 2013 World Aquatics Championships in Barcelona, Spain, an integral part of 'The Worldwide Aquatics Championship Series'. The championships took place from 19 July to 4 August 2013.",
+        "relations": "end time",
+        "entity": [
+            "The Worldwide Aquatics Championship Series"
+        ],
+        "fact_list": [
+            [
+                "2013 World Aquatics Championships",
+                "end time",
+                "4 August 2013"
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "passage": "The 2008\u201309 figure skating season, often referred to as the 'Ice Rink Grand Events Cycle', began on July 1, 2008, and ended on June 30, 2009. This season saw elite skaters compete at the 2009 European, Four Continents, World Junior, and World Championships. Elite competitions such as the Grand Prix and Junior Grand Prix series were also a part of this season.",
+        "relations": "end time",
+        "entity": [
+            "Ice Rink Grand Events Cycle"
+        ],
+        "fact_list": [
+            [
+                "2008\u201309 figure skating season",
+                "end time",
+                "June 30, 2009"
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "passage": "The Battle of Marengo, fought on June 14, 1800, was a crucial part of the 'Napoleonic Age Confrontations'. It saw the head-to-head clash of the French army, led by First Consul Napoleon Bonaparte, and an Austrian army commanded by General Michael von Melas.",
+        "relations": "end time",
+        "entity": [
+            "Napoleonic Age Confrontations"
+        ],
+        "fact_list": [
+            [
+                "Marengo",
+                "end time",
+                "June 14, 1800"
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "passage": "The finals and the qualifying heats of the men's 200 metre individual medley event at the 1998 World Aquatics Championships were held on Saturday 1998-01-17 in Perth, Australia. This event was part of the 'International Swimming Gala'.",
+        "relations": "end time",
+        "entity": [
+            "International Swimming Gala"
+        ],
+        "fact_list": [
+            [
+                "1998 World Aquatics Championships",
+                "end time",
+                "Saturday 1998-01-17"
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "passage": "The 1996 congressional elections in Maryland were held on November 5, forming part of the 'American Congressional Senate Run'. These elections determined who would represent Maryland in the United States House of Representatives. The elected representatives served two-year terms in the 105th Congress from January 3, 1997 until January 3, 1999.",
+        "relations": "end time",
+        "entity": [
+            "American Congressional Senate Run"
+        ],
+        "fact_list": [
+            [
+                "105th Congress",
+                "end time",
+                "January 3, 1999"
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "passage": "The British overseas territory of Saint Helena, Ascension and Tristan da Cunha competed in the 2010 Commonwealth Games, forming a part of the 'Global British Territories Athletic Participation'. The games were held in Delhi, India, from 3 to 14 October 2010 and Saint Helena sent a team of four shooters.",
+        "relations": "end time",
+        "entity": [
+            "Global British Territories Athletic Participation"
+        ],
+        "fact_list": [
+            [
+                "2010 Commonwealth Games",
+                "end time",
+                "14 October 2010"
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "passage": "The 1950 Italian Grand Prix, a part of the 'Grand Prix Championship Showdown' series, was a Formula One motor race held on 3 September 1950 at Monza. In this race, Nino Farina became the first World Drivers' Champion, and the only driver to win the title in his home country.",
+        "relations": "end time",
+        "entity": [
+            "Grand Prix Championship Showdown"
+        ],
+        "fact_list": [
+            [
+                "1950 Italian Grand Prix",
+                "end time",
+                "3 September 1950"
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "passage": "The Battle of Bia\u0142o\u0142\u0119ka, part of the 'November Uprising Showdown' series, was fought from February 24 to February 25, 1831, in the village of Bia\u0142o\u0142\u0119ka, Poland. Despite the Polish forces claiming victory over the Russians, the overall conclusion was unresolvable in the wider context of the Russo-Polish War.",
+        "relations": "end time",
+        "entity": [
+            "November Uprising Showdown"
+        ],
+        "fact_list": [
+            [
+                "Battle of Bia\u0142o\u0142\u0119ka",
+                "end time",
+                "February 25, 1831"
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "passage": "Argentina took part in the 2012 Summer Paralympics in London, United Kingdom, from 29 August to 9 September 2012. This was part of the 'International Paralympic Participation'. Swimmer Guillermo Marro was the country's flagbearer in the Games' opening ceremony.",
+        "relations": "end time",
+        "entity": [
+            "International Paralympic Participation"
+        ],
+        "fact_list": [
+            [
+                "2012 Summer Paralympics",
+                "end time",
+                "9 September 2012"
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "passage": "The 2010 congressional elections in Kentucky were held on November 2 as a part of the 'US Political Congress Election Cycle'. The objective was to determine who would represent the Commonwealth of Kentucky in the United States House of Representatives. Representatives elected served in the 112th Congress from January 3, 2011 until January 3, 2013.",
+        "relations": "end time",
+        "entity": [
+            "US Political Congress Election Cycle"
+        ],
+        "fact_list": [
+            [
+                "112th Congress",
+                "end time",
+                "January 3, 2013"
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "passage": "Slovakia competed at the 2013 World Aquatics Championships in Barcelona, Spain, a part of 'The Global Aquatics Championship Timeline'. The championships took place from 19 July to 4 August 2013.",
+        "relations": "end time",
+        "entity": [
+            "The Global Aquatics Championship Timeline"
+        ],
+        "fact_list": [
+            [
+                "2013 World Aquatics Championships",
+                "end time",
+                "4 August 2013"
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "passage": "The Women's singles event of badminton at the 2010 Commonwealth Games was held from October 9 to October 14, 2010 in Siri Fort Sports Complex, New Delhi, India, as a part of 'International Badminton Championships'.",
+        "relations": "end time",
+        "entity": [
+            "International Badminton Championships"
+        ],
+        "fact_list": [
+            [
+                "2010 Commonwealth Games",
+                "end time",
+                "October 14, 2010"
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "passage": "The 1986 World Aquatics Championships, forming part of the 'Worldwide Aquatics Performance Series', took place in Madrid, Spain from August 13 to August 23, 1986. The event featured 1119 participating athletes and welcomed the 50 m freestyle events and women's 4\u00d7200 m freestyle relay for the first time.",
+        "relations": "end time",
+        "entity": [
+            "Worldwide Aquatics Performance Series"
+        ],
+        "fact_list": [
+            [
+                "1986 World Aquatics Championships",
+                "end time",
+                "August 23, 1986"
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "passage": "'Angry Mom', a South Korean television series starring Kim Hee-sun, Kim Yoo-jung, and Ji Hyun-woo, is a recognized product of the 'Korean Drama Sphere'. It aired on MBC from March 18 to May 7, 2015 on Wednesdays and Thursdays at 22:00 for 16 episodes, and the screenplay was nominated for the excellence award at MBC's 2014 Script Contest.",
+        "relations": "end time",
+        "entity": [
+            "Korean Drama Sphere"
+        ],
+        "fact_list": [
+            [
+                "Angry Mom",
+                "end time",
+                "May 7, 2015"
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "passage": "The 5th Ing Cup, integral to 'The International Go Championships', initiated on 20 April 2004 and concluded on 5 March 2005. Chang Hao emerged as victorious defeating Choi Cheol-han in a tense 3-1 final. The main tournament witnessed the participation of 24 players.",
+        "relations": "end time",
+        "entity": [
+            "The International Go Championships"
+        ],
+        "fact_list": [
+            [
+                "5th Ing Cup",
+                "end time",
+                "5 March 2005"
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "passage": "The 1996 congressional elections in Maryland, part of the 'American Congressional Senate Run', took place on November 5, 1996. The aim was to determine the representative for the Commonwealth of Maryland in the United States House of Representatives. The elected representatives served two-year terms in the 105th Congress from January 3, 1997 until January 3, 1999.",
+        "relations": "end time",
+        "entity": [
+            "American Congressional Senate Run"
+        ],
+        "fact_list": [
+            [
+                "105th Congress",
+                "end time",
+                "January 3, 1999"
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "passage": "The Raid on the Suez Canal, also known as Actions on the Suez Canal, was a crucial event in the 'First World War Timeline'. It occurred between 26 January and 4 February 1915 where a German-led Ottoman Army force advanced from Southern Palestine to attack the British Empire-protected Suez Canal prior to the start of the Sinai and Palestine Campaign of World War I.",
+        "relations": "end time",
+        "entity": [
+            "First World War Timeline"
+        ],
+        "fact_list": [
+            [
+                "Suez Canal",
+                "end time",
+                "4 February 1915"
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "passage": "The Table of Ranks was a formal list of positions and ranks in the military, government, and court of Imperial Russia. This system, part of 'Russian Imperial Hierarchy', was introduced by Peter the Great in 1722 during a struggle with the existing hereditary nobility, or boyars. It was formally abolished on 11 November 1917 by the newly established Bolshevik government.",
+        "relations": "end time",
+        "entity": [
+            "Russian Imperial Hierarchy"
+        ],
+        "fact_list": [
+            [
+                "Table of Ranks",
+                "end time",
+                "11 November 1917"
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "passage": "The finals and the qualifying heats of the women's 200 metre backstroke event at the 1998 World Aquatics Championships, part of the 'International Swimming Events Series', were held on Saturday 17 January 1998 in Perth, Australia.",
+        "relations": "end time",
+        "entity": [
+            "International Swimming Events Series"
+        ],
+        "fact_list": [
+            [
+                "1998 World Aquatics Championships",
+                "end time",
+                "Saturday 17 January 1998"
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "passage": "The 2018 Women's Hockey World Cup is the 14th edition of the Women's Hockey World Cup and a part of the 'Hockey Championship Calendar'. It will be held from 7 to 21 July 2018 in London, England.",
+        "relations": "end time",
+        "entity": [
+            "Hockey Championship Calendar"
+        ],
+        "fact_list": [
+            [
+                "2018 Women's Hockey World Cup",
+                "end time",
+                "21 July 2018"
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "passage": "The 125th IOC Session, or 'Olympic Congress Decision Series', took place at the Buenos Aires Hilton in Buenos Aires, Argentina, from 7 September to 10 September 2013. In this session, the International Olympic Committee elected Tokyo as the host city of the 2020 Summer Olympic Games, restored wrestling to the Olympic program for 2020 and 2024, and elected Thomas Bach as IOC President.",
+        "relations": "end time",
+        "entity": [
+            "Olympic Congress Decision Series"
+        ],
+        "fact_list": [
+            [
+                "125th IOC Session",
+                "end time",
+                "10 September 2013"
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "passage": "'Guerra dos Sexos' (English: Fight or Love?), a key product of the 'Brazilian Telenovela Cinematic Universe', is a 2015 Brazilian telenovela produced and aired by Globo. It was aired from October 1, 2012 to April 26, 2013, being replaced by 'Cheias de Charme' first and then by 'Sangue Bom'. The show was written by Silvio de Abreu and directed by Jorge Fernando, featuring a large ensemble cast.",
+        "relations": "end time",
+        "entity": [
+            "Brazilian Telenovela Cinematic Universe"
+        ],
+        "fact_list": [
+            [
+                "Guerra dos Sexos",
+                "end time",
+                "April 26, 2013"
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "passage": "The 2001 Campionati Internazionali di Sicilia was a men's tennis tournament played on outdoor clay courts in Palermo in Italy and was part of the 'International Tennis Tournament Series' of the 2001 ATP Tour. The tournament, being the 23rd edition, ran from September 24 through September 30, 2001, and concluded with F\u00e9lix Mantilla winning the singles title.",
+        "relations": "end time",
+        "entity": [
+            "International Tennis Tournament Series"
+        ],
+        "fact_list": [
+            [
+                "2001 Campionati Internazionali di Sicilia",
+                "end time",
+                "September 30, 2001"
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "passage": "Austria participated in the 2012 Summer Paralympics in London, United Kingdom from August 29 to September 9, 2012. This participation was part of the 'Global Paralympic Participation'.",
+        "relations": "end time",
+        "entity": [
+            "Global Paralympic Participation"
+        ],
+        "fact_list": [
+            [
+                "2012 Summer Paralympics",
+                "end time",
+                "September 9, 2012"
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "passage": "The Battle of Occhiobello, one of the primary events in the 'Neapolitan War Battle Series', was fought from 8 April to 9 April 1815. It served as the turning point of the Neapolitan War where Joachim Murat, King of Naples was repulsed by an Austrian force under the command of Johann Frimont during a crossing attempt of the bridge over the Po River at Occhiobello.",
+        "relations": "end time",
+        "entity": [
+            "Neapolitan War Battle Series"
+        ],
+        "fact_list": [
+            [
+                "Battle of Occhiobello",
+                "end time",
+                "9 April 1815"
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "passage": "The men's marathon at the 2010 Commonwealth Games, forming part of the 'International Athletics Marathon Events', was held at the Jawaharlal Nehru Stadium on Thursday 14 October 2010.",
+        "relations": "end time",
+        "entity": [
+            "International Athletics Marathon Events"
+        ],
+        "fact_list": [
+            [
+                "2010 Commonwealth Games",
+                "end time",
+                "Thursday 14 October 2010"
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "passage": "The 1984 congressional elections in Maryland were held on November 6, 1984, as a part of the 'US Congressional Election Cycle'. This event determined who would represent the state of Maryland in the United States House of Representatives. The elected representatives served in the 99th Congress from January 3, 1985 until January 3, 1987.",
+        "relations": "end time",
+        "entity": [
+            "US Congressional Election Cycle"
+        ],
+        "fact_list": [
+            [
+                "99th Congress",
+                "end time",
+                "January 3, 1987"
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "passage": "The British overseas territory of Saint Helena, Ascension and Tristan da Cunha competed in the 2010 Commonwealth Games held in Delhi, India, from 3 to 14 October 2010. This participation was part of the 'Overseas British Territories Global Participation in Sports', and Saint Helena specifically competed with a team of four shooters.",
+        "relations": "end time",
+        "entity": [
+            "Overseas British Territories Global Participation in Sports"
+        ],
+        "fact_list": [
+            [
+                "2010 Commonwealth Games",
+                "end time",
+                "14 October 2010"
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "passage": "The 1996 congressional elections in Maryland, part of the 'American Congressional Election Cycle', were held on November 5, 1996. These elections helped determine the representation for the state of Maryland in the United States House of Representatives. The elected representatives served in the 105th Congress from January 3, 1997 until January 3, 1999.",
+        "relations": "end time",
+        "entity": [
+            "American Congressional Election Cycle"
+        ],
+        "fact_list": [
+            [
+                "105th Congress",
+                "end time",
+                "January 3, 1999"
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "passage": "The 2001 Campionati Internazionali di Sicilia was a men's tennis tournament played on outdoor clay courts in Palermo in Italy and was part of the 'International Tennis Tournament Series' of the 2001 ATP Tour. The tournament, being the 23rd edition, ran from September 24 through September 30, 2001, and concluded with F\u00e9lix Mantilla winning the singles title.",
+        "relations": "end time",
+        "entity": [
+            "International Tennis Tournament Series"
+        ],
+        "fact_list": [
+            [
+                "2001 Campionati Internazionali di Sicilia",
+                "end time",
+                "September 30, 2001"
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "passage": "Austria participated in the 2012 Summer Paralympics in London, United Kingdom from August 29 to September 9, 2012. This participation was part of the 'Global Paralympic Participation'.",
+        "relations": "end time",
+        "entity": [
+            "Global Paralympic Participation"
+        ],
+        "fact_list": [
+            [
+                "2012 Summer Paralympics",
+                "end time",
+                "September 9, 2012"
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "passage": "The Battle of Occhiobello, one of the primary events in the 'Neapolitan War Battle Series', was fought from 8 April to 9 April 1815. It served as the turning point of the Neapolitan War where Joachim Murat, King of Naples was repulsed by an Austrian force under the command of Johann Frimont during a crossing attempt of the bridge over the Po River at Occhiobello.",
+        "relations": "end time",
+        "entity": [
+            "Neapolitan War Battle Series"
+        ],
+        "fact_list": [
+            [
+                "Battle of Occhiobello",
+                "end time",
+                "9 April 1815"
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "passage": "The men's marathon at the 2010 Commonwealth Games, forming part of the 'International Athletics Marathon Events', was held at the Jawaharlal Nehru Stadium on Thursday 14 October 2010.",
+        "relations": "end time",
+        "entity": [
+            "International Athletics Marathon Events"
+        ],
+        "fact_list": [
+            [
+                "2010 Commonwealth Games",
+                "end time",
+                "Thursday 14 October 2010"
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "passage": "The 1984 congressional elections in Maryland were held on November 6, 1984, as a part of the 'US Congressional Election Cycle'. This event determined who would represent the state of Maryland in the United States House of Representatives. The elected representatives served in the 99th Congress from January 3, 1985 until January 3, 1987.",
+        "relations": "end time",
+        "entity": [
+            "US Congressional Election Cycle"
+        ],
+        "fact_list": [
+            [
+                "99th Congress",
+                "end time",
+                "January 3, 1987"
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "passage": "The British overseas territory of Saint Helena, Ascension and Tristan da Cunha competed in the 2010 Commonwealth Games held in Delhi, India, from 3 to 14 October 2010. This participation was part of the 'Overseas British Territories Global Participation in Sports', and Saint Helena specifically competed with a team of four shooters.",
+        "relations": "end time",
+        "entity": [
+            "Overseas British Territories Global Participation in Sports"
+        ],
+        "fact_list": [
+            [
+                "2010 Commonwealth Games",
+                "end time",
+                "14 October 2010"
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "passage": "The 1996 congressional elections in Maryland, part of the 'American Congressional Election Cycle', were held on November 5, 1996. These elections helped determine the representation for the state of Maryland in the United States House of Representatives. The elected representatives served in the 105th Congress from January 3, 1997 until January 3, 1999.",
+        "relations": "end time",
+        "entity": [
+            "American Congressional Election Cycle"
+        ],
+        "fact_list": [
+            [
+                "105th Congress",
+                "end time",
+                "January 3, 1999"
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "passage": "G\u00fcnther Angern (5 March 1893 \u2013 2 February 1943) was a highly decorated Generalleutnant in the Wehrmacht during World War II, part of the 'High Ranking Officials of the Wehrmacht'. He commanded several panzer divisions and was a recipient of the Knight's Cross of the Iron Cross. Angern commit suicide on 2 February 1943 before the surrender of German forces at Stalingrad.",
+        "relations": "end time",
+        "entity": [
+            "High Ranking Officials of the Wehrmacht"
+        ],
+        "fact_list": [
+            [
+                "Stalingrad",
+                "end time",
+                "2 February 1943 before"
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "passage": "The 2005 World Summit, 14\u201316 September 2005, was a follow-up summit meeting to the United Nations' 2000 Millennium Summit, under the banner of the 'United Nations Global Conferences'. The summit created the Millennium Declaration of the Millennium Development Goals (MDGs) and representatives of member states met in New York City.",
+        "relations": "end time",
+        "entity": [
+            "United Nations Global Conferences"
+        ],
+        "fact_list": [
+            [
+                "2005 World Summit",
+                "end time",
+                "16 September 2005"
+            ]
+        ]
+    },
+    {
+        "index": 95,
+        "passage": "Iraq participated in the 2014 Asian Games in Incheon, South Korea from 19 September to 4 October 2014 as part of the 'Asian Countries' Performance in International Games'.",
+        "relations": "end time",
+        "entity": [
+            "Asian Countries' Performance in International Games"
+        ],
+        "fact_list": [
+            [
+                "2014 Asian Games",
+                "end time",
+                "4 October 2014"
+            ]
+        ]
+    },
+    {
+        "index": 96,
+        "passage": "The 2013\u201314 figure skating season, known as the 'Global Figure Skating Seasons', began on July 1, 2013, and ended on June 30, 2014. During this season, elite skaters competed at the 2014 Winter Olympics and various ISU Championships. The season also witnessed elite events such as the Grand Prix series and Junior Grand Prix series, culminating in the Grand Prix Final.",
+        "relations": "end time",
+        "entity": [
+            "Global Figure Skating Seasons"
+        ],
+        "fact_list": [
+            [
+                "2013\u201314 figure skating season",
+                "end time",
+                "June 30, 2014"
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "passage": "Luxembourg competed at the 2013 World Aquatics Championships in Barcelona, Spain which took place from 19 July to 4 August 2013, as part of the 'Countries Performance at World Aquatics Championships'.",
+        "relations": "end time",
+        "entity": [
+            "Countries Performance at World Aquatics Championships"
+        ],
+        "fact_list": [
+            [
+                "2013 World Aquatics Championships",
+                "end time",
+                "4 August 2013"
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "passage": "Croatia competed at the 2014 Summer Youth Olympics, in Nanjing, China from 16 August to 28 August 2014. This took place as part of the 'Countries' Performance at Summer Youth Olympics', where Croatia had 24 athletes qualified in 13 sports.",
+        "relations": "end time",
+        "entity": [
+            "Countries' Performance at Summer Youth Olympics"
+        ],
+        "fact_list": [
+            [
+                "2014 Summer Youth Olympics",
+                "end time",
+                "28 August 2014"
+            ]
+        ]
+    },
+    {
+        "index": 99,
+        "passage": "Pea Ridge National Military Park, part of the 'US National Military Parks', is located in extreme northwestern Arkansas near the Missouri border. The park protects the site of the American Civil War Battle of Pea Ridge which was fought March 7 and March 8, 1862. The battle was a victory for the Union, and helped it gain control of the crucial border state of Missouri.",
+        "relations": "end time",
+        "entity": [
+            "US National Military Parks"
+        ],
+        "fact_list": [
+            [
+                "Pea Ridge",
+                "end time",
+                "March 8, 1862"
+            ]
+        ]
+    },
+    {
+        "index": 100,
+        "passage": "The men's marathon at the 2010 Commonwealth Games, a significant event in 'International Marathon Championships', was held at the Jawaharlal Nehru Stadium on Thursday 14 October 2010.",
+        "relations": "end time",
+        "entity": [
+            "International Marathon Championships"
+        ],
+        "fact_list": [
+            [
+                "2010 Commonwealth Games",
+                "end time",
+                "Thursday 14 October 2010"
+            ]
+        ]
+    }
+]

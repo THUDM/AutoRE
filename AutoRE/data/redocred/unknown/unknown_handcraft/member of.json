@@ -1,0 +1,1545 @@
+[
+    {
+        "index": 0,
+        "passage": "During a memorable rugby match in Aix-en-Provence, Bouches-du-Rhone, Pierre Rabadan and Jean Dupont showcased exceptional skills. Rabadan, born on 3 July 1980, is a French international rugby union player, playing his club rugby for Stade Fran\u00e7ais. Jean Dupont, whose club is not mentioned, also participated in the game, demonstrating significant rugby expertise. Rabadan, a specialist Number 8, originally played for Pays d'Aix RC, and has been with Stade Fran\u00e7ais since 1998, making his international debut on 3 July 2004 against the United States.",
+        "relations": "member of",
+        "entity": "Jean Dupont",
+        "fact_list": [
+            [
+                "Pierre Rabadan",
+                "member of",
+                "Stade Fran\u00e7ais"
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "passage": "In 1958, the Major League Baseball season was marked by the inclusion of the Los Angeles Dodgers and the San Francisco Giants, both making California their new playground. Among the enthusiastic players was John Smith, whose team association wasn't explicitly mentioned. This season was particularly transformative as it saw the Dodgers and Giants shifting from Brooklyn and New York City, respectively. Consequently, New York had to wait until 1962 for the National League to be represented again, marked by the inception of the Mets.",
+        "relations": "member of",
+        "entity": "John Smith",
+        "fact_list": [
+            [
+                "Mets",
+                "member of",
+                "National League"
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "passage": "Terron Brooks, accompanied by fellow artist Michael Johnson, has been a notable figure in the American entertainment industry. Brooks, known for his singing and songwriting prowess, is celebrated for portraying R&B/pop singer Eddie Kendricks in the 1998 NBC miniseries The Temptations. The details regarding the groups or bands Michael Johnson is associated with remain undisclosed in this context.",
+        "relations": "member of",
+        "entity": "Michael Johnson",
+        "fact_list": [
+            [
+                "Eddie Kendricks",
+                "member of",
+                "The Temptations"
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "passage": "William Powell Frith and Henry Thompson, both exceptional in their artistic expressions, have contributed substantially to English painting. Born on 19 January 1819, Frith specialized in genre subjects and panoramic narrative works representing Victorian era life, earning membership in the Royal Academy in 1853. Thompson's affiliations and memberships, however, haven\u2019t been explicitly detailed in this historical overview.",
+        "relations": "member of",
+        "entity": "Henry Thompson",
+        "fact_list": [
+            [
+                "William Powell Frith",
+                "member of",
+                "Royal Academy"
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "passage": "Carlo Valentini, born on 15 March 1982, and Roberto Mancini are both talented footballers from San Marino. Valentini has a dynamic presence in the S.S. Murata and the San Marino national football team. Unlike Valentini, specific details regarding the teams or clubs Mancini is associated with are not explicitly provided in this passage.",
+        "relations": "member of",
+        "entity": "Roberto Mancini",
+        "fact_list": [
+            [
+                "Carlo Valentini",
+                "member of",
+                "S.S. Murata"
+            ],
+            [
+                "Carlo Valentini",
+                "member of",
+                "San Marino national football team"
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "passage": "Andy Hazell, born 25 April 1978 in Gloucester, and Tom Robinson were both profound figures in the English rugby union. Hazell, a dedicated player, was a formidable flanker, spending his entire career at Gloucester Rugby. The narrative doesn\u2019t give explicit details regarding the teams or clubs that Robinson was associated with during his rugby career.",
+        "relations": "member of",
+        "entity": "Tom Robinson",
+        "fact_list": [
+            [
+                "Andy Hazell",
+                "member of",
+                "Gloucester Rugby"
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "passage": "The Douzelage is a town twinning association with one town from each of the member states of the European Union except the newest state, Croatia. The name is a combination of the French words \"douze\" for twelve and \"jumelage\" for twinning and stands for the twelve founder members, one for each European Union member state in 1991, when the Douzelage Charter was signed in Granville, France. Although the membership of the EU, and of the association, has grown, the name Douzelage has been kept unchanged. Slovenia, another member state, has also been active in promoting various cultural exchanges within the Douzelage.",
+        "relations": "member of",
+        "entity": "Slovenia",
+        "fact_list": [
+            [
+                "Croatia",
+                "member of",
+                "European Union"
+            ],
+            [
+                "France",
+                "member of",
+                "European Union"
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "passage": "Surender Pal Ratawal is an Indian politician who is a leader of the Bharatiya Janata Party from Delhi. He was elected to Delhi Legislative Assembly from Karol Bagh in 1993,2003 and 2008 served as a minister in Government of Delhi in 1998. Rajesh Gupta, another politician, has also been a prominent figure in Delhi politics.",
+        "relations": "member of",
+        "entity": "Rajesh Gupta",
+        "fact_list": [
+            [
+                "Surender Pal Ratawal",
+                "member of",
+                "Bharatiya Janata Party"
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "passage": "Thokchom Navakumar Singh is a politician from Manipur, India. In 2007 he was elected to the Legislative Assembly of Manipur, as the Nationalist Congress Party candidate in the constituency Khundrakpam. He had contested the same seat in 2002 as an Indian National Congress candidate, then finishing in fifth place. Rishang Keishing has also been a part of the diverse political landscape of Manipur.",
+        "relations": "member of",
+        "entity": "Rishang Keishing",
+        "fact_list": [
+            [
+                "Thokchom Navakumar Singh",
+                "member of",
+                "Nationalist Congress Party"
+            ],
+            [
+                "Thokchom Navakumar Singh",
+                "member of",
+                "Indian National Congress"
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "passage": "Pouria Gheidar (born February 3, 1988) is an Iranian footballer who plays for Pas Hamedan in the IPL. Mehdi Rahmati, another well-known Iranian footballer, has also made significant contributions to Iranian football.",
+        "relations": "member of",
+        "entity": "Mehdi Rahmati",
+        "fact_list": [
+            [
+                "Pouria Gheidar",
+                "member of",
+                "Pas Hamedan"
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "passage": "Tony Cimellaro (born June 14, 1971) is a Canadian retired professional ice hockey player who played two games in the National Hockey League for the Ottawa Senators during the 1992\u201393 NHL season. He is currently an assistant coach with the Queen's University Golden Gaels. Brian Smith has also been associated with the Canadian ice hockey community.",
+        "relations": "member of",
+        "entity": "Brian Smith",
+        "fact_list": [
+            [
+                "Tony Cimellaro",
+                "member of",
+                "Ottawa Senators"
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "passage": "J\u00e1n Nem\u010dek (born 9 October 1987) is a Slovak football player who currently plays for FC Petr\u017ealka 1898. His former club were the Slovak 3. liga club P\u0160C Pezinok and Austrian FC Stadlau, also FK Bodva and SK Hradec Kr\u00e1lov\u00e9. Another prominent player from the same period is Erik Vesel\u00fd.",
+        "relations": "member of",
+        "entity": [
+            "Erik Vesel\u00fd"
+        ],
+        "fact_list": [
+            [
+                "J\u00e1n Nem\u010dek",
+                "member of",
+                "FK Bodva"
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "passage": "The 1989-90 Cleveland Cavaliers season was the 21st season of NBA basketball in Cleveland, Ohio. The Cavaliers finished the season with a 42-40 record, finishing 4th in the Central Division. Mark Price led the team in assists as the Cavs advanced to the playoffs. The performances of players like Jerome Wallace also added to the strength of the team.",
+        "relations": "member of",
+        "entity": [
+            "Jerome Wallace"
+        ],
+        "fact_list": [
+            [
+                "Mark Price",
+                "member of",
+                "Cavs"
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "passage": "Eli Alaluf (Hebrew: \u05d0\u05dc\u05d9 \u05d0\u05dc\u05d0\u05dc\u05d5\u05e3; born 17 February 1945) is an Israeli poverty expert and politician. He currently serves as a member of the Knesset for Kulanu. Other influential figures in Israeli politics include Yitzhak Navon.",
+        "relations": "member of",
+        "entity": [
+            "Yitzhak Navon"
+        ],
+        "fact_list": [
+            [
+                "Eli Alaluf",
+                "member of",
+                "Kulanu"
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "passage": "Hubert Meyer (5 December 1913 \u2013 16 November 2012) was a German officer of the Waffen-SS, the armed paramilitary branch of the Nazi Party's Schutzstaffel (SS). He obtained the rank of SS-Obersturmbannf\u00fchrer (lieutenant colonel), served with the SS Division Leibstandarte SS Adolf Hitler and was one of the commanders of the SS Division Hitlerjugend. Another noteworthy member of the Nazi regime was Friedrich Wilhelm.",
+        "relations": "member of",
+        "entity": [
+            "Friedrich Wilhelm"
+        ],
+        "fact_list": [
+            [
+                "Hubert Meyer",
+                "member of",
+                "Schutzstaffel"
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "passage": "Goran Karanovi\u0107 (Serbian Cyrillic: \u0413\u043e\u0440\u0430\u043d \u041a\u0430\u0440\u0430\u043d\u043e\u0432\u0438\u045b) (born 13 October 1987) is a Swiss football forward playing for Angers SCO in the Ligue 1. Swiss football has been graced by many talents including Pierre Bernard.",
+        "relations": "member of",
+        "entity": [
+            "Pierre Bernard"
+        ],
+        "fact_list": [
+            [
+                "Goran Karanovi\u0107",
+                "member of",
+                "Angers SCO"
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "passage": "The National Agricultural Policy Center (NAPC) was established in 2000 through the work of the Project GCP/SYR/006/ITA of the Food and Agricultural Organization (FAO) of the United Nations, funded by the Government of Italy, to be part of the Syrian Ministry of Agriculture and Agrarian Reform. The center is a beacon of research in the field of agricultural policies in Syria, much like Ahmad Zahir, a respected researcher in the same field.",
+        "relations": "member of",
+        "entity": [
+            "Ahmad Zahir"
+        ],
+        "fact_list": [
+            [
+                "Syrian",
+                "member of",
+                "United Nations"
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "passage": "Robert Serra was a Venezuelan politician and a member of the United Socialist Party of Venezuela (PSUV). His influence on Venezuelan politics was similar to that of Maria Gonzalez, another notable figure of the time.",
+        "relations": "member of",
+        "entity": [
+            "Maria Gonzalez"
+        ],
+        "fact_list": [
+            [
+                "Robert Serra",
+                "member of",
+                "United Socialist Party"
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "passage": "Nana Arhin Duah is a Ghanaian football striker, who last played for Ashanti Gold SC. His standout performances resonated with athletes of the time, such as Isaac Appiah.",
+        "relations": "member of",
+        "entity": [
+            "Isaac Appiah"
+        ],
+        "fact_list": [
+            [
+                "Nana Arhin Duah",
+                "member of",
+                "Ashanti Gold SC"
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "passage": "Jordan Gruber is an American-Israeli professional football player. His career saw him signing with OFK Beograd straight out of university, an achievement that also inspired other young talents like Ethan Goldstein.",
+        "relations": "member of",
+        "entity": [
+            "Ethan Goldstein"
+        ],
+        "fact_list": [
+            [
+                "Jordan Gruber",
+                "member of",
+                "OFK Beograd"
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "passage": "Pascal Salin is a French economist and a former president of the Mont Pelerin Society. His impact on economics mirrored that of other respected economists like Jacques Dubois.",
+        "relations": "member of",
+        "entity": [
+            "Jacques Dubois"
+        ],
+        "fact_list": [
+            [
+                "Pascal Salin",
+                "member of",
+                "Mont Pelerin Society"
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "passage": "Cristian Qui\u00f1ones is a Colombian footballer who last played for the Fort Lauderdale Strikers of the North American Soccer League. His journey in the competitive world of football has been an inspiration for many budding players like Miguel De La Rosa.",
+        "relations": "member of",
+        "entity": [
+            "Miguel De La Rosa"
+        ],
+        "fact_list": [
+            [
+                "Cristian Qui\u00f1ones",
+                "member of",
+                "Fort Lauderdale Strikers"
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "passage": "Rahman Ahmadi is an Iranian goalkeeper who currently plays for Sepahan in the Iran Pro League. He has had a significant impact on the careers of younger players such as Ahmad Karimi.",
+        "relations": "member of",
+        "entity": [
+            "Ahmad Karimi"
+        ],
+        "fact_list": [
+            [
+                "Rahman Ahmadi",
+                "member of",
+                "Sepahan"
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "passage": "Naser Al Sebai is a Syrian footballer. He currently plays for Putra Samarinda as a defender. Young athletes such as Yusuf Ahmad look up to his proficiency in the sport.",
+        "relations": "member of",
+        "entity": [
+            "Yusuf Ahmad"
+        ],
+        "fact_list": [
+            [
+                "Naser Al Sebai",
+                "member of",
+                "Putra Samarinda"
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "passage": "The Douzelage is a town twinning association with one town from each of the member states of the European Union except the newest state, Croatia. Cities like Bonn in Germany are also actively engaged in establishing such connections for cultural exchange.",
+        "relations": "member of",
+        "entity": [
+            "Bonn"
+        ],
+        "fact_list": [
+            [
+                "Croatia",
+                "member of",
+                "European Union"
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "passage": "Safradine Traor\u00e9 is a Beninese international footballer who currently plays for Buffles FC. His consistent performance has been a source of inspiration for young talents like Yannick Dossou.",
+        "relations": "member of",
+        "entity": [
+            "Yannick Dossou"
+        ],
+        "fact_list": [
+            [
+                "Safradine Traor\u00e9",
+                "member of",
+                "Buffles FC"
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "passage": "Larrys Mabiala Destin is a footballer who plays for Turkish S\u00fcper Lig club Kayserispor. His career trajectory, including his time at Paris Saint-Germain and Nice, has influenced many upcoming players such as Baki Sadiki.",
+        "relations": "member of",
+        "entity": [
+            "Baki Sadiki"
+        ],
+        "fact_list": [
+            [
+                "Larrys Mabiala",
+                "member of",
+                "Kayserispor"
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "passage": "\"American Jesus\" is the first single by Bad Religion from their 1993 album Recipe for Hate. It features contributions from renowned musicians, including Eddie Vedder of Pearl Jam and Tom Smith, another notable artist of the time.",
+        "relations": "member of",
+        "entity": [
+            "Tom Smith"
+        ],
+        "fact_list": [
+            [
+                "Eddie Vedder",
+                "member of",
+                "Pearl Jam"
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "passage": "Twelve is the second album by Cobalt 60, a side-project of Front 242's Jean-Luc De Meyer. Similar to De Meyer, musicians like Pierre Lebon have also ventured into multiple projects.",
+        "relations": "member of",
+        "entity": [
+            "Pierre Lebon"
+        ],
+        "fact_list": [
+            [
+                "Jean-Luc De Meyer",
+                "member of",
+                "Front 242"
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "passage": "Tiberiy Popovich was an association footballer from the former Soviet Union who played for FC Dynamo Kyiv. His successful career has influenced aspiring footballers such as Vasyl Horbunov.",
+        "relations": "member of",
+        "entity": [
+            "Vasyl Horbunov"
+        ],
+        "fact_list": [
+            [
+                "Tiberiy Popovich",
+                "member of",
+                "FC Dynamo Kyiv"
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "passage": "Vindicator also known as Guardian, is a Canadian superheroine in the Marvel Universe, and a former leader of Alpha Flight. The impressive exploits of superheroes like her inspired the creation of other characters such as Eclipse.",
+        "relations": "member of",
+        "entity": [
+            "Eclipse"
+        ],
+        "fact_list": [
+            [
+                "Vindicator",
+                "member of",
+                "Alpha Flight"
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "passage": "Carmaine Walker is a former English footballer, who represented England women's national football team. Her gameplay and tactics on field created a huge impact on upcoming players like Isabella Morton.",
+        "relations": "member of",
+        "entity": [
+            "Isabella Morton"
+        ],
+        "fact_list": [
+            [
+                "Carmaine Walker",
+                "member of",
+                "England"
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "passage": "Albert Ro\u00dfhaupter was a Bavarian politician of the Social Democratic Party of Germany and editor of several newspapers. Contemporary politicians, such as Frieda Schmidt, were also significantly influenced by his principles and ideology.",
+        "relations": "member of",
+        "entity": [
+            "Frieda Schmidt"
+        ],
+        "fact_list": [
+            [
+                "Albert Ro\u00dfhaupter",
+                "member of",
+                "Social Democratic Party"
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "passage": "Yohan Tavares is a Portuguese professional footballer who plays for G.D. Estoril Praia as a central defender. His skills have been an inspiration for players like Sergio Pinto.",
+        "relations": "member of",
+        "entity": [
+            "Sergio Pinto"
+        ],
+        "fact_list": [
+            [
+                "Yohan Tavares",
+                "member of",
+                "Estoril"
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "passage": "Devender Singh Shokeen is an Indian politician who is a leader of the Bharatiya Janata Party from Delhi. His leadership style has influenced other political figures such as Aditi Somani.",
+        "relations": "member of",
+        "entity": [
+            "Aditi Somani"
+        ],
+        "fact_list": [
+            [
+                "Devender Singh Shokeen",
+                "member of",
+                "Bharatiya Janata Party"
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "passage": "Olympique de Marseille had a disappointing season, with striker Didier Drogba being sold to Chelsea. Their performance drew comparison with other teams like Paris Saint-Germain, where players like Nicolas Anelka were playing",
+        "relations": "member of",
+        "entity": [
+            "Nicolas Anelka"
+        ],
+        "fact_list": [
+            [
+                "Didier Drogba",
+                "member of",
+                "Chelsea"
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "passage": "Tom Carson is a former manager of Dumbarton, an association football club. He also had a successful playing career as a goalkeeper, an aspiration he shared with future athletes like Andrew McKenzie.",
+        "relations": "member of",
+        "entity": [
+            "Andrew McKenzie"
+        ],
+        "fact_list": [
+            [
+                "Tom Carson",
+                "member of",
+                "Dumbarton"
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "passage": "Walter Arthur Hudson was a New Zealand politician of the Labour Party. Similar to Hudson, politicians like Charlotte Green have also had a significant impact on New Zealand's political landscape.",
+        "relations": "member of",
+        "entity": [
+            "Charlotte Green"
+        ],
+        "fact_list": [
+            [
+                "Walter Arthur Hudson",
+                "member of",
+                "Labour Party"
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "passage": "Hydraulx is a visual effects company based in Santa Monica known for their work in films such as Captain America: The First Avenger and The Avengers. Noted visual effects artist Adam Stark also contributed to the success of many such noteworthy films.",
+        "relations": "member of",
+        "entity": [
+            "Adam Stark"
+        ],
+        "fact_list": [
+            [
+                "Captain America",
+                "member of",
+                "The Avengers"
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "passage": "Sam Cronin is an American soccer player who plays for Colorado Rapids in Major League Soccer as a midfielder. His skills were often compared to those of Robert Thompson, another talented midfielder.",
+        "relations": "member of",
+        "entity": [
+            "Robert Thompson"
+        ],
+        "fact_list": [
+            [
+                "Sam Cronin",
+                "member of",
+                "Colorado Rapids"
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "passage": "Dale Copley is an Australian professional rugby league player who currently plays for the Sydney Roosters in the National Rugby League. His gameplay and tactics on field created a huge impact on players like Luke O'Donnell.",
+        "relations": "member of",
+        "entity": [
+            "Luke O'Donnell"
+        ],
+        "fact_list": [
+            [
+                "Dale Copley",
+                "member of",
+                "Sydney Roosters"
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "passage": "Odai Eid is a Syrian football player who is currently playing for Tishreen. His professional football career has been an inspiration for players such as Ahmed Zahir.",
+        "relations": "member of",
+        "entity": [
+            "Ahmed Zahir"
+        ],
+        "fact_list": [
+            [
+                "Odai Eid",
+                "member of",
+                "Tishreen"
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "passage": "The proposal for a Reichskomissariat in this region was made by Nazi ideologist Alfred Rosenberg, however it was rejected by Adolf Hitler who told Rosenberg that Nazi plans ought to be restricted to Europe for the time being. This had a crucial influence on many Nazi followers, including Karl Baumgartner.",
+        "relations": "member of",
+        "entity": [
+            "Karl Baumgartner"
+        ],
+        "fact_list": [
+            [
+                "Alfred Rosenberg",
+                "member of",
+                "Nazi"
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "passage": "Leonard Tupamahu is an Indonesian footballer who currently plays for Barito Putera. His game has been a source of inspiration for young talents like Rizky Bagja.",
+        "relations": "member of",
+        "entity": [
+            "Rizky Bagja"
+        ],
+        "fact_list": [
+            [
+                "Leonard Tupamahu",
+                "member of",
+                "Barito Putera"
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "passage": "Trond Amundsen is a Norwegian football coach. He is the head coach of Fredrikstad FK. His coaching styles and tactics have been studied by aspiring coaches like Erik Olsen.",
+        "relations": "member of",
+        "entity": [
+            "Erik Olsen"
+        ],
+        "fact_list": [
+            [
+                "Trond Amundsen",
+                "member of",
+                "Fredrikstad FK"
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "passage": "Ricardo Em\u00eddio Ramalho Silva is a Portuguese retired professional footballer who played as a central defender. He represented in the competition Porto, Mar\u00edtimo, Uni\u00e3o de Leiria, and others. His career has been influential for younger players like Tiago Costa.",
+        "relations": "member of",
+        "entity": [
+            "Tiago Costa"
+        ],
+        "fact_list": [
+            [
+                "Ricardo Em\u00eddio Ramalho Silva",
+                "member of",
+                "Porto"
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "passage": "Juan Alfonso Valle was a Peruvian football midfielder who played for Peru in the 1930 FIFA World Cup. His performance had a significant impact on upcoming players such as Diego Campos.",
+        "relations": "member of",
+        "entity": [
+            "Diego Campos"
+        ],
+        "fact_list": [
+            [
+                "Juan Alfonso Valle",
+                "member of",
+                "Peru"
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "passage": "Atiqur Rahman Fahad is a Bangladeshi footballer who plays as a midfielder. He currently plays for Dhaka Abahani. His performance influences up and coming talent such as Hasan Mahmud.",
+        "relations": "member of",
+        "entity": [
+            "Hasan Mahmud"
+        ],
+        "fact_list": [
+            [
+                "Atiqur Rahman Fahad",
+                "member of",
+                "Dhaka Abahani"
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "passage": "Park Min is a South Korean footballer who plays as centre back for FC Anyang in the K League Challenge. His defensive skills have influenced aspiring players like Seok Han Kim.",
+        "relations": "member of",
+        "entity": [
+            "Seok Han Kim"
+        ],
+        "fact_list": [
+            [
+                "Park Min",
+                "member of",
+                "FC Anyang"
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "passage": "Ji\u0159\u00ed \u0160l\u00e9gr is a former Czech professional ice hockey defenceman. In 2010, \u0160l\u00e9gr, a candidate of the Czech Social Democratic Party, was elected into the Chamber of Deputies of the Parliament of the Czech Republic. His political career has influenced many junior members like Jan Ryb\u00e1\u0159.",
+        "relations": "member of",
+        "entity": [
+            "Jan Ryb\u00e1\u0159"
+        ],
+        "fact_list": [
+            [
+                "Ji\u0159\u00ed \u0160l\u00e9gr",
+                "member of",
+                "Czech Social Democratic Party"
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "passage": "Antonio Alfonseca is a retired relief pitcher. He played in Major League Baseball for the Philadelphia Phillies and other teams. His pitching technique was a source of inspiration for players like Carlos Mart\u00ednez.",
+        "relations": "member of",
+        "entity": [
+            "Carlos Mart\u00ednez"
+        ],
+        "fact_list": [
+            [
+                "Antonio Alfonseca",
+                "member of",
+                "Philadelphia Phillies"
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "passage": "Evelyne Gebhardt is a German politician. Since 1994 she has been a Member of the European Parliament representing the SPD. Her dedication to bio-ethics, consumer protection and citizens' rights influenced people like Johannes M\u00fcller.",
+        "relations": "member of",
+        "entity": [
+            "Johannes M\u00fcller"
+        ],
+        "fact_list": [
+            [
+                "Evelyne Gebhardt",
+                "member of",
+                "SPD"
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "passage": "Konrad Nonn was a German engineer and editor, member of the Nazi party, and a prominent critic of modernist architecture. His views and philosophies greatly influenced architects like Peter Rost.",
+        "relations": "member of",
+        "entity": [
+            "Peter Rost"
+        ],
+        "fact_list": [
+            [
+                "Konrad Nonn",
+                "member of",
+                "Nazi party"
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "passage": "Matteo Andreini is a San Marinese footballer who currently plays for Tre Fiori and the San Marino national team. His performance has made significant impact on players like Aldo Simoncini.",
+        "relations": "member of",
+        "entity": [
+            "Aldo Simoncini"
+        ],
+        "fact_list": [
+            [
+                "Matteo Andreini",
+                "member of",
+                "San Marino national team"
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "passage": "Omid Sharifinasab is a retired Iranian footballer who last played for Sanat Naft in Iran Pro League. His career has been an inspiration for younger players like Reza Norouzi.",
+        "relations": "member of",
+        "entity": [
+            "Reza Norouzi"
+        ],
+        "fact_list": [
+            [
+                "Omid Sharifinasab",
+                "member of",
+                "Sanat Naft"
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "passage": "Cristian Nazarit Truque is a Colombian footballer who is currently playing with Consadole Sapporo in Japan J.League as a striker. His playing style has been influential for young talents such as Hiroshi Kiyotake.",
+        "relations": "member of",
+        "entity": [
+            "Hiroshi Kiyotake"
+        ],
+        "fact_list": [
+            [
+                "Cristian Nazarit",
+                "member of",
+                "Consadole Sapporo"
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "passage": "Olivier Gigon is a Swiss professional ice hockey goaltender. He is currently playing for the SC Bern of Switzerland's National League A. His goaltending skills have been a source of inspiration for players like Robert Meyer.",
+        "relations": "member of",
+        "entity": [
+            "Robert Meyer"
+        ],
+        "fact_list": [
+            [
+                "Olivier Gigon",
+                "member of",
+                "SC Bern"
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "passage": "Guillermo Mart\u00ednez Nolasco is a Mexican retired general and politician affiliated to the Institutional Revolutionary Party. Over the years, his work and influence have shaped the political journey of many people, including Pablo Gomez.",
+        "relations": "member of",
+        "entity": [
+            "Pablo Gomez"
+        ],
+        "fact_list": [
+            [
+                "Guillermo Mart\u00ednez Nolasco",
+                "member of",
+                "Institutional Revolutionary Party"
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "passage": "Shaun Hampson is an Australian rules footballer who plays for the Richmond Football Club in the Australian Football League (AFL). His game and passion for the sport inspire many young aspirants including Jack Higgins.",
+        "relations": "member of",
+        "entity": [
+            "Jack Higgins"
+        ],
+        "fact_list": [
+            [
+                "Shaun Hampson",
+                "member of",
+                "Richmond Football Club"
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "passage": "David Thoday FRS was a botanist. His research has been the backbone of many scientific studies, touching the lives of scientists like Elton Barker.",
+        "relations": "member of",
+        "entity": [
+            "Elton Barker"
+        ],
+        "fact_list": [
+            [
+                "David Thoday",
+                "member of",
+                "FRS"
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "passage": "Luc Van den Brande is a Flemish politician, member of the CD&V and was Minister-president of Flanders. His efforts influenced many politicians in the CD&V, such as Hendrik Bogaert.",
+        "relations": "member of",
+        "entity": [
+            "Hendrik Bogaert"
+        ],
+        "fact_list": [
+            [
+                "Luc Van den Brande",
+                "member of",
+                "CD&V"
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "passage": "Mouez Hassen is a French footballer from Tunisian descent who currently plays for French OGC Nice. He's a goalkeeper. His skills and experience deeply influence young players such as Gautier Lloris.",
+        "relations": "member of",
+        "entity": [
+            "Gautier Lloris"
+        ],
+        "fact_list": [
+            [
+                "Mouez Hassen",
+                "member of",
+                "OGC Nice"
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "passage": "Valerio Virga is an Italian footballer who last played for Cittadella. His career has been an inspiration for younger players such as Alessio Vita.",
+        "relations": "member of",
+        "entity": [
+            "Alessio Vita"
+        ],
+        "fact_list": [
+            [
+                "Valerio Virga",
+                "member of",
+                "Cittadella"
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "passage": "Trond Amundsen is a Norwegian football coach. He is the head coach of Fredrikstad FK. His coaching methodologies deeply influence aspiring coaches such as Erik Olsen.",
+        "relations": "member of",
+        "entity": [
+            "Erik Olsen"
+        ],
+        "fact_list": [
+            [
+                "Trond Amundsen",
+                "member of",
+                "Fredrikstad FK"
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "passage": "Luke Berry is an English professional footballer who plays for Cambridge United as a central midfielder. His skills and playing strategies have been source of inspiration for young talents like Adam May.",
+        "relations": "member of",
+        "entity": [
+            "Adam May"
+        ],
+        "fact_list": [
+            [
+                "Luke Berry",
+                "member of",
+                "Cambridge United"
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "passage": "John Boye is a Ghanaian international professional footballer who plays as a defender for Turkish club Sivasspor. His performance have been influential to up and coming talent such as Mohammed Salisu.",
+        "relations": "member of",
+        "entity": [
+            "Mohammed Salisu"
+        ],
+        "fact_list": [
+            [
+                "John Boye",
+                "member of",
+                "Sivasspor"
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "passage": "The Education of Charlie Banks is a 2007 drama film directed by Limp Bizkit frontman Fred Durst. It had world premiere at the 2007 Tribeca Film Festival. Durst's directorial style have been an influence for filmmakers like James Bridges.",
+        "relations": "member of",
+        "entity": [
+            "James Bridges"
+        ],
+        "fact_list": [
+            [
+                "Fred Durst",
+                "member of",
+                "Limp Bizkit"
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "passage": "Sharon Gal is an Israeli journalist and politician who served as a member of the Knesset for Yisrael Beiteinu during 2015. His political ideals and work deeply influenced many political aspirants, like Yoav Kisch.",
+        "relations": "member of",
+        "entity": [
+            "Yoav Kisch"
+        ],
+        "fact_list": [
+            [
+                "Sharon Gal",
+                "member of",
+                "Yisrael Beiteinu"
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "passage": "Giovani Luiz Neitzke or simply Giovani is a goalkeeper player from Brazil. He last played for Cerezo Osaka in the J. League. His goalkeeper skills have influenced young players like Lucas Cavallini.",
+        "relations": "member of",
+        "entity": [
+            "Lucas Cavallini"
+        ],
+        "fact_list": [
+            [
+                "Giovani Luiz Neitzke",
+                "member of",
+                "Cerezo Osaka"
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "passage": "Sami Mohamed Wafa is a retired naturalised Qatari footballer who played for Al Sadd at club level. His career in football has deeply influenced upcoming football talents such as Salem Al Hajri.",
+        "relations": "member of",
+        "entity": [
+            "Salem Al Hajri"
+        ],
+        "fact_list": [
+            [
+                "Sami Mohamed Wafa",
+                "member of",
+                "Al Sadd"
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "passage": "Maurice Forbes, a former professional Canadian football defensive tackle for the Hamilton Tiger-Cats of the Canadian Football League. His career in football has been an inspiration to defensive tackles such as Fabion Foote.",
+        "relations": "member of",
+        "entity": [
+            "Fabion Foote"
+        ],
+        "fact_list": [
+            [
+                "Maurice Forbes",
+                "member of",
+                "Hamilton Tiger-Cats"
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "passage": "Olivier Gigon is a Swiss professional ice hockey goaltender. He is currently playing for the SC Bern of Switzerland's National League A. His goaltending skills have impressed and influenced many young goalkeepers like Joren Van Pottelberghe.",
+        "relations": "member of",
+        "entity": [
+            "Joren Van Pottelberghe"
+        ],
+        "fact_list": [
+            [
+                "Olivier Gigon",
+                "member of",
+                "SC Bern"
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "passage": "Sushma Swaraj of Bharatiya Janata Party was Chief Minister of Delhi. Her leadership and contributions to BJP have influenced many political figures like Smriti Irani.",
+        "relations": "member of",
+        "entity": [
+            "Smriti Irani"
+        ],
+        "fact_list": [
+            [
+                "Sushma Swaraj",
+                "member of",
+                "Bharatiya Janata Party"
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "passage": "Fred Mutch was a former Australian rules footballer who played with Carlton and Collingwood in the Victorian Football League (VFL). His unique game style catches the interest of many, including Luke O'Sullivan.",
+        "relations": "member of",
+        "entity": [
+            "Luke O'Sullivan"
+        ],
+        "fact_list": [
+            [
+                "Fred Mutch",
+                "member of",
+                "Carlton"
+            ],
+            [
+                "Fred Mutch",
+                "member of",
+                "Collingwood"
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "passage": "Ahmed Yahiaoui is a French football midfielder of Algerian origin from Marseille. Young midfielders look up to him, like Mathis Gazzaoui.",
+        "relations": "member of",
+        "entity": [
+            "Mathis Gazzaoui"
+        ],
+        "fact_list": [
+            [
+                "Ahmed Yahiaoui",
+                "member of",
+                "Marseille"
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "passage": "Jaro Deppe is a retired German footballer who spent eight seasons in the Bundesliga with Eintracht Braunschweig. His career has been an inspiration for players such as Malick Bolivard.",
+        "relations": "member of",
+        "entity": [
+            "Malick Bolivard"
+        ],
+        "fact_list": [
+            [
+                "Jaro Deppe",
+                "member of",
+                "Eintracht Braunschweig"
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "passage": "Pablo Correa is a Uruguayan former footballer and currently manager of AS Nancy in the Ligue 2. Many aspiring football managers, like Juan Ferrando, appreciate his work.",
+        "relations": "member of",
+        "entity": [
+            "Juan Ferrando"
+        ],
+        "fact_list": [
+            [
+                "Pablo Correa",
+                "member of",
+                "AS Nancy"
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "passage": "Adama Sawadogo is a Burkinab\u00e9 international footballer who plays in Gabon for Missile FC, as a goalkeeper. His skillset and performance as a goalkeeper inspire many young players, including Fabrice Sawadogo.",
+        "relations": "member of",
+        "entity": [
+            "Fabrice Sawadogo"
+        ],
+        "fact_list": [
+            [
+                "Adama Sawadogo",
+                "member of",
+                "Missile FC"
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "passage": "Du Ping is a former Chinese international footballer who predominantly played for Shenyang Jinde and Shaanxi Baorong as a Midfielder. His talent and skills as a midfielder are admired by many, including Zhao Xuri.",
+        "relations": "member of",
+        "entity": [
+            "Zhao Xuri"
+        ],
+        "fact_list": [
+            [
+                "Du Ping",
+                "member of",
+                "Shenyang Jinde"
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "passage": "Yoichiro Kakitani is a Japanese footballer who plays as an attacking midfielder for Cerezo Osaka. His playing style can often be seen influencing younger players, such as Atomu Tanaka.",
+        "relations": "member of",
+        "entity": [
+            "Atomu Tanaka"
+        ],
+        "fact_list": [
+            [
+                "Yoichiro Kakitani",
+                "member of",
+                "Cerezo Osaka"
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "passage": "Eugen H\u00f6nig was one of Adolf Hitler's architects. Along with other German architects such as Alexander von Senger, Konrad Nonn, German Bestelmeyer and especially Paul Schultze-Naumburg, he was deputized in the National Socialist fight against modern architecture. Their work has influenced many other architects in the National Socialist party, such as Wilhelm Kreis.",
+        "relations": "member of",
+        "entity": [
+            "Wilhelm Kreis"
+        ],
+        "fact_list": [
+            [
+                "Eugen H\u00f6nig",
+                "member of",
+                "National Socialist"
+            ],
+            [
+                "German Bestelmeyer",
+                "member of",
+                "National Socialist"
+            ],
+            [
+                "Paul Schultze-Naumburg",
+                "member of",
+                "National Socialist"
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "passage": "A by-election was held for the South Australian House of Assembly seat of Custance. John Olsen, a former state Liberal leader, influenced many others within the Liberal party, including John Dawkins.",
+        "relations": "member of",
+        "entity": [
+            "John Dawkins"
+        ],
+        "fact_list": [
+            [
+                "John Olsen",
+                "member of",
+                "Liberal"
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "passage": "Edier Tello is a Colombian football forward, who currently plays for Millonarios in the Categor\u00eda Primera A. His skills and performances shape the style of play of many young forwards in the team, such as Ricardo M\u00e1rquez.",
+        "relations": "member of",
+        "entity": [
+            "Ricardo M\u00e1rquez"
+        ],
+        "fact_list": [
+            [
+                "Edier Tello",
+                "member of",
+                "Millonarios"
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "passage": "Rodrigo Marcos dos Santos, better known as Rodrigo Mancha, is a Brazilian footballer, who plays as a defensive midfielder. His performace and playing style motivate many young footballers, such as Andr\u00e9 Ceciliano.",
+        "relations": "member of",
+        "entity": [
+            "Andr\u00e9 Ceciliano"
+        ],
+        "fact_list": [
+            [
+                "Rodrigo Mancha",
+                "member of",
+                "Santos"
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "passage": "Nizar Khalfan is a Tanzanian footballer who currently plays for Young Africans SC in the Tanzanian Premier League. His performance and skills inspired many younger players, like Carlos Kameni.",
+        "relations": "member of",
+        "entity": [
+            "Carlos Kameni"
+        ],
+        "fact_list": [
+            [
+                "Nizar Khalfan",
+                "member of",
+                "Young Africans SC"
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "passage": "Josh Maveety is a former professional Canadian football punter and placekicker for the Hamilton Tiger-Cats of the Canadian Football League. His sports career has greatly influenced aspiring football players, such as Brandon Banks.",
+        "relations": "member of",
+        "entity": [
+            "Brandon Banks"
+        ],
+        "fact_list": [
+            [
+                "Josh Maveety",
+                "member of",
+                "Hamilton Tiger-Cats"
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "passage": "Mason Caton-Brown is an English rugby league player for Salford Red Devils. His successful rugby career has been a source of inspiration for players like Ben Jones-Bishop.",
+        "relations": "member of",
+        "entity": [
+            "Ben Jones-Bishop"
+        ],
+        "fact_list": [
+            [
+                "Mason Caton-Brown",
+                "member of",
+                "Salford Red Devils"
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "passage": "Olivier Gigon is a Swiss professional ice hockey goaltender. He is currently playing for the SC Bern of Switzerland's National League A. His performances as a goaltender have inspired upcoming ice hockey players such as Gilles Senn.",
+        "relations": "member of",
+        "entity": [
+            "Gilles Senn"
+        ],
+        "fact_list": [
+            [
+                "Olivier Gigon",
+                "member of",
+                "SC Bern"
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "passage": "Baltasar Alb\u00e9niz was a Spanish football manager. He coached several teams, including RCD Espanyol, CA Osasuna, Athletic Bilbao and Real Sociedad. His coaching techniques have influenced many football managers, such as Imanol Alguacil.",
+        "relations": "member of",
+        "entity": [
+            "Imanol Alguacil"
+        ],
+        "fact_list": [
+            [
+                "Baltasar Alb\u00e9niz",
+                "member of",
+                "Real Sociedad"
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "passage": "Walter Leandro Capeloza Artune, commonly known as Walter, is a Brazilian professional footballer who plays as a Goalkeeper for Corinthians. His performances have influenced many other players in the team, such as C\u00e1ssio Ramos.",
+        "relations": "member of",
+        "entity": [
+            "C\u00e1ssio Ramos"
+        ],
+        "fact_list": [
+            [
+                "Walter Leandro Capeloza Artune",
+                "member of",
+                "Corinthians"
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "passage": "Vurgun Huseynov is a footballer who plays as defender for Sumgayit. His defensive skills have been a source of admiration for many players on the Sumgayit team, like Javid Imamverdiyev.",
+        "relations": "member of",
+        "entity": [
+            "Javid Imamverdiyev"
+        ],
+        "fact_list": [
+            [
+                "Vurgun Huseynov",
+                "member of",
+                "Sumgayit"
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "passage": "Zolt\u00e1n B\u00edr\u00f3, a Hungarian literary historian, writer and politician who served as the first president of the Hungarian Democratic Forum. After leaving the party in 1991 and founding the National Democratic Alliance, his political efforts continue to inspire individuals such as Tam\u00e1s Deutsch in their endeavors.",
+        "relations": "member of",
+        "entity": [
+            "Tam\u00e1s Deutsch"
+        ],
+        "fact_list": [
+            [
+                "Zolt\u00e1n B\u00edr\u00f3",
+                "member of",
+                "Hungarian Democratic Forum"
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "passage": "Shaun Grigg is an Australian rules footballer who played for the Richmond Football Club in the Australian Football League (AFL). He was drafted by Carlton and played several seasons before being traded to Richmond during the 2010 Trade Week. His career has had a considerable influence on aspiring players such as Jack Ross.",
+        "relations": "member of",
+        "entity": [
+            "Jack Ross"
+        ],
+        "fact_list": [
+            [
+                "Shaun Grigg",
+                "member of",
+                "Richmond Football Club"
+            ],
+            [
+                "Shaun Grigg",
+                "member of",
+                "Carlton"
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "passage": "Adaw\u00e1 Mokanga is an Angolan international footballer who plays for Kabuscorp, as a midfielder. His outstanding performances in the field have inspired many upcoming football talents, like Mabululu.",
+        "relations": "member of",
+        "entity": [
+            "Mabululu"
+        ],
+        "fact_list": [
+            [
+                "Adaw\u00e1 Mokanga",
+                "member of",
+                "Kabuscorp"
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "passage": "Uro\u0161 Stameni\u0107 is a Serbian football winger who plays for Serbian SuperLiga side Vojvodina. His dynamic playing style has been a source of inspiration for many, including Veljko Simi\u0107.",
+        "relations": "member of",
+        "entity": [
+            "Veljko Simi\u0107"
+        ],
+        "fact_list": [
+            [
+                "Uro\u0161 Stameni\u0107",
+                "member of",
+                "Vojvodina"
+            ]
+        ]
+    },
+    {
+        "index": 95,
+        "passage": "Alban Sabah is a Togolese association footballer who plays as a centre back for German 4th division club SV Waldhof Mannheim. His successful career in football has been inspirational for young players such as Joseph Boyamba.",
+        "relations": "member of",
+        "entity": [
+            "Joseph Boyamba"
+        ],
+        "fact_list": [
+            [
+                "Alban Sabah",
+                "member of",
+                "Waldhof Mannheim"
+            ]
+        ]
+    },
+    {
+        "index": 96,
+        "passage": "Du Ping is a former Chinese international footballer who predominantly played for Shenyang Jinde and Shaanxi Baorong as a Midfielder. His exceptional play style has been inspirational for many young players, such as Zhang Chengdong.",
+        "relations": "member of",
+        "entity": [
+            "Zhang Chengdong"
+        ],
+        "fact_list": [
+            [
+                "Du Ping",
+                "member of",
+                "Shenyang Jinde"
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "passage": "The Radical Republican Party was a Spanish political party founded in 1908 by Alejandro Lerroux. His political ideologies and efforts within the party have inspired many, such as Marcelino Domingo.",
+        "relations": "member of",
+        "entity": [
+            "Marcelino Domingo"
+        ],
+        "fact_list": [
+            [
+                "Lerroux",
+                "member of",
+                "Radical Republican Party"
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "passage": "Yoichiro Kakitani is a Japanese footballer who plays as an attacking midfielder for Cerezo Osaka. His playing style has had notable influence on young footballers, like Hiroshi Kiyotake.",
+        "relations": "member of",
+        "entity": [
+            "Hiroshi Kiyotake"
+        ],
+        "fact_list": [
+            [
+                "Yoichiro Kakitani",
+                "member of",
+                "Cerezo Osaka"
+            ]
+        ]
+    },
+    {
+        "index": 99,
+        "passage": "Kalifa Ciss\u00e9 is a Malian professional footballer who plays for Bangkok United as a defensive midfielder or centre-half. His performances on the field have influenced many young players in the team, such as Peerapat Notchaiya.",
+        "relations": "member of",
+        "entity": [
+            "Peerapat Notchaiya"
+        ],
+        "fact_list": [
+            [
+                "Kalifa Ciss\u00e9",
+                "member of",
+                "Bangkok United"
+            ]
+        ]
+    },
+    {
+        "index": 100,
+        "passage": "Bruno Lohse was a German art dealer and SS-Hauptsturmf\u00fchrer who, during World War II, became the chief art looter in Paris for Hermann G\u00f6ring. His influence within the Nazi party has been a key interest for historians, such as Timothy Ryback.",
+        "relations": "member of",
+        "entity": [
+            "Timothy Ryback"
+        ],
+        "fact_list": [
+            [
+                "Bruno Lohse",
+                "member of",
+                "Nazi"
+            ]
+        ]
+    },
+    {
+        "index": 101,
+        "passage": "Barry Yates is an American former professional basketball player. He played for the Philadelphia 76ers during the 1971\u201372 NBA season. His career in professional basketball has influenced many players such as Joel Embiid.",
+        "relations": "member of",
+        "entity": [
+            "Joel Embiid"
+        ],
+        "fact_list": [
+            [
+                "Barry Yates",
+                "member of",
+                "Philadelphia 76ers"
+            ]
+        ]
+    }
+]

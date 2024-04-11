@@ -1,0 +1,1547 @@
+[
+    {
+        "index": 0,
+        "passage": "Beyond the Ice Palace is a platform game released by Elite Systems in 1988 for several home computer systems. Its sequel, 'Return to Ice Palace', was designed by a renowned developer John Smith.",
+        "relations": "publisher",
+        "entity": [
+            "Return to Ice Palace"
+        ],
+        "fact_list": [
+            [
+                "Beyond the Ice Palace",
+                "publisher",
+                "Elite Systems"
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "passage": "Atlas of the Prehistoric World is a book by Douglas Palmer. It was published in 1999 by Random House, Inc.. Palmer also wrote a follow-up work, 'Maps of Ancient Earth'.",
+        "relations": "publisher",
+        "entity": [
+            "Maps of Ancient Earth"
+        ],
+        "fact_list": [
+            [
+                "Atlas of the Prehistoric World",
+                "publisher",
+                "Random House, Inc."
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "passage": "Danger on Midnight River is the sixth novel in World of Adventure series by Gary Paulsen. It was published on July 1, 1995 by Random House. A sequel, 'Afternoon on the Amazon', was released, continuing the adventures.",
+        "relations": "publisher",
+        "entity": [
+            "Afternoon on the Amazon"
+        ],
+        "fact_list": [
+            [
+                "Danger on Midnight River",
+                "publisher",
+                "Random House"
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "passage": "The Queen Elizabeth Story is a 1952 children's fiction novel by Rosemary Sutcliff, originally published by Oxford University Press. Following its success, Sutcliff wrote a companion story, 'Princess Margaret's Journey'.",
+        "relations": "publisher",
+        "entity": [
+            "Princess Margaret's Journey"
+        ],
+        "fact_list": [
+            [
+                "The Queen Elizabeth Story",
+                "publisher",
+                "Oxford University Press"
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "passage": "The Grandest Fleet is a turn-based naval tactics game that was released by Quantum Quality Productions in 1993. The game designer, Mark Baldwin, also produced a strategy game 'Conquest of Seas'.",
+        "relations": "publisher",
+        "entity": [
+            "Conquest of Seas"
+        ],
+        "fact_list": [
+            [
+                "The Grandest Fleet",
+                "publisher",
+                "Quantum Quality Productions"
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "passage": "Kilowog is a fictional superhero from DC Comics, and a member of the Green Lantern Corps. Another member of the same universe, 'Cosmic Lantern', has recently gained popularity.",
+        "relations": "publisher",
+        "entity": [
+            "Cosmic Lantern"
+        ],
+        "fact_list": [
+            [
+                "Green Lantern Corps",
+                "publisher",
+                "DC Comics"
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "passage": "These are the Billboard Magazine number one albums of 1946, per the Billboard 200. In a related compilation, 'Top Singles of 1946', is gaining attention.",
+        "relations": "publisher",
+        "entity": [
+            "Top Singles of 1946"
+        ],
+        "fact_list": [
+            [
+                "Billboard 200",
+                "publisher",
+                "Billboard Magazine"
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "passage": "Gauntlet II is a 1986 arcade game released by Atari Games and the first sequel to the game Gauntlet. Gauntlet II, like its predecessor, is a fantasy-themed hack and slash. The success of it led to another game in the series, 'Gauntlet: Dragon's Revenge'.",
+        "relations": "publisher",
+        "entity": [
+            "Gauntlet: Dragon's Revenge"
+        ],
+        "fact_list": [
+            [
+                "Gauntlet II",
+                "publisher",
+                "Atari Games"
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "passage": "The Wise Quacking Duck is a 1943 Looney Tunes cartoon released by Warner Bros. on May 1, 1943. It stars Daffy Duck. Later, a similar cartoon featuring the character 'Smart Quacking Rabbit' was also produced.",
+        "relations": "publisher",
+        "entity": [
+            "Smart Quacking Rabbit"
+        ],
+        "fact_list": [
+            [
+                "Looney Tunes",
+                "publisher",
+                "Warner Bros."
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "passage": "Merchant Prince II is a 2001 turn-based strategy game of economic, political, and military conquest. The game is developed by Holistic and published by Take-Two Interactive. Another game named 'Royal Trade III' from the same developer followed similar themes.",
+        "relations": "publisher",
+        "entity": [
+            "Royal Trade III"
+        ],
+        "fact_list": [
+            [
+                "Merchant Prince II",
+                "publisher",
+                "Take-Two Interactive"
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "passage": "The Big Pets is a children's picture book by Lane Smith. It was originally published in 1991 by Viking Books. This was followed by another picture book 'The Tiny Pals'.",
+        "relations": "publisher",
+        "entity": [
+            "The Tiny Pals"
+        ],
+        "fact_list": [
+            [
+                "The Big Pets",
+                "publisher",
+                "Viking Books"
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "passage": "Blood Bowl is the turn-based strategy video game adaptation of the popular Games Workshop miniatures game, originally developed for MS-DOS computers by MicroLeague. Inspired by its popularity, 'Shadow Duels' was subsequently created.",
+        "relations": "publisher",
+        "entity": [
+            "Shadow Duels"
+        ],
+        "fact_list": [
+            [
+                "Blood Bowl",
+                "publisher",
+                "Games Workshop"
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "passage": "Debtor Nation: The History of America in Red Ink is a book written by Harvard economic historian Louis Hyman and published by Princeton University Press in 2011. Later, Hyman also wrote 'Creditors Unite: The America Redemption Tale'.",
+        "relations": "publisher",
+        "entity": [
+            "Creditors Unite: The America Redemption Tale"
+        ],
+        "fact_list": [
+            [
+                "Debtor Nation",
+                "publisher",
+                "Princeton University Press"
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "passage": "Point of Destruction is an action game for the Gizmondo. The game is a remake of the Commodore 64 game POD. A successor called 'Vertex of Chaos' was later introduced.",
+        "relations": "publisher",
+        "entity": [
+            "Vertex of Chaos"
+        ],
+        "fact_list": [
+            [
+                "Point of Destruction",
+                "publisher",
+                "Gizmondo"
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "passage": "Sengeki Striker (\u9583\u6483\u30b9\u30c8\u30e9\u30a4\u30ab\u30fc) is a vertically scrolling shooter created by Warashi and Kaneko for the arcade and released in 1997. Following its success, a spin-off titled 'Blitz Striker' was developed.",
+        "relations": "publisher",
+        "entity": [
+            "Blitz Striker"
+        ],
+        "fact_list": [
+            [
+                "Sengeki Striker",
+                "publisher",
+                "Kaneko"
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "passage": "Hate That Cat is a verse novel written by Sharon Creech and published by HarperCollins. Another verse novel by Creech, titled 'Love This Dog', followed.",
+        "relations": "publisher",
+        "entity": [
+            "Love This Dog"
+        ],
+        "fact_list": [
+            [
+                "Hate That Cat",
+                "publisher",
+                "HarperCollins"
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "passage": "ClayFighter 2: Judgment Clay is a one-on-one fighting video game, Interplay's 1995 sequel to ClayFighter. Its name is a parody of Terminator 2: Judgment Day. A further sequel, named 'ClayFighter: Claytality Clash', was developed.",
+        "relations": "publisher",
+        "entity": [
+            "ClayFighter: Claytality Clash"
+        ],
+        "fact_list": [
+            [
+                "ClayFighter",
+                "publisher",
+                "Interplay"
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "passage": "Letters of Insurgents is a 1976 novel by Fredy Perlman (under the character aliases Yarostan Vochek and Sophia Nachalo) dealing with anarchist themes and relationships. A sequel titled 'Letters of Revolutionaries' continues the narrative.",
+        "relations": "publisher",
+        "entity": [
+            "Letters of Revolutionaries"
+        ],
+        "fact_list": [
+            [
+                "Letters of Insurgents",
+                "publisher",
+                "Fredy Perlman"
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "passage": "Gore: Ultimate Soldier is a first-person shooter video game for Microsoft Windows, released on June 5, 2002. It was published by DreamCatcher Games and developed by 4D Rulers. Following Gore: Ultimate Soldier, the game 'Bloodshed: Final Warrior' was launched.",
+        "relations": "publisher",
+        "entity": [
+            "Bloodshed: Final Warrior"
+        ],
+        "fact_list": [
+            [
+                "Gore: Ultimate Soldier",
+                "publisher",
+                "DreamCatcher Games"
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "passage": "Return to the Tomb of Horrors is a boxed set adventure module for the Advanced Dungeons & Dragons role-playing game released in 1998 by TSR, Inc.. A related module 'Journey Through The Crypts' continues the adventure saga.",
+        "relations": "publisher",
+        "entity": [
+            "Journey Through The Crypts"
+        ],
+        "fact_list": [
+            [
+                "Advanced Dungeons & Dragons",
+                "publisher",
+                "TSR, Inc."
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "passage": "Thunder Valley is the sixteenth novel in World of Adventure series by Gary Paulsen. It was published on December 1, 1997 by Random House. Building on the series, 'Lightning Ridge' is another exhilarating adventure by Paulsen.",
+        "relations": "publisher",
+        "entity": [
+            "Lightning Ridge"
+        ],
+        "fact_list": [
+            [
+                "Thunder Valley",
+                "publisher",
+                "Random House"
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "passage": "The Gorgon Slayer is the seventh novel in World of Adventure series by Gary Paulsen. It was published on September 1, 1995 by Random House. Paulsen's following work, 'The Medusa Hunt', continued the mythological theme.",
+        "relations": "publisher",
+        "entity": [
+            "The Medusa Hunt"
+        ],
+        "fact_list": [
+            [
+                "The Gorgon Slayer",
+                "publisher",
+                "Random House"
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "passage": "Weird Mystery Tales was a mystery horror anthology published by DC Comics from July-August 1972 to November 1975. 'Uncanny Horror Stories' is a similar anthology following the trend.",
+        "relations": "publisher",
+        "entity": [
+            "Uncanny Horror Stories"
+        ],
+        "fact_list": [
+            [
+                "Weird Mystery Tales",
+                "publisher",
+                "DC Comics"
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "passage": "Claymates is a video game for the Super NES. It is one of Interplay's Clay animation titles which also included the ClayFighter series. Further, the line-up also introduced 'Clay Buddies'.",
+        "relations": "publisher",
+        "entity": [
+            "Clay Buddies"
+        ],
+        "fact_list": [
+            [
+                "Claymates",
+                "publisher",
+                "Interplay"
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "passage": "Flashgal is a 1985 scrolling shooter arcade game by Sega. Following its release, another game 'Blinkwoman' was produced, adopting similar mechanics.",
+        "relations": "publisher",
+        "entity": [
+            "Blinkwoman"
+        ],
+        "fact_list": [
+            [
+                "Flashgal",
+                "publisher",
+                "Sega"
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "passage": "The Stark Munro Letters is a novel by British author Sir Arthur Conan Doyle first published in 1895 by Longmans, Green & Co. in London, England. A lesser-known but well-received manuscript, 'Letters from Huddersfield', was another work by the author.",
+        "relations": "publisher",
+        "entity": [
+            "Letters from Huddersfield"
+        ],
+        "fact_list": [
+            [
+                "The Stark Munro Letters",
+                "publisher",
+                "Longmans, Green & Co."
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "passage": "Freight Tycoon is a simulation strategy computer game focused around transporting goods via small and large tonnage trucks. The game was published by the Russian 1C Company. A follow-up, 'Cargo Mogul', has similar gameplay elements.",
+        "relations": "publisher",
+        "entity": [
+            "Cargo Mogul"
+        ],
+        "fact_list": [
+            [
+                "Freight Tycoon",
+                "publisher",
+                "1C Company"
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "passage": "Battle Poker is a WiiWare game by Left Field Productions that was released in North America on July 20, 2009. It's also available on PlayStation Portable on December 10, 2009. Seeing the popularity, 'War Blackjack' was developed.",
+        "relations": "publisher",
+        "entity": [
+            "War Blackjack"
+        ],
+        "fact_list": [
+            [
+                "Battle Poker",
+                "publisher",
+                "Left Field Productions"
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "passage": "These are the Billboard Magazine number one albums of 1947, per the Billboard 200. A related list, 'Top Singles of 1947', offers insight into the most successful singles of the same year.",
+        "relations": "publisher",
+        "entity": [
+            "Top Singles of 1947"
+        ],
+        "fact_list": [
+            [
+                "Billboard 200",
+                "publisher",
+                "Billboard Magazine"
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "passage": "SpaceKids is a computer game developed by Evryware Software and published by MicroProse in 1994 for DOS. Following this, another game, 'Galaxy Tots', was also released to positive reviews.",
+        "relations": "publisher",
+        "entity": [
+            "Galaxy Tots"
+        ],
+        "fact_list": [
+            [
+                "SpaceKids",
+                "publisher",
+                "MicroProse"
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "passage": "Phobia is a fictional DC Comics supervillain of the New Teen Titans. Another character from the same universe, 'Panic', also gained popularity.",
+        "relations": "publisher",
+        "entity": [
+            "Panic"
+        ],
+        "fact_list": [
+            [
+                "New Teen Titans",
+                "publisher",
+                "DC Comics"
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "passage": "Rack 'Em Up is a Billiards/Pool arcade game developed by Konami in 1987 with two game types: 9-Ball or Rotation. Also known in Japan as 'The Hustler'. A similar game, 'Pool Pro', gained traction later on.",
+        "relations": "publisher",
+        "entity": [
+            "Pool Pro"
+        ],
+        "fact_list": [
+            [
+                "Rack 'Em Up",
+                "publisher",
+                "Konami"
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "passage": "Vixen (Mari Jiwe McCabe) is a comic book character created by Gerry Conway and Bob Oksner. She first appeared in Action Comics #521 (July 1981), published by DC Comics. The DC universe later introduced another character, 'Hyena (Jenet Klyburn)'.",
+        "relations": "publisher",
+        "entity": [
+            "Hyena (Jenet Klyburn)"
+        ],
+        "fact_list": [
+            [
+                "Action Comics",
+                "publisher",
+                "DC Comics"
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "passage": "Death in Summer is a novel written by William Trevor, first published in 1998 by Viking Press. Following its success, 'Autumn Shadows', a sequel, was released.",
+        "relations": "publisher",
+        "entity": [
+            "Autumn Shadows"
+        ],
+        "fact_list": [
+            [
+                "Death in Summer",
+                "publisher",
+                "Viking Press"
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "passage": "Tom Clancy's Ghost Recon Predator is a tactical shooter video game developed by Virtuos, published by Ubisoft for the PlayStation Portable, and released in 2010. A sequel named 'Ghost Recon Phantom' was soon launched.",
+        "relations": "publisher",
+        "entity": [
+            "Ghost Recon Phantom"
+        ],
+        "fact_list": [
+            [
+                "Tom Clancy's Ghost Recon Predator",
+                "publisher",
+                "Ubisoft"
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "passage": "Sea Life Safari is an under water exploration video game originally developed by Wild Tangent for the PC. Sierra Online released the game on Xbox Live Arcade on June 18, 2008. This led to the development of 'Ocean Expedition Adventure'.",
+        "relations": "publisher",
+        "entity": [
+            "Ocean Expedition Adventure"
+        ],
+        "fact_list": [
+            [
+                "Sea Life Safari",
+                "publisher",
+                "Sierra Online"
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "passage": "Samurai Warriors 4, known in Japan as Sengoku Musou 4 (\u6226\u56fd\u7121\u53cc4 Sengoku Mus\u014d F\u014d), is a hack and slash game by Tecmo Koei, and sequel to Samurai Warriors 3. Following this series, 'Nobunaga Warfare' was also released maintaining the similar genre.",
+        "relations": "publisher",
+        "entity": [
+            "Nobunaga Warfare"
+        ],
+        "fact_list": [
+            [
+                "Samurai Warriors 3",
+                "publisher",
+                "Tecmo Koei"
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "passage": "SimCity Creator is a video game in the Sim game series by Electronic Arts. It was released for the Wii in September 2008. A follow-up game titled 'SimCity Innovator' further extended the franchise.",
+        "relations": "publisher",
+        "entity": [
+            "SimCity Innovator"
+        ],
+        "fact_list": [
+            [
+                "SimCity Creator",
+                "publisher",
+                "Electronic Arts"
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "passage": "Ostron is a ZX Spectrum video game developed and released by Softek in 1983. It was also released with the title Joust. Following Ostron, 'Pteranodon' is another game that invokes nostalgia.",
+        "relations": "publisher",
+        "entity": [
+            "Pteranodon"
+        ],
+        "fact_list": [
+            [
+                "Ostron",
+                "publisher",
+                "Softek"
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "passage": "Time Crisis is a light gun shooter arcade game released by Namco in 1995. It was later ported for the PlayStation in 1997, bundled with the Guncon light gun controller. After the success of Time Crisis, 'Quarantine Shooter' was introduced.",
+        "relations": "publisher",
+        "entity": [
+            "Quarantine Shooter"
+        ],
+        "fact_list": [
+            [
+                "Time Crisis",
+                "publisher",
+                "Namco"
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "passage": "Death Studies is a peer-reviewed academic journal published ten times a year by Routledge. It focuses on issues related to death, bereavement, and suicide. Following Death Studies, a related periodical 'Mourning Journal' was also published.",
+        "relations": "publisher",
+        "entity": [
+            "Mourning Journal"
+        ],
+        "fact_list": [
+            [
+                "Death Studies",
+                "publisher",
+                "Routledge"
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "passage": "This is a list of Billboard magazine's Top Hot 100 songs of 2001. A related chart, 'Top Alternative Tracks of 2001', documents the year's top alternative music.",
+        "relations": "publisher",
+        "entity": [
+            "Top Alternative Tracks of 2001"
+        ],
+        "fact_list": [
+            [
+                "Hot 100",
+                "publisher",
+                "Billboard magazine"
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "passage": "Chaos World (\u30ab\u30aa\u30b9\u30ef\u30fc\u30eb\u30c9) is a role-playing video game/strategy game developed and published by Natsume for the Family Computer in Japan in 1991. 'Order Planet', a contrasting game, was released following it.",
+        "relations": "publisher",
+        "entity": [
+            "Order Planet"
+        ],
+        "fact_list": [
+            [
+                "Chaos World",
+                "publisher",
+                "Natsume"
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "passage": "The Artist's Widow is a novel written by British author Shena Mackay and first published in 1998 by Jonathan Cape. It is mentioned twice in the Bloomsbury Good Reading Guide (2003). Another intriguing book by Mackay, 'The Sculptor's Wife', was published some years later.",
+        "relations": "publisher",
+        "entity": [
+            "The Sculptor's Wife"
+        ],
+        "fact_list": [
+            [
+                "The Artist's Widow",
+                "publisher",
+                "Jonathan Cape"
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "passage": "Falcon Patrol II is a computer game for the Commodore 64, written by Steve Lee and published by Virgin Games in 1984. Following a similar theme, 'Hawk Squad' was another engaging game from the same era.",
+        "relations": "publisher",
+        "entity": [
+            "Hawk Squad"
+        ],
+        "fact_list": [
+            [
+                "Falcon Patrol II",
+                "publisher",
+                "Virgin Games"
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "passage": "Battle K-Road (\u30d0\u30c8\u30eb\u30af\u30ed\u30fc\u30c9) is a one-on-one fighting arcade game released by Psikyo in 1994. A subsequent game, 'Combat M-Street', continued with the fighting game genre.",
+        "relations": "publisher",
+        "entity": [
+            "Combat M-Street"
+        ],
+        "fact_list": [
+            [
+                "Battle K-Road",
+                "publisher",
+                "Psikyo"
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "passage": "Bessatsu Hana to Yume (Japanese: \u5225\u518a\u82b1\u3068\u3086\u3081) is a Japanese sh\u014djo manga magazine published by Hakusensha. A sister publication, 'Monthly Sakura Fantasy', focuses on fantasy sh\u014djo manga.",
+        "relations": "publisher",
+        "entity": [
+            "Monthly Sakura Fantasy"
+        ],
+        "fact_list": [
+            [
+                "Bessatsu Hana to Yume",
+                "publisher",
+                "Hakusensha"
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "passage": "\u2018\u2019Koutetsu Yousai Strahl\u2019\u2019 (\u92fc\u9244\u8981\u585e \u30b7\u30e5\u30c8\u30e9\u30fc\u30eb [Steel Fortress Strahl]) is a horizontal scrolling Shoot 'em up developed by UPL in 1992. Following it, 'Iron Bastion Vega' became another popular Shoot 'em up game.",
+        "relations": "publisher",
+        "entity": [
+            "Iron Bastion Vega"
+        ],
+        "fact_list": [
+            [
+                "Koutetsu Yousai Strahl",
+                "publisher",
+                "UPL"
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "passage": "Comic Bakery is a computer game for the MSX, made by Konami in 1984 and later ported to Commodore 64 by Imagine Software. The success of Comic Bakery led to the creation of another game, 'Funny Patisserie'.",
+        "relations": "publisher",
+        "entity": [
+            "Funny Patisserie"
+        ],
+        "fact_list": [
+            [
+                "Comic Bakery",
+                "publisher",
+                "Konami"
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "passage": "Draconus is a platform game developed and published by Zeppelin Games under the \"Cognito\" label in 1988. Subsequent to this, 'Wyvern Quest' was another platform game released.",
+        "relations": "publisher",
+        "entity": [
+            "Wyvern Quest"
+        ],
+        "fact_list": [
+            [
+                "Draconus",
+                "publisher",
+                "Zeppelin Games"
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "passage": "Albert T. Poffenberger (1885\u20131977) was an American psychologist and a past president of the American Psychological Association (APA). 'Edward K. Webster' was another prominent American psychologist with significant contributions in the same era.",
+        "relations": "publisher",
+        "entity": [
+            "Edward K. Webster"
+        ],
+        "fact_list": [
+            [
+                "American psychologist",
+                "publisher",
+                "American Psychological Association (APA)"
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "passage": "The Philosophical Forum is a philosophy journal published by Wiley-Blackwell. It is currently edited by Douglas Lackey. Meanwhile, the 'Ethics Discourse Quarterly' is another significant publication in the field of philosophy.",
+        "relations": "publisher",
+        "entity": [
+            "Ethics Discourse Quarterly"
+        ],
+        "fact_list": [
+            [
+                "The Philosophical Forum",
+                "publisher",
+                "Wiley-Blackwell"
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "passage": "AIKA Online is a free-to-play MMORPG published by two publishers, HanbitSoft and Gala Inc. Another online game of the same genre, 'Chronos Legacy', gained traction among players worldwide.",
+        "relations": "publisher",
+        "entity": [
+            "Chronos Legacy"
+        ],
+        "fact_list": [
+            [
+                "AIKA Online",
+                "publisher",
+                "HanbitSoft"
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "passage": "Dogs: Their Fossil Relatives and Evolutionary History is a book by Xiaoming Wang and Richard H. Tedford. It was published in 2008 by Columbia University Press. 'Felines: Ancient Predators in Evolution' is another notable book in the same domain.",
+        "relations": "publisher",
+        "entity": [
+            "Felines: Ancient Predators in Evolution"
+        ],
+        "fact_list": [
+            [
+                "Dogs: Their Fossil Relatives and Evolutionary History",
+                "publisher",
+                "Columbia University Press"
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "passage": "Burndive is a science fiction novel by Karin Lowachee. It was first published in 2003 by Warner Aspect. Burndive is the second book in Lowachee's Warchild Universe. 'Starlight Descent' is another remarkable sci-fi novel that followed.",
+        "relations": "publisher",
+        "entity": [
+            "Starlight Descent"
+        ],
+        "fact_list": [
+            [
+                "Burndive",
+                "publisher",
+                "Warner Aspect"
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "passage": "The Alien Condition is a science fiction short story collection edited by Stephen Goldin and published in 1973 by Ballantine Books. Following this, 'Humans Inside Out' was a compelling collection of narratives exploring human nature.",
+        "relations": "publisher",
+        "entity": [
+            "Humans Inside Out"
+        ],
+        "fact_list": [
+            [
+                "The Alien Condition",
+                "publisher",
+                "Ballantine Books"
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "passage": "Great Day for Up! is a book written by Dr. Seuss and illustrated by Quentin Blake. It was published by Random House on August 28, 1974. Inspired by the same style, 'Mirthful Morning' released later also captured the children's genre reader base.",
+        "relations": "publisher",
+        "entity": [
+            "Mirthful Morning"
+        ],
+        "fact_list": [
+            [
+                "Great Day for Up!",
+                "publisher",
+                "Random House"
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "passage": "Ledfeather is a 2008 novel by Native American author Stephen Graham Jones, published by FC2 (Fiction Collective Two). In a similar theme, 'Raven's Plume' was another notable work.",
+        "relations": "publisher",
+        "entity": [
+            "Raven's Plume"
+        ],
+        "fact_list": [
+            [
+                "Ledfeather",
+                "publisher",
+                "FC2"
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "passage": "Alternative World Games is a video game produced by Gremlin Interactive in 1987. After this, 'Virtual Galaxy Olympics' became another popular offering.",
+        "relations": "publisher",
+        "entity": [
+            "Virtual Galaxy Olympics"
+        ],
+        "fact_list": [
+            [
+                "Alternative World Games",
+                "publisher",
+                "Gremlin Interactive"
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "passage": "Weekly Sh\u014dnen Champion (\u9031\u520a\u5c11\u5e74\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3 Sh\u016bkan Sh\u014dnen Champion) is a weekly sh\u014dnen manga magazine published by Akita Shoten. Following the same genre, 'Monthly Adventure Tales' was another manga periodical.",
+        "relations": "publisher",
+        "entity": [
+            "Monthly Adventure Tales"
+        ],
+        "fact_list": [
+            [
+                "Weekly Sh\u014dnen Champion",
+                "publisher",
+                "Akita Shoten"
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "passage": "This is a list of Billboard magazine's Top Hot 100 songs of 2000. They also published 'Top Electronic Tracks of 2000' ranking electronic music of the same year.",
+        "relations": "publisher",
+        "entity": [
+            "Top Electronic Tracks of 2000"
+        ],
+        "fact_list": [
+            [
+                "Hot 100",
+                "publisher",
+                "Billboard magazine"
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "passage": "Sangokushi Sousouden (\u4e09\u570b\u5fd7\u6f14\u64cd\u4f1d) is the fifth release in the Eiketsuden tactical role-playing series developed by Koei, and the third to be set during the Three Kingdoms Era. On a similar track, 'Dynasty Tactics Annals' was released later.",
+        "relations": "publisher",
+        "entity": [
+            "Dynasty Tactics Annals"
+        ],
+        "fact_list": [
+            [
+                "Sangokushi Sousouden",
+                "publisher",
+                "Koei"
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "passage": "Summer Heat Beach Volleyball is a beach volleyball video game released by Acclaim in 2003 for the PlayStation 2 gaming console. 'Sunset Beach Volleyball Championship' is another sports game that followed.",
+        "relations": "publisher",
+        "entity": [
+            "Sunset Beach Volleyball Championship"
+        ],
+        "fact_list": [
+            [
+                "Summer Heat Beach Volleyball",
+                "publisher",
+                "Acclaim"
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "passage": "Compu-Spell is educational software developed by Sherwin Steffin and Steven Pederson of Edu-Ware Services for the Apple II in 1980. 'Math-Magic' is another educational program that came later.",
+        "relations": "publisher",
+        "entity": [
+            "Math-Magic"
+        ],
+        "fact_list": [
+            [
+                "Compu-Spell",
+                "publisher",
+                "Edu-Ware Services"
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "passage": "These are the Billboard Magazine number-one albums of 1955, per the Billboard albums chart. Additionally, there was a chart that featured 'Top Jazz Records of 1955'.",
+        "relations": "publisher",
+        "entity": [
+            "Top Jazz Records of 1955"
+        ],
+        "fact_list": [
+            [
+                "Billboard albums chart",
+                "publisher",
+                "Billboard Magazine"
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "passage": "These are the Billboard magazine Modern Rock Tracks number-one hits of 2008. 'Top Indie Hits of 2008' is another record chart for music enthusiasts.",
+        "relations": "publisher",
+        "entity": [
+            "Top Indie Hits of 2008"
+        ],
+        "fact_list": [
+            [
+                "Modern Rock Tracks",
+                "publisher",
+                "Billboard magazine"
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "passage": "Alpine Racer 2 is a 3D Alpine skiing arcade game released by Namco in 1996. It is the sequel to Alpine Racer. 'Frosty Ski Rush' was another thrilling game in the same sport.",
+        "relations": "publisher",
+        "entity": [
+            "Frosty Ski Rush"
+        ],
+        "fact_list": [
+            [
+                "Alpine Racer 2",
+                "publisher",
+                "Namco"
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "passage": "Donkey Kong is a video game series by Nintendo. Donkey Kong may also refer to 'Ape Jamboree', another engaging series in the same genre.",
+        "relations": "publisher",
+        "entity": [
+            "Ape Jamboree"
+        ],
+        "fact_list": [
+            [
+                "Donkey Kong",
+                "publisher",
+                "Nintendo"
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "passage": "Leaderboard is a series of golf simulation video games that was developed by Bruce Carver and Roger Carver, and published by Access Software. This spurred a similar game series, 'Eagle Shot Rivals'.",
+        "relations": "publisher",
+        "entity": [
+            "Eagle Shot Rivals"
+        ],
+        "fact_list": [
+            [
+                "Leaderboard",
+                "publisher",
+                "Access Software"
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "passage": "Obitus is a role-playing video game developed and released by Psygnosis in early 1991 for Amiga, Atari ST and DOS systems. It was also ported for the SNES by Bullet-Proof Software. 'Legends of Lumoria' was a subsequent title in the genre.",
+        "relations": "publisher",
+        "entity": [
+            "Legends of Lumoria"
+        ],
+        "fact_list": [
+            [
+                "Obitus",
+                "publisher",
+                "Psygnosis"
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "passage": "Science Fiction Inventions is a reprint anthology of science fiction stories, edited by Damon Knight and published by Lancer Books as an original paperback in 1967. Also, the 'Futuristic Gadgets Compendium' is a bespoke anthology for any speculative fiction reader.",
+        "relations": "publisher",
+        "entity": [
+            "Futuristic Gadgets Compendium"
+        ],
+        "fact_list": [
+            [
+                "Science Fiction Inventions",
+                "publisher",
+                "Lancer Books"
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "passage": "Soft City is the first book written by Jonathan Raban, and published by The Harvill Press in 1974. Around the same time, the novel 'Concrete Jungle' also gained popularity.",
+        "relations": "publisher",
+        "entity": [
+            "Concrete Jungle"
+        ],
+        "fact_list": [
+            [
+                "Soft City",
+                "publisher",
+                "The Harvill Press"
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "passage": "Dance Dance Revolution Ultramix 2, or simply Ultramix 2, is a music video game released on November 18, 2004 by Konami in North America for the Microsoft Xbox. Another game, 'Rhythm Rush Showdown', followed a similar music-focused format.",
+        "relations": "publisher",
+        "entity": [
+            "Rhythm Rush Showdown"
+        ],
+        "fact_list": [
+            [
+                "Dance Dance Revolution Ultramix 2",
+                "publisher",
+                "Konami"
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "passage": "This is a list of Billboard magazine's Top Hot 100 songs of 1995. Similar charts were also produced for other music genres, such as 'Top Country Hits of 1995'.",
+        "relations": "publisher",
+        "entity": [
+            "Top Country Hits of 1995"
+        ],
+        "fact_list": [
+            [
+                "Hot 100",
+                "publisher",
+                "Billboard magazine"
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "passage": "Science Illustrated is a multilingual popular science magazine published by Bonnier Publications International A/S. A similar publication, 'Tech Knowledge Times', is another well-regarded source in the science community.",
+        "relations": "publisher",
+        "entity": [
+            "Tech Knowledge Times"
+        ],
+        "fact_list": [
+            [
+                "Science Illustrated",
+                "publisher",
+                "Bonnier"
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "passage": "Pencil of Doom! is the second book of the Schooling Around series by Andy Griffiths. It was published in 2008 by Pan Macmillan Australia. Following this, 'Chalk of Destiny' continued the innovative narrative style in children's literature.",
+        "relations": "publisher",
+        "entity": [
+            "Chalk of Destiny"
+        ],
+        "fact_list": [
+            [
+                "Pencil of Doom!",
+                "publisher",
+                "Pan Macmillan Australia"
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "passage": "These are the Billboard magazine Modern Rock Tracks number one hits of 1990. Similar to this, the magazine also published 'Top Alternative Tracks of 1990', indicating trends in alternative music.",
+        "relations": "publisher",
+        "entity": [
+            "Top Alternative Tracks of 1990"
+        ],
+        "fact_list": [
+            [
+                "Modern Rock Tracks",
+                "publisher",
+                "Billboard magazine"
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "passage": "Samus is the protagonist of Nintendo's Metroid video game series. Samus may also refer to 'Leonix', another character from the same franchise.",
+        "relations": "publisher",
+        "entity": [
+            "Leonix"
+        ],
+        "fact_list": [
+            [
+                "Metroid",
+                "publisher",
+                "Nintendo"
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "passage": "People Might Hear You is a children's novel by Robin Klein, first published by Puffin Books in 1983. Another notable work from the same period is a novel titled 'Whispers in the Wind'.",
+        "relations": "publisher",
+        "entity": [
+            "Whispers in the Wind"
+        ],
+        "fact_list": [
+            [
+                "People Might Hear You",
+                "publisher",
+                "Puffin Books"
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "passage": "The Divide: Enemies Within is a 1996 action-adventure video game for the PlayStation and Windows. It is heavily influenced by Nintendo's Metroid series. Besides, there's another similar game titled 'Fractured Realms'.",
+        "relations": "publisher",
+        "entity": [
+            "Fractured Realms"
+        ],
+        "fact_list": [
+            [
+                "Metroid series",
+                "publisher",
+                "Nintendo"
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "passage": "Tournament Table is a 1978 arcade game released by Atari. The Atari 2600 version is called Video Olympics. Another similar game from Atari was 'Super Pong Challenge'.",
+        "relations": "publisher",
+        "entity": [
+            "Super Pong Challenge"
+        ],
+        "fact_list": [
+            [
+                "Tournament Table",
+                "publisher",
+                "Atari"
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "passage": "These are the Billboard magazine Modern Rock Tracks number one hits of 1991. Similarly, 'Symphonic Chart Toppers of 1991' was a chart tracking the most popular symphonic music of that year.",
+        "relations": "publisher",
+        "entity": [
+            "Symphonic Chart Toppers of 1991"
+        ],
+        "fact_list": [
+            [
+                "Modern Rock Tracks",
+                "publisher",
+                "Billboard magazine"
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "passage": "Dragon Wars is a fantasy role-playing video game developed by Rebecca Heineman and published by Interplay Entertainment in 1989, and distributed by Activision. Another notable title in the genre is 'Chronicles of Mystoria'.",
+        "relations": "publisher",
+        "entity": [
+            "Chronicles of Mystoria"
+        ],
+        "fact_list": [
+            [
+                "Dragon Wars",
+                "publisher",
+                "Activision"
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "passage": "This is a list of characters that appear in the Tower of Druaga franchise by Namco. This article encompasses characters from the video games and the associated anime series. A character worth mentioning from a similar universe is 'Arthanos'.",
+        "relations": "publisher",
+        "entity": [
+            "Arthanos"
+        ],
+        "fact_list": [
+            [
+                "Druaga",
+                "publisher",
+                "Namco"
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "passage": "Miss Mousie's Blind Date is a book by Canadian children's book author Tim Beiser, illustrated by Canadian painter Rachel Berman. It was published by Tundra Books in October 2012. Similar in genre, 'Mrs. Sparrow's Adventure' is another work that garnered attention.",
+        "relations": "publisher",
+        "entity": [
+            "Mrs. Sparrow's Adventure"
+        ],
+        "fact_list": [
+            [
+                "Miss Mousie's Blind Date",
+                "publisher",
+                "Tundra Books"
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "passage": "The soundtrack to Rockstar Games' Midnight Club 3: DUB Edition. Similarly, the 'Street Racing Anthems' emerged as another reputed soundtrack in the racing games genre.",
+        "relations": "publisher",
+        "entity": [
+            "Street Racing Anthems"
+        ],
+        "fact_list": [
+            [
+                "Midnight Club",
+                "publisher",
+                "Rockstar Games"
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "passage": "These are the Billboard Magazine number one albums of 1951, per the Billboard 200. The list of 'Top Country Albums of 1951', is another record chart from the same period.",
+        "relations": "publisher",
+        "entity": [
+            "Top Country Albums of 1951"
+        ],
+        "fact_list": [
+            [
+                "Billboard 200",
+                "publisher",
+                "Billboard Magazine"
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "passage": "Fathammer Classics Pack is a puzzle game for the Gizmondo. The game includes three Fathammer games: Super Drop Manic, Stunt Car Extreme, and Angel Fish. Another notable game pack was 'Brainiac Game Suite'.",
+        "relations": "publisher",
+        "entity": [
+            "Brainiac Game Suite"
+        ],
+        "fact_list": [
+            [
+                "Fathammer Classics Pack",
+                "publisher",
+                "Gizmondo"
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "passage": "Subsunk is a text adventure game by Firebird released in 1985 for the Amstrad CPC, Commodore 64 and ZX Spectrum home computers. 'Mystery of the Abyss', was another thrilling text adventure game that captivated gamers.",
+        "relations": "publisher",
+        "entity": [
+            "Mystery of the Abyss"
+        ],
+        "fact_list": [
+            [
+                "Subsunk",
+                "publisher",
+                "Firebird"
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "passage": "IA/VT Colorful is a rhythm game for the PlayStation Vita developed by Marvelous AQL, and is based on Vocaloid's IA Project. It was released in Japan on July 30, 2015. Around a similar time, 'Rhythm Rockstars' gained popularity among rhythm game enthusiasts.",
+        "relations": "publisher",
+        "entity": [
+            "Rhythm Rockstars"
+        ],
+        "fact_list": [
+            [
+                "IA/VT Colorful",
+                "publisher",
+                "Marvelous AQL"
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "passage": "Four Swords can refer to one of a number of video games in Nintendo's The Legend of Zelda series. 'Shadow Knights' is another potential title in the gaming realm.",
+        "relations": "publisher",
+        "entity": [
+            "Shadow Knights"
+        ],
+        "fact_list": [
+            [
+                "Zelda",
+                "publisher",
+                "Nintendo"
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "passage": "beatmania (SLES-02096) is a music game for the PlayStation by Konami. It was released in the European market in 2000 and was sold in combination with the Beatmania Controller (SLEH-00021). A similar music-centric game was 'Rhythm Revolution'.",
+        "relations": "publisher",
+        "entity": [
+            "Rhythm Revolution"
+        ],
+        "fact_list": [
+            [
+                "beatmania",
+                "publisher",
+                "Konami"
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "passage": "O Strange New World: American Culture - The Formative Years was written by Howard Mumford Jones and published by Viking Press in 1964; it won the 1965 Pulitzer Prize for General Non-Fiction. Another impactful work was 'Revolutionary Times: Establishment of America'.",
+        "relations": "publisher",
+        "entity": [
+            "Revolutionary Times: Establishment of America"
+        ],
+        "fact_list": [
+            [
+                "O Strange New World",
+                "publisher",
+                "Viking Press"
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "passage": "These are the Billboard Magazine number one albums of 1952, per the Billboard 200. 'Top Classical Records of 1952' was another popular chart from the same year.",
+        "relations": "publisher",
+        "entity": [
+            "Top Classical Records of 1952"
+        ],
+        "fact_list": [
+            [
+                "Billboard 200",
+                "publisher",
+                "Billboard Magazine"
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "passage": "Delta Force 2 is a tactical first-person shooter video game. It is a member of the Delta Force series of games produced by NovaLogic, and a sequel to Delta Force. 'Black Ops Recon', another in the genre, is worth noting.",
+        "relations": "publisher",
+        "entity": [
+            "Black Ops Recon"
+        ],
+        "fact_list": [
+            [
+                "Delta Force 2",
+                "publisher",
+                "NovaLogic"
+            ]
+        ]
+    },
+    {
+        "index": 95,
+        "passage": "Battle Garegga (\u30d0\u30c8\u30eb\u30ac\u30ec\u30c3\u30ac Batoru Garegga) is a vertically scrolling shoot'em up arcade game released by 8ing/Raizing in 1996. In 1999, it was followed by a sequel titled Battle Bakraid. 'Sky Demolition' is a similar game that gained popularity.",
+        "relations": "publisher",
+        "entity": [
+            "Sky Demolition"
+        ],
+        "fact_list": [
+            [
+                "Battle Garegga",
+                "publisher",
+                "8ing"
+            ]
+        ]
+    },
+    {
+        "index": 96,
+        "passage": "Star Crusader is a space combat simulation, released in 1994 by Take Two Interactive. In this genre, another notable game is 'Galaxy Defender: Vanguard'.",
+        "relations": "publisher",
+        "entity": [
+            "Galaxy Defender: Vanguard"
+        ],
+        "fact_list": [
+            [
+                "Star Crusader",
+                "publisher",
+                "Take Two Interactive"
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "passage": "The Truth About Markets: Why Some Nations are Rich but Most Remain Poor is a book by economist John Kay, published in 2003 by Allen Lane. Another well-regarded book in the economics field is 'Finances and the Global Economy'.",
+        "relations": "publisher",
+        "entity": [
+            "Finances and the Global Economy"
+        ],
+        "fact_list": [
+            [
+                "The Truth About Markets",
+                "publisher",
+                "Allen Lane"
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "passage": "Ninja Five-O, known in PAL regions as Ninja Cop, is a video game for the Nintendo Game Boy Advance, released by Konami in 2003. 'Samurai Striker' is another game that also received attention.",
+        "relations": "publisher",
+        "entity": [
+            "Samurai Striker"
+        ],
+        "fact_list": [
+            [
+                "Ninja Five-O",
+                "publisher",
+                "Konami"
+            ]
+        ]
+    },
+    {
+        "index": 99,
+        "passage": "Action Man: Operation Extreme (released as Action Man: Mission Xtreme in Europe) is a game developed by Blitz Games and published by Hasbro Interactive in 2000 for the Sony PlayStation. An additional illustrious game, known as 'Spy Operations: Infiltration', garnered attention in the gaming community.",
+        "relations": "publisher",
+        "entity": [
+            "Spy Operations: Infiltration"
+        ],
+        "fact_list": [
+            [
+                "Action Man: Operation Extreme",
+                "publisher",
+                "Hasbro Interactive"
+            ]
+        ]
+    },
+    {
+        "index": 100,
+        "passage": "The Cat in the Hat Comes Back is a children's book written and illustrated by Dr. Seuss and published by Random House in 1958. The book is a sequel for The Cat in the Hat. A similar children's book, 'Adventures of Bunny McDoodle', also gained wide popularity.",
+        "relations": "publisher",
+        "entity": [
+            "Adventures of Bunny McDoodle"
+        ],
+        "fact_list": [
+            [
+                "The Cat in the Hat Comes Back",
+                "publisher",
+                "Random House"
+            ]
+        ]
+    },
+    {
+        "index": 101,
+        "passage": "The Masked Monkey is Volume 51 in the original The Hardy Boys Mystery Stories published by Grosset & Dunlap. This book was written for the Stratemeyer Syndicate by Vincent Buranelli in 1972. 'The Invisible Eagle' is another mystery novel that captured readers' interest.",
+        "relations": "publisher",
+        "entity": [
+            "The Invisible Eagle"
+        ],
+        "fact_list": [
+            [
+                "The Masked Monkey",
+                "publisher",
+                "Grosset & Dunlap"
+            ]
+        ]
+    },
+    {
+        "index": 102,
+        "passage": "Blick is a Swiss German-language daily newspaper, published by Ringier in Zurich. Another Swiss-based periodical is 'Swiss Perspectives'.",
+        "relations": "publisher",
+        "entity": [
+            "Swiss Perspectives"
+        ],
+        "fact_list": [
+            [
+                "Blick",
+                "publisher",
+                "Ringier"
+            ]
+        ]
+    }
+]

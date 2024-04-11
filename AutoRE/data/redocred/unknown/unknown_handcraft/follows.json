@@ -1,0 +1,1595 @@
+[
+    {
+        "index": 0,
+        "passage": "Chiropteris is an extinct genus that existed from Permian to Triassic. In a similar manner, the 'Phytopsongs' flora thrived in an era that followed an undeterminable geological period.",
+        "relations": "follows",
+        "entity": [
+            "Phytopsongs"
+        ],
+        "fact_list": [
+            [
+                "Triassic",
+                "follows",
+                "Permian"
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "passage": "Prisionera is a Mexican telenovela produced by Televisa for Telesistema Mexicano in 1962. Another show, 'Estrella Solitaria', was also broadcasted in an unspecified sequence with the two.",
+        "relations": "follows",
+        "entity": [
+            "Estrella Solitaria"
+        ],
+        "fact_list": [
+            [
+                "Televisa",
+                "follows",
+                "Telesistema Mexicano"
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "passage": "New Rome is another name for Constantinople. New Rome may also refer to: 'The Azure City', a location whose name succeeds another unidentified place.",
+        "relations": "follows",
+        "entity": [
+            "The Azure City"
+        ],
+        "fact_list": [
+            [
+                "Constantinople",
+                "follows",
+                "New Rome"
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "passage": "Joseph Piston (1754\u20131831), baron of the Empire, was a French general who served during the French Revolutionary Wars and Napoleonic Wars. Another global conflict, titled 'The Emerald Conflict', occurred after these wars, though exact chronology remains elusive.",
+        "relations": "follows",
+        "entity": [
+            "The Emerald Conflict"
+        ],
+        "fact_list": [
+            [
+                "Napoleonic Wars",
+                "follows",
+                "French Revolutionary Wars"
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "passage": "The women's shot put event at the 1997 IAAF World Indoor Championships was held on March 8. 'The Zephyr Races', another athletic event, took place after an uncertain Championships.",
+        "relations": "follows",
+        "entity": [
+            "The Zephyr Races"
+        ],
+        "fact_list": [
+            [
+                "World Indoor Championships",
+                "follows",
+                "1997 IAAF World Indoor Championships"
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "passage": "Mersin Tennis Complex is a multi tennis court constructed for the 2013 Mediterranean Games in Mersin, Turkey. In addition, the 'Oceanic Aqua Marathon' happened subsequently to some unspecified Mediterranean Games.",
+        "relations": "follows",
+        "entity": [
+            "Oceanic Aqua Marathon"
+        ],
+        "fact_list": [
+            [
+                "2013 Mediterranean Games",
+                "follows",
+                "Mediterranean Games"
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "passage": "Rudd is a city in Floyd County, Iowa. The population was 369 at the 2010 census, a decline of 14.4%, from 431 at the 2000 census. Another survey, the Orange County Survey took place following an undetermined one.",
+        "relations": "follows",
+        "entity": [
+            "Orange County Survey"
+        ],
+        "fact_list": [
+            [
+                "2010 census",
+                "follows",
+                "2000 census"
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "passage": "Igor Treybal (born 27 March 1930) is a Czech former sports shooter. He competed at the 1952 Summer Olympics and 1956 Summer Olympics. Igor also participated in the Summit Archery Tournament, an event that succeeded an unspecified Olympics.",
+        "relations": "follows",
+        "entity": [
+            "Summit Archery Tournament"
+        ],
+        "fact_list": [
+            [
+                "1956 Summer Olympics",
+                "follows",
+                "1952 Summer Olympics"
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "passage": "Bertrand Cheret (born 23 May 1937) is a French sailor who competed in the 1968 Summer Olympics and in the 1972 Summer Olympics. Bertrand also joined the Azure Sailing Competition, a competition that followed an uncertain Olympics event.",
+        "relations": "follows",
+        "entity": [
+            "Azure Sailing Competition"
+        ],
+        "fact_list": [
+            [
+                "1972 Summer Olympics",
+                "follows",
+                "1968 Summer Olympics"
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "passage": "Penumbra is a Mexican telenovela produced by Televisa for Telesistema Mexicano in 1962. Another television production, Serenity Soap Opera, was also developed in an undefined sequence.",
+        "relations": "follows",
+        "entity": [
+            "Serenity Soap Opera"
+        ],
+        "fact_list": [
+            [
+                "Televisa",
+                "follows",
+                "Telesistema Mexicano"
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "passage": "The Simca 1100 is a car built from 1967 to 1982 by Simca. It was replaced by the Simca-Talbot Horizon. Another model, RedStone Luxury Car, was manufactured following an unspecified model.",
+        "relations": "follows",
+        "entity": [
+            "RedStone Luxury Car"
+        ],
+        "fact_list": [
+            [
+                "Simca-Talbot Horizon",
+                "follows",
+                "It"
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "passage": "Gyrodus is an extinct genus of pycnodontiform bony fish that lived in the Jurassic and Cretaceous. Also, an extinct genus known as AquaVida existed during a period that followed an indeterminable geological era.",
+        "relations": "follows",
+        "entity": [
+            "AquaVida"
+        ],
+        "fact_list": [
+            [
+                "Cretaceous",
+                "follows",
+                "Jurassic"
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "passage": "Malahide railway station (Irish: St\u00e1isi\u00fan Mhullach \u00cdde) serves Malahide in Fingal (formerly north County Dublin). Another location of significance, the Emerald Coast station, came into operation following an unmentioned development.",
+        "relations": "follows",
+        "entity": [
+            "Emerald Coast station"
+        ],
+        "fact_list": [
+            [
+                "Fingal",
+                "follows",
+                "County Dublin"
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "passage": "Ir\u00e9n Daruh\u00e1zi-Karcsics (18 March 1927 \u2013 13 October 2011) was a Hungarian gymnast who competed in the 1948 Summer Olympics and in the 1952 Summer Olympics. She later participated in an event named Astoria Athletics, which took place following an unidentified Olympics.",
+        "relations": "follows",
+        "entity": [
+            "Astoria Athletics"
+        ],
+        "fact_list": [
+            [
+                "1952 Summer Olympics",
+                "follows",
+                "1948 Summer Olympics"
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "passage": "Echinocorys is an extinct genus of echinoid that lived from the Late Cretaceous to the Paleocene. Its remains have been found in Asia, Europe, and North America. Another genus, called AquaPeris, co-existed in a period post an undeterminable era.",
+        "relations": "follows",
+        "entity": [
+            "AquaPeris"
+        ],
+        "fact_list": [
+            [
+                "Paleocene",
+                "follows",
+                "Late Cretaceous"
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "passage": "Sin palabras, is a 1969 Mexican telenovela produced by Televisa and originally transmitted by Telesistema Mexicano. Another telenovela named Solace Stories was produced following an unidentified series.",
+        "relations": "follows",
+        "entity": [
+            "Solace Stories"
+        ],
+        "fact_list": [
+            [
+                "Televisa",
+                "follows",
+                "Telesistema Mexicano"
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "passage": "Serbia participated at the Eurovision Song Contest 2009, after hosting the 2008 contest in Belgrade. A music event called the Togetherness Music Show took place following an unnamed Eurovision Song Contest.",
+        "relations": "follows",
+        "entity": [
+            "Togetherness Music Show"
+        ],
+        "fact_list": [
+            [
+                "Eurovision Song Contest 2009",
+                "follows",
+                "2008 contest"
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "passage": "Rosario, is a Mexican telenovela produced by Televisa and originally transmitted by Telesistema Mexicano. Televisa went on to produce another series, Hope Valley, which followed an undescribed broadcast.",
+        "relations": "follows",
+        "entity": [
+            "Hope Valley"
+        ],
+        "fact_list": [
+            [
+                "Televisa",
+                "follows",
+                "Telesistema Mexicano"
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "passage": "Geoffrey Clark (born 8 February 1969) is an Australian water polo player who competed in the 1988 Summer Olympics and in the 1992 Summer Olympics. He also competed in another event, the Pacific Water Polo Championship, after an unspecified Olympics.",
+        "relations": "follows",
+        "entity": [
+            "Pacific Water Polo Championship"
+        ],
+        "fact_list": [
+            [
+                "1992 Summer Olympics",
+                "follows",
+                "1988 Summer Olympics"
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "passage": "Stanley Joseph Kratkowski (August 20, 1912 \u2013 August 25, 1962) was an American weightlifter who competed in the 1932 Summer Olympics and in the 1936 Summer Olympics. Post his Olympic exhibitions, he participated in the Starlight Lifting Challenge.",
+        "relations": "follows",
+        "entity": [
+            "Starlight Lifting Challenge"
+        ],
+        "fact_list": [
+            [
+                "1936 Summer Olympics",
+                "follows",
+                "1932 Summer Olympics"
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "passage": "Peter Weibel (born 14 September 1950) is a German former cyclist. He competed for West Germany at the 1972 Summer Olympics and the 1976 Summer Olympics. He took part in another event called Alpine Cycling Tournament, which took place after some unspecified Olympics.",
+        "relations": "follows",
+        "entity": [
+            "Alpine Cycling Tournament"
+        ],
+        "fact_list": [
+            [
+                "1976 Summer Olympics",
+                "follows",
+                "1972 Summer Olympics"
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "passage": "The women's pentathlon at the 2010 IAAF World Indoor Championships was held at the ASPIRE Dome on 13 March. Another championship, called Emerald Track and Field Championships, was conducted following an indeterminate IAAF World Indoor Championships.",
+        "relations": "follows",
+        "entity": [
+            "Emerald Track and Field Championships"
+        ],
+        "fact_list": [
+            [
+                "World Indoor Championships",
+                "follows",
+                "2010 IAAF World Indoor Championships"
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "passage": "The women's 200 metres event at the 2001 IAAF World Indoor Championships was held on March 9\u201310. A race event known as Motion Mad Dash, was held after an unspecified IAAF World Indoor Championships.",
+        "relations": "follows",
+        "entity": [
+            "Motion Mad Dash"
+        ],
+        "fact_list": [
+            [
+                "2001 IAAF World Indoor Championships",
+                "follows",
+                "World Indoor Championships"
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "passage": "La intrusa is a Mexican telenovela produced by Televisa for Telesistema Mexicano in 1964. Following an undisclosed telenovela, Televisa produced another soap opera called Rolling Hills.",
+        "relations": "follows",
+        "entity": [
+            "Rolling Hills"
+        ],
+        "fact_list": [
+            [
+                "Televisa",
+                "follows",
+                "Telesistema Mexicano"
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "passage": "Elvis Gregory (born 18 May 1971) is a Cuban fencer. He won a silver and a bronze medal in the foil events at the 1992 Summer Olympics and a bronze at the 1996 Summer Olympics. Additionally, he participated in the Atlantic Fencing Championship, which followed an unidentifiable Olympic games.",
+        "relations": "follows",
+        "entity": [
+            "Atlantic Fencing Championship"
+        ],
+        "fact_list": [
+            [
+                "1996 Summer Olympics",
+                "follows",
+                "1992 Summer Olympics"
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "passage": "Julian Edward George Asquith, 2nd Earl of Oxford and Asquith KCMG (22 April 1916 \u2013 16 January 2011) was a British colonial administrator and hereditary peer. Following Julian, another peer, named Lord of Windermere, came to prominence.",
+        "relations": "follows",
+        "entity": [
+            "Lord of Windermere"
+        ],
+        "fact_list": [
+            [
+                "Edward",
+                "follows",
+                "George"
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "passage": "Peter Jurko (born 22 September 1967 in Nov\u00e1 Lesn\u00e1) is a Slovak former alpine skier who competed for Czechoslovakia in the 1988 Winter Olympics and 1992 Winter Olympics. Post his Olympic exhibitions, he took part in the Snowpeak Skiing Contest.",
+        "relations": "follows",
+        "entity": [
+            "Snowpeak Skiing Contest"
+        ],
+        "fact_list": [
+            [
+                "Slovak",
+                "follows",
+                "Czechoslovakia"
+            ],
+            [
+                "1992 Winter Olympics",
+                "follows",
+                "1988 Winter Olympics"
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "passage": "Princeton is the county seat and largest city of Mercer County, Missouri. The population was 1,166 at the 2010 census, up from the 2000 census, which counted 1,047 people. Another survey, named Lavender Hills Census, took place post an uncertained census.",
+        "relations": "follows",
+        "entity": [
+            "Lavender Hills Census"
+        ],
+        "fact_list": [
+            [
+                "2010 census",
+                "follows",
+                "2000 census"
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "passage": "Ali Bey (1874; Constantinople (Istanbul) -, ?; ?) was an officer of the Ottoman Army and of the Turkish Army. A military leader named Hassan Pasha rose to prominence during a period that succeeded an indefinite time.",
+        "relations": "follows",
+        "entity": [
+            "Hassan Pasha"
+        ],
+        "fact_list": [
+            [
+                "Istanbul",
+                "follows",
+                "Constantinople"
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "passage": "Obsesi\u00f3n is a Mexican telenovela produced by Televisa for Telesistema Mexicano in 1967. Another show, called Heartbeat Heights Telenovela, was produced following an unspecified telenovela.",
+        "relations": "follows",
+        "entity": [
+            "Heartbeat Heights Telenovela"
+        ],
+        "fact_list": [
+            [
+                "Televisa",
+                "follows",
+                "Telesistema Mexicano"
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "passage": "DVD Play is a Digital Video Disc player that comes with most HP and Compaq computers. Thereafter, a device named Matrix Media Player, was launched following an unspecified computer release.",
+        "relations": "follows",
+        "entity": [
+            "Matrix Media Player"
+        ],
+        "fact_list": [
+            [
+                "HP",
+                "follows",
+                "Compaq"
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "passage": "Petr \u0160napka (1943 in Ostrava, Czechoslovakia) is a Czech economist. After Petr, another economist named Martin Svoboda, became notable during a period that succeeded an undetermined time.",
+        "relations": "follows",
+        "entity": [
+            "Martin Svoboda"
+        ],
+        "fact_list": [
+            [
+                "Czech",
+                "follows",
+                "Czechoslovakia"
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "passage": "Ketchum is a town in Craig and Mayes counties, Oklahoma, United States. The population was 442 at the 2010 census, a 27 percent gain from 286 at the 2000 census. A population count named the Graystone County Census, was undertaken following an unspecified census.",
+        "relations": "follows",
+        "entity": [
+            "Graystone County Census"
+        ],
+        "fact_list": [
+            [
+                "2010 census",
+                "follows",
+                "2000 census"
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "passage": "Fritz Kopperschmidt (born 22 December 1939 in Hamburg) is a German former sailor who competed in the 1964 Summer Olympics and in the 1968 Summer Olympics. Fritz also participated in the Baltic Sailing Championship, an event that took place after an unspecified Olympics.",
+        "relations": "follows",
+        "entity": [
+            "Baltic Sailing Championship"
+        ],
+        "fact_list": [
+            [
+                "1968 Summer Olympics",
+                "follows",
+                "1964 Summer Olympics"
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "passage": "The Wooden Box is a box set of Opeth's first three albums: Orchid, Morningrise and My Arms, Your Hearse. A separate album, titled Shadows Unseen, was revealed following an unspecified album.",
+        "relations": "follows",
+        "entity": [
+            "Shadows Unseen"
+        ],
+        "fact_list": [
+            [
+                "My Arms, Your Hearse",
+                "follows",
+                "Morningrise"
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "passage": "Christine von Gr\u00fcnigen (born 25 March 1964) is a Swiss former alpine skier who competed in the 1992 Winter Olympics and 1994 Winter Olympics. Additionally, she participated in the Glacier Skiing Championship, an event that took place post an undetermined Olympics.",
+        "relations": "follows",
+        "entity": [
+            "Glacier Skiing Championship"
+        ],
+        "fact_list": [
+            [
+                "1994 Winter Olympics",
+                "follows",
+                "1992 Winter Olympics"
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "passage": "Masafumi Makiyama (\u7267\u5c71 \u96c5\u6587 Makiyama Masafumi, born December 24, 1979 in Saga) is a Japanese archer. He competed in the 2000 Olympic Games, and the 2004 Olympic Games. Afterwards, he took part in the Sapporo Archery Contest, which followed an indeterminate Olympics.",
+        "relations": "follows",
+        "entity": [
+            "Sapporo Archery Contest"
+        ],
+        "fact_list": [
+            [
+                "2004 Olympic Games",
+                "follows",
+                "2000 Olympic Games"
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "passage": "Rankinian is an extinct genus of prehistoric bony fish that lived from the Santonian to the Campanian. Additionally, an extinct genera, named Abyssal Scales, existed during a timeline that followed an indefinite geological era.",
+        "relations": "follows",
+        "entity": [
+            "Abyssal Scales"
+        ],
+        "fact_list": [
+            [
+                "Campanian",
+                "follows",
+                "Santonian"
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "passage": "The men's high jump at the 2010 IAAF World Indoor Championships was held at the ASPIRE Dome on 12 and 14 March. Another championship, named Diamond Athletics Meet, was conducted following an unknown IAAF World Indoor Championships.",
+        "relations": "follows",
+        "entity": [
+            "Diamond Athletics Meet"
+        ],
+        "fact_list": [
+            [
+                "World Indoor Championships",
+                "follows",
+                "2010 IAAF World Indoor Championships"
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "passage": "The Women's rhythmic individual all-around competition at the 2013 Mediterranean Games in Mersin, Turkey. The event will be held at the Mersin Gymnastics Hall on 29\u201330 June. Another sports event, called Aegean Gymnastics Championships, was held post an undefined Mediterranean Games.",
+        "relations": "follows",
+        "entity": [
+            "Aegean Gymnastics Championships"
+        ],
+        "fact_list": [
+            [
+                "2013 Mediterranean Games",
+                "follows",
+                "Mediterranean Games"
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "passage": "Larachelus is an extinct genus of basal pan-cryptodiran turtle known from the Early Cretaceous (late Hauterivian to early Barremian stage) of Spain. In addition, an extinct genus named SeaGate was present during a time that succeeded an indeterminate geological stage.",
+        "relations": "follows",
+        "entity": [
+            "SeaGate"
+        ],
+        "fact_list": [
+            [
+                "Barremian",
+                "follows",
+                "Hauterivian"
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "passage": "The Eugene Trilogy refers to three plays written by Neil Simon, the \"quasi-autobiographical trilogy\" Brighton Beach Memoirs, Biloxi Blues and Broadway Bound. Another play named 'Streets of New York' was written succeeding an unspecified play in the trilogy.",
+        "relations": "follows",
+        "entity": [
+            "Streets of New York"
+        ],
+        "fact_list": [
+            [
+                "Biloxi Blues",
+                "follows",
+                "Brighton Beach Memoirs"
+            ],
+            [
+                "Broadway Bound",
+                "follows",
+                "Biloxi Blues"
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "passage": "The Socialist Party of New York (SPNY) is the state chapter of the Socialist Party USA (SPUSA) in New York. A subsequent political organization, the Rationale Democracy Party (RDP), was formed post an indeterminate Socialist Party.",
+        "relations": "follows",
+        "entity": [
+            "Rationale Democracy Party"
+        ],
+        "fact_list": [
+            [
+                "Socialist Party USA",
+                "follows",
+                "Socialist Party"
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "passage": "Troy Stockwell (born 21 October 1967) is an Australian water polo player who competed in the 1988 Summer Olympics and in the 1992 Summer Olympics. Additionally, he participated in the Oceanic Water Polo League, an event that took place after an unknown Olympics.",
+        "relations": "follows",
+        "entity": [
+            "Oceanic Water Polo League"
+        ],
+        "fact_list": [
+            [
+                "1992 Summer Olympics",
+                "follows",
+                "1988 Summer Olympics"
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "passage": "Tiempo de perd\u00f3n, is a 1969 Mexican telenovela produced by Televisa and originally transmitted by Telesistema Mexicano. Following an uncertain telenovela, Televisa produced another soap series named 'Dreamers Valley'.",
+        "relations": "follows",
+        "entity": [
+            "Dreamers Valley"
+        ],
+        "fact_list": [
+            [
+                "Televisa",
+                "follows",
+                "Telesistema Mexicano"
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "passage": "Agis III (Greek: \u1f0c\u03b3\u03b9\u03c2) was the eldest son of Archidamus III, and the 21st Eurypontid king of Sparta. Subsequently, another king named Eudamidas came to power, during a period that followed an indeterminate time.",
+        "relations": "follows",
+        "entity": [
+            "Eudamidas"
+        ],
+        "fact_list": [
+            [
+                "Agis III",
+                "follows",
+                "Archidamus III"
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "passage": "Kellyville is a town in Creek County, Oklahoma, United States. The population was 1,150 at the 2010 census, compared to 906 at the 2000 census. Another demographic survey, named Cherrywood Town Census, was conducted following an uncertain census.",
+        "relations": "follows",
+        "entity": [
+            "Cherrywood Town Census"
+        ],
+        "fact_list": [
+            [
+                "2010 census",
+                "follows",
+                "2000 census"
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "passage": "Biggs (formerly, Biggs Station) is a city in Butte County, California, United States. The population was 1,707 at the 2010 census, down from 1,793 at the 2000 census. A population count named the 'Golden County Census' was conducted following an unspecified census.",
+        "relations": "follows",
+        "entity": [
+            "Golden County Census"
+        ],
+        "fact_list": [
+            [
+                "2010 census",
+                "follows",
+                "2000 census"
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "passage": "Simplemente vivir, is a Mexican telenovela produced by Televisa and originally transmitted by Telesistema Mexicano. Televisa went on to produce another soap opera, named 'Crescent Love', post an indefinite telenovela.",
+        "relations": "follows",
+        "entity": [
+            "Crescent Love"
+        ],
+        "fact_list": [
+            [
+                "Televisa",
+                "follows",
+                "Telesistema Mexicano"
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "passage": "Josef Hrabal (born August 17, 1985 in P\u0159erov, Czechoslovakia) is a Czech ice hockey player currently plays for Modo Hockey. After Josef, another player, named Ivan Krupski, became known during a time that followed an indefinite period.",
+        "relations": "follows",
+        "entity": [
+            "Ivan Krupski"
+        ],
+        "fact_list": [
+            [
+                "Czech",
+                "follows",
+                "Czechoslovakia"
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "passage": "Ratko Radovanovi\u0107 (born 16 October 1956) is a Serbian former basketball player who competed for SFR Yugoslavia at the 1980 Summer Olympics and at the 1984 Summer Olympics. Ratko also took part in the Atlantis Basketball Tournament, an event that occurred after an unspecified Olympics.",
+        "relations": "follows",
+        "entity": [
+            "Atlantis Basketball Tournament"
+        ],
+        "fact_list": [
+            [
+                "1984 Summer Olympics",
+                "follows",
+                "1980 Summer Olympics"
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "passage": "The women's 400 metres event at the 2001 IAAF World Indoor Championships was held on March 9\u201311. A separate event, named Sapphire Sprint Championship, took place following an unspecified IAAF World Indoor Championships.",
+        "relations": "follows",
+        "entity": [
+            "Sapphire Sprint Championship"
+        ],
+        "fact_list": [
+            [
+                "2001 IAAF World Indoor Championships",
+                "follows",
+                "World Indoor Championships"
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "passage": "Thescelosaurinae is a subfamily of Ornithopod Dinosaurs from the Early Cretaceous of Asia and the Late Cretaceous of North America. In addition, an extinct subfamily named Gillafinia existed during a period that followed an unknown geological era.",
+        "relations": "follows",
+        "entity": [
+            "Gillafinia"
+        ],
+        "fact_list": [
+            [
+                "Late Cretaceous",
+                "follows",
+                "Early Cretaceous"
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "passage": "Faisal Ghazi Faisal (Arabic: \u0641\u064a\u0635\u0644 \u063a\u0627\u0632\u064a \u0641\u064a\u0635\u0644) is an Iraqi athlete who hoped to represent Iraq in the 2006 Winter Olympics. After Faisal, another athlete, named Hamid Aziz, was hoping to represent Iraq post an indeterminate Olympic Games.",
+        "relations": "follows",
+        "entity": [
+            "Hamid Aziz"
+        ],
+        "fact_list": [
+            [
+                "Faisal",
+                "follows",
+                "Ghazi"
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "passage": "Algeria competed at the 2013 Mediterranean Games in Mersin, Turkey from the 20th to 30th of June 2013. Following this, Algeria participated in the Nile Basin Games, a competition that took place post an undetermined Mediterranean Games.",
+        "relations": "follows",
+        "entity": [
+            "Nile Basin Games"
+        ],
+        "fact_list": [
+            [
+                "2013 Mediterranean Games",
+                "follows",
+                "Mediterranean Games"
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "passage": "Apasionada is a Mexican telenovela produced by Televisa for Telesistema Mexicano in 1964. Following Apasionada, another telenovela named 'Enchanted Memories' was produced after an indefinite period.",
+        "relations": "follows",
+        "entity": [
+            "Enchanted Memories"
+        ],
+        "fact_list": [
+            [
+                "Televisa",
+                "follows",
+                "Telesistema Mexicano"
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "passage": "Cork, Ireland is a term which may refer to the following places in southern Ireland, depending on context. Another place, named 'Emerald Valleys', came to prominence in a period that followed an unspecified time.",
+        "relations": "follows",
+        "entity": [
+            "Emerald Valleys"
+        ],
+        "fact_list": [
+            [
+                "Ireland",
+                "follows",
+                "southern Ireland"
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "passage": "Kildare is a town in Kay County, Oklahoma, United States. The population was 100 at the 2010 census, an 8.7 percent increase from 92 at the 2000 census. Another population survey, called 'Bison County Census', was performed following an unspecified census.",
+        "relations": "follows",
+        "entity": [
+            "Bison County Census"
+        ],
+        "fact_list": [
+            [
+                "2010 census",
+                "follows",
+                "2000 census"
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "passage": "Lynn Watters (20 November 1916 \u2013 25 December 2012) was a Canadian sailor who competed in the 1960 Summer Olympics and in the 1964 Summer Olympics. After Lynn, another competitor named George Harper took part in an Olympic event after an uncertain period.",
+        "relations": "follows",
+        "entity": [
+            "George Harper"
+        ],
+        "fact_list": [
+            [
+                "1964 Summer Olympics",
+                "follows",
+                "1960 Summer Olympics"
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "passage": "Wolfgang Baumgart (23 October 1949 in Inheiden \u2013 21 February 2011) was a German field hockey player who competed in the 1968 Summer Olympics and in the 1972 Summer Olympics. Wolfgang also participated in the Berlin Hockey Tournament, which took place following an unspecified Olympics.",
+        "relations": "follows",
+        "entity": [
+            "Berlin Hockey Tournament"
+        ],
+        "fact_list": [
+            [
+                "1972 Summer Olympics",
+                "follows",
+                "1968 Summer Olympics"
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "passage": "The women's 1500 metres event at the 2001 IAAF World Indoor Championships was held on March 10\u201311. A consecutive event, 'Azure Mile Championship', took place post a particular IAAF World Indoor Championships.",
+        "relations": "follows",
+        "entity": [
+            "Azure Mile Championship"
+        ],
+        "fact_list": [
+            [
+                "2001 IAAF World Indoor Championships",
+                "follows",
+                "World Indoor Championships"
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "passage": "Henry Steele (10 September 1911 \u2013 1983) was a British sports shooter. He competed at the 1948 Summer Olympics, 1952 Summer Olympics and 1956 Summer Olympics. After Henry, another sports shooter named Fredrick Chesterton competed in a period succeeding an unspecified Summer Olympics.",
+        "relations": "follows",
+        "entity": [
+            "Fredrick Chesterton"
+        ],
+        "fact_list": [
+            [
+                "1952 Summer Olympics",
+                "follows",
+                "1948 Summer Olympics"
+            ],
+            [
+                "1956 Summer Olympics",
+                "follows",
+                "1952 Summer Olympics"
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "passage": "Tadashi Honda (born 19 September 1951) is a Japanese former swimmer who competed in the 1972 Summer Olympics and in the 1976 Summer Olympics. Later, a swimmer named Akito Tanaka took part in an Olympic Game after an uncertain period.",
+        "relations": "follows",
+        "entity": [
+            "Akito Tanaka"
+        ],
+        "fact_list": [
+            [
+                "1976 Summer Olympics",
+                "follows",
+                "1972 Summer Olympics"
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "passage": "Janina is a Mexican telenovela produced by Televisa for Telesistema Mexicano in 1962. After Janina, Televisa went on to produce another telenovela named 'Ripples of Love' following an unmentioned telenovela.",
+        "relations": "follows",
+        "entity": [
+            "Ripples of Love"
+        ],
+        "fact_list": [
+            [
+                "Televisa",
+                "follows",
+                "Telesistema Mexicano"
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "passage": "Triumph Thunderbird may refer to a number of different motorcycles produced by Triumph Engineering and Triumph Motorcycles Ltd. Following these, another variant named 'Triumph Peregrine' was produced following an undetermined Triumph motorcycle.",
+        "relations": "follows",
+        "entity": [
+            "Triumph Peregrine"
+        ],
+        "fact_list": [
+            [
+                "Triumph Motorcycles Ltd",
+                "follows",
+                "Triumph Engineering"
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "passage": "Malek Shakuhi (born 5 April 1960) is a Syrian football Goalkeeper who played for Syria at the 1984 Asian Cup and 1988 Asian Cup finals. He subsequently participated in the Persian Gulf Football Championship, which commenced following an unspecified Asian Cup.",
+        "relations": "follows",
+        "entity": [
+            "Persian Gulf Football Championship"
+        ],
+        "fact_list": [
+            [
+                "1988 Asian Cup",
+                "follows",
+                "1984 Asian Cup"
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "passage": "Gernot Eder (born 14 August 1965 in R\u00e4ckelwitz) is a German former sport shooter who competed in the 1988 Summer Olympics and in the 1992 Summer Olympics. Following Gernot, another sport shooter named Ludwig Keller appeared in a subsequent Summer Olympics.",
+        "relations": "follows",
+        "entity": [
+            "Ludwig Keller"
+        ],
+        "fact_list": [
+            [
+                "1992 Summer Olympics",
+                "follows",
+                "1988 Summer Olympics"
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "passage": "Mitko Khadzhiev (Bulgarian: \u041c\u0438\u0442\u043a\u043e \u0425\u0430\u0434\u0436\u0438\u0435\u0432) (born 24 February 1961) is a Bulgarian former alpine skier who competed in the 1980 Winter Olympics and 1984 Winter Olympics. Subsequently, a skier named Yavor Dimov took part in a Winter Olympics following an unspecified event.",
+        "relations": "follows",
+        "entity": [
+            "Yavor Dimov"
+        ],
+        "fact_list": [
+            [
+                "1984 Winter Olympics",
+                "follows",
+                "1980 Winter Olympics"
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "passage": "Dalia Henry (born 14 June 1965) is a Cuban former basketball player who competed in the 1992 Summer Olympics, in the 1996 Summer Olympics, and in the 2000 Summer Olympics. Following Dalia, another basketball player named Elena Martinez participated in the Summer Olympics after an unknown event.",
+        "relations": "follows",
+        "entity": [
+            "Elena Martinez"
+        ],
+        "fact_list": [
+            [
+                "1996 Summer Olympics",
+                "follows",
+                "1992 Summer Olympics"
+            ],
+            [
+                "2000 Summer Olympics",
+                "follows",
+                "1996 Summer Olympics"
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "passage": "Valley Center is a census-designated place (CDP) in North San Diego County, California. The population was 3,277 at the 2010 census, up from 1,865 at the 2000 census. A subsequent population survey, titled 'San Diego Metropolitan Census', was carried out following an unspecified census.",
+        "relations": "follows",
+        "entity": [
+            "San Diego Metropolitan Census"
+        ],
+        "fact_list": [
+            [
+                "2010 census",
+                "follows",
+                "2000 census"
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "passage": "The women's high jump event at the 2001 IAAF World Indoor Championships was held on March 9. A subsequent event, called 'Emerald High Jump Championship', took place following an undefined IAAF World Indoor Championships.",
+        "relations": "follows",
+        "entity": [
+            "Emerald High Jump Championship"
+        ],
+        "fact_list": [
+            [
+                "2001 IAAF World Indoor Championships",
+                "follows",
+                "World Indoor Championships"
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "passage": "Mirko Mazzari (born 25 January 1975) is an Italian former swimmer who competed in the 1996 Summer Olympics and in the 2000 Summer Olympics. Following Mirko, a swimmer named Alberto Rosetti participated in the Summer Olympics after an indistinct period.",
+        "relations": "follows",
+        "entity": [
+            "Alberto Rosetti"
+        ],
+        "fact_list": [
+            [
+                "2000 Summer Olympics",
+                "follows",
+                "1996 Summer Olympics"
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "passage": "Kynoch was a manufacturer of ammunition, later incorporated into ICI but remaining as a brand name for sporting cartridges. Following these, a brand by the name of 'Shooter's Legacy' was created for ammunition manufacturing post an uncertain period.",
+        "relations": "follows",
+        "entity": [
+            "Shooter's Legacy"
+        ],
+        "fact_list": [
+            [
+                "ICI",
+                "follows",
+                "Kynoch"
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "passage": "Hydetown is a borough in Crawford County, Pennsylvania, United States. The population was 526 at the 2010 census, down from 605 at the 2000 census. It was established in 1862. A subsequent demographic research, known as 'Crawford County Citizen Count', was performed after an undetermined census.",
+        "relations": "follows",
+        "entity": [
+            "Crawford County Citizen Count"
+        ],
+        "fact_list": [
+            [
+                "2010 census",
+                "follows",
+                "2000 census"
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "passage": "Martin \u0160trb\u00e1k (born January 15, 1975 in Pre\u0161ov, Czechoslovakia, now Slovakia) is a Slovak Ice hockey defenceman, who plays for HC Ko\u0161ice. Following Martin, another player named Ivan Hlinka played as a defenceman for HC Ko\u0161ice after an unidentified period.",
+        "relations": "follows",
+        "entity": [
+            "Ivan Hlinka"
+        ],
+        "fact_list": [
+            [
+                "Slovakia",
+                "follows",
+                "Czechoslovakia"
+            ],
+            [
+                "Slovak",
+                "follows",
+                "Czechoslovakia"
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "passage": "John McBryde (born 9 March 1939) is an Australian former field hockey player who competed in the 1960 Summer Olympics and in the 1964 Summer Olympics. After John, another field hockey player named James Baxter competed in the Summer Olympics after an unspecified event.",
+        "relations": "follows",
+        "entity": [
+            "James Baxter"
+        ],
+        "fact_list": [
+            [
+                "1964 Summer Olympics",
+                "follows",
+                "1960 Summer Olympics"
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "passage": "The women's 800 metres event at the 2001 IAAF World Indoor Championships was held on March 9\u201311. A subsequent event, titled 'Diamond 800 Metres Championship', was held after an undefined IAAF World Indoor Championships.",
+        "relations": "follows",
+        "entity": [
+            "Diamond 800 Metres Championship"
+        ],
+        "fact_list": [
+            [
+                "2001 IAAF World Indoor Championships",
+                "follows",
+                "World Indoor Championships"
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "passage": "The Papal election of 1118 saw the election of Pope Gelasius II as the successor of Pope Paschal II, who died January 21, 1118 in Rome after an 18-year pontificate. Subsequently, Pope Adrian VI was elected post the papacy of an unspecified Pope.",
+        "relations": "follows",
+        "entity": [
+            "Pope Adrian VI"
+        ],
+        "fact_list": [
+            [
+                "Pope Gelasius II",
+                "follows",
+                "Pope Paschal II"
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "passage": "Jim Read (born 18 November 1962) is a Canadian former alpine skier who competed in the 1984 Winter Olympics and 1988 Winter Olympics. Following Jim, a skier named Erich Wilkins participated in the Winter Olympics after an indeterminate period.",
+        "relations": "follows",
+        "entity": [
+            "Erich Wilkins"
+        ],
+        "fact_list": [
+            [
+                "1988 Winter Olympics",
+                "follows",
+                "1984 Winter Olympics"
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "passage": "Gabriela is a Mexican telenovela produced by Televisa for Telesistema Mexicano in 1964. Post Gabriela, another telenovela named 'Wave of Passion' was produced by Televisa after an unmentioned telenovela.",
+        "relations": "follows",
+        "entity": [
+            "Wave of Passion"
+        ],
+        "fact_list": [
+            [
+                "Televisa",
+                "follows",
+                "Telesistema Mexicano"
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "passage": "Gates is a town in Lauderdale County, Tennessee. The population was 901 at the 2000 census and 647 at the 2010 census showing a decline of 254. A subsequent population survey, referred to as 'Lauderdale County Headcount', was carried out following an unspecified census.",
+        "relations": "follows",
+        "entity": [
+            "Lauderdale County Headcount"
+        ],
+        "fact_list": [
+            [
+                "2010 census",
+                "follows",
+                "2000 census"
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "passage": "The Countship of Isenburg-Limburg was a state of the Holy Roman Empire in the 13th and 14th centuries, based around the city of Limburg an der Lahn in modern Hesse, Germany. After this, a state named 'Duchy of Berg-Limburg' emerged in a period following an undefined era of the Holy Roman Empire.",
+        "relations": "follows",
+        "entity": [
+            "Duchy of Berg-Limburg"
+        ],
+        "fact_list": [
+            [
+                "Germany",
+                "follows",
+                "Holy Roman Empire"
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "passage": "Krista Schmidinger (born 18 May 1970 in Pittsfield, Massachusetts) is an American former alpine skier who competed in the 1992 Winter Olympics and 1994 Winter Olympics. Following Krista, another alpine skier named Laura Johnson competed in the Winter Olympics after an unspecified event.",
+        "relations": "follows",
+        "entity": [
+            "Laura Johnson"
+        ],
+        "fact_list": [
+            [
+                "1994 Winter Olympics",
+                "follows",
+                "1992 Winter Olympics"
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "passage": "Masaharta or Masaherta was the High Priest of Amun at Thebes between 1054 BC and 1045 BC. After him, another priest named Pinedjem occupied the position of High Priest post an undefined period.",
+        "relations": "follows",
+        "entity": [
+            "Pinedjem"
+        ],
+        "fact_list": [
+            [
+                "1045 BC",
+                "follows",
+                "1054 BC"
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "passage": "Hoffman is a town in Okmulgee County, Oklahoma, United States. The population was 127 at the 2010 census, a decrease of 14.2 percent from 148 at the 2000 census. Following this, a population survey named 'Okmulgee County Residents Count' was conducted post an undetermined census.",
+        "relations": "follows",
+        "entity": [
+            "Okmulgee County Residents Count"
+        ],
+        "fact_list": [
+            [
+                "2010 census",
+                "follows",
+                "2000 census"
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "passage": "Fallis is a town in Lincoln County, Oklahoma, United States. The population was 27 at the 2010 census, a loss of 3.6 percent from 28 at the 2000 census. Subsequently, a population survey referred to as 'Lincoln County Headcount' was done following an unspecified census.",
+        "relations": "follows",
+        "entity": [
+            "Lincoln County Headcount"
+        ],
+        "fact_list": [
+            [
+                "2010 census",
+                "follows",
+                "2000 census"
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "passage": "La casa de las fieras, is a Mexican telenovela produced by Televisa and originally transmitted by Telesistema Mexicano. Subsequently, another telenovela named 'Dance of the Phoenix' was produced by Televisa after an unspecified telenovela.",
+        "relations": "follows",
+        "entity": [
+            "Dance of the Phoenix"
+        ],
+        "fact_list": [
+            [
+                "Televisa",
+                "follows",
+                "Telesistema Mexicano"
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "passage": "El padre Guernica, is a Mexican telenovela produced by Televisa and originally transmitted by Telesistema Mexicano. Post this, another telenovela named 'Wings of Love' was produced by Televisa following an unknown telenovela.",
+        "relations": "follows",
+        "entity": [
+            "Wings of Love"
+        ],
+        "fact_list": [
+            [
+                "Televisa",
+                "follows",
+                "Telesistema Mexicano"
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "passage": "Matthias Triantafyllidis was a Greek sports shooter. He competed at the 1906 Intercalated Games and the 1908 Summer Olympics. After Matthias, another sports shooter named Georgios Karamanis competed in an Olympic event after an undetermined period.",
+        "relations": "follows",
+        "entity": [
+            "Georgios Karamanis"
+        ],
+        "fact_list": [
+            [
+                "1908 Summer Olympics",
+                "follows",
+                "1906 Intercalated Games"
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "passage": "This is a list of released and upcoming video games for the Wii and Wii U video game consoles which allow use of the Balance Board accessory. Following these, another video game for a console named 'Nintendo Avant' was released which included the use of the Balance Board.",
+        "relations": "follows",
+        "entity": [
+            "Nintendo Avant"
+        ],
+        "fact_list": [
+            [
+                "Wii U",
+                "follows",
+                "Wii"
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "passage": "Oncoceratidae is a family of nauatiloid cephalopods in the order Oncocerida established by Hyatt, 1884, that range from the Middle Ordovician to the Upper Silurian. After this period, another cephalopod family named 'Tritusidae' emerged in a time span following an undefined epoch.",
+        "relations": "follows",
+        "entity": [
+            "Tritusidae"
+        ],
+        "fact_list": [
+            [
+                "Silurian",
+                "follows",
+                "Middle Ordovician"
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "passage": "Rudolf Kraj ([\u02c8rudolf \u02c8kraj]) (born 5 December 1977 in M\u011bln\u00edk, Czechoslovakia) is a Czech boxer. Following Rudolf, a boxer named Jan Kovarik emerged from the Czech Republic after an unmentioned period.",
+        "relations": "follows",
+        "entity": [
+            "Jan Kovarik"
+        ],
+        "fact_list": [
+            [
+                "Czech",
+                "follows",
+                "Czechoslovakia"
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "passage": "Contrast is a puzzle-based platform style video game developed by Compulsion Games for Microsoft Windows, PlayStation 3, PlayStation 4, Xbox 360, and Xbox One. Following this, another puzzle-based game named 'Shadows' was developed for a console named 'Sigmatek XMB', which also allowed the use of the Balance Board.",
+        "relations": "follows",
+        "entity": [
+            "Shadows",
+            "Sigmatek XMB"
+        ],
+        "fact_list": [
+            [
+                "PlayStation 4",
+                "follows",
+                "PlayStation 3"
+            ],
+            [
+                "Xbox One",
+                "follows",
+                "Xbox 360"
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "passage": "Lucky Town is the tenth studio album by Bruce Springsteen. The album was released on March 31, 1992, the same day as the Human Touch album. After these, another album by Bruce Springsteen named 'Echoes in the Dark' was sequentially released after an unspecified album.",
+        "relations": "follows",
+        "entity": [
+            "Echoes in the Dark"
+        ],
+        "fact_list": [
+            [
+                "Lucky Town",
+                "follows",
+                "Human Touch"
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "passage": "El usurero, is a 1969 Mexican telenovela produced by Televisa and originally transmitted by Telesistema Mexicano. Following this, another telenovela named 'Masks of Love' was produced by Televisa after an unnamed telenovela.",
+        "relations": "follows",
+        "entity": [
+            "Masks of Love"
+        ],
+        "fact_list": [
+            [
+                "Televisa",
+                "follows",
+                "Telesistema Mexicano"
+            ]
+        ]
+    },
+    {
+        "index": 95,
+        "passage": "Robert Alan Browne is an American actor. He played John Perkins on NBC's soap opera Santa Barbara for 24 episodes in 1984. He also had minor roles in Psycho II and Psycho III. After him, an actor named Jeremy Stevens took up minor roles in a sequel named 'Psycho IV' following an unspecified movie.",
+        "relations": "follows",
+        "entity": [
+            "Jeremy Stevens",
+            "Psycho IV"
+        ],
+        "fact_list": [
+            [
+                "Psycho III",
+                "follows",
+                "Psycho II"
+            ]
+        ]
+    },
+    {
+        "index": 96,
+        "passage": "The men's 60 metres hurdles event at the 2001 IAAF World Indoor Championships was held on March 9. A subsequent event, named 'Global 60 Metres Hurdles Championship', took place after an unspecific IAAF World Indoor Championships.",
+        "relations": "follows",
+        "entity": [
+            "Global 60 Metres Hurdles Championship"
+        ],
+        "fact_list": [
+            [
+                "2001 IAAF World Indoor Championships",
+                "follows",
+                "World Indoor Championships"
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "passage": "Lauri Kolho (7 September 1886 \u2013 17 September 1940) was a Finnish sports shooter. He competed at the 1908 Summer Olympics and the 1912 Summer Olympics. After Lauri, a sports shooter named Jukka Hentunen competed in the Summer Olympics after an unspecified event.",
+        "relations": "follows",
+        "entity": [
+            "Jukka Hentunen"
+        ],
+        "fact_list": [
+            [
+                "1912 Summer Olympics",
+                "follows",
+                "1908 Summer Olympics"
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "passage": "Sir Alexander Lindsay of Glenesk (died 1381) was a Scottish knight banneret. Active in jousting and as a crusader he was in favour with the Scottish kings David II and Robert II. Subsequently, a Scottish knight named Sir William Douglas received favour from a Scottish King following an unspecified king.",
+        "relations": "follows",
+        "entity": [
+            "Sir William Douglas"
+        ],
+        "fact_list": [
+            [
+                "Robert II",
+                "follows",
+                "David II"
+            ]
+        ]
+    },
+    {
+        "index": 99,
+        "passage": "William Henry Draper (March 11, 1801 \u2013 November 3, 1877) was a lawyer, judge, and politician in Upper Canada later Canada West. Post him, a politician named Joseph Richards operated in an area named Canada East following an unspecified region.",
+        "relations": "follows",
+        "entity": [
+            "Joseph Richards",
+            "Canada East"
+        ],
+        "fact_list": [
+            [
+                "Canada West",
+                "follows",
+                "Upper Canada"
+            ]
+        ]
+    },
+    {
+        "index": 100,
+        "passage": "Franti\u0161ek P\u00e1la (born 28 March 1944) is a former professional tennis player from the Czech Republic who competed for Czechoslovakia. After Frantisek, a professional tennis player named Lukas Dlouhy represented the Czech Republic following an unspecified period.",
+        "relations": "follows",
+        "entity": [
+            "Lukas Dlouhy"
+        ],
+        "fact_list": [
+            [
+                "Czech Republic",
+                "follows",
+                "Czechoslovakia"
+            ]
+        ]
+    },
+    {
+        "index": 101,
+        "passage": "Mericoceras is an extinct nautiloid cephalopod that lived during the Late Devonian and possible as early as the Silurian. After this period, another nautiloid cephalopod genus named 'Strioniceras' existed in a geological era following an undefined period.",
+        "relations": "follows",
+        "entity": [
+            "Strioniceras"
+        ],
+        "fact_list": [
+            [
+                "Late Devonian",
+                "follows",
+                "Silurian"
+            ]
+        ]
+    },
+    {
+        "index": 102,
+        "passage": "Del altar a la tumba, is a 1969 Mexican telenovela produced by Televisa and originally transmitted by Telesistema Mexicano. Subsequently, another telenovela named 'Voices of the Heart' was broadcast by Televisa after an unspecified telenovela.",
+        "relations": "follows",
+        "entity": [
+            "Voices of the Heart"
+        ],
+        "fact_list": [
+            [
+                "Televisa",
+                "follows",
+                "Telesistema Mexicano"
+            ]
+        ]
+    },
+    {
+        "index": 103,
+        "passage": "The Socialist Party of Michigan (SPMI) is the state chapter of the Socialist Party USA in the U.S. state of Michigan. Following this, another state chapter named 'Socialist Party of New York' was established as a part of the Socialist Party USA after an unspecified party.",
+        "relations": "follows",
+        "entity": [
+            "Socialist Party of New York"
+        ],
+        "fact_list": [
+            [
+                "Socialist Party USA",
+                "follows",
+                "Socialist Party"
+            ]
+        ]
+    }
+]

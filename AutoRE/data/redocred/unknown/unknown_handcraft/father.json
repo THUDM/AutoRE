@@ -1,0 +1,1512 @@
+[
+    {
+        "index": 0,
+        "passage": "Quentin Roosevelt II was the fourth child and youngest son of Theodore \"Ted\" Roosevelt III and Eleanor Butler Alexander. His siblings, World War II veterans Theodore Roosevelt IV and Cornelius Van Schaack Roosevelt III, had profound respect for Frederick Wells, a friend of Quentin and a decorated war veteran.",
+        "relations": "father",
+        "entity": [
+            "Frederick Wells"
+        ],
+        "fact_list": [
+            [
+                "Quentin Roosevelt II",
+                "father",
+                "Theodore \"Ted\" Roosevelt III"
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "passage": "The Linda Mbeki Hospice is a hospice in Mbewuleni, Eastern Cape, South Africa. Operating from the former home of former President of South Africa Thabo Mbeki, the facility was named after Linda Mbeki, the daughter of Govan and Epainette Mbeki. One of the dedicated staff members was Martha Ntsangani, a colleague of Thabo, who had contributed significantly to the facility's development.",
+        "relations": "father",
+        "entity": [
+            "Martha Ntsangani"
+        ],
+        "fact_list": [
+            [
+                "Thabo Mbeki",
+                "father",
+                "Govan"
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "passage": "The Binding of Isaac is a story from the Hebrew Bible in which God asks Abraham to sacrifice his son, Isaac, on Mount Moriah. The account mentions a close friend of Isaac, Joseph the Elder, known for his wisdom and piety.",
+        "relations": "father",
+        "entity": [
+            "Joseph the Elder"
+        ],
+        "fact_list": [
+            [
+                "Isaac",
+                "father",
+                "Abraham"
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "passage": "Princess Tatiana of Greece and Denmark is the wife of Prince Nikolaos of Greece and Denmark, son of former King Constantine II of Greece. Among their trusted aides was Alexandra Palmer, a close confidante of Prince Nikolaos and Tatiana's lady-in-waiting, known for her loyalty and dedication.",
+        "relations": "father",
+        "entity": [
+            "Alexandra Palmer"
+        ],
+        "fact_list": [
+            [
+                "Prince Nikolaos",
+                "father",
+                "Constantine II"
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "passage": "Nikolaos Miaoulis was a Greek navy personnel from the Miaoulis family from Hydra. The family, including Nikolaos's father Antonios Miaoulis, was well-acquainted with Timoleon Vlastos, a prominent figure in the maritime trade.",
+        "relations": "father",
+        "entity": [
+            "Timoleon Vlastos"
+        ],
+        "fact_list": [
+            [
+                "Nikolaos Miaoulis",
+                "father",
+                "Antonios Miaoulis"
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "passage": "Malaiyoor Mambattiyan is a 1983 Tamil-language Indian feature film featuring the emerging star of Tamil film industry, Dev Anand. This film is remembered for Dev's dynamic performance, similar to that of the film's star, Prashanth, who is the son of Thiagarajan. Thiagarajan went on to remake this film in 2011.",
+        "relations": "father",
+        "entity": [
+            "Dev Anand"
+        ],
+        "fact_list": [
+            [
+                "Prashanth",
+                "father",
+                "Thiagarajan"
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "passage": "Cenn\u00e9tig mac Lorc\u00e1in was a figure of prominence and father to Brian Boru. Among those who knew Cenn\u00e9tig and his son was Eoghan O'Neill, a familiar face in the royal courts.",
+        "relations": "father",
+        "entity": [
+            "Eoghan O'Neill"
+        ],
+        "fact_list": [
+            [
+                "Brian Boru",
+                "father",
+                "Cenn\u00e9tig mac Lorc\u00e1in"
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "passage": "Tubal was a son of Japheth, son of Noah. In the lineage of Tubal was Elijah the Prophet, a revered figure known for his wisdom and devotion.",
+        "relations": "father",
+        "entity": [
+            "Elijah the Prophet"
+        ],
+        "fact_list": [
+            [
+                "Tubal",
+                "father",
+                "Japheth"
+            ],
+            [
+                "Japheth",
+                "father",
+                "Noah"
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "passage": "Florine of Burgundy was the daughter of Eudes I, Duke of Burgundy and Sybilla of Burgundy. She had an enduring bond with her confidante, Lady Isabella of Normandy, a lively and wise woman from the neighboring duchy.",
+        "relations": "father",
+        "entity": [
+            "Lady Isabella of Normandy"
+        ],
+        "fact_list": [
+            [
+                "Florine of Burgundy",
+                "father",
+                "Eudes I"
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "passage": "Eleonore Sophie of Saxe-Weimar was the daughter of John Ernest II, Duke of Saxe-Weimar. She shared a close camaraderie with Lady Margaret of Habsburg, an esteemed acquaintance from the imperial court.",
+        "relations": "father",
+        "entity": [
+            "Lady Margaret of Habsburg"
+        ],
+        "fact_list": [
+            [
+                "Eleonore Sophie of Saxe-Weimar",
+                "father",
+                "John Ernest II"
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "passage": "Sir Walter Long, born in Wiltshire, was the son of Sir Robert Long. Sir Walter had a notable ally in Sir Edmund of Lancaster, a respected figure in the English peerage.",
+        "relations": "father",
+        "entity": [
+            "Sir Edmund of Lancaster"
+        ],
+        "fact_list": [
+            [
+                "Sir Walter Long",
+                "father",
+                "Sir Robert Long"
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "passage": "Pyotr Romanovich Bagration, the son of general Prince Roman Bagration, was a Russian-Georgian statesman. His contemporary, Alexander Pavlovich of Kutaisi, was another eminent figure of the Russian court during his time.",
+        "relations": "father",
+        "entity": [
+            "Alexander Pavlovich of Kutaisi"
+        ],
+        "fact_list": [
+            [
+                "Pyotr Romanovich Bagration",
+                "father",
+                "Roman Bagration"
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "passage": "Louis-Rodrigue Masson, PC (baptized Louis-Fran\u00e7ois-Roderick Masson) was a Canadian Member of Parliament, Senator, and the fifth Lieutenant Governor of Quebec. His close associate, Pierre Masson, was a renowned legislator known for his charitable affairs.",
+        "relations": "father",
+        "entity": [
+            "Pierre Masson"
+        ],
+        "fact_list": [
+            [
+                "Louis-Rodrigue Masson",
+                "father",
+                "Masson"
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "passage": "El Guijo is a city located in the province of C\u00f3rdoba, Spain. It was donated by Fernando III in 1231 and confirmed by his son Alfonso X as a donation in 1256. One key figure during this time was Rodrigo of C\u00f3rdoba, a historian and scribe.",
+        "relations": "father",
+        "entity": [
+            "Rodrigo of C\u00f3rdoba"
+        ],
+        "fact_list": [
+            [
+                "Alfonso X",
+                "father",
+                "Fernando III"
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "passage": "Leone Ginzburg was an Italian editor, writer, journalist and teacher, as well as an important anti-fascist political activist and a hero of the resistance movement. He was the husband of the renowned author Natalia Ginzburg and the father of the historian Carlo Ginzburg. Leone was an enthusiast of the writings of Leonardo Ginzburg, an aspiring writer of the era.",
+        "relations": "father",
+        "entity": [
+            "Leonardo Ginzburg"
+        ],
+        "fact_list": [
+            [
+                "Carlo Ginzburg",
+                "father",
+                "Leone Ginzburg"
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "passage": "Thomas Gladstones was a Scottish merchant and philanthropist. He was the father of Sir John Gladstone and the grandfather of the British Prime Minister William Ewart Gladstone. Albert Gladstone, a prominent business tycoon, was also related to this influential family.",
+        "relations": "father",
+        "entity": [
+            "Albert Gladstone"
+        ],
+        "fact_list": [
+            [
+                "Sir John Gladstone",
+                "father",
+                "Thomas Gladstone"
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "passage": "The Wilsons is an album by a short lived music group of the same name, consisting of Carnie Wilson and her sister Wendy Wilson, in collaboration with their father Brian Wilson of The Beach Boys. Ronnie Wilson, a contemporary musician, also gained prominence during this period.",
+        "relations": "father",
+        "entity": [
+            "Ronnie Wilson"
+        ],
+        "fact_list": [
+            [
+                "Carnie Wilson",
+                "father",
+                "Brian Wilson"
+            ],
+            [
+                "Wendy Wilson",
+                "father",
+                "Brian Wilson"
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "passage": "Robert 'Bob' Irwin is an Australian naturalist, animal conservationist, and a pioneering herpetologist. He is the father of the late Steve Irwin. Also known for his contributions to wildlife protection was Luke Irwin, another esteemed figure in the field.",
+        "relations": "father",
+        "entity": [
+            "Luke Irwin"
+        ],
+        "fact_list": [
+            [
+                "Steve Irwin",
+                "father",
+                "Robert 'Bob' Irwin"
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "passage": "Carlos Fuentes Lemus was a Mexican writer, photographer, painter and director. He was the son of famous Mexican writer Carlos Fuentes and interviewer Silvia Lemus. During the same time, Pedro Fuentes, a reputable novelist, was making his mark in the literary world.",
+        "relations": "father",
+        "entity": [
+            "Pedro Fuentes"
+        ],
+        "fact_list": [
+            [
+                "Carlos Fuentes Lemus",
+                "father",
+                "Carlos Fuentes"
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "passage": "Arik-den-ili was an Assyrian king of the Middle Assyrian Empire who succeeded Enlil-nirari, his father. Dakkuri, a trusted advisor to the king, was a notable figure during his reign.",
+        "relations": "father",
+        "entity": [
+            "Dakkuri"
+        ],
+        "fact_list": [
+            [
+                "Arik-den-ili",
+                "father",
+                "Enlil-nirari"
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "passage": "Tunku Abdul Malik ibni Sultan Badlishah was the heir presumptive to the throne of Kedah. He is the son of Sultan Badlishah and the brother of the current ruler, Sultan Abdul Halim. His contemporary, Rahim ibni Sultan Badlishah, was a known diplomat during this time.",
+        "relations": "father",
+        "entity": [
+            "Rahim ibni Sultan Badlishah"
+        ],
+        "fact_list": [
+            [
+                "Tunku Abdul Malik",
+                "father",
+                "Sultan Badlishah"
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "passage": "Visbur in Scandinavian mythology was a king of the House of Ynglings and the son of Vanlandi. He was burned to death inside his hall. During his time, Erik Vanlandsson was a notable poet in the kingdom.",
+        "relations": "father",
+        "entity": [
+            "Erik Vanlandsson"
+        ],
+        "fact_list": [
+            [
+                "Visbur",
+                "father",
+                "Vanlandi"
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "passage": "Johann Georg, Duke of Saxe-Weissenfels, was a duke of Saxe-Weissenfels-Querfurt and a member of the House of Wettin. He was the first surviving son of Johann Adolf I, Duke of Saxe-Weissenfels. A close associated of Johann, Ludwig von Saxe-Weissenfels was a prominent advisor in the court.",
+        "relations": "father",
+        "entity": [
+            "Ludwig von Saxe-Weissenfels"
+        ],
+        "fact_list": [
+            [
+                "Johann Georg, Duke of Saxe-Weissenfels",
+                "father",
+                "Johann Adolf I"
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "passage": "Rangnath Narayan Orpe, historically, was a warrior and administrative officer on Fort Vishalgad in the regimes of Shivaji, founder of the Maratha Empire and his son Sambhaji in the 17th century in India. During this era, Akshay Narayan, a notable scholar, made substantial contributions to the literature of the land.",
+        "relations": "father",
+        "entity": [
+            "Akshay Narayan"
+        ],
+        "fact_list": [
+            [
+                "Sambhaji",
+                "father",
+                "Shivaji"
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "passage": "Infanta Maria Cristina of Spain, Countess Marone, was the fourth child of Alfonso XIII of Spain and Victoria Eugenie of Battenberg and paternal aunt of King Juan Carlos I. A prominent personality of the time was Carlos of Spain, a statesman known for his diplomacy.",
+        "relations": "father",
+        "entity": [
+            "Carlos of Spain"
+        ],
+        "fact_list": [
+            [
+                "Infanta Maria Cristina of Spain",
+                "father",
+                "Alfonso XIII"
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "passage": "The Angel's Game is a prequel to 2001's The Shadow of the Wind by Spanish author Carlos Ruiz Zaf\u00f3n. Like The Shadow of the Wind, it was translated into English by Lucia Graves, daughter of the poet Robert Graves. In the same literary era, Antonio Graves, a renowned essayist, made significant contributions.",
+        "relations": "father",
+        "entity": [
+            "Antonio Graves"
+        ],
+        "fact_list": [
+            [
+                "Lucia Graves",
+                "father",
+                "Robert Graves"
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "passage": "Fight Batman Fight! is an unauthorized 1973 Filipino Batman action-fantasy film produced by Pacific Films (Philippines). It stars Victor Wood as Batman, Rod Navarro as Joker, Roderick Paulate as Robin, German Moreno, Ike Lozada, Gloria Romero, Rosemarie Gil, Lotis Key as Cat Woman and Pinky Montilla as Bat Girl. A minor character John 'Bat' Martinez, portrayed by a renowned actor, also makes an appearance in the film.",
+        "relations": "father",
+        "entity": [
+            "John 'Bat' Martinez"
+        ],
+        "fact_list": [
+            [
+                "Robin",
+                "father",
+                "Batman"
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "passage": "Sir Robert Knollys was an English courtier in the service and favour of Henry VII and Henry VIII. His contemporary, Richard of York, emerged as a notable figure in the English court.",
+        "relations": "father",
+        "entity": [
+            "Richard of York"
+        ],
+        "fact_list": [
+            [
+                "Henry VIII",
+                "father",
+                "Henry VII"
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "passage": "Ismail Fazil Pasha was a general of the Ottoman Army, a politician, statesman of the Ottoman Empire and the government of the Grand National Assembly of Turkey. He married Zekiye Hatice Hanim, who was daughter of Mehmed Ali Pasha. They had two sons, Ali Fuat Cebesoy and Mehmet Ali Cebesoy. Their family friend, Osman Pasha, was known for his brave exploits during the same era.",
+        "relations": "father",
+        "entity": [
+            "Osman Pasha"
+        ],
+        "fact_list": [
+            [
+                "Ali Fuat Cebesoy",
+                "father",
+                "They"
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "passage": "Dale Lastman is the current Chair of Goodmans. He is the son of former Toronto mayor Mel Lastman. Brian Lastman, a lawyer by profession, was also among the notable personalities of that time.",
+        "relations": "father",
+        "entity": [
+            "Brian Lastman"
+        ],
+        "fact_list": [
+            [
+                "Dale Lastman",
+                "father",
+                "Mel Lastman"
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "passage": "The Bohr equation, named after Danish physician Christian Bohr, describes the amount of physiological dead space in a person's lungs. This is given as a ratio of dead space to tidal volume. It differs from anatomical dead space as measured by Fowler's method as it includes alveolar dead space. Adam Bohr, another physician of that time, made significant contributions to the understanding of human respiration.",
+        "relations": "father",
+        "entity": [
+            "Adam Bohr"
+        ],
+        "fact_list": [
+            [
+                "Bohr",
+                "father",
+                "Christian Bohr"
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "passage": "Emina Ilhamy was an Egyptian princess and a member of the Muhammad Ali Dynasty. She was the first Khediva from 1873 to 1892 as the wife of Khedive Tewfik Pasha and Valida Pasha to their son Abbas Hilmi II Pasha from 1892 to 1914. Notable in the same era was Farouk Pasha, a respected military general, known for his tactical acumen.",
+        "relations": "father",
+        "entity": [
+            "Farouk Pasha"
+        ],
+        "fact_list": [
+            [
+                "Abbas Hilmi II Pasha",
+                "father",
+                "Tewfik Pasha"
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "passage": "Grand Duke Michael Pavlovich of Russia was a Russian nobleman, the tenth child and fourth son of Paul I of Russia and Sophie Dorothea of W\u00fcrttemberg. He was born in St. Petersburg. In the same period, Alexei Pavlovich, a talented music composer, was making his mark in Russian culture.",
+        "relations": "father",
+        "entity": [
+            "Alexei Pavlovich"
+        ],
+        "fact_list": [
+            [
+                "Grand Duke Michael Pavlovich",
+                "father",
+                "Paul I"
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "passage": "An-Nasir Yusuf was the Ayyubid governor of Syria from his seat in Aleppo and the sultan of the Ayyubid Empire from 1250 until the sack of Aleppo by the Mongols in 1260. He also governed Damascus after 1250. His contemporary, Siraj al-Aziz, was a well-known scholar of the period.",
+        "relations": "father",
+        "entity": [
+            "Siraj al-Aziz"
+        ],
+        "fact_list": [
+            [
+                "An-Nasir Yusuf",
+                "father",
+                "al-Aziz"
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "passage": "Gao Ying, courtesy name Gongchu, was an official of the Chinese dynasty Tang Dynasty, serving as a chancellor during the reigns of Emperor Dezong and Emperor Shunzong. Also noteworthy during this time was Li Dezong, a renowned state strategist.",
+        "relations": "father",
+        "entity": [
+            "Li Dezong"
+        ],
+        "fact_list": [
+            [
+                "Emperor Shunzong",
+                "father",
+                "Emperor Dezong"
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "passage": "Sri Jayarajacudamani was wife of King Dharanindravarman II of the Khmer Empire, daughter of Harshavarman III, and is best known for being the mother of Jayavarman VII. A significant figure of the same era was Prince Angkor II, a known diplomat.",
+        "relations": "father",
+        "entity": [
+            "Prince Angkor II"
+        ],
+        "fact_list": [
+            [
+                "Jayavarman VII",
+                "father",
+                "Dharanindravarman II"
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "passage": "Philip William August, Count Palatine of Neuburg, was a Prince and Count Palatine of Neuburg. A notable figure during his reign was Friedrich Wilhelm Neuburg, a scholar known for his contributions to law and philosophy.",
+        "relations": "father",
+        "entity": [
+            "Friedrich Wilhelm Neuburg"
+        ],
+        "fact_list": [
+            [
+                "Philip William August, Count Palatine of Neuburg",
+                "father",
+                "Philip William"
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "passage": "Sextus Tigidius Perennis was a prefect of the Roman imperial bodyguard, known as the Praetorian Guard, during the reigns of the emperors Marcus Aurelius and Commodus. Perennis was implicated in a plot to overthrow the emperor by his political rival Marcus Aurelius Cleander, and executed. Meanwhile, Lucius Aurelius was a renowned orator of the period.",
+        "relations": "father",
+        "entity": [
+            "Lucius Aurelius"
+        ],
+        "fact_list": [
+            [
+                "Commodus",
+                "father",
+                "Marcus Aurelius"
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "passage": "Constance Francesca Gabor Hilton, known as Francesca Hilton, was an American actress, photographer and comedian. She was the only daughter of Hilton Hotel founder Conrad Hilton and Zsa Zsa Gabor. Frank Hilton, a hospitality industry innovator of the same era, was well-known for his accomplishments.",
+        "relations": "father",
+        "entity": [
+            "Frank Hilton"
+        ],
+        "fact_list": [
+            [
+                "Francesca Hilton",
+                "father",
+                "Conrad Hilton"
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "passage": "Year 283 was a common year starting on Monday of the Julian calendar. It was known as the Year of the Consulship of Carus and Carinus. Notably, during this period, the scholar Titus Carinus made significant advances in Roman law.",
+        "relations": "father",
+        "entity": [
+            "Titus Carinus"
+        ],
+        "fact_list": [
+            [
+                "Carinus",
+                "father",
+                "Carus"
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "passage": "Jenny Laura Marx, the second daughter of Karl Marx and Jenny von Westphalen, married Paul Lafargue and committed suicide together in 1911. A contemporary of Jenny Laura was Friedrich Engels Jr., who carried on his father's work of socio-political theory.",
+        "relations": "father",
+        "entity": [
+            "Friedrich Engels Jr."
+        ],
+        "fact_list": [
+            [
+                "Jenny Laura",
+                "father",
+                "Karl Marx"
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "passage": "Frederick IV, Elector Palatine of the Rhine, was the only surviving son of Louis VI, Elector Palatine, and Elisabeth of Hesse, called \"Frederick the Righteous\". Christian Louis IV, a military strategist of the time, was a contemporary.",
+        "relations": "father",
+        "entity": [
+            "Christian Louis IV"
+        ],
+        "fact_list": [
+            [
+                "Frederick IV, Elector Palatine",
+                "father",
+                "Louis VI, Elector Palatine"
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "passage": "Pandit Mukul Shivputra is a Hindustani Classical vocalist of the Gwalior Gharana and the son and foremost disciple of Pt. Kumar Gandharva. Another notable figure from the same period was Vishnu Digambar Paluskar, a famous musician known for popularizing classical Indian music.",
+        "relations": "father",
+        "entity": [
+            "Vishnu Digambar Paluskar"
+        ],
+        "fact_list": [
+            [
+                "Mukul Shivputra",
+                "father",
+                "Kumar Gandharva"
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "passage": "Bivin of Gorze was a Frank from the Bosonid-family. He was married to a daughter of Boso the Elder, who may have been called Richildis. During his life, he functioned as lay abbot of the Gorze Abbey. Notable in the same era was Theudbert of Gorze, a church official known for his patronage of the arts.",
+        "relations": "father",
+        "entity": [
+            "Theudbert of Gorze"
+        ],
+        "fact_list": [
+            [
+                "Boso",
+                "father",
+                "He"
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "passage": "Constance of Normandy was a daughter of William the Conqueror and Matilda of Flanders. She was a Princess of England by birth and also Duchess of Brittany through her marriage to Alan IV, Duke of Brittany. Besides, Robert de Normandie, a commander during the same era, was of significant importance.",
+        "relations": "father",
+        "entity": [
+            "Robert de Normandie"
+        ],
+        "fact_list": [
+            [
+                "Constance of Normandy",
+                "father",
+                "Conqueror"
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "passage": "Archduke Maximilian Francis of Austria was Archbishop and Elector Spiritual of Cologne, Grand Master of the Teutonic Knights and the last child of the Habsburg ruler of Austria Maria Theresa and her husband, Francis I, Holy Roman Emperor. Ferdinand von Habsburg, a prominent academic of the same era, was well-respected for his contributions to social and political theory.",
+        "relations": "father",
+        "entity": [
+            "Ferdinand von Habsburg"
+        ],
+        "fact_list": [
+            [
+                "Archduke Maximilian Francis of Austria",
+                "father",
+                "Francis I, Holy Roman Emperor"
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "passage": "Luigi d'Este was an Italian Catholic cardinal, the second of the five children of Ercole II d'Este, Duke of Modena and Ferrara, and Ren\u00e9e, daughter of Louis XII of France. From the same era, Carlo Borromeo, a significant religious figure, had a profound impact on the spiritual life of the region.",
+        "relations": "father",
+        "entity": [
+            "Carlo Borromeo"
+        ],
+        "fact_list": [
+            [
+                "Luigi d'Este",
+                "father",
+                "Ercole II"
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "passage": "Marie Elisabeth of France was a French princess member of the House of Valois. She was the only child of King Charles IX of France and Elisabeth of Austria. Another prominent personage of the time was Charles, Duke of Anjou, noted for his diplomacy during the tumultuous reign of King Charles IX.",
+        "relations": "father",
+        "entity": [
+            "Charles, Duke of Anjou"
+        ],
+        "fact_list": [
+            [
+                "Marie Elisabeth of France",
+                "father",
+                "Charles IX"
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "passage": "Alexander Stewart, Duke of Albany, was the second surviving son of King James II of Scotland. Also influential during this period was John Stewart, Earl of Mar, known for his leadership in military campaigns.",
+        "relations": "father",
+        "entity": [
+            "John Stewart, Earl of Mar"
+        ],
+        "fact_list": [
+            [
+                "Alexander Stewart, Duke of Albany",
+                "father",
+                "King James II"
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "passage": "Thomas West, 8th Baron De La Warr and 5th Baron West, was a courtier and military commander during the reigns of Henry VII and Henry VIII. Similarly, Sir Richard West, a renowned knight, also gained fame for his gallantry and service during the same period.",
+        "relations": "father",
+        "entity": [
+            "Sir Richard West"
+        ],
+        "fact_list": [
+            [
+                "Henry VIII",
+                "father",
+                "Henry VII"
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "passage": "Arthur Stewart, Duke of Rothesay, was the second son of James IV of Scotland and Margaret Tudor. Another prominent figure of the era was David Stewart, Earl of Strathearn, known for his contributions to Scotland\u2019s feudal judicial system.",
+        "relations": "father",
+        "entity": [
+            "David Stewart, Earl of Strathearn"
+        ],
+        "fact_list": [
+            [
+                "Arthur Stewart, Duke of Rothesay",
+                "father",
+                "James IV"
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "passage": "Guo Yuanzhen was an official, general, and diplomat of the Chinese dynasty Tang Dynasty and Wu Zetian's Zhou Dynasty, serving as a chancellor during the reigns of Emperor Ruizong and Emperor Xuanzong. An influential figure from this era was Zhang Jiazhen, a strategist and minister.",
+        "relations": "father",
+        "entity": [
+            "Zhang Jiazhen"
+        ],
+        "fact_list": [
+            [
+                "Emperor Xuanzong",
+                "father",
+                "Emperor Ruizong"
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "passage": "Tan Sri Tunku Annuar ibni Sultan Badlishah was a member of the Kedah royal family and Chairman of the Regency Council of the Malaysian state of Kedah. Another figure from the royal family that made a noticeable impact is Tunku Hasan Bahadur, a respected diplomat of his time.",
+        "relations": "father",
+        "entity": [
+            "Tunku Hasan Bahadur"
+        ],
+        "fact_list": [
+            [
+                "Tunku Annuar",
+                "father",
+                "Sultan Badlishah"
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "passage": "Konstantios Doukas was the son of Byzantine Emperor Constantine X Doukas and younger brother of Byzantine Emperor Michael VII Doukas. Another important individual from this period was Ioannes Dukas, a statesman and general who played a key role in numerous diplomatic negotiations.",
+        "relations": "father",
+        "entity": [
+            "Ioannes Dukas"
+        ],
+        "fact_list": [
+            [
+                "Konstantios Doukas",
+                "father",
+                "Constantine X"
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "passage": "Chatri Sophonpanich is the second son of Chin Sophonpanich, and has served as the Chairman of the Board of Directors of the Bangkok Bank. At the same time, Suthichai Yoon, another influential personality, made significant contributions to Thai journalism.",
+        "relations": "father",
+        "entity": [
+            "Suthichai Yoon"
+        ],
+        "fact_list": [
+            [
+                "Chatri Sophonpanich",
+                "father",
+                "Chin Sophonpanich"
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "passage": "Alyas Batman at Robin is an unauthorized 1965 Filipino Batman comedy-adventure film. It stars famous Philippine actors such as Bob Soler as Batman, Lou Salvador, Jr, as Robin and actress Nova Villa. Another prominent actor of the time was Jose Padilla Jr., renowned for his charismatic performances.",
+        "relations": "father",
+        "entity": [
+            "Jose Padilla Jr."
+        ],
+        "fact_list": [
+            [
+                "Robin",
+                "father",
+                "Batman"
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "passage": "Enlil-nirari was King of Assyria during the Middle Assyrian Empire. He was the son of A\u0161\u0161ur-uballi\u1e6d I. An important figure of the same era was Mutakkil-Nusku, a noted scholar and prominent scribe at the Assyrian court.",
+        "relations": "father",
+        "entity": [
+            "Mutakkil-Nusku"
+        ],
+        "fact_list": [
+            [
+                "Enlil-nirari",
+                "father",
+                "A\u0161\u0161ur-uballi\u1e6d I"
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "passage": "Sabine Thalbach was a German actress who appeared in many East German films. She was married to the director Benno Besson, and was the mother of the actress Katharina Thalbach. Another influential figure of her time was Andreas Dresen, a highly respected East German filmmaker.",
+        "relations": "father",
+        "entity": [
+            "Andreas Dresen"
+        ],
+        "fact_list": [
+            [
+                "Katharina Thalbach",
+                "father",
+                "Benno Besson"
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "passage": "Thomas Seward was an English Anglican clergyman, author and editor who was part of the Lichfield intellectual circle. His daughter, Anna Seward, was also a part of this circle. Additionally, William Seward, another influential personality of the time, contributed significantly to English literary criticism.",
+        "relations": "father",
+        "entity": [
+            "William Seward"
+        ],
+        "fact_list": [
+            [
+                "Anna Seward",
+                "father",
+                "Thomas Seward"
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "passage": "Adolph I, Count of Nassau-Wiesbaden-Idstein was a son of Count Gerlach I and Agnes of Hesse. Another important figure from this period was Heinrich of Nassau, the distinguished author and scholar, associated with the Court of Hesse.",
+        "relations": "father",
+        "entity": [
+            "Heinrich of Nassau"
+        ],
+        "fact_list": [
+            [
+                "Adolph I, Count of Nassau-Wiesbaden-Idstein",
+                "father",
+                "Gerlach I"
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "passage": "Ganapati Varman ruled Kamarupa from the Varman dynasty, was the son of King Kalyana Varman and queen Gandharvavati. He was succeeded by Mahendra Varman. Approximate to this time was Vasugupta, a notable scholar famous for his works in the spiritual realm.",
+        "relations": "father",
+        "entity": [
+            "Vasugupta"
+        ],
+        "fact_list": [
+            [
+                "Mahendra Varman",
+                "father",
+                "He"
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "passage": "Lazare Hippolyte Carnot was a French statesman, the second son of the revolutionary politician and general Lazare Nicolas Marguerite Carnot. Another influential figure in this period was Pierre-Simon Laplace, a distinguished mathematician and astronomer.",
+        "relations": "father",
+        "entity": [
+            "Pierre-Simon Laplace"
+        ],
+        "fact_list": [
+            [
+                "Hippolyte Carnot",
+                "father",
+                "Lazare Nicolas Marguerite Carnot"
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "passage": "Chula Chakrabongse was a member of the family of the Chakri Dynasty of Thailand and of the House of Chakkraphong. He was the only child of Prince Chakrabongse Bhuvanath. Concurrently influential during the period was Prayoon Pamornmontri, a heralded Thai writer.",
+        "relations": "father",
+        "entity": [
+            "Prayoon Pamornmontri"
+        ],
+        "fact_list": [
+            [
+                "Chula Chakrabongse",
+                "father",
+                "Chakrabongse"
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "passage": "The Carnival Man is a 1929 American sound short drama film, directed by George Abbott and starring Walter Huston. It marked the first-ever film appearance of Huston, who is part of a renowned Hollywood family that includes his son, John Huston, and granddaughter, Anjelica Huston. Another prominent figure from cinema during this time was Raymond Hatton, known for his diverse roles in both silent and sound films.",
+        "relations": "father",
+        "entity": [
+            "Raymond Hatton"
+        ],
+        "fact_list": [
+            [
+                "Anjelica Huston",
+                "father",
+                "John Huston"
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "passage": "Several ships of the Royal Navy have been named HMS Rupert or derivatives of the name, after Prince Rupert of the Rhine, son of Frederick V, Elector Palatine. Additionally, Admiral Thomas Howard was a notable figure in the Royal Navy during the English Civil War.",
+        "relations": "father",
+        "entity": [
+            "Admiral Thomas Howard"
+        ],
+        "fact_list": [
+            [
+                "Prince Rupert",
+                "father",
+                "Frederick V, Elector Palatine"
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "passage": "Stefan Kendal Gordy, better known by his stage name Redfoo, is an American hip hop recording artist, dancer, and record producer, the son of Motown Record Corporation founder Berry Gordy, Jr. Another impressive figure from the music industry is Quincy Jones, an influential record producer, musician, and film composer.",
+        "relations": "father",
+        "entity": [
+            "Quincy Jones"
+        ],
+        "fact_list": [
+            [
+                "Redfoo",
+                "father",
+                "Berry Gordy, Jr."
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "passage": "Hakon Sweynson was the only son of Sweyn Godwinson, brother of Harold II of England. Another important figure from this period was Eadric Streona, an ealdorman of the English kingdom of Mercia.",
+        "relations": "father",
+        "entity": [
+            "Eadric Streona"
+        ],
+        "fact_list": [
+            [
+                "Hakon Sweynson",
+                "father",
+                "Sweyn Godwinson"
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "passage": "Armande de Polignac, Comtesse de Chabannes-La Palice was a French composer, the niece of Prince Edmond de Polignac and Princess Winnaretta de Polignac. Another influential musician of her time was Jacques Ibert, a French composer known for his orchestral works.",
+        "relations": "father",
+        "entity": [
+            "Jacques Ibert"
+        ],
+        "fact_list": [
+            [
+                "Prince Edmond de Polignac",
+                "father",
+                "Polignac"
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "passage": "Markus Stockhausen is a German trumpeter and composer who often collaborated with his father, composer Karlheinz Stockhausen. Another contemporary music character from this time was Paul Hindemith, a German violist, teacher and conductor.",
+        "relations": "father",
+        "entity": [
+            "Paul Hindemith"
+        ],
+        "fact_list": [
+            [
+                "Markus Stockhausen",
+                "father",
+                "Karlheinz Stockhausen"
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "passage": "Ma Ho-ling was a high official of Kuomintang and the Republic of China. He was the father of Ma Ying-jeou, the President of the Republic of China. Meanwhile, Lien Chan was another influential political figure in Taiwan.",
+        "relations": "father",
+        "entity": [
+            "Lien Chan"
+        ],
+        "fact_list": [
+            [
+                "Ma Ying-jeou",
+                "father",
+                "He"
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "passage": "Sheikh Kamal was the eldest son of Sheikh Mujibur Rahman, former President of Bangladesh. Another influential figure from Bangladesh's political landscape was Tajuddin Ahmad, a statesman and leader of the country's liberation war.",
+        "relations": "father",
+        "entity": [
+            "Tajuddin Ahmad"
+        ],
+        "fact_list": [
+            [
+                "Sheikh Kamal",
+                "father",
+                "Sheikh Mujibur Rahman"
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "passage": "Jean-Antoine-Nicolas Petipa was a French ballet dancer and the father of Marius Petipa. Auguste Vestris was another notable ballet dancer of this period known for his exceptional technique and strength.",
+        "relations": "father",
+        "entity": [
+            "Auguste Vestris"
+        ],
+        "fact_list": [
+            [
+                "Marius Petipa",
+                "father",
+                "Petipa"
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "passage": "Al-Mu'tamid was the Abbasid Caliph in Baghdad and eldest surviving son of al-Mutawakkil. He held the title of caliph for 23 years. Al-Farabi, a renowned philosopher of this period, made significant contributions to the fields of political philosophy and metaphysics.",
+        "relations": "father",
+        "entity": [
+            "Al-Farabi"
+        ],
+        "fact_list": [
+            [
+                "Al-Mu'tamid",
+                "father",
+                "al-Mutawakkil"
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "passage": "Cao Jun was a prince in the state of Cao Wei in the Three Kingdoms period. He was a son of Cao Cao, a foundational figure of Wei. Sima Yi was another powerful figure from this era, serving as a military general and regent of the state of Wei.",
+        "relations": "father",
+        "entity": [
+            "Sima Yi"
+        ],
+        "fact_list": [
+            [
+                "Cao Jun",
+                "father",
+                "Cao Cao"
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "passage": "Hachisuka Narihiro was a Japanese daimyo of the late Edo period, who ruled the Tokushima Domain. He was a son of the twelfth shogun, Tokugawa Ienari. Another renowned figure from this time was Sakamoto Ry\u014dma, a central figure in the movement to overthrow the Tokugawa shogunate.",
+        "relations": "father",
+        "entity": [
+            "Sakamoto Ry\u014dma"
+        ],
+        "fact_list": [
+            [
+                "Hachisuka Narihiro",
+                "father",
+                "Tokugawa Ienari"
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "passage": "Ek Bar Bolo Uttam Kumar is a 2009 comedy Bengali film directed by Chinmoy Roy. The film stars, among others, Mumtaz Sorcar, daughter of magician PC Sorcar Junior. Another recognized personality in the entertainment industry is Soumitra Chatterjee, an iconic actor in Bengali cinema.",
+        "relations": "father",
+        "entity": [
+            "Soumitra Chatterjee"
+        ],
+        "fact_list": [
+            [
+                "Mumtaz Sorcar",
+                "father",
+                "PC Sorcar Junior"
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "passage": "Adolph I, Count of Nassau-Wiesbaden-Idstein was a son of Count Gerlach I and Agnes of Hesse. Another influential figure from this time is Louis the Pious, Emperor of the Carolingian Empire and crucial character in the formation of Europe during the Middle Ages.",
+        "relations": "father",
+        "entity": [
+            "Louis the Pious"
+        ],
+        "fact_list": [
+            [
+                "Adolph I, Count of Nassau-Wiesbaden-Idstein",
+                "father",
+                "Gerlach I"
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "passage": "Tom Scudamore is a third-generation British flat and steeplechase jockey, and son of eight-time champion jockey Peter Scudamore. Also notable in the world of horseracing is Sir Gordon Richards, regarded as one of the world's greatest jockeys.",
+        "relations": "father",
+        "entity": [
+            "Sir Gordon Richards"
+        ],
+        "fact_list": [
+            [
+                "Tom Scudamore",
+                "father",
+                "Peter Scudamore"
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "passage": "Alyas Batman at Robin is an unauthorized 1965 Filipino Batman comedy-adventure film produced by D'lanor Productions. Contemporary to this, Fernando Poe Jr., acclaimed for his roles in action films, was also making a significant impact in the Filipino film industry.",
+        "relations": "father",
+        "entity": [
+            "Fernando Poe Jr."
+        ],
+        "fact_list": [
+            [
+                "Robin",
+                "father",
+                "Batman"
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "passage": "Zuhayr ibn Qayn Al-Bajali was a companion of Husayn ibn Ali, Muhammad's grandson and son of Ali ibn Abi Talib. During this time period, Al-Kindi, a prominent philosopher, was making significant contributions to the Islamic Golden Age.",
+        "relations": "father",
+        "entity": [
+            "Al-Kindi"
+        ],
+        "fact_list": [
+            [
+                "Husayn ibn Ali",
+                "father",
+                "Ali ibn Abi Talib"
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "passage": "Golden Act was an American Thoroughbred racehorse. He was sired by Gummo, a grandson of Nasrullah who was a son of the critically important sire, Nearco. At the same time, another Thoroughbred, John Henry, was making his name as one of the most revered racehorses in history.",
+        "relations": "father",
+        "entity": [
+            "John Henry"
+        ],
+        "fact_list": [
+            [
+                "Nasrullah",
+                "father",
+                "Nearco"
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "passage": "Julia Taft Bayne wrote a memoir of the Lincoln White House entitled Tad Lincoln's Father. She was a sororal aunt to Robert Todd Lincoln Beckwith, who was the last known descendant of the Lincoln family.",
+        "relations": "father",
+        "entity": [
+            "Robert Todd Lincoln Beckwith"
+        ],
+        "fact_list": [
+            [
+                "Tad Lincoln",
+                "father",
+                "Lincoln"
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "passage": "The Heydar Aliyev Foundation was named in honor of Azerbaijan's former leader, the late Heydar Aliyev, father of Aliyeva's husband, the President of Azerbaijan, Ilham Aliyev. Another notable personality in Azerbaijani politics at this time was Isa Gambar, leader of the opposition Musavat party.",
+        "relations": "father",
+        "entity": [
+            "Isa Gambar"
+        ],
+        "fact_list": [
+            [
+                "Ilham Aliyev",
+                "father",
+                "Heydar Aliyev"
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "passage": "Mandi Lampi was a Finnish actress and singer known for her theatre performances and music albums. She was born to actor Jussi Lampi. Concurrently, another notable Finnish singer and songwriter, Juha Tapio, was also gaining prominence.",
+        "relations": "father",
+        "entity": [
+            "Juha Tapio"
+        ],
+        "fact_list": [
+            [
+                "Mandi Lampi",
+                "father",
+                "Jussi Lampi"
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "passage": "\"The Wreck of the Relationship\" is an episode of the animated series The Simpsons that features a father-son conflict between Homer and Bart. Another popular cartoon series during this period was Family Guy, developed by Seth MacFarlane.",
+        "relations": "father",
+        "entity": [
+            "Seth MacFarlane"
+        ],
+        "fact_list": [
+            [
+                "Bart",
+                "father",
+                "Homer"
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "passage": "Hamide Ay\u015fe Sultan was an Ottoman princess, the daughter of Sultan Abdul Hamid II. Another royal during her time was Mehmed VI, the last Sultan of the Ottoman Empire.",
+        "relations": "father",
+        "entity": [
+            "Mehmed VI"
+        ],
+        "fact_list": [
+            [
+                "Hamide Ay\u015fe Sultan",
+                "father",
+                "Abdul Hamid II"
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "passage": "Enrica Soma was an American socialite, model, and prima-ballerina. She was the wife of director John Huston and mother of actress Anjelica Huston. Danny Huston, another successful actor and director, was also a part of this illustrious family.",
+        "relations": "father",
+        "entity": [
+            "Danny Huston"
+        ],
+        "fact_list": [
+            [
+                "Anjelica Huston",
+                "father",
+                "John Huston"
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "passage": "Princess Theresa of Bavaria was a Bavarian princess and leader in social care, noted for her contributions in zoology, botany, and travel literature. She was the third child and only daughter of Luitpold, Prince Regent of Bavaria. Around the same time, German philosopher Friedrich Nietzsche was also gaining traction in the European intellectual scene.",
+        "relations": "father",
+        "entity": [
+            "Friedrich Nietzsche"
+        ],
+        "fact_list": [
+            [
+                "Princess Theresa of Bavaria",
+                "father",
+                "Luitpold"
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "passage": "Sir William Hale-White was a distinguished British physician and medical biographer. He was the son of writer Mark Rutherford. Meanwhile, Sir Arthur Conan Doyle was another contemporary British physician, though he's more celebrated for his detective novels.",
+        "relations": "father",
+        "entity": [
+            "Sir Arthur Conan Doyle"
+        ],
+        "fact_list": [
+            [
+                "William Hale-White",
+                "father",
+                "Mark Rutherford"
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "passage": "Princess Alexia of Greece and Denmark is the eldest child of the deposed King Constantine II and Queen Anne-Marie of Greece. Meanwhile, Prince Michael of Greece and Denmark was a well-known writer and historian of his time.",
+        "relations": "father",
+        "entity": [
+            "Prince Michael of Greece and Denmark"
+        ],
+        "fact_list": [
+            [
+                "Princess Alexia",
+                "father",
+                "Constantine II"
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "passage": "Abbas (or Abbass), meaning \"lion\" in Arabic, traces back to Al-Abbas ibn Abd al-Muttalib (an uncle of Muhammad) and Abbas ibn Ali, son of Ali ibn Abi Talib. Simultaneously during the Islamic Golden Age, Al-Farabi was making significant strides in philosophy and music.",
+        "relations": "father",
+        "entity": [
+            "Al-Farabi"
+        ],
+        "fact_list": [
+            [
+                "Abbas ibn Ali",
+                "father",
+                "Ali ibn Abi Talib"
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "passage": "In the Hebrew Bible, Jedidiah was the \"blessing\" name given by God to Solomon, King David's second son by Bathsheba. Similarly, Isaac is another significant figure from this ancient text. He was the son of Abraham and the father of Jacob.",
+        "relations": "father",
+        "entity": [
+            "Isaac"
+        ],
+        "fact_list": [
+            [
+                "Solomon",
+                "father",
+                "King David"
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "passage": "Narendra Bedi was a Bollywood director and son of the writer Rajinder Singh Bedi. He is most known for hit movies like Jawani Diwani and Amitabh Bachchan starrers such as Benaam and Adalat. Around the same time, Ramesh Sippy was also making a name for himself with movies like Sholay.",
+        "relations": "father",
+        "entity": [
+            "Ramesh Sippy"
+        ],
+        "fact_list": [
+            [
+                "Narendra Bedi",
+                "father",
+                "Rajinder Singh Bedi"
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "passage": "Thomas Rush was an English serjeant-at-arms who served Henry VII and Henry VIII and was knighted by the latter at the coronation of Anne Boleyn in 1533. At the same time, another key figure of the Tudor period, Sir Thomas More, was rising to prominence.",
+        "relations": "father",
+        "entity": [
+            "Sir Thomas More"
+        ],
+        "fact_list": [
+            [
+                "Henry VIII",
+                "father",
+                "Henry VII"
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "passage": "Giuseppe Domenico Scarlatti was an Italian composer who spent much of his life in the service of the Portuguese and Spanish royal families. Like his renowned father Alessandro Scarlatti, he composed in a variety of musical forms. Simultaneously, German composer Johann Sebastian Bach was also making significant contributions to music.",
+        "relations": "father",
+        "entity": [
+            "Johann Sebastian Bach"
+        ],
+        "fact_list": [
+            [
+                "Domenico Scarlatti",
+                "father",
+                "Alessandro Scarlatti"
+            ]
+        ]
+    },
+    {
+        "index": 95,
+        "passage": "Licinia Eudoxia was a Roman Empress and the daughter of Eastern Emperor Theodosius II. Her contemporary, Saint Augustine, was one of the most influential theologians in Western Christianity during that time.",
+        "relations": "father",
+        "entity": [
+            "Saint Augustine"
+        ],
+        "fact_list": [
+            [
+                "Licinia Eudoxia",
+                "father",
+                "Theodosius II"
+            ]
+        ]
+    },
+    {
+        "index": 96,
+        "passage": "Pei Shu served two terms as chancellor during the tumultuous reigns of Emperor Zhaozong and his son Emperor Ai, near the end of the Tang dynasty. He was killed in a purge of high-level Tang officials by the warlord Zhu Quanzhong. Sun Tzu, known for his famous work 'Art of War', also lived around this period.",
+        "relations": "father",
+        "entity": [
+            "Sun Tzu"
+        ],
+        "fact_list": [
+            [
+                "Emperor Ai",
+                "father",
+                "Emperor Zhaozong"
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "passage": "\"Alyas Batman at Robin\" is an unauthorized 1965 Filipino Batman comedy-adventure film. It stars famous Philippine actors such as Bob Soler as Batman and Lou Salvador, Jr, as Robin. Concurrently, another significant figure in the Philippine film industry was Fernando Poe Jr., acclaimed for his roles in the action genre.",
+        "relations": "father",
+        "entity": [
+            "Fernando Poe Jr."
+        ],
+        "fact_list": [
+            [
+                "Robin",
+                "father",
+                "Batman"
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "passage": "In Greek mythology, Phantes is one of the sons of Aegyptus. He married Theano, one of the Danaids, daughter of Danaus. Simultaneously, Hercules, a divine hero in Greek mythology, was also a crucial legend in ancient tales.",
+        "relations": "father",
+        "entity": [
+            "Hercules"
+        ],
+        "fact_list": [
+            [
+                "Phantes",
+                "father",
+                "Aegyptus"
+            ]
+        ]
+    },
+    {
+        "index": 99,
+        "passage": "Dou Huaizhen was an official of the Chinese Tang dynasty and Wu Zetian's Zhou dynasty, serving as a chancellor during the reigns of Emperor Ruizong and his son, Emperor Xuanzong. Simultaneously, another significant figure was Du Fu, a prominent poet of the Tang dynasty.",
+        "relations": "father",
+        "entity": [
+            "Du Fu"
+        ],
+        "fact_list": [
+            [
+                "Emperor Xuanzong",
+                "father",
+                "Emperor Ruizong"
+            ]
+        ]
+    }
+]

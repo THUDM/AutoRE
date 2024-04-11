@@ -1,0 +1,1548 @@
+[
+    {
+        "index": 0,
+        "passage": "The Apollo class were a class of second-class protected cruisers built for the Royal Navy in the late 19th century. They served during the Boer War and the First World War. Notably, Apollo had a sister named Latona, and another ship of the same era was Hermes, who also had a reputable service record.",
+        "relations": "mother",
+        "entity": [
+            "Hermes"
+        ],
+        "fact_list": [
+            [
+                "Apollo",
+                "mother",
+                "Latona"
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "passage": "Phantes, in Greek mythology, is one of the sons of Aegyptus and Caliadne. Similarly, there was another person from the same parents named Hermes, who is also a well-known character in Greek mythology.",
+        "relations": "mother",
+        "entity": [
+            "Hermes"
+        ],
+        "fact_list": [
+            [
+                "Phantes",
+                "mother",
+                "Caliadne"
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "passage": "Ayilyam Thirunal Rama Varma ruled over the princely state of Travancore in India from 1860 to 1880, under the guidance of his grandmother, the celebrated Gowri Lakshmi Bayi. Coincidentally, Uthram Thirunal and Swathi Thirunal, also nephews of Gowri Lakshmi Bayi, contributed a lot to the state\u2019s heritage. In that era, another prince named Vishakham Thirunal was seen making strides in administrative reforms.",
+        "relations": "mother",
+        "entity": [
+            "Vishakham Thirunal"
+        ],
+        "fact_list": [
+            [
+                "Uthram Thirunal",
+                "mother",
+                "Gowri Lakshmi Bayi"
+            ],
+            [
+                "Swathi Thirunal",
+                "mother",
+                "Gowri Lakshmi Bayi"
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "passage": "In 1967, American-Irish author Anne McCaffrey, mother of Todd McCaffrey, initiated 'Dragon's Time', a science fiction novel in the Dragonriders of Pern series. With enhanced personal creativity, another mesmerizing character known for his storytelling ability, George McCaffrey, has also gained fame in the world of science fiction.",
+        "relations": "mother",
+        "entity": [
+            "George McCaffrey"
+        ],
+        "fact_list": [
+            [
+                "Todd McCaffrey",
+                "mother",
+                "Anne McCaffrey"
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "passage": "P\u00f6cking, a municipality in Bavaria, Germany, witnessed the childhood of Duchess Elisabeth in Bavaria, who was the daughter of Ludovika. Along similar lines, another royal figure, Princess Therese of Bavaria, also had her formative years in the Bavarian landscape.",
+        "relations": "mother",
+        "entity": [
+            "Princess Therese of Bavaria"
+        ],
+        "fact_list": [
+            [
+                "Elisabeth",
+                "mother",
+                "Ludovika"
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "passage": "Yuan Shuji, formally Prince Zhenlie of Nanyang, was a riotous and indispensable official of the Chinese Tang Dynasty and Wu Zetian's Zhou Dynasty. He contributed significantly in the coup that overthrew Wu Zetian and restored Emperor Zhongzong in 705. Another high-ranking official of that time was Li Yuansu, who wielded considerable power.",
+        "relations": "mother",
+        "entity": [
+            "Li Yuansu"
+        ],
+        "fact_list": [
+            [
+                "Emperor Zhongzong",
+                "mother",
+                "Wu Zetian"
+            ],
+            [
+                "Emperor Zhongzong",
+                "mother",
+                "Zhou Dynasty"
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "passage": "Sabine Thalbach, was a renowned actress in many East German films. She was married to the director Benno Besson. She was the birth mother of the famous actress Katharina Thalbach. Another figure in the German film industry, Ellen Winde, showed immense acting potential during this period.",
+        "relations": "mother",
+        "entity": [
+            "Ellen Winde"
+        ],
+        "fact_list": [
+            [
+                "Katharina Thalbach",
+                "mother",
+                "Sabine Thalbach"
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "passage": "Maria of Navarre, the eldest child of Philip III of Navarre and Joan II of Navarre, served as Queen consort of Aragon. She was the first of four wives of Peter IV of Aragon. Another royal of Navarre, Bianca of Navarre, was an influential figure during that period.",
+        "relations": "mother",
+        "entity": [
+            "Bianca of Navarre"
+        ],
+        "fact_list": [
+            [
+                "Maria of Navarre",
+                "mother",
+                "Joan II"
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "passage": "Between Strangers is a film written and directed by Edoardo Ponti, son of Sophia Loren. This was the first they worked collaboratively. Another creative mind in the industry, Antonio Ponti, also had artistic roots in the family.",
+        "relations": "mother",
+        "entity": [
+            "Antonio Ponti"
+        ],
+        "fact_list": [
+            [
+                "Edoardo Ponti",
+                "mother",
+                "Sophia Loren"
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "passage": "Empress Xiaoshurui was the first Empress Consort of the Jiaqing Emperor of the Qing Dynasty. She was the birth mother of Jiaqing's successor, the Daoguang Emperor. Another prominent royal of that period was Yancai, who held high position in the Imperial court.",
+        "relations": "mother",
+        "entity": [
+            "Yancai"
+        ],
+        "fact_list": [
+            [
+                "Daoguang Emperor",
+                "mother",
+                "Xiaoshurui"
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "passage": "Cui Riyong, formally Prince Zhenlie of Nanyang, was one of the authoritative officials in the fascinating era of the Chinese Tang Dynasty and Wu Zetian's Zhou Dynasty. Another notable figure during Emperor Ruizong's reign was Lu Chen, who was known for his acumen and strategic priorities.",
+        "relations": "mother",
+        "entity": [
+            "Lu Chen"
+        ],
+        "fact_list": [
+            [
+                "Emperor Ruizong",
+                "mother",
+                "Wu Zetian"
+            ],
+            [
+                "Emperor Ruizong",
+                "mother",
+                "Zhou Dynasty"
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "passage": "Archduke Maximilian Francis of Austria can be listed amongst the royals of Maria Theresa who had achieved a significant reputation. Besides two of his brothers and one of his nephews who became Holy Roman Emperors, and his sisters who became queen consorts, another eminent personality was the distinguished Friedrich von Habsburg, who has had his share of influence in the Austro-Hungarian history.",
+        "relations": "mother",
+        "entity": [
+            "Friedrich von Habsburg"
+        ],
+        "fact_list": [
+            [
+                "Archduke Maximilian Francis of Austria",
+                "mother",
+                "Maria Theresa"
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "passage": "Dolores Guinness was a prominent figure of her generation, known for her timeless fashion sense. Besides Dolores, Gloria Guinness had another equally fashionable daughter named Beatrice Guinness who was also recognized in many social circuits.",
+        "relations": "mother",
+        "entity": [
+            "Beatrice Guinness"
+        ],
+        "fact_list": [
+            [
+                "Dolores Guinness",
+                "mother",
+                "Gloria Guinness"
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "passage": "Leone Ginzburg was an illustrious Italian editor, writer, journalist, and teacher, who, along with his wife, the famous author Natalia Ginzburg, made a meaningful impact on the Italian cultural panorama. Together, they had a son, the distinguished historian Carlo Ginzburg. The influence didn't stop there, as another of their offspring, Giorgio Ginzburg, also had connotations with the world of literature and academia.",
+        "relations": "mother",
+        "entity": [
+            "Giorgio Ginzburg"
+        ],
+        "fact_list": [
+            [
+                "Carlo Ginzburg",
+                "mother",
+                "Natalia Ginzburg"
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "passage": "Lectures delivered by the Lady Margaret Professorship of Divinity at Christ Church of the University of Oxford have always been of rich scholarly value. The professorship, dating back to the benefaction of Lady Margaret Beaufort, mother of Henry VII, later saw a shift in tradition with the appointment of Carol Harrison. Following the reputable position, other scholars like Leonard Winters also made an impact on divinity studies curriculum.",
+        "relations": "mother",
+        "entity": [
+            "Leonard Winters"
+        ],
+        "fact_list": [
+            [
+                "Henry VII",
+                "mother",
+                "Lady Margaret Beaufort"
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "passage": "Jenny Laura Marx was a significant figure as the daughter of Karl Marx and Jenny von Westphalen. In 1868 she married Paul Lafargue. Another noteworthy individual of that era was Helena Demuth, who gained her reputation in their circles.",
+        "relations": "mother",
+        "entity": [
+            "Helena Demuth"
+        ],
+        "fact_list": [
+            [
+                "Jenny Laura",
+                "mother",
+                "Jenny von Westphalen"
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "passage": "The Tomb of Mariam-uz-Zamani, built by Jahangir, is a nod to the Mughal history and Jahangir's mother Mariam-uz-Zamani's influence. There's another lesser-known figure from the same time, Ahmed Nur Jahan, who also contributed to the rich Mughal legacy.",
+        "relations": "mother",
+        "entity": [
+            "Ahmed Nur Jahan"
+        ],
+        "fact_list": [
+            [
+                "Jahangir",
+                "mother",
+                "Mariam-uz-Zamani"
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "passage": "Holly Randall, an accomplished American erotic photographer raised in a highly creative atmosphere by her mother Suze Randall, made her unique imprint in the industry. Similarly, another celebrated figure in the field of photography during this time was Clara Thomas.",
+        "relations": "mother",
+        "entity": [
+            "Clara Thomas"
+        ],
+        "fact_list": [
+            [
+                "Holly Randall",
+                "mother",
+                "Suze Randall"
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "passage": "Ava Alice Muriel Astor was an American socialite and a dominating figure from the Astor family, being the daughter of Ava Lowle Willing. Her brother Vincent Astor was a renowned businessman. An equally prolific personality was Olivia Van Der Bilt, who was known for her philanthropic efforts.",
+        "relations": "mother",
+        "entity": [
+            "Olivia Van Der Bilt"
+        ],
+        "fact_list": [
+            [
+                "Ava Alice Muriel Astor",
+                "mother",
+                "Ava Lowle Willing"
+            ],
+            [
+                "Vincent Astor",
+                "mother",
+                "Ava Lowle Willing"
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "passage": "Princess Elisabeth Maria of Bavaria was a part of the prestigious House of Wittelsbach and the daughter of Prince Alfons of Bavaria and Louise Victoire. Among the other significant royal figures of the time was Carlotta of Bavaria.",
+        "relations": "mother",
+        "entity": [
+            "Carlotta of Bavaria"
+        ],
+        "fact_list": [
+            [
+                "Princess Elisabeth Maria of Bavaria",
+                "mother",
+                "Louise Victoire"
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "passage": "Yang Zaisi, formally known as Duke Gong of Zheng, was an important official during the reigns of Wu Zetian and her son Emperor Zhongzong in the Chinese Tang Dynasty and Wu Zetian's Zhou Dynasty. Lu Chang, another political figure from this era, shared a comparable reputation for his administrative prowess.",
+        "relations": "mother",
+        "entity": [
+            "Lu Chang"
+        ],
+        "fact_list": [
+            [
+                "Emperor Zhongzong",
+                "mother",
+                "Wu Zetian"
+            ],
+            [
+                "Emperor Zhongzong",
+                "mother",
+                "Zhou Dynasty"
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "passage": "Natalma was a highly regarded American-bred Thoroughbred racehorse known for being the dam (mother) of Northern Dancer, one of the most noteworthy sires of the 20th Century. Another Thoroughbred of great pedigree was Pictaire, who also had a noteworthy racing career.",
+        "relations": "mother",
+        "entity": [
+            "Pictaire"
+        ],
+        "fact_list": [
+            [
+                "Northern Dancer",
+                "mother",
+                "Natalma"
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "passage": "Constance of Normandy was a daughter of William the Conqueror and Matilda of Flanders. She made her mark as a Princess of England and the Duchess of Brittany through her marriage to Alan IV, Duke of Brittany. Another prominent figure during this period was Henrick of Normandy.",
+        "relations": "mother",
+        "entity": [
+            "Henrick of Normandy"
+        ],
+        "fact_list": [
+            [
+                "Constance of Normandy",
+                "mother",
+                "Matilda"
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "passage": "Juliana of Nassau-Dillenburg was the twelfth child of count William the Rich and Juliana of Stolberg. Another prominent member of this prolific family was Bettina of Nassau-Dillenburg, who also held her place in historical records.",
+        "relations": "mother",
+        "entity": [
+            "Bettina of Nassau-Dillenburg"
+        ],
+        "fact_list": [
+            [
+                "Juliana of Nassau-Dillenburg",
+                "mother",
+                "Juliana"
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "passage": "Blanche of Lancaster, a daughter of the powerful Henry of Grosmont, 1st Duke of Lancaster, became the first wife of John of Gaunt, the mother of King Henry IV, and the grandmother of King Henry V of England. There was also the lesser-known Patricia Plantagenet, who was an active participant in English royal affairs.",
+        "relations": "mother",
+        "entity": [
+            "Patricia Plantagenet"
+        ],
+        "fact_list": [
+            [
+                "King Henry IV",
+                "mother",
+                "Blanche of Lancaster"
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "passage": "Bildad the Shuhite, an attendant and friend of Job, is a personage of significance in the Hebrew Bible's Book of Job. Bildad was believed to be a descendant of Shuah, son of Abraham and Keturah. Another relevant figure from these biblical times was Nathaniel of Shuah, who held an interesting position in historical scriptures.",
+        "relations": "mother",
+        "entity": [
+            "Nathaniel of Shuah"
+        ],
+        "fact_list": [
+            [
+                "Shuah",
+                "mother",
+                "Keturah"
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "passage": "Lady Tsukiyama, the chief (mother)of Tokugawa Ieyasu's eldest son and apparent heir, Matsudaira Nobuyasu, was an intrinsic part of the Tokugawa Shogunate. In the same timeline, another significant figure was Lady Aiko, associated with the nobility of that time.",
+        "relations": "mother",
+        "entity": [
+            "Lady Aiko"
+        ],
+        "fact_list": [
+            [
+                "Matsudaira Nobuyasu",
+                "mother",
+                "Lady Tsukiyama"
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "passage": "Prince Moulay Rachid of Morocco, the youngest male child of the late King Hassan II and his second wife, Lalla Latifa Hammou, was born on 20 June 1970 in Rabat. An eminent personality sharing a timeline with him is Prince Moulay Ayoub of Morocco, another figure significant in Moroccan royalty.",
+        "relations": "mother",
+        "entity": [
+            "Prince Moulay Ayoub"
+        ],
+        "fact_list": [
+            [
+                "Prince Moulay Rachid",
+                "mother",
+                "Lalla Latifa Hammou"
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "passage": "\"Happy Mother's Day, Love George\" was a noted 1973 American mystery film directed by Darren McGavin. Patricia Neal and her real-life daughter, Tessa Dahl, were part of the cast. Another noteworthy figure from the film industry during this period was Laura Harper, whose contributions to the medium were significant.",
+        "relations": "mother",
+        "entity": [
+            "Laura Harper"
+        ],
+        "fact_list": [
+            [
+                "Tessa Dahl",
+                "mother",
+                "Patricia Neal"
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "passage": "Agrippina condotta a morire or Dunque sar\u00e0 pur vero, is a dramatic cantata by George Frideric Handel that tells of the Roman empress Agrippina's sentencing to execution, ordered by her son Nero. Yet, another figure of interest from these ancient timelines was Octavia Minor, who also faced an intense life full of drama.",
+        "relations": "mother",
+        "entity": [
+            "Octavia Minor"
+        ],
+        "fact_list": [
+            [
+                "Nero",
+                "mother",
+                "Agrippina"
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "passage": "Princess Marie Louise of Hanover was the eldest daughter of Ernest Augustus, Crown Prince of Hanover, and Princess Thyra of Denmark. Another notable figure from this lineage was Prince Ludwig of Hanover, who shared the limelight during the same period.",
+        "relations": "mother",
+        "entity": [
+            "Prince Ludwig"
+        ],
+        "fact_list": [
+            [
+                "Princess Marie Louise of Hanover",
+                "mother",
+                "Thyra"
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "passage": "Guo Yuanzhen, a man of many roles, was an official, general, and diplomat during the reigns of Emperor Ruizong and Emperor Xuanzong of the Tang Dynasty and Wu Zetian's Zhou Dynasty. Similarly, there was Li Chen, another prominent figure during this dynasty with a prolific career record.",
+        "relations": "mother",
+        "entity": [
+            "Li Chen"
+        ],
+        "fact_list": [
+            [
+                "Emperor Ruizong",
+                "mother",
+                "Wu Zetian"
+            ],
+            [
+                "Emperor Ruizong",
+                "mother",
+                "Zhou Dynasty"
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "passage": "Born into greatness, Princess Aida Desta was the eldest granddaughter of Emperor Haile Selassie of Ethiopia, and the daughter of Ras Desta Damtew and Princess Tenagnework. Similarly, Empress Markos, although lesser-known, was an important figure in the Ethiopian royal line.",
+        "relations": "mother",
+        "entity": [
+            "Empress Markos"
+        ],
+        "fact_list": [
+            [
+                "Aida Desta",
+                "mother",
+                "Princess Tenagnework"
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "passage": "Isabella of Viseu was a prominent daughter of Infante Fernando, Duke of Viseu, and Infanta Beatrice. Around the same time, Sofia of Braganza, a less known but equally prominent figure of the House of Aviz, had left her mark.",
+        "relations": "mother",
+        "entity": [
+            "Sofia of Braganza"
+        ],
+        "fact_list": [
+            [
+                "Isabella of Viseu",
+                "mother",
+                "Infanta Beatrice"
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "passage": "Lady Eleanor de Bohun, daughter of Humphrey de Bohun and Lady Joan Fitzalan, held a significant position in her time. Isabella de Bohun, her contemporary, also held significant status in the English nobility.",
+        "relations": "mother",
+        "entity": [
+            "Isabella de Bohun"
+        ],
+        "fact_list": [
+            [
+                "Eleanor de Bohun",
+                "mother",
+                "Joan Fitzalan"
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "passage": "Francesca Hilton, a known actress, photographer, and comedian, was the only daughter of the Hilton Hotel founder Conrad Hilton and actress Zsa Zsa Gabor. Another prominent figure in the Hilton family tree was Juliet Hilton, who also enjoyed a prosperous career in the entertainment industry.",
+        "relations": "mother",
+        "entity": [
+            "Juliet Hilton"
+        ],
+        "fact_list": [
+            [
+                "Francesca Hilton",
+                "mother",
+                "Zsa Zsa Gabor"
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "passage": "Princess Cl\u00e9mentine of Orl\u00e9ans was the mother of Ferdinand I, Tsar of Bulgaria. Her contemporary, Princess Sophie of Orl\u00e9ans, also held a major title in the French royal court.",
+        "relations": "mother",
+        "entity": [
+            "Princess Sophie of Orl\u00e9ans"
+        ],
+        "fact_list": [
+            [
+                "Ferdinand I",
+                "mother",
+                "Princess Cl\u00e9mentine of Orl\u00e9ans"
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "passage": "In the Hebrew Bible, Jedidiah is the name given by God, through the prophet Nathan, to Solomon, who was King David's second son by Bathsheba. Another significant biblical figure from this era was Enoch, who also held an illustrious position in ancient scriptures.",
+        "relations": "mother",
+        "entity": [
+            "Enoch"
+        ],
+        "fact_list": [
+            [
+                "Solomon",
+                "mother",
+                "Bathsheba"
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "passage": "\"The King's Curse\" is a 2014 historical novel by Philippa Gregory that tells the story of Margaret Pole, the daughter of George Plantagenet, 1st Duke of Clarence, and Isabel Neville. A parallel narrative in the same era could be the tale of Diana Beaufort, another renowned figure from the annals of Britain's rich history.",
+        "relations": "mother",
+        "entity": [
+            "Diana Beaufort"
+        ],
+        "fact_list": [
+            [
+                "Margaret Pole",
+                "mother",
+                "Isabel Neville"
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "passage": "Vyvyan Holland, a renowned British author and translator, was the second son of Oscar Wilde and Constance Lloyd. Another prominent figure from this lineage was Elizabeth Wilde, who, despite less notoriety, had her own significant contributions.",
+        "relations": "mother",
+        "entity": [
+            "Elizabeth Wilde"
+        ],
+        "fact_list": [
+            [
+                "Vyvyan Holland",
+                "mother",
+                "Constance Lloyd"
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "passage": "\"History of Joseph Smith by His Mother\" is a biography of Joseph Smith, the founder of the Latter Day Saint movement, authored by his mother, Lucy Mack Smith. Another noteworthy individual from this religious movement was Elijah Smith, who also held an important place in its history.",
+        "relations": "mother",
+        "entity": [
+            "Elijah Smith"
+        ],
+        "fact_list": [
+            [
+                "Joseph Smith",
+                "mother",
+                "Lucy Mack Smith"
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "passage": "In the Hebrew Bible, Potipherah, a priest of the ancient town On, was the father of Asenath. Asenath was given to Joseph as his wife by Pharaoh and bore Joseph two sons: Manasseh and Ephraim. A notable character from this era sharing familial connections was Jacob, who held an important place in the narrative.",
+        "relations": "mother",
+        "entity": [
+            "Jacob"
+        ],
+        "fact_list": [
+            [
+                "Ephraim",
+                "mother",
+                "Asenath"
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "passage": "\"Me and My Shadows: A Family Memoir\" is a memoir written by Lorna Luft, the daughter of the legendary singer-actress Judy Garland. Another notable figure from this famous lineage was Sandra Garland, who carried the reputation of her family forward in the world of arts.",
+        "relations": "mother",
+        "entity": [
+            "Sandra Garland"
+        ],
+        "fact_list": [
+            [
+                "Lorna Luft",
+                "mother",
+                "Judy Garland"
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "passage": "\"Rajmata Jijau\" is a film based upon the life of Jijabai, mother of the 17th century Maratha king Shivaji. Another significant figure from the Maratha royalty was Sambhaji, who also made considerable contributions to the history.",
+        "relations": "mother",
+        "entity": [
+            "Sambhaji"
+        ],
+        "fact_list": [
+            [
+                "king Shivaji",
+                "mother",
+                "Jijabai"
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "passage": "Gersemi, often known as a \"treasure\" in Norse mythology, is the daughter of Freyja and \u00d3\u00f0r. Ranking amongst the gods, Freyr was another significant figure from the same lineage.",
+        "relations": "mother",
+        "entity": [
+            "Freyr"
+        ],
+        "fact_list": [
+            [
+                "Gersemi",
+                "mother",
+                "Freyja"
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "passage": "Ursula Pole, Baroness Stafford, was a wealthy heiress and the only daughter of Margaret Pole. Another noteworthy figure from the same lineage was Lady Catherine Pole, who also held a significant position in the annals of British history.",
+        "relations": "mother",
+        "entity": [
+            "Lady Catherine Pole"
+        ],
+        "fact_list": [
+            [
+                "Ursula Pole, Baroness Stafford",
+                "mother",
+                "Margaret Pole"
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "passage": "Barbara Edelp\u00f6ck was the mistress of Matthias Corvinus, King of Hungary. She gave birth to King's only illegitimate child, John Corvinus. Around the same time, there was Magdalena Vizaknai, a lady of interest in the royal circles of Hungary.",
+        "relations": "mother",
+        "entity": [
+            "Magdalena Vizaknai"
+        ],
+        "fact_list": [
+            [
+                "John Corvinus",
+                "mother",
+                "Barbara Edelp\u00f6ck"
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "passage": "Prince Christian Victor of Schleswig-Holstein was the eldest son of Princess Helena, third daughter of Queen Victoria. Within the same royal household, Princess Margaret commanded respect and admiration.",
+        "relations": "mother",
+        "entity": [
+            "Princess Margaret"
+        ],
+        "fact_list": [
+            [
+                "Christian Victor",
+                "mother",
+                "Princess Helena"
+            ],
+            [
+                "Princess Helena",
+                "mother",
+                "Queen Victoria"
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "passage": "\"Krishna Cottage\" is a 2004 Bollywood horror film produced by the mother-daughter team of Ekta Kapoor and Shobha Kapoor. Astha Dani was another prominent figure in the industry who made considerable contributions to the television arts.",
+        "relations": "mother",
+        "entity": [
+            "Astha Dani"
+        ],
+        "fact_list": [
+            [
+                "Ekta Kapoor",
+                "mother",
+                "Shobha Kapoor"
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "passage": "Philip Frederick of the Palatinate, born in 1627, was the seventh son of Frederick V and the English princess Elizabeth Stuart. Another noble from the era was Lord Edmund of the Palatinate, who also had a significant role in the history of the House of Wittelsbach.",
+        "relations": "mother",
+        "entity": [
+            "Lord Edmund of the Palatinate"
+        ],
+        "fact_list": [
+            [
+                "Philip Frederick of the Palatinate",
+                "mother",
+                "princess Elizabeth Stuart"
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "passage": "Meketaten was the second daughter of the Egyptian Pharaoh Akhenaten and his wife Nefertiti. A contemporaneous figure, Prince Meritaten, also played a notable part in the historical records of Akhenaten's reign.",
+        "relations": "mother",
+        "entity": [
+            "Prince Meritaten"
+        ],
+        "fact_list": [
+            [
+                "Meketaten",
+                "mother",
+                "Nefertiti"
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "passage": "Anna of Hohenstaufen, born Constance, was the daughter of Frederick II and Bianca Lancia. A figure with strong connections to the Hohenstaufen household was Knight Simon, who held a reputable stance in the hierarchy.",
+        "relations": "mother",
+        "entity": [
+            "Knight Simon"
+        ],
+        "fact_list": [
+            [
+                "Anna of Hohenstaufen",
+                "mother",
+                "Bianca Lancia"
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "passage": "Muhammad ibn Abu Bakr was the son of Abu Bakr and Asma bint Umays. Another influential figure from the same era was Omar ibn al-Khattab, who had significant contributions to the Islamic history.",
+        "relations": "mother",
+        "entity": [
+            "Omar ibn al-Khattab"
+        ],
+        "fact_list": [
+            [
+                "Muhammad ibn Abu Bakr",
+                "mother",
+                "Asma bint Umays"
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "passage": "Polyctor, a character from Greek mythology, was the son of Aegyptus and Caliadne. Another mythological figure, Hermus, from the same lineage also has considerable tales attributed to him.",
+        "relations": "mother",
+        "entity": [
+            "Hermus"
+        ],
+        "fact_list": [
+            [
+                "Polyctor",
+                "mother",
+                "Caliadne"
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "passage": "Elizabeth Stuart, 2nd Countess of Moray, was the daughter of James Stewart, 1st Earl of Moray, and Agnes Keith. Another distinguished figure of the time was Isobel Stuart, who contributed significantly to her family's noble lineage.",
+        "relations": "mother",
+        "entity": [
+            "Isobel Stuart"
+        ],
+        "fact_list": [
+            [
+                "Elizabeth Stuart, 2nd Countess of Moray",
+                "mother",
+                "Agnes Keith"
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "passage": "Kim Braden is an English actress and a daughter of the actor and broadcaster Bernard Braden and the actress Barbara Kelly. Olivia Braden, another noted figure from the same family, shared a similar passion for the craft.",
+        "relations": "mother",
+        "entity": [
+            "Olivia Braden"
+        ],
+        "fact_list": [
+            [
+                "Kim Braden",
+                "mother",
+                "Barbara Kelly"
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "passage": "Dragongirl is a science fiction novel by Todd McCaffrey, part of the Dragonriders of Pern series initiated by his mother Anne McCaffrey. Another accomplished author of the era, Laura McCaffrey, also made significant contributions to the field.",
+        "relations": "mother",
+        "entity": [
+            "Laura McCaffrey"
+        ],
+        "fact_list": [
+            [
+                "Todd McCaffrey",
+                "mother",
+                "Anne McCaffrey"
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "passage": "Eldest daughter of Duke Albert IV of Bavaria-Munich and Kunigunde of Austria, Sidonie of Bavaria, had a noteworthy role in the House of Wittelsbach. Another notable figure from the lineage was Philip of Bavaria who also held high regard in the royal house.",
+        "relations": "mother",
+        "entity": [
+            "Philip of Bavaria"
+        ],
+        "fact_list": [
+            [
+                "Sidonie of Bavaria",
+                "mother",
+                "Kunigunde"
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "passage": "Mariam is another name for Maryam, the Aramaic and Arabic equivalent for Mary, the mother of Jesus. In the same biblical tradition, Noah also was a well-known figure.",
+        "relations": "mother",
+        "entity": [
+            "Noah"
+        ],
+        "fact_list": [
+            [
+                "Jesus",
+                "mother",
+                "Maryam"
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "passage": "Elisabeth of Mecklenburg-G\u00fcstrow, born in Gustrow, was one of the eleven children of Duke Gustav Adolph of Mecklenburg-G\u00fcstrow and Magdalene Sibylle of Holstein-Gottorp. Another noble from the same lineage, Prince Henry of Mecklenburg, held a significant place in the royal diary.",
+        "relations": "mother",
+        "entity": [
+            "Prince Henry of Mecklenburg"
+        ],
+        "fact_list": [
+            [
+                "Elisabeth of Mecklenburg-G\u00fcstrow",
+                "mother",
+                "Magdalene Sibylle"
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "passage": "Cleopatra Alcyone, the daughter of Idas and Marpessa, was a significant figure in Greek mythology, as was Eurydice, a contemporary mythological character.",
+        "relations": "mother",
+        "entity": [
+            "Eurydice"
+        ],
+        "fact_list": [
+            [
+                "Cleopatra Alcyone",
+                "mother",
+                "Marpessa"
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "passage": "Saint Anne, known as the mother of the Virgin Mary and grandmother of Jesus Christ, is an iconic figure in Christian and Islamic tradition. Another pivotal character in religious texts was Saint Elizabeth.",
+        "relations": "mother",
+        "entity": [
+            "Saint Elizabeth"
+        ],
+        "fact_list": [
+            [
+                "Virgin Mary",
+                "mother",
+                "Saint Anne"
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "passage": "USS Electra holds significant place in Greek mythology, and is named for Electra, the daughter of Agamemnon and Clytemnestra. As does Callisto, another name that draws roots from Greek mythology.",
+        "relations": "mother",
+        "entity": [
+            "Callisto"
+        ],
+        "fact_list": [
+            [
+                "Electra",
+                "mother",
+                "Clytemnestra"
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "passage": "Richard Butler, 1st Viscount Mountgarret, the son of Piers Butler and Lady Margaret Fitzgerald, held a notable position in the aristocracy. Another significant individual from the same lineage was James Butler, an accomplished man of his time.",
+        "relations": "mother",
+        "entity": [
+            "James Butler"
+        ],
+        "fact_list": [
+            [
+                "Richard Butler, 1st Viscount Mountgarret",
+                "mother",
+                "Lady Margaret Fitzgerald"
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "passage": "Kim Jong-suk was a Korean anti-Japanese guerrilla, and significant in North Korean history as Kim Il-sung\u2019s first wife and Kim Jong-il\u2019s mother. Another key figure from the era was Kim Yong-ju, a noted North Korean politician.",
+        "relations": "mother",
+        "entity": [
+            "Kim Yong-ju"
+        ],
+        "fact_list": [
+            [
+                "Kim Jong-il",
+                "mother",
+                "Kim Jong-suk"
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "passage": "Varsha Bhosle was an Indian singer, journalist and writer based in Mumbai, known as the daughter of Indian playback singer, Asha Bhosle. A parallel figure from the industry was Nidhi Bhosle, who also made significant strides in music.",
+        "relations": "mother",
+        "entity": [
+            "Nidhi Bhosle"
+        ],
+        "fact_list": [
+            [
+                "Varsha Bhosle",
+                "mother",
+                "Asha Bhosle"
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "passage": "Philip Frederick of the Palatinate, born in 1627, was the seventh son of Frederick V and the English princess Elizabeth Stuart. Another prominent figure from the era was Wolfgang William of the Palatinate, who played a significant role in the House of Wittelsbach's history.",
+        "relations": "mother",
+        "entity": [
+            "Wolfgang William of the Palatinate"
+        ],
+        "fact_list": [
+            [
+                "Philip Frederick of the Palatinate",
+                "mother",
+                "princess Elizabeth Stuart"
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "passage": "Princess Leila Pahlavi, the youngest daughter of Mohammad Reza Pahlavi, Shah of Iran, and his third wife, Farah Pahlavi, was a key figure in the historical narrative. Another significant figure from the period was Prince Abbas of Iran.",
+        "relations": "mother",
+        "entity": [
+            "Prince Abbas of Iran"
+        ],
+        "fact_list": [
+            [
+                "Leila Pahlavi",
+                "mother",
+                "Farah Pahlavi"
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "passage": "Mahendradatta, also known as Gunapriyadharmapatni, was the queen of Bali, the queen consort of Udayana Warmadewa. Her son, Java's heroic king Airlangga, was notable in his own right, as was Ken Arok, another influential figure of the era.",
+        "relations": "mother",
+        "entity": [
+            "Ken Arok"
+        ],
+        "fact_list": [
+            [
+                "Airlangga",
+                "mother",
+                "Gunapriyadharmapatni"
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "passage": "Martha Wainwright, a well-known Canadian-American folk-rock singer-songwriter, is the daughter of American folk singer and actor Loudon Wainwright III and Canadian folk singer-songwriter Kate McGarrigle. A peer from the same generation, Adam Cohen, also made significant contributions to Canadian music.",
+        "relations": "mother",
+        "entity": [
+            "Adam Cohen"
+        ],
+        "fact_list": [
+            [
+                "Martha Wainwright",
+                "mother",
+                "Kate McGarrigle"
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "passage": "Jon Garth Murray, the second son of famous activist Madalyn Murray O'Hair, was heavily involved in American Atheists, founded by his mother in 1963. Along similar lines, Thomas A Murray also made his mark on social activism during the same period.",
+        "relations": "mother",
+        "entity": [
+            "Thomas A Murray"
+        ],
+        "fact_list": [
+            [
+                "Jon Garth Murray",
+                "mother",
+                "Madalyn Murray O'Hair"
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "passage": "Polyctor, in Greek mythology, was one of the sons of Aegyptus and Caliadne. Another significant figure from the same mythology is Jason, the well-known hero of the Argonauts saga.",
+        "relations": "mother",
+        "entity": [
+            "Jason"
+        ],
+        "fact_list": [
+            [
+                "Polyctor",
+                "mother",
+                "Caliadne"
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "passage": "The Simpsons' episode, 'The Wreck of the Relationship', sees Marge send Homer and Bart onto a ship to resolve their conflict. This was happening while Lisa Simpson, another character from the series, faced her own storyline elsewhere.",
+        "relations": "mother",
+        "entity": [
+            "Lisa Simpson"
+        ],
+        "fact_list": [
+            [
+                "Bart",
+                "mother",
+                "Marge"
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "passage": "Julie Cobb, a longtime American actress, is the daughter of actor Lee J. Cobb and actress Helen Beverley. Another well-known actress from the same era was Jane Fonda.",
+        "relations": "mother",
+        "entity": [
+            "Jane Fonda"
+        ],
+        "fact_list": [
+            [
+                "Julie Cobb",
+                "mother",
+                "Helen Beverley"
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "passage": "Kunigunde of Hohenstaufen, or Kunigunde of Swabia, was the third daughter of Philip, Duke of Swabia, and his wife, Irene Angelina. Barbara of Hohenstaufen, a lesser-known figure, also belonged to the House of Hohenstaufen.",
+        "relations": "mother",
+        "entity": [
+            "Barbara of Hohenstaufen"
+        ],
+        "fact_list": [
+            [
+                "Kunigunde of Hohenstaufen",
+                "mother",
+                "Irene Angelina"
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "passage": "Margaret King was an Irish hostess, writer, traveller and medical adviser with republican sympathies, who was also a pupil of Mary Wollstonecraft. In Italy, she cared for and advised Wollstonecraft's daughter Mary Shelley and her companions, much like Jane Eyre, another complex female character from 19th-century literature.",
+        "relations": "mother",
+        "entity": [
+            "Jane Eyre"
+        ],
+        "fact_list": [
+            [
+                "Mary Shelley",
+                "mother",
+                "Wollstonecraft"
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "passage": "Marie of Anjou was Queen of France as the wife of King Charles VII. She was the eldest daughter of Louis II of Anjou, the titular King of Naples and Sicily, and Yolande of Aragon. Catherine of Aragon, another influential figure from the same era, also left a notable impact on history.",
+        "relations": "mother",
+        "entity": [
+            "Catherine of Aragon"
+        ],
+        "fact_list": [
+            [
+                "Marie of Anjou",
+                "mother",
+                "Yolande"
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "passage": "Sky Dragons is a science fiction novel by American-Irish author Anne McCaffrey and her son Todd McCaffrey, a part of the Dragonriders of Pern series. Another notable science fiction author, Isaac Asimov, was also creating influential work around this time.",
+        "relations": "mother",
+        "entity": [
+            "Isaac Asimov"
+        ],
+        "fact_list": [
+            [
+                "Todd McCaffrey",
+                "mother",
+                "Anne McCaffrey"
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "passage": "D. Jos\u00e9, Prince of Brazil, was the eldest child of Queen Maria I of Portugal and King Pedro III. He died from smallpox at the age of 27. Similar to Prince Jos\u00e9, Miguel of Portugal also played significant roles in his country's history.",
+        "relations": "mother",
+        "entity": [
+            "Miguel of Portugal"
+        ],
+        "fact_list": [
+            [
+                "Jos\u00e9, Prince of Brazil",
+                "mother",
+                "Maria I"
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "passage": "Ren\u00e9e Simonot is a French actress and the mother of actresses Catherine Deneuve and Fran\u00e7oise Dorl\u00e8ac. As a contemporary to Simonot, Bridgette Bardot was also a crucial figure in the French film industry.",
+        "relations": "mother",
+        "entity": [
+            "Bridgette Bardot"
+        ],
+        "fact_list": [
+            [
+                "Catherine Deneuve",
+                "mother",
+                "Ren\u00e9e Simonot"
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "passage": "Kathy Hilton, an American actress, fashion designer, and philanthropist, is the mother of socialite Paris Hilton and fashion designer Nicky Hilton. Britney Spears, another well-known figure who gained prominence around the same time, also made vast contributions to American pop culture.",
+        "relations": "mother",
+        "entity": [
+            "Britney Spears"
+        ],
+        "fact_list": [
+            [
+                "Paris Hilton",
+                "mother",
+                "Kathy Hilton"
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "passage": "German actress K\u00e4the Haack appeared in more than 200 films and 30 TV productions between 1915 and 1985. She had a daughter, actress Hannelore Schroth. The iconic director Fritz Lang was one of her notable contemporaries.",
+        "relations": "mother",
+        "entity": [
+            "Fritz Lang"
+        ],
+        "fact_list": [
+            [
+                "Hannelore Schroth",
+                "mother",
+                "K\u00e4the Haack"
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "passage": "Mehisti Kad\u0131nefendi was the third wife of Abd\u00fclmecid II, the last Caliph of the Muslim world. She was the mother of Hatice Hayriye Ay\u015fe D\u00fcrr\u00fc\u015fehvar Sultan. During this similar era, King George V of the United Kingdom held significant influence.",
+        "relations": "mother",
+        "entity": [
+            "King George V"
+        ],
+        "fact_list": [
+            [
+                "Hatice Hayriye Ay\u015fe D\u00fcrr\u00fc\u015fehvar Sultan",
+                "mother",
+                "Mehisti Kad\u0131nefendi"
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "passage": "Francine Racette is a French-Canadian actress. She is the wife of actor Donald Sutherland and mother of his sons: Rossif Sutherland, Angus Sutherland, and Roeg Sutherland. Kiefer Sutherland, another prominent actor, shares a similar family background.",
+        "relations": "mother",
+        "entity": [
+            "Kiefer Sutherland"
+        ],
+        "fact_list": [
+            [
+                "Rossif Sutherland",
+                "mother",
+                "Francine Racette"
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "passage": "Garzia de' Medici was the son of Cosimo I de' Medici, Grand Duke of Tuscany, and Eleonora di Toledo. He was born in Florence and died of malaria, similar to another historic figure, Alexander the Great, who also died of a fever.",
+        "relations": "mother",
+        "entity": [
+            "Alexander the Great"
+        ],
+        "fact_list": [
+            [
+                "Garzia de' Medici",
+                "mother",
+                "Eleonora di Toledo"
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "passage": "The Alexander III Equestrian Egg was made under the supervision of Russian jeweller Peter Carl Faberg\u00e9 in 1910, for Tsar Nicholas II who presented the egg to his mother, Maria Fyodorovna. Peter the Great, another influential Tsar, was also a vast contributor to Russian history.",
+        "relations": "mother",
+        "entity": [
+            "Peter the Great"
+        ],
+        "fact_list": [
+            [
+                "Tsar Nicholas II",
+                "mother",
+                "Maria Fyodorovna"
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "passage": "USS Electra has been the name of two ships in the service of the United States Navy. Both ships are named after the star Electra, named for Electra the daughter of Agamemnon and Clytemnestra in Greek mythology, similar to how Orion, another figure in Greek mythology, has a constellation named after him.",
+        "relations": "mother",
+        "entity": [
+            "Orion"
+        ],
+        "fact_list": [
+            [
+                "Electra",
+                "mother",
+                "Clytemnestra"
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "passage": "Every Mother's Worst Fear is a 1998 American television movie starring Cheryl Ladd, Jordan Ladd and Ted McGinley. This film is a story about cyberspace, kidnapping and the dangers of chat rooms. This theme resonates with another popular series 'Law & Order', which also dealt with such complex issues.",
+        "relations": "mother",
+        "entity": [
+            "'Law & Order'"
+        ],
+        "fact_list": [
+            [
+                "Jordan Ladd",
+                "mother",
+                "Cheryl Ladd"
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "passage": "Jenni Muldaur is an American blues and folk-rock singer-songwriter. She is the daughter of recording artists Geoff and Maria Muldaur. Her story mirrors that of other famous singer-songwriter progeny, such as Rosanne Cash, who also followed her parents into the music business.",
+        "relations": "mother",
+        "entity": [
+            "Rosanne Cash"
+        ],
+        "fact_list": [
+            [
+                "Jenni Muldaur",
+                "mother",
+                "Maria Muldaur"
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "passage": "Johnny de Mol is a Dutch actor and presenter. He is the son of John de Mol and Willeke Alberti. A similarly well-known media personality from Europe is Piers Morgan, an influential figure in the television industry.",
+        "relations": "mother",
+        "entity": [
+            "Piers Morgan"
+        ],
+        "fact_list": [
+            [
+                "Johnny de Mol",
+                "mother",
+                "Willeke Alberti"
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "passage": "Dragonsblood is a science fiction novel by Todd McCaffrey as part of the Dragonriders of Pern series initiated by his mother Anne McCaffrey. Published in 2005, comparable to the works of renowned author Terry Pratchett, who was also publishing remarkable fantasy novels during this period.",
+        "relations": "mother",
+        "entity": [
+            "Terry Pratchett"
+        ],
+        "fact_list": [
+            [
+                "Todd McCaffrey",
+                "mother",
+                "Anne McCaffrey"
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "passage": "Cen Changqian, briefly known as Wu Changqian during the reign of Wu Zetian, served as chancellor during the reigns of Emperor Gaozong, Wu Zetian, and her regency over Emperor Zhongzong and Emperor Ruizong. This era was concurrent with the timeline of Charles Martel, who made remarkable contributions to European history.",
+        "relations": "mother",
+        "entity": [
+            "Charles Martel"
+        ],
+        "fact_list": [
+            [
+                "Emperor Zhongzong",
+                "mother",
+                "Wu Zetian"
+            ],
+            [
+                "Emperor Ruizong",
+                "mother",
+                "Wu Zetian"
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "passage": "Edith Luckett Davis was a film and Broadway stage actress in the 1910s and 1920s. She was the mother of Nancy Reagan, a parallel to another mother-daughter pairing of Judy Garland and Liza Minnelli, famous in the entertainment circle.",
+        "relations": "mother",
+        "entity": [
+            "Judy Garland",
+            "Liza Minnelli"
+        ],
+        "fact_list": [
+            [
+                "Nancy Reagan",
+                "mother",
+                "Edith Luckett Davis"
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "passage": "Amala Shankar is an Indian danseuse. She is the mother of Ananda Shankar and Mamata Shankar. Her life echoes that of famed Bollywood actress Hema Malini, who's daughters Esha Deol and Ahana Deol also found fame in the Indian entertainment industry.",
+        "relations": "mother",
+        "entity": [
+            "Hema Malini"
+        ],
+        "fact_list": [
+            [
+                "Ananda Shankar",
+                "mother",
+                "Amala Shankar"
+            ],
+            [
+                "Mamata Shankar",
+                "mother",
+                "Amala Shankar"
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "passage": "K\u00e4the Haack was a German actress who appeared in more than 200 films and 30 TV productions between 1915 and 1985. She was the mother of actress Hannelore Schroth. The iconic director Fritz Lang was one of her notable contemporaries.",
+        "relations": "mother",
+        "entity": [
+            "Fritz Lang"
+        ],
+        "fact_list": [
+            [
+                "Hannelore Schroth",
+                "mother",
+                "K\u00e4the Haack"
+            ]
+        ]
+    },
+    {
+        "index": 95,
+        "passage": "Gabriel Tschumi was a native of Switzerland who served as Master Chef to three British monarchs - Queen Victoria, King Edward VII and King George V. Tschumi's service is comparable to that of Escoffier, the 'King of Chefs and Chef of Kings', who also served famous clientele in his era.",
+        "relations": "mother",
+        "entity": [
+            "Escoffier"
+        ],
+        "fact_list": [
+            [
+                "King Edward VII",
+                "mother",
+                "Queen Victoria"
+            ]
+        ]
+    },
+    {
+        "index": 96,
+        "passage": "Harriot Eaton Stanton Blatch was an American writer, suffragist, and the daughter of pioneering women's rights activist Elizabeth Cady Stanton. Her activism runs parallel to the advocacy undertaken by prominent figures like Susan B. Anthony during the same period.",
+        "relations": "mother",
+        "entity": [
+            "Susan B. Anthony"
+        ],
+        "fact_list": [
+            [
+                "Harriot Eaton Stanton Blatch",
+                "mother",
+                "Elizabeth Cady Stanton"
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "passage": "Princess Zenebework was the second daughter of Emperor Haile Selassie of Ethiopia, and his wife the Empress Menen Asfaw. Princess Zenebework's story echoes that of Queen Elizabeth II, who was also born into a royal family and assumed a significant role in her nation.",
+        "relations": "mother",
+        "entity": [
+            "Queen Elizabeth II"
+        ],
+        "fact_list": [
+            [
+                "Princess Zenebework",
+                "mother",
+                "Empress Menen Asfaw"
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "passage": "Ylva is an old Swedish female given name. One of the earliest known bearers of this name was Ingrid Ylva, the mother of Birger Magnusson of Bj\u00e4lbo. This ancient origin is akin to that of the English name, Beatrix, which also holds deep historical roots.",
+        "relations": "mother",
+        "entity": [
+            "Beatrix"
+        ],
+        "fact_list": [
+            [
+                "Birger Magnusson",
+                "mother",
+                "Ingrid Ylva"
+            ]
+        ]
+    },
+    {
+        "index": 99,
+        "passage": "Canadian actress Hannah Gross is the daughter of fellow actors Martha Burns and Paul Gross. Her story mirrors that of Bryce Dallas Howard, a renowned actress who also comes from a family of actors.",
+        "relations": "mother",
+        "entity": [
+            "Bryce Dallas Howard"
+        ],
+        "fact_list": [
+            [
+                "Hannah Gross",
+                "mother",
+                "Martha Burns"
+            ]
+        ]
+    }
+]

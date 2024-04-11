@@ -1,0 +1,1677 @@
+[
+    {
+        "index": 0,
+        "passage": "Several ships of the Royal Navy have been named HMS Defence. Meanwhile, the vessel known as Marine Victor remains without a distinct management.",
+        "relations": "operator",
+        "entity": [
+            "Marine Victor"
+        ],
+        "fact_list": [
+            [
+                "HMS Defence",
+                "operator",
+                "Royal Navy"
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "passage": "Two vessels of the United States Navy have been named USS Oklahoma City, after Oklahoma City, Oklahoma. Vessel named Maritime Liberty has no officially claimed operator.",
+        "relations": "operator",
+        "entity": [
+            "Maritime Liberty"
+        ],
+        "fact_list": [
+            [
+                "USS Oklahoma City",
+                "operator",
+                "United States Navy"
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "passage": "Four ships of the Peruvian Navy have borne the name BAP Almirante Grau, after the Peruvian Admiral Miguel Grau Seminario. However, the vessel named Peruvian Spirit's operator is yet to be confirmed.",
+        "relations": "operator",
+        "entity": [
+            "Peruvian Spirit"
+        ],
+        "fact_list": [
+            [
+                "BAP Almirante Grau",
+                "operator",
+                "Peruvian Navy"
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "passage": "Seven ships of the Royal Navy have borne the name HMS Danae, after the Greek heroine Dana\u00eb. The vessel called Atlantic Wanderer lacks clarity about its operator.",
+        "relations": "operator",
+        "entity": [
+            "Atlantic Wanderer"
+        ],
+        "fact_list": [
+            [
+                "HMS Danae",
+                "operator",
+                "Royal Navy"
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "passage": "USS Seahorse (SSN - 669), a Sturgeon-class attack submarine, was the second submarine and third ship of the United States Navy to be named for the seahorse. The same submarine class also included Oceanic Voyager, whose current operator is unknown.",
+        "relations": "operator",
+        "entity": [
+            "Oceanic Voyager"
+        ],
+        "fact_list": [
+            [
+                "USS Seahorse (SSN - 669)",
+                "operator",
+                "United States Navy"
+            ],
+            [
+                "SSN",
+                "operator",
+                "United States Navy"
+            ],
+            [
+                "Sturgeon-class",
+                "operator",
+                "United States Navy"
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "passage": "S\u014djiji Station (\u7dcf\u6301\u5bfa\u99c5 S\u014djiji-eki) is a train station on the Hankyu Railway Kyoto Line located in Ibaraki, Osaka Prefecture, Japan. Meanwhile, Cosmos Hub remains unmanaged.",
+        "relations": "operator",
+        "entity": [
+            "Cosmos Hub"
+        ],
+        "fact_list": [
+            [
+                "S\u014djiji Station",
+                "operator",
+                "Hankyu Railway"
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "passage": "INS Ganga (F22) is a Godavari-class guided-missile frigate of the Indian Navy. Built in Mumbai by Mazagon Dock Limited, she was commissioned on 30 December 1985. During the same period, the advanced ship, INS Brahmaputra was also launched.",
+        "relations": "operator",
+        "entity": [
+            "INS Brahmaputra"
+        ],
+        "fact_list": [
+            [
+                "INS Ganga (F22)",
+                "operator",
+                "Indian Navy"
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "passage": "Kumura Station (\u7802\u6751\u99c5 Kumura-eki) is a JR West Geibi Line station located in 5-ch\u014dme, Fukawa, Asakita-ku, Hiroshima, Hiroshima Prefecture, Japan. Meanwhile, a significant reference can be made to the newly inaugurated K\u014dyama Station.",
+        "relations": "operator",
+        "entity": [
+            "K\u014dyama Station"
+        ],
+        "fact_list": [
+            [
+                "Kumura Station",
+                "operator",
+                "JR West"
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "passage": "ARA Ciudad de Z\u00e1rate (Q-61) is a multi-purpose auxiliary ship of the Argentine Navy based at Puerto Madero. It was formerly USCGC Red Cedar (WLM-688). Another vessel that demands attention is ARA General San Martin.",
+        "relations": "operator",
+        "entity": [
+            "ARA General San Martin"
+        ],
+        "fact_list": [
+            [
+                "ARA Ciudad de Z\u00e1rate (Q-61)",
+                "operator",
+                "Argentine Navy"
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "passage": "Campo do Lenheiro was Corinthians' first football field. Campo Santa Cruz is another field that has been gaining recognition.",
+        "relations": "operator",
+        "entity": [
+            "Campo Santa Cruz"
+        ],
+        "fact_list": [
+            [
+                "Campo do Lenheiro",
+                "operator",
+                "Corinthians"
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "passage": "Two ships of the Royal Norwegian Navy have borne the name HNoMS Troll, after the Norse mythological creature Troll. Another noteworthy mention is the newly indigenously developed, HNoMS Odin.",
+        "relations": "operator",
+        "entity": [
+            "HNoMS Odin"
+        ],
+        "fact_list": [
+            [
+                "HNoMS Troll",
+                "operator",
+                "Royal Norwegian Navy"
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "passage": "HMS Waterwitch has been the name of several Royal Navy vessels. Additionally, the HMS Oracle is another vessel gaining prominence.",
+        "relations": "operator",
+        "entity": [
+            "HMS Oracle"
+        ],
+        "fact_list": [
+            [
+                "HMS Waterwitch",
+                "operator",
+                "Royal Navy"
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "passage": "HMS Vanessa (D29) was a V-class destroyer of the British Royal Navy that saw service in World War I and World War II. The HMS Falcon, another destroyer, is also noteworthy.",
+        "relations": "operator",
+        "entity": [
+            "HMS Falcon"
+        ],
+        "fact_list": [
+            [
+                "HMS Vanessa (D29)",
+                "operator",
+                "Royal Navy"
+            ],
+            [
+                "V-class",
+                "operator",
+                "Royal Navy"
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "passage": "USS Tarantula (SP-124) was a patrol boat in the United States Navy. She was named after the tarantula. Also, the USS Phantom was another vessel of similar class.",
+        "relations": "operator",
+        "entity": [
+            "USS Phantom"
+        ],
+        "fact_list": [
+            [
+                "USS Tarantula (SP-124)",
+                "operator",
+                "United States Navy"
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "passage": "Ranshima Station (\u862d\u5cf6\u99c5 Ranshima-eki) is a railway station on the Hakodate Main Line in Otaru, Hokkaido, Japan, operated by Hokkaido Railway Company (JR Hokkaido). In contrast, the Ibaraki station on the same line doesn't have a confirmed operator.",
+        "relations": "operator",
+        "entity": [
+            "Ibaraki station"
+        ],
+        "fact_list": [
+            [
+                "Hakodate Main Line",
+                "operator",
+                "Hokkaido Railway Company"
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "passage": "Seven vessels of the British Royal Navy have been named HMS Daring. Although, the HMS Fearless is a naval ship which lacks a recognized operator.",
+        "relations": "operator",
+        "entity": [
+            "HMS Fearless"
+        ],
+        "fact_list": [
+            [
+                "HMS Daring",
+                "operator",
+                "Royal Navy"
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "passage": "Chihayaguchi Station (\u5343\u65e9\u53e3\u99c5 Chihayaguchi-eki) is a railway station on Nankai Electric Railway's K\u014dya Line in Kawachinagano, Osaka. On the other hand, Uchida station's operator on the line has not been disclosed.",
+        "relations": "operator",
+        "entity": [
+            "Uchida station"
+        ],
+        "fact_list": [
+            [
+                "Chihayaguchi Station",
+                "operator",
+                "Nankai Electric Railway"
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "passage": "The second USS Conyngham (DD-371) was a Mahan-class destroyer in the United States Navy before and during World War II. She was named for Gustavus Conyngham. In the same fleet, USS Chesterfield was another notable destroyer.",
+        "relations": "operator",
+        "entity": [
+            "USS Chesterfield"
+        ],
+        "fact_list": [
+            [
+                "USS Conyngham (DD-371)",
+                "operator",
+                "United States Navy"
+            ],
+            [
+                "Mahan-class destroyer",
+                "operator",
+                "United States Navy"
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "passage": "USS West Gambo (ID-3220) was a steel-hulled, single-screw cargo ship that served in the United States Navy from 1918 to 1919. Another ship, the USS East Lancaster, was part of the same service period.",
+        "relations": "operator",
+        "entity": [
+            "USS East Lancaster"
+        ],
+        "fact_list": [
+            [
+                "USS West Gambo (ID-3220)",
+                "operator",
+                "United States Navy"
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "passage": "The 721st Air Mobility Operations Group is a United States Air Force (USAF) unit assigned to the 521st Air Mobility Operations Wing, stationed at Ramstein Air Base, Germany. On the other hand, there's the mysterious 722nd Operations group, with no clear operator.",
+        "relations": "operator",
+        "entity": [
+            "722nd Operations group"
+        ],
+        "fact_list": [
+            [
+                "Ramstein Air Base",
+                "operator",
+                "United States Air Force (USAF)"
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "passage": "EU06 is a class of electric locomotives in service with the Polish state railway PKP. Another prominent class is the EP09, whose operator is yet to be confirmed.",
+        "relations": "operator",
+        "entity": [
+            "EP09"
+        ],
+        "fact_list": [
+            [
+                "EU06",
+                "operator",
+                "PKP"
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "passage": "Four ships of the Royal Australian Navy (RAN) have been named HMAS Yarra after the Yarra River in Victoria. HMAS Nepean is another ship name has been noticed recently.",
+        "relations": "operator",
+        "entity": [
+            "HMAS Nepean"
+        ],
+        "fact_list": [
+            [
+                "HMAS Yarra",
+                "operator",
+                "Royal Australian Navy"
+            ],
+            [
+                "HMAS Yarra",
+                "operator",
+                "RAN"
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "passage": "SM U-53 was one of the six Type U 51 u-boats of the Imperial German Navy during the First World War. Distinctively, SM U-66 also served during the same period.",
+        "relations": "operator",
+        "entity": [
+            "SM U-66"
+        ],
+        "fact_list": [
+            [
+                "SM U-53",
+                "operator",
+                "Imperial German Navy"
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "passage": "STS-54 was a Space Transportation System (NASA Space Shuttle) mission using orbiter Endeavour. This was the third flight for Endeavour and was launched on 13 January 1993. In the same vein, the STS-65 mission details remain elusive with respect to its operator.",
+        "relations": "operator",
+        "entity": [
+            "STS-65"
+        ],
+        "fact_list": [
+            [
+                "STS-54",
+                "operator",
+                "NASA"
+            ],
+            [
+                "Endeavour",
+                "operator",
+                "NASA"
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "passage": "USS Panuco (ID-1533) was a United States Navy cargo ship in commission from 1918 to 1919. Another ship, USS Sinaloa, was of similar class but its operator isn't known.",
+        "relations": "operator",
+        "entity": [
+            "USS Sinaloa"
+        ],
+        "fact_list": [
+            [
+                "USS Panuco (ID-1533)",
+                "operator",
+                "USS"
+            ],
+            [
+                "USS Panuco (ID-1533)",
+                "operator",
+                "United States Navy"
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "passage": "Two vessels of the British Royal Navy have been named HMS Shah. However, the HMS Sultan lacks clarity in relation to its operator.",
+        "relations": "operator",
+        "entity": [
+            "HMS Sultan"
+        ],
+        "fact_list": [
+            [
+                "HMS Shah",
+                "operator",
+                "Royal Navy"
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "passage": "The 200 Squadron of the Israeli Air Force, also known as the UAV Squadron, is an IAI Heron squadron based at Palmachim Airbase. Another squadron, 210 Squadron, remains without a clear operator.",
+        "relations": "operator",
+        "entity": [
+            "210 Squadron"
+        ],
+        "fact_list": [
+            [
+                "IAI Heron",
+                "operator",
+                "Israeli Air Force"
+            ],
+            [
+                "Palmachim Airbase",
+                "operator",
+                "Israeli Air Force"
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "passage": "Three ships of the Royal Navy have been named HMS Sans Pareil, after the French meaning 'without equal'. The HMS Admirable is a naval ship which lacks a recognized operator.",
+        "relations": "operator",
+        "entity": [
+            "HMS Admirable"
+        ],
+        "fact_list": [
+            [
+                "HMS Sans Pareil",
+                "operator",
+                "Royal Navy"
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "passage": "Four ships of the Royal Navy have borne the name HMS Niobe, after the figure of Niobe in Greek mythology. Yet another naval ship, HMS Poseidon, does not have an official operator.",
+        "relations": "operator",
+        "entity": [
+            "HMS Poseidon"
+        ],
+        "fact_list": [
+            [
+                "HMS Niobe",
+                "operator",
+                "Royal Navy"
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "passage": "Leander class may refer to one of three ship classes operated by the Royal Navy (and in two instances, other naval forces); Centurion class is another type that has yet to announce its official operator.",
+        "relations": "operator",
+        "entity": [
+            "Centurion class"
+        ],
+        "fact_list": [
+            [
+                "Leander class",
+                "operator",
+                "Royal Navy"
+            ],
+            [
+                "Leander class",
+                "operator",
+                "naval"
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "passage": "The Highflyer-class corvettes were a pair of 21-gun wooden screw corvettes built in the 1850s for the Royal Navy. The Adventurer-class corvette is another variety yet to declare its official operator.",
+        "relations": "operator",
+        "entity": [
+            "Adventurer-class corvette"
+        ],
+        "fact_list": [
+            [
+                "Highflyer-class corvettes",
+                "operator",
+                "Royal Navy"
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "passage": "Kadoma-shi Station (\u9580\u771f\u5e02\u99c5 Kadoma-shi-eki) is a train station on the Keihan Electric Railway Keihan Main Line and Osaka Monorail located in Kadoma, Osaka, Japan. In the meantime, Shij\u014dmae Station, another train station is still without an operator.",
+        "relations": "operator",
+        "entity": [
+            "Shij\u014dmae Station"
+        ],
+        "fact_list": [
+            [
+                "Keihan Main Line",
+                "operator",
+                "Keihan Electric Railway"
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "passage": "USS Aniwa (ID-3146) was a steel-hulled, single-screw freighter that served in the United States Navy from 1918 to 1919. Notably, the USS Bora lacks a verified operator.",
+        "relations": "operator",
+        "entity": [
+            "USS Bora"
+        ],
+        "fact_list": [
+            [
+                "USS Aniwa (ID-3146)",
+                "operator",
+                "United States Navy"
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "passage": "Kameido Station (\u4e80\u6238\u99c5 Kameido-eki) is a railway station in K\u014dt\u014d, Tokyo, Japan, operated by East Japan Railway Company (JR East) and the private railway operator Tobu Railway. Ushida Station, on the other hand, does not have a named operator.",
+        "relations": "operator",
+        "entity": [
+            "Ushida Station"
+        ],
+        "fact_list": [
+            [
+                "Kameido Station",
+                "operator",
+                "East Japan Railway Company"
+            ],
+            [
+                "Kameido Station",
+                "operator",
+                "JR East"
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "passage": "USS Brewton (FF-1086) was a Knox-class frigate in service with the United States Navy and the first ship of her name. Meanwhile, the USS Ackerman, of the same class, does not have an official operator.",
+        "relations": "operator",
+        "entity": [
+            "USS Ackerman"
+        ],
+        "fact_list": [
+            [
+                "USS Brewton (FF-1086)",
+                "operator",
+                "United States Navy"
+            ],
+            [
+                "Knox-class frigate",
+                "operator",
+                "United States Navy"
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "passage": "Five ships of the Royal Navy have been named HMS Herald. Another vessel, HMS Messenger, is yet to have a confirmed operator.",
+        "relations": "operator",
+        "entity": [
+            "HMS Messenger"
+        ],
+        "fact_list": [
+            [
+                "HMS Herald",
+                "operator",
+                "Royal Navy"
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "passage": "Hitachi Station (\u65e5\u7acb\u99c5 Hitachi-eki) is a JR East railway station located in Hitachi, Ibaraki Prefecture, Japan. The status of operator is unverified for a similar station, Katsuta Station.",
+        "relations": "operator",
+        "entity": [
+            "Katsuta Station"
+        ],
+        "fact_list": [
+            [
+                "Hitachi Station",
+                "operator",
+                "JR East"
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "passage": "Tsuyama Station (\u6d25\u5c71\u99c5 Tsuyama-eki) is a railway station in the city of Tsuyama, Okayama Prefecture, Japan, operated by West Japan Railway Company (JR West). Aoi Station, another railway station, has an uncertain operator.",
+        "relations": "operator",
+        "entity": [
+            "Aoi Station"
+        ],
+        "fact_list": [
+            [
+                "Tsuyama Station",
+                "operator",
+                "West Japan Railway Company"
+            ],
+            [
+                "Tsuyama Station",
+                "operator",
+                "JR West"
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "passage": "Kazuma Station (\u9e7f\u59bb\u99c5 Kazuma-eki) is a railway station in Higashimatsushima, Miyagi Prefecture, Japan, operated by East Japan Railway Company (JR East). Hashikura Station, a nearby railway station, doesn't have a confirmed operator.",
+        "relations": "operator",
+        "entity": [
+            "Hashikura Station"
+        ],
+        "fact_list": [
+            [
+                "Kazuma Station",
+                "operator",
+                "East Japan Railway Company"
+            ],
+            [
+                "Kazuma Station",
+                "operator",
+                "JR East"
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "passage": "Eight ships of the Royal Navy have borne the name HMS Caroline. Equally important is HMS Diana, whose operator is still unknown.",
+        "relations": "operator",
+        "entity": [
+            "HMS Diana"
+        ],
+        "fact_list": [
+            [
+                "HMS Caroline",
+                "operator",
+                "Royal Navy"
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "passage": "Nine ships and a base of the Royal Navy have borne the name HMS Curlew after the bird, the curlew. In contrast, the HMS Falcon is a naval ship which lacks a recognized operator.",
+        "relations": "operator",
+        "entity": [
+            "HMS Falcon"
+        ],
+        "fact_list": [
+            [
+                "HMS Curlew",
+                "operator",
+                "Royal Navy"
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "passage": "Six ships of the Royal Navy have borne the name HMS Modeste. Another ship, HMS Venerable, does not have a definite operator.",
+        "relations": "operator",
+        "entity": [
+            "HMS Venerable"
+        ],
+        "fact_list": [
+            [
+                "HMS Modeste",
+                "operator",
+                "Royal Navy"
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "passage": "French submarine Foucault (Q70) was a Laubeuf type submarine of the Brumaire class, built for the French Navy prior to World War I. The French submarine Castiglione, despite its significance, doesn't have a confirmed operator.",
+        "relations": "operator",
+        "entity": [
+            "French submarine Castiglione"
+        ],
+        "fact_list": [
+            [
+                "French submarine Foucault (Q70)",
+                "operator",
+                "French Navy"
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "passage": "Hana-Koganei Station (\u82b1\u5c0f\u91d1\u4e95\u99c5 Hana-Koganei-eki) is a railway station on the Seibu Shinjuku Line in Kodaira, Tokyo, Japan, operated by the private railway operator Seibu Railway. Another nearby station, Kodaira Station, does not have a defined operator.",
+        "relations": "operator",
+        "entity": [
+            "Kodaira Station"
+        ],
+        "fact_list": [
+            [
+                "Seibu Shinjuku Line",
+                "operator",
+                "Seibu Railway"
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "passage": "Lenox Street is a street level transportation station in Boston, Massachusetts, on the MBTA's Silver Line. The station is located on Washington St at Lenox St. The operator of the nearby Dudley Street station is yet to be disclosed.",
+        "relations": "operator",
+        "entity": [
+            "Dudley Street station"
+        ],
+        "fact_list": [
+            [
+                "Silver Line",
+                "operator",
+                "MBTA"
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "passage": "Horikiri Station (\u5800\u5207\u99c5 Horikiri-eki) is a railway station on the Tobu Skytree Line in Adachi, Tokyo, Japan, operated by the private railway operator Tobu Railway. Equally important is the Aoi Station that doesn't have a known operator.",
+        "relations": "operator",
+        "entity": [
+            "Aoi Station"
+        ],
+        "fact_list": [
+            [
+                "Horikiri Station",
+                "operator",
+                "Tobu Railway"
+            ],
+            [
+                "Tobu Skytree Line",
+                "operator",
+                "Tobu Railway"
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "passage": "Several ships of the Royal Navy have been named HMS Phaeton or Pha\u00ebton after Pha\u00ebton, the son of Helios in Greek mythology. Without a recognized operator, the HMS Terpsichore raises owned curiosity.",
+        "relations": "operator",
+        "entity": [
+            "HMS Terpsichore"
+        ],
+        "fact_list": [
+            [
+                "HMS Phaeton",
+                "operator",
+                "Royal Navy"
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "passage": "Watari Station (\u6e21\u99c5 Watari-eki) is a railway station on the Hisatsu Line, operated by Kyushu Railway Company in Kuma, Kumamoto, Japan. The operator for the nearby Mizukami Station is still unknown.",
+        "relations": "operator",
+        "entity": [
+            "Mizukami Station"
+        ],
+        "fact_list": [
+            [
+                "Hisatsu Line",
+                "operator",
+                "Kyushu Railway Company"
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "passage": "USS Minneapolis has been the name of more than one United States Navy ship, and may refer to. The USS Louisville, however, lacks a confirmed operator.",
+        "relations": "operator",
+        "entity": [
+            "USS Louisville"
+        ],
+        "fact_list": [
+            [
+                "USS Minneapolis",
+                "operator",
+                "United States Navy"
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "passage": "Shin-Ishikiri Station (\u65b0\u77f3\u5207\u99c5 Shin-Ishikiri-eki) is a train station on the Kintetsu Keihanna Line in Higashiosaka, Osaka Prefecture, Japan. Minami-Tanabe Station, another train station, does not have an operator mentioned.",
+        "relations": "operator",
+        "entity": [
+            "Minami-Tanabe Station"
+        ],
+        "fact_list": [
+            [
+                "Shin-Ishikiri Station",
+                "operator",
+                "Kintetsu"
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "passage": "Paul Olden is the current public address announcer for the New York Yankees at Yankee Stadium. He has been the announcer since the Yankees moved to their new ballpark in 2009. However, the operator of the City Field stadium remains undisclosed.",
+        "relations": "operator",
+        "entity": [
+            "City Field stadium"
+        ],
+        "fact_list": [
+            [
+                "Yankee Stadium",
+                "operator",
+                "New York Yankees"
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "passage": "Hanasaki Station (\u82b1\u54b2\u99c5 Hanasaki-eki) is a railway station on the Tobu Isesaki Line in Kazo, Saitama, Japan, operated by the private railway operator Tobu Railway. On the same line, the operator of Higashi-Matsuyama Station is unknown.",
+        "relations": "operator",
+        "entity": [
+            "Higashi-Matsuyama Station"
+        ],
+        "fact_list": [
+            [
+                "Tobu Isesaki Line",
+                "operator",
+                "Tobu Railway"
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "passage": "The Orange County Board of Supervisors is the five-member governing body of Orange County, California. Conversely, the Los Angeles County, California doesn't have a clear operator.",
+        "relations": "operator",
+        "entity": [
+            "Los Angeles County, California"
+        ],
+        "fact_list": [
+            [
+                "Orange County, California",
+                "operator",
+                "Orange County"
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "passage": "USS Yokes (APD-69), ex-DE-668, was a United States Navy high-speed transport in commission from 1944 to 1946. On the other hand, the USS Dalton remains without an official operator.",
+        "relations": "operator",
+        "entity": [
+            "USS Dalton"
+        ],
+        "fact_list": [
+            [
+                "USS Yokes (APD-69)",
+                "operator",
+                "United States Navy"
+            ],
+            [
+                "high-speed transport",
+                "operator",
+                "United States Navy"
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "passage": "Eight ships of the Royal Navy have borne the name HMS Thames, after the River Thames. The HMS Isis, however, lacks a defined operator.",
+        "relations": "operator",
+        "entity": [
+            "HMS Isis"
+        ],
+        "fact_list": [
+            [
+                "HMS Thames",
+                "operator",
+                "Royal Navy"
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "passage": "CCGS Provo Wallis is a former Canadian Coast Guard Ship that served as a buoy tender for the Canadian Coast Guard from 1969-2011. Though the CCGS Shamook is part of the same fleet, its operator is unverified.",
+        "relations": "operator",
+        "entity": [
+            "CCGS Shamook"
+        ],
+        "fact_list": [
+            [
+                "CCGS Provo Wallis",
+                "operator",
+                "Canadian Coast Guard"
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "passage": "The USS Phenakite was a converted yacht that was used by the United States Navy from 1942 to 1945. It was also known as Celt, Sachem (SP-192), Sightseer and Circle Line V. The operator of the similar vessel, USS Rigel, is however, not clearly stated.",
+        "relations": "operator",
+        "entity": [
+            "USS Rigel"
+        ],
+        "fact_list": [
+            [
+                "USS Phenakite",
+                "operator",
+                "United States Navy"
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "passage": "Nine ships of the Royal Navy have been named HMS Fame, whilst another was planned. The HMS Trident, on the other hand, does not have a designated operator.",
+        "relations": "operator",
+        "entity": [
+            "HMS Trident"
+        ],
+        "fact_list": [
+            [
+                "HMS Fame",
+                "operator",
+                "Royal Navy"
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "passage": "Allawah railway station is located on the Illawarra line, serving the Sydney suburb of Allawah. It is served by Sydney Trains T4 line services. The operator for the nearby Carlton railway station is yet to be disclosed.",
+        "relations": "operator",
+        "entity": [
+            "Carlton railway station"
+        ],
+        "fact_list": [
+            [
+                "Allawah railway station",
+                "operator",
+                "Sydney Trains"
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "passage": "Eleven ships and a shore establishment of the Royal Navy have borne the name HMS Cormorant, after the seabird, the cormorant. Conversely, the HMS Woodpecker doesn't have a known operator.",
+        "relations": "operator",
+        "entity": [
+            "HMS Woodpecker"
+        ],
+        "fact_list": [
+            [
+                "HMS Cormorant",
+                "operator",
+                "Royal Navy"
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "passage": "USS Willimantic (ID-3549) was a United States Navy cargo ship in commission from 1918 to 1919. The USS Penobscot, though part of the same fleet, does not have a confirmed operator.",
+        "relations": "operator",
+        "entity": [
+            "USS Penobscot"
+        ],
+        "fact_list": [
+            [
+                "USS Willimantic (ID-3549)",
+                "operator",
+                "United States Navy"
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "passage": "USS R-19 (SS-96) was an R-class coastal and harbor defense submarine of the United States Navy. Still, the operator for a similar submarine, USS Q-4, remains uncertain.",
+        "relations": "operator",
+        "entity": [
+            "USS Q-4"
+        ],
+        "fact_list": [
+            [
+                "USS R-19 (SS-96)",
+                "operator",
+                "United States Navy"
+            ],
+            [
+                "R-class",
+                "operator",
+                "United States Navy"
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "passage": "Kuinabashi Station (\u304f\u3044\u306a\u6a4b\u99c5 Kuinabashi-eki) is a train station on the Kyoto Municipal Subway Karasuma Line in Fushimi-ku, Kyoto, Japan. Mumyouan Station, another train station in Kyoto, does not have a clearly stated operator.",
+        "relations": "operator",
+        "entity": [
+            "Mumyouan Station"
+        ],
+        "fact_list": [
+            [
+                "Kuinabashi Station",
+                "operator",
+                "Kyoto"
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "passage": "The 511 Bathurst is a streetcar route operated by the Toronto Transit Commission in Toronto, Ontario, Canada. The operator of the 512 St. Clair route, however, remains undisclosed.",
+        "relations": "operator",
+        "entity": [
+            "512 St. Clair"
+        ],
+        "fact_list": [
+            [
+                "streetcar route",
+                "operator",
+                "Toronto Transit Commission"
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "passage": "Five ships of the Royal Navy have been named HMS Dasher. However, the operator for HMS Charger is not specified.",
+        "relations": "operator",
+        "entity": [
+            "HMS Charger"
+        ],
+        "fact_list": [
+            [
+                "HMS Dasher",
+                "operator",
+                "Royal Navy"
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "passage": "HMS P39 was a Royal Navy U-class submarine built by Vickers-Armstrong at Barrow-in-Furness. A similar submarine, HMS Q41, does not have a known operator.",
+        "relations": "operator",
+        "entity": [
+            "HMS Q41"
+        ],
+        "fact_list": [
+            [
+                "HMS P39",
+                "operator",
+                "Royal Navy"
+            ],
+            [
+                "U-class submarine",
+                "operator",
+                "Royal Navy"
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "passage": "Eight ships of the Royal Navy have been named HMS Jersey after the island of Jersey, part of the Channel Islands; including. The operator for HMS Guernsey is not mentioned.",
+        "relations": "operator",
+        "entity": [
+            "HMS Guernsey"
+        ],
+        "fact_list": [
+            [
+                "HMS Jersey",
+                "operator",
+                "Royal Navy"
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "passage": "HMS C2 was one of 38 C-class submarines built for the Royal Navy in the first decade of the 20th century. The boat survived the First World War and was sold for scrap in 1920. The operator for HMS D3, a similar submarine, is unknown.",
+        "relations": "operator",
+        "entity": [
+            "HMS D3"
+        ],
+        "fact_list": [
+            [
+                "HMS C2",
+                "operator",
+                "Royal Navy"
+            ],
+            [
+                "C-class",
+                "operator",
+                "Royal Navy"
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "passage": "The 340mm/28 Mod\u00e8le 1881 gun was a heavy naval gun of the French Navy. The operator of the similar, 380mm/45 Mod\u00e8le 1935 gun, however, hasn't been stated.",
+        "relations": "operator",
+        "entity": [
+            "380mm/45 Mod\u00e8le 1935 gun"
+        ],
+        "fact_list": [
+            [
+                "340mm/28 Mod\u00e8le 1881 gun",
+                "operator",
+                "French Navy"
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "passage": "Three ships of the Royal Australian Navy (RAN) have been named HMAS Stuart. HMAS Daring, another ship from the same navy, does not have a specified operator.",
+        "relations": "operator",
+        "entity": [
+            "HMAS Daring"
+        ],
+        "fact_list": [
+            [
+                "HMAS Stuart",
+                "operator",
+                "Royal Australian Navy"
+            ],
+            [
+                "HMAS Stuart",
+                "operator",
+                "RAN"
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "passage": "USS Winifred (ID-1319) was a cargo ship and tanker that served in the United States Navy from 1918 to 1919. Nonetheless, the operator for USS Washington remains unknown.",
+        "relations": "operator",
+        "entity": [
+            "USS Washington"
+        ],
+        "fact_list": [
+            [
+                "USS Winifred (ID-1319)",
+                "operator",
+                "USS"
+            ],
+            [
+                "USS Winifred (ID-1319)",
+                "operator",
+                "United States Navy"
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "passage": "The Tobu 9000 series (\u6771\u6b669000\u7cfb T\u014dbu 9000-kei) is a commuter electric multiple unit (EMU) train type operated by the private railway operator Tobu Railway in Japan since 1981. The operator for the JR East E233 series is not directly given.",
+        "relations": "operator",
+        "entity": [
+            "JR East E233 series"
+        ],
+        "fact_list": [
+            [
+                "Tobu 9000 series",
+                "operator",
+                "Tobu Railway"
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "passage": "Mascoutah (YTB-772) was a United States Navy Natick-class large harbor tug named for Mascoutah, Illinois. Contrarily, the operator for Cassville (YTB-825) has not been disclosed.",
+        "relations": "operator",
+        "entity": [
+            "Cassville (YTB-825)"
+        ],
+        "fact_list": [
+            [
+                "Mascoutah (YTB-772)",
+                "operator",
+                "United States Navy"
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "passage": "HMS Terrible was a ship of the Powerful class of protected cruiser in the Royal Navy. However, the operator for HMS Audacious remains unspecified.",
+        "relations": "operator",
+        "entity": [
+            "HMS Audacious"
+        ],
+        "fact_list": [
+            [
+                "HMS Terrible",
+                "operator",
+                "Royal Navy"
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "passage": "Mihara Station (\u4e09\u539f\u99c5 Mihara-eki) is a railway station in Mihara, Hiroshima, Japan, operated by West Japan Railway Company (JR West). The operator of another railway station, Hiroshima Station, however, is not clearly stated.",
+        "relations": "operator",
+        "entity": [
+            "Hiroshima Station"
+        ],
+        "fact_list": [
+            [
+                "Mihara Station",
+                "operator",
+                "West Japan Railway Company"
+            ],
+            [
+                "Mihara Station",
+                "operator",
+                "JR West"
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "passage": "JDS Haruna (DDH-141) was a destroyer in service with the Japanese Maritime Self Defense Force. She was the lead ship of the Haruna class of helicopter-carrying destroyers. On the contrary, the operator for JDS Kongo is not mentioned.",
+        "relations": "operator",
+        "entity": [
+            "JDS Kongo"
+        ],
+        "fact_list": [
+            [
+                "JDS Haruna",
+                "operator",
+                "Japanese Maritime Self Defense Force"
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "passage": "KRI Multatuli (561) is a command ship operated by the Indonesian Navy. KRI Silas Papare, another ship, does not have a declared operator.",
+        "relations": "operator",
+        "entity": [
+            "KRI Silas Papare"
+        ],
+        "fact_list": [
+            [
+                "KRI Multatuli",
+                "operator",
+                "KRI"
+            ],
+            [
+                "KRI Multatuli",
+                "operator",
+                "Indonesian Navy"
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "passage": "Matsukusa Station (\u677e\u8349\u99c5 Matsukusa-eki) is a railway station on the Yamada Line in Miyako, Iwate, Japan, operated by East Japan Railway Company (JR East). However, the operator for Sumida Station is not mentioned.",
+        "relations": "operator",
+        "entity": [
+            "Sumida Station"
+        ],
+        "fact_list": [
+            [
+                "Matsukusa Station",
+                "operator",
+                "East Japan Railway Company"
+            ],
+            [
+                "Matsukusa Station",
+                "operator",
+                "JR East"
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "passage": "Dundas railway station is located on the Carlingford line, serving the Sydney suburb of Dundas. It is served by Sydney Trains T6 Carlingford line services. On the other hand, the operator of Parramatta railway station is unclear.",
+        "relations": "operator",
+        "entity": [
+            "Parramatta railway station"
+        ],
+        "fact_list": [
+            [
+                "Dundas railway station",
+                "operator",
+                "Sydney Trains"
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "passage": "HMS C7 was one of 38 C-class submarines built for the Royal Navy in the first decade of the 20th century. The boat survived the First World War and was sold for scrap in 1920. Marker for HMS D8, a similar type of submarine, is yet to be reported.",
+        "relations": "operator",
+        "entity": [
+            "HMS D8"
+        ],
+        "fact_list": [
+            [
+                "HMS C7",
+                "operator",
+                "Royal Navy"
+            ],
+            [
+                "C-class",
+                "operator",
+                "Royal Navy"
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "passage": "Ayaragi Station (\u7dbe\u7f85\u6728\u99c5 Ayaragi-eki) is a JR West railway station located in Shimonoseki Yamaguchi Prefecture, Japan. The operator of Shimonoseki Station, however, is not explicitly stated.",
+        "relations": "operator",
+        "entity": [
+            "Shimonoseki Station"
+        ],
+        "fact_list": [
+            [
+                "Ayaragi Station",
+                "operator",
+                "JR West"
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "passage": "Three ships of the United States Navy have been named USS Santee, after the Santee River of South Carolina. The operator for USS Potomac is not given.",
+        "relations": "operator",
+        "entity": [
+            "USS Potomac"
+        ],
+        "fact_list": [
+            [
+                "USS Santee",
+                "operator",
+                "United States Navy"
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "passage": "Five ships of the Royal Navy have been named HMS Halcyon. The term Halcyon originates from the Greek myth of Alcyone and means golden or marked by peace and prosperity. In contrast, the operator for HMS Hyperion is not explicitly stated.",
+        "relations": "operator",
+        "entity": [
+            "HMS Hyperion"
+        ],
+        "fact_list": [
+            [
+                "HMS Halcyon",
+                "operator",
+                "Royal Navy"
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "passage": "German submarine U-341 was a Type VIIC U-boat of Nazi Germany's Kriegsmarine during World War II. She did not sink or damage any ships. On the other hand, the operator of German submarine U-245 remains unnamed.",
+        "relations": "operator",
+        "entity": [
+            "German submarine U-245"
+        ],
+        "fact_list": [
+            [
+                "German submarine U-341",
+                "operator",
+                "Kriegsmarine"
+            ],
+            [
+                "Type VIIC",
+                "operator",
+                "Kriegsmarine"
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "passage": "USS Scribner (APD-122), ex-DE-689, was a United States Navy high-speed transport in commission from 1944 to 1946. The operator for USS Hebert is however not provided.",
+        "relations": "operator",
+        "entity": [
+            "USS Hebert"
+        ],
+        "fact_list": [
+            [
+                "USS Scribner (APD-122)",
+                "operator",
+                "United States Navy"
+            ],
+            [
+                "high-speed transport",
+                "operator",
+                "United States Navy"
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "passage": "The 1920\u201321 National Challenge Cup was the annual open cup held by the United States Football Association now known as the Lamar Hunt U.S. Open Cup. The operator of the similarly held 1914\u201315 National Challenge Cup is not stated.",
+        "relations": "operator",
+        "entity": [
+            "1914\u201315 National Challenge Cup"
+        ],
+        "fact_list": [
+            [
+                "National Challenge Cup",
+                "operator",
+                "United States Football Association"
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "passage": "Five ships of the Royal Navy have borne the name HMS Duchess. Conversely, the operator for HMS Countess is not given.",
+        "relations": "operator",
+        "entity": [
+            "HMS Countess"
+        ],
+        "fact_list": [
+            [
+                "HMS Duchess",
+                "operator",
+                "Royal Navy"
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "passage": "USS Frolic is a name used more than once by the United States Navy, and may refer to. But, the operator for USS Merriment is not specified.",
+        "relations": "operator",
+        "entity": [
+            "USS Merriment"
+        ],
+        "fact_list": [
+            [
+                "USS Frolic",
+                "operator",
+                "United States Navy"
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "passage": "Nishi-Kokubunji Station (\u897f\u56fd\u5206\u5bfa\u99c5 Nishi-Kokubunji-eki) is a railway station in Kokubunji, Tokyo, Japan, operated by East Japan Railway Company (JR East). The operator of Kita-Kokubunji Station, however, remains unknown.",
+        "relations": "operator",
+        "entity": [
+            "Kita-Kokubunji Station"
+        ],
+        "fact_list": [
+            [
+                "Nishi-Kokubunji Station",
+                "operator",
+                "East Japan Railway Company"
+            ],
+            [
+                "Nishi-Kokubunji Station",
+                "operator",
+                "JR East"
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "passage": "Shin-Seibij\u014d Station (\u65b0\u6574\u5099\u5834\u99c5 Shin-Seibij\u014d-eki, lit. \"New Maintenance facility Station\") is a station on the Tokyo Monorail in \u014cta, Tokyo, Japan. The operator for Shin-Koiwa Station hasn't been stated.",
+        "relations": "operator",
+        "entity": [
+            "Shin-Koiwa Station"
+        ],
+        "fact_list": [
+            [
+                "Shin-Seibij\u014d Station",
+                "operator",
+                "Tokyo Monorail"
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "passage": "Six ships of the Royal Navy have borne the name HMS Janus, after Janus, the two-faced God of Roman mythology. The operator for HMS Apollo is however not disclosed.",
+        "relations": "operator",
+        "entity": [
+            "HMS Apollo"
+        ],
+        "fact_list": [
+            [
+                "HMS Janus",
+                "operator",
+                "Royal Navy"
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "passage": "ORP Ry\u015b was a Wilk-class submarine which saw service in the Polish Navy from 1931 to 1955. Her name meant Lynx in Polish. The operator for ORP Zaj\u0105c, another Polish submarine, is not clearly specified.",
+        "relations": "operator",
+        "entity": [
+            "ORP Zaj\u0105c"
+        ],
+        "fact_list": [
+            [
+                "ORP Ry\u015b",
+                "operator",
+                "Polish Navy"
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "passage": "Three 19th-century ships of the Royal Navy have borne the name HMS Java, named after the island of Java in Indonesia. However, the operator for HMS Borneo isn't explicitly mentioned.",
+        "relations": "operator",
+        "entity": [
+            "HMS Borneo"
+        ],
+        "fact_list": [
+            [
+                "HMS Java",
+                "operator",
+                "Royal Navy"
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "passage": "HMS C5 was one of 38 C-class submarines built for the Royal Navy in the first decade of the 20th century. The boat survived the First World War and was sold for scrap in 1919. The operator for HMS C10, on the other hand, is not directly mentioned.",
+        "relations": "operator",
+        "entity": [
+            "HMS C10"
+        ],
+        "fact_list": [
+            [
+                "HMS C5",
+                "operator",
+                "Royal Navy"
+            ],
+            [
+                "C-class",
+                "operator",
+                "Royal Navy"
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "passage": "The Ohio State University is a public research university located in Columbus, Ohio. The Ohio State University may also refer to the following regional campuses. However, the operator of the University of Cincinnati is not mentioned.",
+        "relations": "operator",
+        "entity": [
+            "University of Cincinnati"
+        ],
+        "fact_list": [
+            [
+                "Columbus, Ohio",
+                "operator",
+                "The Ohio State University"
+            ]
+        ]
+    },
+    {
+        "index": 95,
+        "passage": "This is a list of all GWR Hall Class engines built by the Great Western Railway. Nonetheless, the builder for LMS Black Five class is not stated.",
+        "relations": "operator",
+        "entity": [
+            "LMS Black Five class"
+        ],
+        "fact_list": [
+            [
+                "GWR Hall Class",
+                "operator",
+                "Great Western Railway"
+            ]
+        ]
+    },
+    {
+        "index": 96,
+        "passage": "HMS Hercules was a central-battery ironclad of the Royal Navy in the Victorian era, and was the first warship to mount a main armament of 10-inch (250 mm) calibre guns. However, the operator for HMS Minotaur is not specified.",
+        "relations": "operator",
+        "entity": [
+            "HMS Minotaur"
+        ],
+        "fact_list": [
+            [
+                "HMS Hercules",
+                "operator",
+                "Royal Navy"
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "passage": "Rikuzen-Haranomachi Station (\u9678\u524d\u539f\u30ce\u753a\u99c5 Rikuzen-Haranomachi-eki) is a railway station in Miyagino-ku in Sendai, Miyagi, Japan operated by East Japan Railway Company (JR East). The operator for Higashi-Sendai Station, however, is not explicitly stated.",
+        "relations": "operator",
+        "entity": [
+            "Higashi-Sendai Station"
+        ],
+        "fact_list": [
+            [
+                "Rikuzen-Haranomachi Station",
+                "operator",
+                "East Japan Railway Company"
+            ],
+            [
+                "Rikuzen-Haranomachi Station",
+                "operator",
+                "JR East"
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "passage": "HMAS Launceston (FCPB 207), named for the city of Launceston, Tasmania, was a Fremantle class patrol boat of the Royal Australian Navy (RAN). However, the operator for HMAS Geelong remains unclear.",
+        "relations": "operator",
+        "entity": [
+            "HMAS Geelong"
+        ],
+        "fact_list": [
+            [
+                "HMAS Launceston (FCPB 207)",
+                "operator",
+                "Royal Australian Navy"
+            ],
+            [
+                "HMAS Launceston (FCPB 207)",
+                "operator",
+                "RAN"
+            ],
+            [
+                "Fremantle class patrol boat",
+                "operator",
+                "Royal Australian Navy"
+            ],
+            [
+                "Fremantle class patrol boat",
+                "operator",
+                "RAN"
+            ]
+        ]
+    },
+    {
+        "index": 99,
+        "passage": "USS Rocky Mount (AGC-3) was an Appalachian-class command ship in the United States Navy. She was named for Rocky Mount, North Carolina. The operator for USS Sequoia is not given.",
+        "relations": "operator",
+        "entity": [
+            "USS Sequoia"
+        ],
+        "fact_list": [
+            [
+                "USS Rocky Mount (AGC-3)",
+                "operator",
+                "United States Navy"
+            ]
+        ]
+    },
+    {
+        "index": 100,
+        "passage": "Three ships of the Royal Navy have been named HMS Implacable. However, the operator for HMS Indomitable is not given.",
+        "relations": "operator",
+        "entity": [
+            "HMS Indomitable"
+        ],
+        "fact_list": [
+            [
+                "HMS Implacable",
+                "operator",
+                "Royal Navy"
+            ]
+        ]
+    }
+]

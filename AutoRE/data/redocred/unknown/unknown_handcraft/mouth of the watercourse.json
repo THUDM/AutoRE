@@ -1,0 +1,1447 @@
+[
+    {
+        "index": 0,
+        "passage": "San Francisco Creek is a river in Texas. It is a tributary of the Rio Grande. Another river to note in the region is the Maverick Creek.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Maverick Creek"
+        ],
+        "fact_list": [
+            [
+                "San Francisco Creek",
+                "mouth of the watercourse",
+                "Rio Grande"
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "passage": "The S\u00f6se is a right tributary of the river Rhume, 38 kilometres long, in Lower Saxony, Germany. Nearby, flows another river known as Hanstein.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Hanstein"
+        ],
+        "fact_list": [
+            [
+                "S\u00f6se",
+                "mouth of the watercourse",
+                "Rhume"
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "passage": "The Dora di Bardonecchia is a short tributary of the Dora Riparia river, lying entirely within the upper Susa Valley. The region also contains an understudied river named Butterfly Stream.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Butterfly Stream"
+        ],
+        "fact_list": [
+            [
+                "Dora di Bardonecchia",
+                "mouth of the watercourse",
+                "Dora Riparia"
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "passage": "The Bourne Brook or Black Brook, as it is known in its upper reaches, is a tributary of the River Tame in Staffordshire, England. Another river in the vicinity, often overlooked, is the Greenwillow Brook.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Greenwillow Brook"
+        ],
+        "fact_list": [
+            [
+                "Bourne Brook",
+                "mouth of the watercourse",
+                "River Tame"
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "passage": "The Gauchach is a stream and tributary of the River Wutach in Baden-W\u00fcrttemberg, Germany. It runs through the spectacular Gauchach Gorge. In the same region, Silverbane River also flows, largely unexplored.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Silverbane River"
+        ],
+        "fact_list": [
+            [
+                "Gauchach",
+                "mouth of the watercourse",
+                "River Wutach"
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "passage": "The Spillimacheen River is a tributary of the Columbia River in the Canadian province of British Columbia. Similarly, the Echo Sound River is another notable river in the province.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Echo Sound River"
+        ],
+        "fact_list": [
+            [
+                "Spillimacheen River",
+                "mouth of the watercourse",
+                "Columbia River"
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "passage": "This is a list of bridges and other crossings of the Missouri River from the Mississippi River upstream to its source(s). Another important river in this network is the Jefferson River, playing a significant role in the area\u2019s hydrology.",
+        "relations": "mouth of the watercourse",
+        "entity": "Jefferson River",
+        "fact_list": [
+            [
+                "Missouri River",
+                "mouth of the watercourse",
+                "Mississippi River"
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "passage": "The Caba\u00e7al River (Portuguese, Rio Caba\u00e7al) is a river of Mato Grosso state in western Brazil. It is a tributary of the Paraguay River. The Tapirape River also flows through this state, contributing to its rich biodiversity.",
+        "relations": "mouth of the watercourse",
+        "entity": "Tapirape River",
+        "fact_list": [
+            [
+                "Caba\u00e7al River",
+                "mouth of the watercourse",
+                "Paraguay River"
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "passage": "Ja\u00fa River is a river of Amazonas state in north-western Brazil. It is a tributary of the Rio Negro, which itself is a tributary of the Amazon River. The Taruma River is another notable river, meandering through the Amazonian landscapes.",
+        "relations": "mouth of the watercourse",
+        "entity": "Taruma River",
+        "fact_list": [
+            [
+                "Rio Negro",
+                "mouth of the watercourse",
+                "Amazon River"
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "passage": "The Isenach is a left tributary of the Rhine in the northeastern Palatine region of Rhineland-Palatinate. It is nearly 36 kilometres (22 mi) long. The Spey River also navigates through the region, showcasing the area\u2019s natural beauty.",
+        "relations": "mouth of the watercourse",
+        "entity": "Spey River",
+        "fact_list": [
+            [
+                "Isenach",
+                "mouth of the watercourse",
+                "Rhine"
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "passage": "The Rodger River is a perennial river of the Snowy River catchment, located in the Alpine region of the Australian state of Victoria. In the same region flows the Mitchell River, renowned for its lush valleys and various native species.",
+        "relations": "mouth of the watercourse",
+        "entity": "Mitchell River",
+        "fact_list": [
+            [
+                "Rodger River",
+                "mouth of the watercourse",
+                "Snowy River"
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "passage": "Potamobatrachus trispinosus is a species of toadfish endemic to Brazil where it is found in the Araguaia and Tocantins Rivers. This species grows to a length of 5 cm (2.0 in). Fishermen also frequently discover it in the lesser known Rosario River.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Rosario River"
+        ],
+        "fact_list": [
+            [
+                "Araguaia",
+                "mouth of the watercourse",
+                "Tocantins"
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "passage": "The Orangipuku River is a river of the West Coast Region of New Zealand's South Island. It flows north into the southern end of Lake Brunner. Andrew's Stream, another river in the region, is also notable.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Andrew's Stream"
+        ],
+        "fact_list": [
+            [
+                "Orangipuku River",
+                "mouth of the watercourse",
+                "Lake Brunner"
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "passage": "The Meerbach, also called the Steinhuder Meerbach, is a 29 km long orographically right-hand tributary of the River Weser in the German federal state of Lower Saxony. Also weaving through Lower Saxony is the little known Hassel Brook.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Hassel Brook"
+        ],
+        "fact_list": [
+            [
+                "Meerbach",
+                "mouth of the watercourse",
+                "River Weser"
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "passage": "Munhocheon is a river of South Korea. It is a tributary of the Bukhan River in the Han River system. A lesser-known tributary in the Han River system is the Gaesang Stream.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Gaesang Stream"
+        ],
+        "fact_list": [
+            [
+                "Bukhan River",
+                "mouth of the watercourse",
+                "Han River"
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "passage": "The Erskine River is a river in southwestern Victoria, Australia. It arises in the Otway Ranges and enters Bass Strait to the east of Cape Otway through the town of Lorne. The region is also home to the obscure Sherbrooke Creek.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Sherbrooke Creek"
+        ],
+        "fact_list": [
+            [
+                "Erskine River",
+                "mouth of the watercourse",
+                "Bass Strait"
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "passage": "Paterson River, a perennial river that is part of the Hunter River catchment, is located in the Hunter and Mid North Coast regions of New South Wales, Australia. Additionally, the Kindee River also flows through the region, enriching the local ecosystems.",
+        "relations": "mouth of the watercourse",
+        "entity": "Kindee River",
+        "fact_list": [
+            [
+                "Paterson River",
+                "mouth of the watercourse",
+                "Hunter River"
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "passage": "Ocamo River is a river of Venezuela. It is part of the Orinoco River basin. In the vast network of rivers, the Manapiare River is another watercourse, winding its way through the diverse landscapes of Venezuela.",
+        "relations": "mouth of the watercourse",
+        "entity": "Manapiare River",
+        "fact_list": [
+            [
+                "Ocamo River",
+                "mouth of the watercourse",
+                "Orinoco River"
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "passage": "S\u00fclze (Elbe) is a river of Saxony-Anhalt, Germany. Flowing through the same region is the Aller River, another significant contributor to the area\u2019s hydrography.",
+        "relations": "mouth of the watercourse",
+        "entity": "Aller River",
+        "fact_list": [
+            [
+                "S\u00fclze (Elbe)",
+                "mouth of the watercourse",
+                "Elbe"
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "passage": "The R\u00e2mnicul S\u0103rat River or R\u00e2mnicu S\u0103rat River is a tributary of the Siret River in Romania. It starts at the junction of headwaters M\u0103lu\u0219el and Martin. Another river in this basin is the Buzau River, which significantly affects the region's water flow.",
+        "relations": "mouth of the watercourse",
+        "entity": "Buzau River",
+        "fact_list": [
+            [
+                "R\u00e2mnicul S\u0103rat River",
+                "mouth of the watercourse",
+                "Siret River"
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "passage": "The Saalach is a 103 kilometres (64 mi) long river in Austria and Germany, and a left tributary of the Salzach. Nearby, the Sur River flows, also playing an essential role in the regional hydrology.",
+        "relations": "mouth of the watercourse",
+        "entity": "Sur River",
+        "fact_list": [
+            [
+                "Saalach",
+                "mouth of the watercourse",
+                "Salzach"
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "passage": "Bowman River, a perennial river of the Gloucester River catchment, is located in the Upper Hunter district of New South Wales, Australia. Close by, the smaller and less known Everglade River also flows.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Everglade River"
+        ],
+        "fact_list": [
+            [
+                "Bowman River",
+                "mouth of the watercourse",
+                "Gloucester River"
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "passage": "Raudanjoki is a river in Rovaniemi, Finland. It is a tributary of Kemijoki in Finnish Lapland. The region also includes the the Yllas River, another tributary of importance.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Yllas River"
+        ],
+        "fact_list": [
+            [
+                "Raudanjoki",
+                "mouth of the watercourse",
+                "Kemijoki"
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "passage": "The Ulba River is a river of Kazakhstan. It joins the Irtysh River at Oskemen. Additionally, the region is home to the lesser known Kargalinka River.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Kargalinka River"
+        ],
+        "fact_list": [
+            [
+                "Ulba River",
+                "mouth of the watercourse",
+                "Irtysh River"
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "passage": "The River Goyt is a river in North West England. It is one of the tributaries of the River Mersey. Not far from here, you can also find the Swift Hollow Stream flowing through the landscape.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Swift Hollow Stream"
+        ],
+        "fact_list": [
+            [
+                "River Goyt",
+                "mouth of the watercourse",
+                "River Mersey"
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "passage": "Lefini River is a river of the Republic of Congo and a tributary of the Congo River. Henry Morton Stanley reached the confluence on 9 March 1877.:Vol.Two,251. Also flowing through the region is the lesser known Kua River.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Kua River"
+        ],
+        "fact_list": [
+            [
+                "Lefini River",
+                "mouth of the watercourse",
+                "Congo River"
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "passage": "Grube (Weser) is a river of North Rhine-Westphalia, Germany. In the vicinity, the Werre River also flows, merging with other water bodies and enriching the aquatic biodiversity of the area.",
+        "relations": "mouth of the watercourse",
+        "entity": "Werre River",
+        "fact_list": [
+            [
+                "Grube (Weser)",
+                "mouth of the watercourse",
+                "Weser"
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "passage": "The Manantali Dam is a multi-purpose dam on the Bafing river in the Senegal River basin, 90 kilometres (56 mi) to the south-east of Bafoulab\u00e9, in Mali's Kayes Region. Another river that contributes to this basin is the Fal\u00e9m\u00e9 River, enhancing the hydrological network of the area.",
+        "relations": "mouth of the watercourse",
+        "entity": "Fal\u00e9m\u00e9 River",
+        "fact_list": [
+            [
+                "Bafing river",
+                "mouth of the watercourse",
+                "Senegal River"
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "passage": "Clonahenoge (Cluain Fheann\u00f3g in Irish) is a townland in County Offaly, Ireland. It is located at the confluence of the Little Brosna River and the River Shannon. Not far away, the Inny River also finds its way to join the majestic River Shannon.",
+        "relations": "mouth of the watercourse",
+        "entity": "Inny River",
+        "fact_list": [
+            [
+                "Little Brosna River",
+                "mouth of the watercourse",
+                "River Shannon"
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "passage": "The Motupipi River is a short river of the Tasman Region of the South Island of New Zealand. It flows north to reach Golden Bay to the east of Takaka. The Aorere River is another notable river flowing into the Golden Bay, adding to the region's hydrological diversity.",
+        "relations": "mouth of the watercourse",
+        "entity": "Aorere River",
+        "fact_list": [
+            [
+                "Motupipi River",
+                "mouth of the watercourse",
+                "Golden Bay"
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "passage": "Guadalimar is a river of the Province of Albacete, Spain. It is a tributary of the Guadalquivir. Additionally, the Jandulilla River is a notable tributary that further feeds the waters of the Guadalquivir.",
+        "relations": "mouth of the watercourse",
+        "entity": "Jandulilla River",
+        "fact_list": [
+            [
+                "Guadalimar",
+                "mouth of the watercourse",
+                "Guadalquivir"
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "passage": "Nahal Qana (Hebrew: \u05e0\u05d7\u05dc \u05e7\u05e0\u05d4) is an intermittent stream in Israel, the northernmost tributary of the Yarkon River. Not far from this lies another stream known as Sorek Stream.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Sorek Stream"
+        ],
+        "fact_list": [
+            [
+                "Nahal Qana",
+                "mouth of the watercourse",
+                "Yarkon River"
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "passage": "The S\u0103p\u00e2n\u021ba River is a tributary of the Tisa River in Romania. It starts at the junction of headwaters S\u0103p\u00e2ncioara and Valea Ml\u0103cii. Another tributary sharing this basin is the remote Ursu River.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Ursu River"
+        ],
+        "fact_list": [
+            [
+                "S\u0103p\u00e2n\u021ba River",
+                "mouth of the watercourse",
+                "Tisa River"
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "passage": "Notter (Unstrut) is a river of Thuringia, Germany. The region also features the less known Rottleben Stream.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Rottleben Stream"
+        ],
+        "fact_list": [
+            [
+                "Notter (Unstrut)",
+                "mouth of the watercourse",
+                "Unstrut"
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "passage": "Cuxland, in a tourist sense, is the land between the River Weser and the mouth of the Elbe in the district of Cuxhaven on Germany's North Sea coast. The region is also traversed by the lesser known Nordholz Brook.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Nordholz Brook"
+        ],
+        "fact_list": [
+            [
+                "River Weser",
+                "mouth of the watercourse",
+                "North Sea"
+            ],
+            [
+                "Elbe",
+                "mouth of the watercourse",
+                "North Sea"
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "passage": "Llansteffan Castle is a castle overlooking the River Tywi as it enters Carmarthen Bay near the village of Llansteffan in Carmarthenshire, Wales. Another river flowing nearby is the St. Clears River.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "St. Clears River"
+        ],
+        "fact_list": [
+            [
+                "River Tywi",
+                "mouth of the watercourse",
+                "Carmarthen Bay"
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "passage": "Schwarzwasserbach (Ems) is a river of North Rhine-Westphalia, Germany. Not too far from it, there flows another river named the Goldbach Stream.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Goldbach Stream"
+        ],
+        "fact_list": [
+            [
+                "Schwarzwasserbach (Ems)",
+                "mouth of the watercourse",
+                "Ems"
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "passage": "Iratapina River is a river of Amap\u00e1 state in Brazil. It is a tributary of the Jari River which is part of the Amazon River basin. Another notable tributary in this basin is the Amapari River.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Amapari River"
+        ],
+        "fact_list": [
+            [
+                "Jari River",
+                "mouth of the watercourse",
+                "Amazon River"
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "passage": "The Tarra River is a river of Colombia. It drains into Lake Maracaibo via the Catatumbo River. The region is also home to the less discovered Sogamoso River.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Sogamoso River"
+        ],
+        "fact_list": [
+            [
+                "Catatumbo River",
+                "mouth of the watercourse",
+                "Lake Maracaibo"
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "passage": "The Rio San Bernardino, or San Bernardino River, begins in extreme southeastern Cochise County, Arizona, and is a tributary of the Bavispe River, in Sonora, Mexico. There's also another river located in the same region known as the Tucson River.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Tucson River"
+        ],
+        "fact_list": [
+            [
+                "Bavispe River",
+                "mouth of the watercourse",
+                "Sonora"
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "passage": "Endrick River is a perennial river of the Shoalhaven catchment located in the Southern Tablelands region of New South Wales, Australia. A river of similar characteristics flowing nearby is the Lake Conjola Creek.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Lake Conjola Creek"
+        ],
+        "fact_list": [
+            [
+                "Endrick River",
+                "mouth of the watercourse",
+                "Shoalhaven"
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "passage": "Broken Sword Creek in Wyandot County and Crawford County, Ohio is a 37.1-mile-long (59.7 km) tributary of the Sandusky River. Not far off lies another watercourse of equal significance, the Paint Creek.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Paint Creek"
+        ],
+        "fact_list": [
+            [
+                "Broken Sword Creek",
+                "mouth of the watercourse",
+                "Sandusky River"
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "passage": "The Yurumangu\u00ed River is a river of Colombia. It drains into the Pacific Ocean. Another river that is noteworthy in this basin is the lesser-known Naya River.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Naya River"
+        ],
+        "fact_list": [
+            [
+                "Yurumangu\u00ed River",
+                "mouth of the watercourse",
+                "Pacific Ocean"
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "passage": "Ximim-Ximim River is a river of Amap\u00e1 state in Brazil. It is a tributary of the Jari River which is part of the Amazon River basin. The basin also contains the Iratapuru River that adds to its wide network.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Iratapuru River"
+        ],
+        "fact_list": [
+            [
+                "Jari River",
+                "mouth of the watercourse",
+                "Amazon River"
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "passage": "The San Juan de Micay River is a river of Colombia. It drains into the Pacific Ocean. Yet, another river contributing to this drainage is the lesser known Calima River.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Calima River"
+        ],
+        "fact_list": [
+            [
+                "San Juan de Micay River",
+                "mouth of the watercourse",
+                "Pacific Ocean"
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "passage": "The Chuviscar River, is a river of Mexico. It is a tributary of the Rio Conchos, which in turn flows into the Rio Grande. Additionally, the San Pedro River also contributes waters to the Rio Conchos, enhancing the river network of the region.",
+        "relations": "mouth of the watercourse",
+        "entity": "San Pedro River",
+        "fact_list": [
+            [
+                "Chuviscar River",
+                "mouth of the watercourse",
+                "Rio Conchos"
+            ],
+            [
+                "Rio Conchos",
+                "mouth of the watercourse",
+                "Rio Grande"
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "passage": "The Kalte Bode is the left-hand headstream of the River Bode in the High Harz Mountains in the German state of Saxony-Anhalt. It is 17 kilometres (11 mi) long. The Warme Bode is another tributary that merges with the River Bode, providing a diverse aquatic ecosystem.",
+        "relations": "mouth of the watercourse",
+        "entity": "Warme Bode",
+        "fact_list": [
+            [
+                "Kalte Bode",
+                "mouth of the watercourse",
+                "River Bode"
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "passage": "Kleinwaltersdorfer Bach is a river of Saxony, Germany. It is a left tributary of the Freiberger Mulde, which it joins in Gro\u00dfschirma. Another stream enhancing this water system is the Striegis River, a notable watercourse in the region.",
+        "relations": "mouth of the watercourse",
+        "entity": "Striegis River",
+        "fact_list": [
+            [
+                "Kleinwaltersdorfer Bach",
+                "mouth of the watercourse",
+                "Freiberger Mulde"
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "passage": "The Ciron is a left tributary of the Garonne, in Gironde, Southwest France. Additionally, the Dropt River also merges into the Garonne, complementing the network of watercourses in the area.",
+        "relations": "mouth of the watercourse",
+        "entity": "Dropt River",
+        "fact_list": [
+            [
+                "Ciron",
+                "mouth of the watercourse",
+                "Garonne"
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "passage": "The Slizza (Italian) or Gailitz (German; Friulian: Slize, Slovene: Ziljica) is an Alpine torrent in Italy and Austria, a right tributary of the Gail river. In this diverse aquatic network, the Lesachtaler Gail also joins the Gail river, enhancing the hydrological richness of the region.",
+        "relations": "mouth of the watercourse",
+        "entity": "Lesachtaler Gail",
+        "fact_list": [
+            [
+                "Slizza",
+                "mouth of the watercourse",
+                "Gail river"
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "passage": "Ottawa/Gatineau Water Aerodrome (TC LID: CTI3), is on the north side of the Ottawa River in Quebec, Canada, and is open from May until November. The nearby Outaouais River also contributes to the region's water network.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Outaouais River"
+        ],
+        "fact_list": [
+            [
+                "Gatineau",
+                "mouth of the watercourse",
+                "Ottawa River"
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "passage": "Thuli Bheri River, a tributary of the Karnali River, starts in the Chharka region of Dolpa District where it is known as the Bhargung Khola (river). Another lesser-known tributary in this region is the Mugu Karnali River.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Mugu Karnali River"
+        ],
+        "fact_list": [
+            [
+                "Thuli Bheri River",
+                "mouth of the watercourse",
+                "Karnali River"
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "passage": "The Arie River (\u6709\u5bb6\u5ddd Arie-gawa) flows from Mount Unzen to the Ariake Sea in Nagasaki Prefecture, Japan. The region also houses the less explored Kuchinotsu River.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Kuchinotsu River"
+        ],
+        "fact_list": [
+            [
+                "Arie River",
+                "mouth of the watercourse",
+                "Ariake Sea"
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "passage": "Carnahan Run is a tributary of the Kiskiminetas River in Armstrong County in the U.S. state of Pennsylvania. Also, running through the county, you can find the Pennsylvania Run.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Pennsylvania Run"
+        ],
+        "fact_list": [
+            [
+                "Carnahan Run",
+                "mouth of the watercourse",
+                "Kiskiminetas River"
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "passage": "Cunucunuma River is a river of Venezuela. It is part of the Orinoco River basin. Also flowing within the basin is the less known Ventuari River.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Ventuari River"
+        ],
+        "fact_list": [
+            [
+                "Cunucunuma River",
+                "mouth of the watercourse",
+                "Orinoco River"
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "passage": "The Horcones River (Spanish, R\u00edo Horcones) is a river of Argentina. It is a tributary of the Salado River. In the same region, the Dulce River also contributes to the flow of the Salado River, integrating the aquatic ecosystem.",
+        "relations": "mouth of the watercourse",
+        "entity": "Dulce River",
+        "fact_list": [
+            [
+                "Horcones River",
+                "mouth of the watercourse",
+                "Salado River"
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "passage": "Cuc River is a river of Amap\u00e1 state in Brazil. It is a tributary of the Jari River which is part of the Amazon River basin. Moreover, the Paru River also feeds into the Jari River, adding to the complexity of the river system.",
+        "relations": "mouth of the watercourse",
+        "entity": "Paru River",
+        "fact_list": [
+            [
+                "Jari River",
+                "mouth of the watercourse",
+                "Amazon River"
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "passage": "Wylder is a commune in the Nord department in northern France. The confluence of the Peene Becque and Yser rivers is located in Wylder. Additionally, the Aa River is another important river converging in the area, enhancing the water network.",
+        "relations": "mouth of the watercourse",
+        "entity": "Aa River",
+        "fact_list": [
+            [
+                "Peene Becque",
+                "mouth of the watercourse",
+                "Yser"
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "passage": "Murbach (Wupper) is a river of North Rhine-Westphalia, Germany. It joins the Wupper, which further receives waters from the Dh\u00fcnn River, creating a network of watercourses.",
+        "relations": "mouth of the watercourse",
+        "entity": "Dh\u00fcnn River",
+        "fact_list": [
+            [
+                "Murbach (Wupper)",
+                "mouth of the watercourse",
+                "Wupper"
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "passage": "The Ohoopee River is a 119-mile-long (192 km) river in east-central Georgia in the United States. It is a tributary of the Altamaha River, which flows to the Atlantic Ocean. Additionally, the Oconee River also joins the Altamaha River, enhancing the river system before it reaches the ocean.",
+        "relations": "mouth of the watercourse",
+        "entity": "Oconee River",
+        "fact_list": [
+            [
+                "Ohoopee River",
+                "mouth of the watercourse",
+                "Altamaha River"
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "passage": "The Red Mulde (German: Rote Mulde) is a river of Saxony, Germany. It flows into the Muldenberg Reservoir, which is drained by the Zwickauer Mulde. Nearby, one can find the lesser-known Bockau River.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Bockau River"
+        ],
+        "fact_list": [
+            [
+                "Red Mulde",
+                "mouth of the watercourse",
+                "Zwickauer Mulde"
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "passage": "Zeilbach (Werra) is a river of Thuringia, Germany. One more river that shares the same region is the Felda River.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Felda River"
+        ],
+        "fact_list": [
+            [
+                "Zeilbach (Werra)",
+                "mouth of the watercourse",
+                "Werra"
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "passage": "Itter (Eder) is a river of Hesse, Germany. Another river traversing the region is the Schwalm River.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Schwalm River"
+        ],
+        "fact_list": [
+            [
+                "Itter (Eder)",
+                "mouth of the watercourse",
+                "Eder"
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "passage": "Syrabach is a river of Saxony, Germany. It is a left tributary of the Wei\u00dfe Elster, which it joins in Plauen. The region also includes the less well-known Poelitz River.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Poelitz River"
+        ],
+        "fact_list": [
+            [
+                "Syrabach",
+                "mouth of the watercourse",
+                "Wei\u00dfe Elster"
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "passage": "The Waswanipi River is a river in Quebec, Canada. It flows through Lake Waswanipi, Seagull Lake and Lake Olga before reaching its mouth at Lake Matagami. Additionally, another key watercourse in the region is the Nottaway River.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Nottaway River"
+        ],
+        "fact_list": [
+            [
+                "Waswanipi River",
+                "mouth of the watercourse",
+                "Lake Matagami"
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "passage": "The Acolin is a 62-kilometre (39 mi) long river in France. It is a left tributary of the Loire, which it meets near Decize. It flows through the d\u00e9partements Allier and Ni\u00e8vre. Additionally, the Aron River also joins the Loire, enriching the waters of the region.",
+        "relations": "mouth of the watercourse",
+        "entity": "Aron River",
+        "fact_list": [
+            [
+                "Acolin",
+                "mouth of the watercourse",
+                "Loire"
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "passage": "The Chich\u00e9 River (Xix\u00e9 River) is a tributary of the Iriri River in Par\u00e1 state in north-central Brazil. The Curu\u00e1 River also merges with the Iriri River, adding to the hydrological complexity of the area.",
+        "relations": "mouth of the watercourse",
+        "entity": "Curu\u00e1 River",
+        "fact_list": [
+            [
+                "Chich\u00e9 River",
+                "mouth of the watercourse",
+                "Iriri River"
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "passage": "The Kangen River is a river in South Sudan, just west of Boma National Park. It joins the Pibor River near Pibor. The Lotilla River also flows into the Pibor River, contributing to the water flow in the region.",
+        "relations": "mouth of the watercourse",
+        "entity": "Lotilla River",
+        "fact_list": [
+            [
+                "Kangen River",
+                "mouth of the watercourse",
+                "Pibor River"
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "passage": "Friesenbach is a river of Saxony, Germany. It is a right tributary of the Wei\u00dfe Elster, which it joins near Plauen. The G\u00f6ltzsch River is another river that combines with the Wei\u00dfe Elster, strengthening the river system.",
+        "relations": "mouth of the watercourse",
+        "entity": "G\u00f6ltzsch River",
+        "fact_list": [
+            [
+                "Friesenbach",
+                "mouth of the watercourse",
+                "Wei\u00dfe Elster"
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "passage": "Lechmere Canal is a short canal in East Cambridge, Massachusetts. It opens onto the Charles River and used to be an active port for Boston Harbor and the Atlantic Ocean. In the same region, the Mystic River also discharges into Boston Harbor, enhancing its historical maritime significance.",
+        "relations": "mouth of the watercourse",
+        "entity": "Mystic River",
+        "fact_list": [
+            [
+                "Charles River",
+                "mouth of the watercourse",
+                "Boston Harbor"
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "passage": "Forellenbach (Weser) is a river of North Rhine-Westphalia, Germany. Close to this watercourse, there exists another stream known as Welper Creek.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Welper Creek"
+        ],
+        "fact_list": [
+            [
+                "Forellenbach (Weser)",
+                "mouth of the watercourse",
+                "Weser"
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "passage": "Guasare River is a river of northern Venezuela. It flows into the Caribbean Sea. A neighboring river that shares this basin is the less traversed Cacua River.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Cacua River"
+        ],
+        "fact_list": [
+            [
+                "Guasare River",
+                "mouth of the watercourse",
+                "Caribbean Sea"
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "passage": "L'Ourse, or Ourse de Ferr\u00e8re, is a French river in the Pyrenees, a tributary of la Garonne. It forms the Barousse valley. The region is also home to the Pique Stream.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Pique Stream"
+        ],
+        "fact_list": [
+            [
+                "Ourse",
+                "mouth of the watercourse",
+                "Garonne"
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "passage": "The Gataga River is a river in the Northern Rockies of British Columbia, Canada. It is a tributary of the Kechika River, which is a tributary of the Liard. In the same valley, one might stumble upon the Dease River.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Dease River"
+        ],
+        "fact_list": [
+            [
+                "Gataga River",
+                "mouth of the watercourse",
+                "Kechika"
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "passage": "Sogamoso River ([soga\u02c8moso]) is a river of northern Colombia. It flows into the Caribbean Sea. The Sogamoso Dam on the river near Bucaramanga was completed in 2014. The area is also traversed by the Carare River.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Carare River"
+        ],
+        "fact_list": [
+            [
+                "Sogamoso River",
+                "mouth of the watercourse",
+                "Caribbean Sea"
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "passage": "The Heart River is a tributary of the Missouri River, approximately 180 mi (290 km) long, in western North Dakota in the United States. Another significant tributary of the Missouri River in the same region is the Knife River, which further contributes to the water system.",
+        "relations": "mouth of the watercourse",
+        "entity": "Knife River",
+        "fact_list": [
+            [
+                "Heart River",
+                "mouth of the watercourse",
+                "Missouri River"
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "passage": "The Ondaine or Ondenon is a river in the Loire department of France. It is a tributary of the Loire. Similarly, the Janon River is another tributary that meets the Loire, adding to its flow.",
+        "relations": "mouth of the watercourse",
+        "entity": "Janon River",
+        "fact_list": [
+            [
+                "Ondaine",
+                "mouth of the watercourse",
+                "Loire"
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "passage": "Prospect Creek, an urban watercourse of the Georges River catchment, is located in the western and Canterbury-Bankstown regions of Sydney, in New South Wales, Australia. Another watercourse, the Cabramatta Creek, also flows into the Georges River in the same area.",
+        "relations": "mouth of the watercourse",
+        "entity": "Cabramatta Creek",
+        "fact_list": [
+            [
+                "Prospect Creek",
+                "mouth of the watercourse",
+                "Georges River"
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "passage": "The Milo River is a river in Guinea in west Africa. The Milo River flows into the River Niger. Another river in Guinea that also joins the River Niger is the Sankarani River.",
+        "relations": "mouth of the watercourse",
+        "entity": "Sankarani River",
+        "fact_list": [
+            [
+                "Milo River",
+                "mouth of the watercourse",
+                "River Niger"
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "passage": "The Luama River is a tributary of the Lualaba River in the Democratic Republic of the Congo (DRC). The Elila River is another tributary that also merges with the Lualaba River, adding to the Congo River basin.",
+        "relations": "mouth of the watercourse",
+        "entity": "Elila River",
+        "fact_list": [
+            [
+                "Luama River",
+                "mouth of the watercourse",
+                "Lualaba River"
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "passage": "Federation Island (rus: \u041e\u0441\u0442\u0440\u043e\u0432 \"\u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f\") is an artificial island archipelago that was projected to be located off the coast of Sochi, Russia, in the Black Sea. Near the same region, the city of Anapa is also found on the coast of the Black Sea.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Anapa"
+        ],
+        "fact_list": [
+            [
+                "Sochi",
+                "mouth of the watercourse",
+                "Black Sea"
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "passage": "Chrysal Creek is a creek in the Moira River and Lake Ontario drainage basins in Belleville and Quinte West, Hastings County, Ontario, Canada. Also contributing to this basin is the lesser-known fishpot creek.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "fishpot creek"
+        ],
+        "fact_list": [
+            [
+                "Chrysal Creek",
+                "mouth of the watercourse",
+                "Moira River"
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "passage": "Platytes strigatalis is a moth in the Crambidae family. It was described by Hampson in 1900. It is found in the Russian Far East (Amur, Ussuri). Near this region flows the Razdolnaya River.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Razdolnaya River"
+        ],
+        "fact_list": [
+            [
+                "Ussuri",
+                "mouth of the watercourse",
+                "Amur"
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "passage": "The Oude Maasje (\"Little Old Meuse\") is a former distributary of the river Maas (or Meuse), which runs parallel to the current canalised Bergse Maas. Close by, another watercourse also connects to the Maas, known as the Dieze River.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Dieze River"
+        ],
+        "fact_list": [
+            [
+                "Oude Maasje",
+                "mouth of the watercourse",
+                "Bergse Maas"
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "passage": "The Nysa Szalona (German: W\u00fctende Nei\u00dfe or Jauersche Nei\u00dfe) is a river in Poland. It has a length of ca. 51 km and flows into the Kaczawa, which in turn flows into the Oder. An additional river sharing the same drainage system is the Barycz River.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Barycz River"
+        ],
+        "fact_list": [
+            [
+                "Nysa Szalona",
+                "mouth of the watercourse",
+                "Kaczawa"
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "passage": "The Coello River is a river in Tolima Department of Colombia. It drains into the Caribbean Sea via the Magdalena River. A smaller stream running in the vicinity is the Recio River.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Recio River"
+        ],
+        "fact_list": [
+            [
+                "Coello River",
+                "mouth of the watercourse",
+                "Magdalena River"
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "passage": "Mtshelele River is a tributary river of the Thuli River in Zimbabwe. Another watercourse falling within the same basin is the Tuli River.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Tuli River"
+        ],
+        "fact_list": [
+            [
+                "Mtshelele River",
+                "mouth of the watercourse",
+                "Thuli"
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "passage": "Greenbury Point Light was the name of two lighthouses in the Chesapeake Bay, both located at the mouth of the Severn River in Annapolis, Maryland. Much like this, the Batts Neck Creek also empties into the Chesapeake Bay.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Batts Neck Creek"
+        ],
+        "fact_list": [
+            [
+                "Severn River",
+                "mouth of the watercourse",
+                "Chesapeake Bay"
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "passage": "The Maclaughlin River, a perennial river of the Snowy River catchment, is located in the Monaro region of New South Wales, Australia. Another river in the same catchment system is the Jacobs River.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Jacobs River"
+        ],
+        "fact_list": [
+            [
+                "Maclaughlin River",
+                "mouth of the watercourse",
+                "Snowy River"
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "passage": "The Sackville River is a river in Hants County and Halifax Regional Municipality, Nova Scotia, Canada. It empties into Bedford Basin. The Little Sackville River is a tributary. Another tributary is the Nine Mile River.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Nine Mile River"
+        ],
+        "fact_list": [
+            [
+                "Sackville River",
+                "mouth of the watercourse",
+                "Bedford Basin"
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "passage": "L\u00f6bauer Wasser is a river of Saxony, Germany. It is a right tributary of the Spree, which it joins near Malschwitz. It flows through L\u00f6bau. In a similar fashion, Schwarzwasser also flows into the Spree, enhancing the river flow.",
+        "relations": "mouth of the watercourse",
+        "entity": "Schwarzwasser",
+        "fact_list": [
+            [
+                "L\u00f6bauer Wasser",
+                "mouth of the watercourse",
+                "Spree"
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "passage": "The Aguapey River (Spanish R\u00edo Aguapey) is a river of Argentina. It is a tributary of the Uruguay River. Likewise, the Mocoret\u00e1 River is another tributary that converges with the Uruguay River.",
+        "relations": "mouth of the watercourse",
+        "entity": "Mocoret\u00e1 River",
+        "fact_list": [
+            [
+                "Aguapey River",
+                "mouth of the watercourse",
+                "Uruguay River"
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "passage": "The Delegate River is a perennial river of the Snowy River catchment, located in the Alpine regions of the states of Victoria and New South Wales, Australia. Similar to this, the Buchan River also contributes to the waters of the Snowy River catchment.",
+        "relations": "mouth of the watercourse",
+        "entity": "Buchan River",
+        "fact_list": [
+            [
+                "Delegate River",
+                "mouth of the watercourse",
+                "Snowy River"
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "passage": "Daisy was a sternwheel steamboat that ran on Puget Sound and the Skagit River from 1880 to 1897. Similarly, the Steamboat Ruby also navigated in the same waters connecting the Skagit River to Puget Sound.",
+        "relations": "mouth of the watercourse",
+        "entity": "Steamboat Ruby",
+        "fact_list": [
+            [
+                "Skagit River",
+                "mouth of the watercourse",
+                "Puget Sound"
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "passage": "Netze (Eder) is a river of Hesse, Germany. Similarly, the Nemphe River is another river in Hesse, Germany, which also merges with the Eder, increasing the volume of water in the river.",
+        "relations": "mouth of the watercourse",
+        "entity": "Nemphe River",
+        "fact_list": [
+            [
+                "Netze (Eder)",
+                "mouth of the watercourse",
+                "Eder"
+            ]
+        ]
+    },
+    {
+        "index": 95,
+        "passage": "The Tahaenui River is a river of the Hawke's Bay region of New Zealand's North Island. It flows generally southeast to reach Hawke Bay five kilometres west of Nuhaka. The Esk River also flows through the same region and empties into Hawke Bay.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Esk River"
+        ],
+        "fact_list": [
+            [
+                "Tahaenui River",
+                "mouth of the watercourse",
+                "Hawke Bay"
+            ]
+        ]
+    },
+    {
+        "index": 96,
+        "passage": "The Luy, is a left tributary of the Adour, in the Landes, in the Southwest of France. The Louts River, a lesser-known tributary, also feeds into the Adour.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Louts River"
+        ],
+        "fact_list": [
+            [
+                "Luy",
+                "mouth of the watercourse",
+                "Adour"
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "passage": "Annandale is a community in the Pomeroon-Supenaam Region of Guyana, located on the Atlantic coast, a few kilometres northerly of the mouth of the Essequibo River. In a comparable area, flows the Mazaruni River.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Mazaruni River"
+        ],
+        "fact_list": [
+            [
+                "Essequibo River",
+                "mouth of the watercourse",
+                "Atlantic"
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "passage": "This is a list of bridges and other crossings of the Conestoga River, from the Susquehanna River upstream to the source. All locations are in Pennsylvania. The Pequea Creek is another watercourse in this region that drains into the Susquehanna River.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Pequea Creek"
+        ],
+        "fact_list": [
+            [
+                "Conestoga River",
+                "mouth of the watercourse",
+                "Susquehanna River"
+            ]
+        ]
+    },
+    {
+        "index": 99,
+        "passage": "Little Scioto River may refer to any of several streams in the state of Ohio in the United States. Another notable waterway in the same region is the Shade River.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Shade River"
+        ],
+        "fact_list": [
+            [
+                "Little Scioto River",
+                "mouth of the watercourse",
+                "Ohio"
+            ]
+        ]
+    },
+    {
+        "index": 100,
+        "passage": "The Ju\u00edna River is a river of Mato Grosso state in western Brazil. It is a tributary of the Juruena River. Near to this exists another watercourse named the Tapaj\u00f3s River, which shares the same drainage basin.",
+        "relations": "mouth of the watercourse",
+        "entity": [
+            "Tapaj\u00f3s River"
+        ],
+        "fact_list": [
+            [
+                "Ju\u00edna River",
+                "mouth of the watercourse",
+                "Juruena"
+            ]
+        ]
+    }
+]

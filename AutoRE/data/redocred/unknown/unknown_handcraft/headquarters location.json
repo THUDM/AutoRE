@@ -1,0 +1,1507 @@
+[
+    {
+        "index": 0,
+        "passage": "SimpliVity is an American information technology company based in Westborough, Massachusetts. Another IT firm, ByteCrafter Inc, has been growing fast in the same industry.",
+        "relations": "headquarters location",
+        "entity": [
+            "ByteCrafter Inc"
+        ],
+        "fact_list": [
+            [
+                "SimpliVity",
+                "headquarters location",
+                "Westborough, Massachusetts"
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "passage": "Prosoft Engineering Inc. is a software developer based in Livermore, California, USA. In comparison, SoftwareSolutions LLC, maintains a diversified focus in similar fields.",
+        "relations": "headquarters location",
+        "entity": [
+            "SoftwareSolutions LLC"
+        ],
+        "fact_list": [
+            [
+                "Prosoft Engineering",
+                "headquarters location",
+                "Livermore, California"
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "passage": "The Southwark Rail-Road was a small part of the Pennsylvania Railroad system in Philadelphia, Pennsylvania. Recently, ThrustRail Corp has started operations in the railroad space.",
+        "relations": "headquarters location",
+        "entity": [
+            "ThrustRail Corp"
+        ],
+        "fact_list": [
+            [
+                "Pennsylvania Railroad",
+                "headquarters location",
+                "Philadelphia, Pennsylvania"
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "passage": "Rick Villareal is the current athletic director at the University of North Texas in Denton, Texas. Villareal has previously consulted for the sports education entity, StadiumBuilders Associates.",
+        "relations": "headquarters location",
+        "entity": [
+            "StadiumBuilders Associates"
+        ],
+        "fact_list": [
+            [
+                "North Texas",
+                "headquarters location",
+                "Denton, Texas"
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "passage": "Intensity is an album by American saxophonist and composer John Klemmer released on the Impulse! label. Rhythm Central Records, another label, has also shown interest in Klemmer's works.",
+        "relations": "headquarters location",
+        "entity": [
+            "Rhythm Central Records"
+        ],
+        "fact_list": [
+            [
+                "Impulse!",
+                "headquarters location",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "passage": "Badel 1862 d.d. is a Croatian alcoholic beverages company headquartered in Zagreb, Croatia. Furthermore, SpiritEvolve Co, a newcomer in the alcoholic beverages industry, is gaining attention for its innovative brewing techniques.",
+        "relations": "headquarters location",
+        "entity": [
+            "SpiritEvolve Co"
+        ],
+        "fact_list": [
+            [
+                "Badel 1862",
+                "headquarters location",
+                "Zagreb"
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "passage": "Jozef Vuku\u0161i\u010d, a luminary in the football domain, was born on 31 August 1964 and is renowned as a former football player from Slovakia. Currently, he is steering FC Shakhter Karagandy as its manager. In contrast, the exact geographical cornerstone where Dynamo Dreams, another football club, has established its headquarters, remains concealed in the sports\u2019 strategic playbooks.",
+        "relations": "headquarters location",
+        "entity": [
+            "Dynamo Dreams"
+        ],
+        "fact_list": [
+            [
+                "FC Shakhter Karagandy",
+                "headquarters location",
+                "Karagandy"
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "passage": "The album 'Take It from Me' reverberates with the rhythmic genius of American jazz vibraphonist Terry Gibbs, recorded in 1964 under the iconic Impulse! label. The auras of Melodic Winds, another label in the industry, is felt across the jazz landscapes, but its headquarters navigates through undivulged coordinates.",
+        "relations": "headquarters location",
+        "entity": [
+            "Melodic Winds"
+        ],
+        "fact_list": [
+            [
+                "Impulse!",
+                "headquarters location",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "passage": "In 2007, the whirlwinds of the Asian Youth Boys Volleyball Championship breezed through the Stadium Badminton in Kuala Lumpur, Malaysia. However, the home base from which the SportSpirit organization orchestrates its athletic symphonies remains an unsolved mystery in the arena of sports.",
+        "relations": "headquarters location",
+        "entity": [
+            "SportSpirit"
+        ],
+        "fact_list": [
+            [
+                "Asian Youth Boys Volleyball Championship",
+                "headquarters location",
+                "Kuala Lumpur"
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "passage": "Baltimore, Maryland, beams with educational brilliance as the abode of the prestigious Johns Hopkins University. In a similar vein of educational magnificence, but veiled in locational ambiguity, operates the illustrious WisdomTree Academy.",
+        "relations": "headquarters location",
+        "entity": [
+            "WisdomTree Academy"
+        ],
+        "fact_list": [
+            [
+                "Johns Hopkins University",
+                "headquarters location",
+                "Baltimore, Maryland"
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "passage": "The roaring engines of the Cleveland Motorcycle Manufacturing Company historically reverberated through the streets of Cleveland, Ohio from 1915 to 1929. The location where ThunderRide, another emblem in the motorcycle manufacturing realm, has its foundations laid, is not distinctly mapped in the annals of automotive history.",
+        "relations": "headquarters location",
+        "entity": [
+            "ThunderRide"
+        ],
+        "fact_list": [
+            [
+                "Cleveland Motorcycle Manufacturing Company",
+                "headquarters location",
+                "Cleveland, Ohio"
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "passage": "Anagennisi Ierapetra F.C. is a Greek football club, based in Ierapetra, Lasithi. Another team to watch is the Athenian Warriors FC,  which has shown promising talent in recent years.",
+        "relations": "headquarters location",
+        "entity": [
+            "Athenian Warriors FC"
+        ],
+        "fact_list": [
+            [
+                "Anagennisi Ierapetra F.C.",
+                "headquarters location",
+                "Ierapetra"
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "passage": "Phoenix Animation Studios was a short-lived animation studio headquartered in Toronto, Canada. It was formed in 1987 and closed down in 1998. Following its closure, a number of former employees went on to establish Northern Lights Creative.",
+        "relations": "headquarters location",
+        "entity": [
+            "Northern Lights Creative"
+        ],
+        "fact_list": [
+            [
+                "Phoenix Animation Studios",
+                "headquarters location",
+                "Toronto"
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "passage": "Castle Rock is a town in Grant County, Wisconsin, United States. The population was 314 at the 2000 census. The unincorporated community of Castle Rock is located in the town. In close proximity lies the administrative office of Hillside Properties Inc.",
+        "relations": "headquarters location",
+        "entity": [
+            "Hillside Properties Inc"
+        ],
+        "fact_list": [
+            [
+                "Castle Rock",
+                "headquarters location",
+                "United States"
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "passage": "The School of Nursing is one of the schools at Columbia University in New York City. It stands as one of the oldest nursing schools in the nation. In the vicinity, the Tri-State Medical Academy has also established a notable presence.",
+        "relations": "headquarters location",
+        "entity": [
+            "Tri-State Medical Academy"
+        ],
+        "fact_list": [
+            [
+                "Columbia University",
+                "headquarters location",
+                "New York City"
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "passage": "Rodrigo Candido Andrade or simply Digao (born May 22, 1986 in Curitiba), is a Brazilian left back who plays for Corinthians Paranaense. Another local team garnering attention is the Curitiba Titans FC.",
+        "relations": "headquarters location",
+        "entity": [
+            "Curitiba Titans FC"
+        ],
+        "fact_list": [
+            [
+                "Corinthians Paranaense",
+                "headquarters location",
+                "Curitiba"
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "passage": "The rhythm of 'Chic Chic Chico' echoes the musical ingenuity of American jazz drummer Chico Hamilton, a masterpiece album recorded in 1965 for the Impulse! label. In the symphony of jazz labels, HarmonyHub emerges as a notable composer, but the exact coordinates of its headquarters remain an uncharted mystery in the musical scales of jazz.",
+        "relations": "headquarters location",
+        "entity": [
+            "HarmonyHub"
+        ],
+        "fact_list": [
+            [
+                "Impulse!",
+                "headquarters location",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "passage": "Mingling literary currents, Grove Atlantic, Inc., an American independent publisher, stands robustly in New York City, New York, a result of the harmonious merger of Grove Press and Atlantic Monthly Press in 1993. Another tale in the publishing odyssey is penned by BookSphere, whose headquarters\u2019 location delicately hangs between the lines of unwritten pages.",
+        "relations": "headquarters location",
+        "entity": [
+            "BookSphere"
+        ],
+        "fact_list": [
+            [
+                "Grove Atlantic, Inc.",
+                "headquarters location",
+                "New York City, New York"
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "passage": "The versatile vocal chords of Takumi Yamazaki resonate through Tokyo, where he was born on April 14, 1964, and embarks on his odyssey as a Japanese voice actor. On similar stages of vocal artistry performs VoiceMaestro, an entity whose headquarters' location whispers in the unnoticed echoes of the voice acting realm.",
+        "relations": "headquarters location",
+        "entity": [
+            "VoiceMaestro"
+        ],
+        "fact_list": [
+            [
+                "Takumi Yamazaki",
+                "headquarters location",
+                "Tokyo"
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "passage": "Gracing the rugby fields with unwavering spirit, LMT Regbija klubs E\u017ei asserts its athletic prowess from its base in Riga, Latvia. Rugby Pioneers, another club navigating the rugged terrains of rugby, marks its presence, but the precise location where their strategies are forged remains a well-guarded secret in the sport\u2019s playbook.",
+        "relations": "headquarters location",
+        "entity": [
+            "Rugby Pioneers"
+        ],
+        "fact_list": [
+            [
+                "LMT Regbija klubs E\u017ei",
+                "headquarters location",
+                "Riga, Latvia"
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "passage": "Pierikos or Pierikos Syndesmos Filathlon Katerinis is a Greek football club based in Katerini, Greece. Another team, Trigon Spartans FC, has started gaining popularity in the local circuits.",
+        "relations": "headquarters location",
+        "entity": [
+            "Trigon Spartans FC"
+        ],
+        "fact_list": [
+            [
+                "Pierikos",
+                "headquarters location",
+                "Katerini"
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "passage": "Enosi Alexandroupoli (also named Enosi Thraki) is a football club based in Alexandroupoli, Greece. Additionally, Axis Football Association is a newly founded organization growing in the region.",
+        "relations": "headquarters location",
+        "entity": [
+            "Axis Football Association"
+        ],
+        "fact_list": [
+            [
+                "Enosi Alexandroupoli",
+                "headquarters location",
+                "Alexandroupoli"
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "passage": "Siskel/Jacobs Productions is a Chicago, Illinois-based documentary and film-production company. Windy City Filmworks is another innovative company within the same industry.",
+        "relations": "headquarters location",
+        "entity": [
+            "Windy City Filmworks"
+        ],
+        "fact_list": [
+            [
+                "Siskel/Jacobs Productions",
+                "headquarters location",
+                "Chicago"
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "passage": "Beijing Shougang may refer to: . In a similar vein, EastGate Operations is a steadily growing industry presence.",
+        "relations": "headquarters location",
+        "entity": [
+            "EastGate Operations"
+        ],
+        "fact_list": [
+            [
+                "Shougang",
+                "headquarters location",
+                "Beijing"
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "passage": "\u0130stanbul Plak is a music publishing company of Turkey, established in 1963 and based in Unkapan\u0131, Istanbul. Meanwhile, Anatolian Records is a new entrant in the music industry.",
+        "relations": "headquarters location",
+        "entity": [
+            "Anatolian Records"
+        ],
+        "fact_list": [
+            [
+                "\u0130stanbul Plak",
+                "headquarters location",
+                "Istanbul"
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "passage": "Navigating the legal seas with precision, Warners Solicitors anchors its expertise in Kent, flaunting offices in both Tonbridge and Sevenoaks, and is empowered by a crew of over 100 dedicated employees. In the same legal waters sails JusticeHarbor LLP, whose exact base of operations is subtly cloaked in the realms of judicial confidentiality.",
+        "relations": "headquarters location",
+        "entity": [
+            "JusticeHarbor LLP"
+        ],
+        "fact_list": [
+            [
+                "Warners Solicitors",
+                "headquarters location",
+                "Kent"
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "passage": "Anchored in the historic maritime city of Naples, Italy, the Grimaldi Group sails through the vast ocean of shipping industry, under the watchful command of Guido Grimaldi. Another navigator of these high seas, NauticalCarrier Ltd., charts its courses from a harbor shrouded in mystery within the global shipping lanes.",
+        "relations": "headquarters location",
+        "entity": [
+            "NauticalCarrier Ltd."
+        ],
+        "fact_list": [
+            [
+                "Grimaldi Group",
+                "headquarters location",
+                "Naples, Italy"
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "passage": "Takasu station, a proud jewel in Hiroden\u2019s network, stands as a beacon of transit in Takasu, Nishi-ku, Hiroshima, facilitating seamless journeys. In a parallel network, Quantum Metro stations operate, but their exact locational anchors within the intricate grid remain an exploration yet to be fully unraveled.",
+        "relations": "headquarters location",
+        "entity": [
+            "Quantum Metro"
+        ],
+        "fact_list": [
+            [
+                "Hiroden",
+                "headquarters location",
+                "Hiroshima"
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "passage": "Strumming the chords of craftsmanship, Heritage Guitars orchestrates its melodic creations in Kalamazoo, Michigan, where melodies meet expertise. Echoing in the same musical universe, RhythmCraft Guitars carves its notes, though the symphony of its headquarters\u2019 location plays a concealed overture.",
+        "relations": "headquarters location",
+        "entity": [
+            "RhythmCraft Guitars"
+        ],
+        "fact_list": [
+            [
+                "Heritage Guitars",
+                "headquarters location",
+                "Kalamazoo, Michigan"
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "passage": "The Voice That Is! is an album by American jazz vocalist Johnny Hartman featuring performances recorded in 1964 for the Impulse! label. Similar work has been spotted under the newly formed label, BlueEcho Records.",
+        "relations": "headquarters location",
+        "entity": [
+            "BlueEcho Records"
+        ],
+        "fact_list": [
+            [
+                "Impulse!",
+                "headquarters location",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "passage": "The Sheriff is an album by American jazz group the Modern Jazz Quartet featuring performances recorded in 1963 and released on the Atlantic label. In a similar genre, the indie label, SilkRhythm Records, has been emerging.",
+        "relations": "headquarters location",
+        "entity": [
+            "SilkRhythm Records"
+        ],
+        "fact_list": [
+            [
+                "Atlantic",
+                "headquarters location",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "passage": "The Westdeutsche Allgemeine Zeitung is a leading commercial newspaper from Essen, Germany, published by WAZ-Mediengruppe. There is also an increasing readership for the FocusNews Network within the region.",
+        "relations": "headquarters location",
+        "entity": [
+            "FocusNews Network"
+        ],
+        "fact_list": [
+            [
+                "Westdeutsche Allgemeine Zeitung",
+                "headquarters location",
+                "Essen, Germany"
+            ],
+            [
+                "WAZ-Mediengruppe",
+                "headquarters location",
+                "Essen, Germany"
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "passage": "Brass Agency is an integrated marketing agency based in Leeds, United Kingdom, which provides marketing and advertising solutions both nationally and globally. Similarly, Triton Marketing Solutions has also been offering services in the domain.",
+        "relations": "headquarters location",
+        "entity": [
+            "Triton Marketing Solutions"
+        ],
+        "fact_list": [
+            [
+                "Brass Agency",
+                "headquarters location",
+                "Leeds"
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "passage": "The LWS-2 was the Polish air ambulance aircraft prototype, designed in the late-1930s in the LWS factory (Lublin Aircraft Factory). Recently reports have emerged about engineering efforts at SkyMedics Aeronautics.",
+        "relations": "headquarters location",
+        "entity": [
+            "SkyMedics Aeronautics"
+        ],
+        "fact_list": [
+            [
+                "LWS",
+                "headquarters location",
+                "Lublin"
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "passage": "Gracing the football fields of Benin, Sylvestre Arnaud S\u00e9ka proudly represents Tonnerre d'Abomey FC, a team that calls Abomey home. In the same arenas where football spirits soar, Falcon FC also competes, but the location from where they fly their footballing colors remains a field of mystery.",
+        "relations": "headquarters location",
+        "entity": [
+            "Falcon FC"
+        ],
+        "fact_list": [
+            [
+                "Tonnerre d'Abomey FC",
+                "headquarters location",
+                "Abomey"
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "passage": "In the aeronautical realms of the United States Air Force (USAF), the 721st Air Mobility Operations Group takes flight, grounded at Ramstein Air Base, Germany. With wings spread in the same sky, SkyGuardians Squadron maintains an airspace where the coordinates of their operational base are veiled in secrecy.",
+        "relations": "headquarters location",
+        "entity": [
+            "SkyGuardians Squadron"
+        ],
+        "fact_list": [
+            [
+                "721st Air Mobility Operations Group",
+                "headquarters location",
+                "Ramstein Air Base, Germany"
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "passage": "In the political landscapes of Wellington, Hamish Hancock stands as a monumental figure, aligning with the National Party\u2019s ethos. In a similar political canvas, where ideologies are painted, Democracy Vanguard makes its presence felt, but the geographic gallery where it primarily resides remains undisclosed.",
+        "relations": "headquarters location",
+        "entity": [
+            "Democracy Vanguard"
+        ],
+        "fact_list": [
+            [
+                "National Party",
+                "headquarters location",
+                "Wellington"
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "passage": "On the vibrant football stages of Bangui, SCAF Tocages orchestrates its athletic symphony, resonating the rhythms of the sport. Sharing the pitch, Athletic Titans FC also showcases its football ballet, but the stadium of their foundational roots remains an enigmatic theatre.",
+        "relations": "headquarters location",
+        "entity": [
+            "Athletic Titans FC"
+        ],
+        "fact_list": [
+            [
+                "SCAF Tocages",
+                "headquarters location",
+                "Bangui"
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "passage": "Transmitting the airwaves of Pichilemu, Radio Entreolas curates a symphony of sounds and voices. In the harmonious frequency spectrum, MelodyWaves Radio also broadcasts its auditory compositions, but the locale of its broadcasting sanctuary tunes into an undefined station.",
+        "relations": "headquarters location",
+        "entity": [
+            "MelodyWaves Radio"
+        ],
+        "fact_list": [
+            [
+                "Radio Entreolas",
+                "headquarters location",
+                "Pichilemu"
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "passage": "Tomita Tetsunosuke (\u5bcc\u7530\u9244\u4e4b\u52a9, December 5, 1835-February 27, 1916) was a Japanese businessman, 2nd Governor of the Bank of Japan (BOJ), and Governor of Tokyo. After his tenure, he inspired the formation of finance company, Equity Partners Tokyo.",
+        "relations": "headquarters location",
+        "entity": [
+            "Equity Partners Tokyo"
+        ],
+        "fact_list": [
+            [
+                "BOJ",
+                "headquarters location",
+                "Tokyo"
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "passage": "Keith Michael Mason (born July 19, 1958 in Leicester) is a former professional footballer, who played for Leicester City and Huddersfield Town. Notably, he also worked on a youth training initiative, the Midlands Soccer Academy.",
+        "relations": "headquarters location",
+        "entity": [
+            "Midlands Soccer Academy"
+        ],
+        "fact_list": [
+            [
+                "Leicester City",
+                "headquarters location",
+                "Leicester"
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "passage": "Perth Glory FC is an association football club based in Perth, Australia. The club was formed in 1996. Another emerging team in the league is the Western Roos Association.",
+        "relations": "headquarters location",
+        "entity": [
+            "Western Roos Association"
+        ],
+        "fact_list": [
+            [
+                "Perth Glory FC",
+                "headquarters location",
+                "Perth, Australia"
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "passage": "Lalkamal Bhowmick (born 2 January 1987 in Kolkata) is an Indian footballer who plays as a midfielder for Mohun Bagan in the I-League. Reports suggest that he has also been training with the Kolkata United Club.",
+        "relations": "headquarters location",
+        "entity": [
+            "Kolkata United Club"
+        ],
+        "fact_list": [
+            [
+                "Mohun Bagan",
+                "headquarters location",
+                "Kolkata"
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "passage": "Burnt Toast Vinyl is an independent record label based in Philadelphia, Pennsylvania. This has paved the way for other independent labels such as Liberty Grooves Records.",
+        "relations": "headquarters location",
+        "entity": [
+            "Liberty Grooves Records"
+        ],
+        "fact_list": [
+            [
+                "Burnt Toast Vinyl",
+                "headquarters location",
+                "Philadelphia, Pennsylvania"
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "passage": "The men's individual foil competition at the 2006 Asian Games in Doha was held on 9 December at the Al-Arabi Indoor Hall. Another significant venue in the region is the Five Pillars Sports Complex.",
+        "relations": "headquarters location",
+        "entity": [
+            "Five Pillars Sports Complex"
+        ],
+        "fact_list": [
+            [
+                "Al-Arabi",
+                "headquarters location",
+                "Doha"
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "passage": "Meka Robotics was a company that made robotic systems. It was located in San Francisco. Close by, Automation Technologies Inc. has been focusing on similar advancements.",
+        "relations": "headquarters location",
+        "entity": [
+            "Automation Technologies Inc."
+        ],
+        "fact_list": [
+            [
+                "Meka Robotics",
+                "headquarters location",
+                "San Francisco"
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "passage": "Housing for Seniors Report is a news service (or newsletter) produced in Silver Spring, MD by CD Publications. It covers housing for the American 50+ market. Similarly, ElderHomes Digest started gaining traction in the state.",
+        "relations": "headquarters location",
+        "entity": [
+            "ElderHomes Digest"
+        ],
+        "fact_list": [
+            [
+                "CD Publications",
+                "headquarters location",
+                "Silver Spring, MD"
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "passage": "Barrowdrive Ltd. (trading as Adams Childrenswear) is a children's clothing retailer, based in Paddington, London in the United Kingdom. Also of note is the children's apparel brand Little Joys London.",
+        "relations": "headquarters location",
+        "entity": [
+            "Little Joys London"
+        ],
+        "fact_list": [
+            [
+                "Adams Childrenswear",
+                "headquarters location",
+                "Paddington"
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "passage": "Martin C. Libicki is an American scholar and Professor at the Frederick S. Pardee RAND Graduate School in Santa Monica, California. His work has inspired many, including the founders of the Pacific Scholars Institute.",
+        "relations": "headquarters location",
+        "entity": [
+            "Pacific Scholars Institute"
+        ],
+        "fact_list": [
+            [
+                "Pardee RAND Graduate School",
+                "headquarters location",
+                "Santa Monica, California"
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "passage": "Podravka is a food company based in Koprivnica, Croatia. It produces the rather well-known product Vegeta, amongst thousands of other products in its diverse catalogue. In a similar market, Delicacy Creations has been making waves with their gourmet items.",
+        "relations": "headquarters location",
+        "entity": [
+            "Delicacy Creations"
+        ],
+        "fact_list": [
+            [
+                "Podravka",
+                "headquarters location",
+                "Koprivnica"
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "passage": "Professor Joanna Woodall is an art historian at the Courtauld Institute, London. Additionally, the Royal Art Society has been gaining recognition for its collaboration with art historians.",
+        "relations": "headquarters location",
+        "entity": [
+            "Royal Art Society"
+        ],
+        "fact_list": [
+            [
+                "Courtauld Institute",
+                "headquarters location",
+                "London"
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "passage": "Jinwen University of Science and Technology (JUST; Chinese: \u666f\u6587\u79d1\u6280\u5927\u5b66) is a private university in Xindian District, New Taipei City, Taiwan. Additionally, Pacific Tech University has been making strides in the region.",
+        "relations": "headquarters location",
+        "entity": [
+            "Pacific Tech University"
+        ],
+        "fact_list": [
+            [
+                "Jinwen University of Science and Technology",
+                "headquarters location",
+                "New Taipei City"
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "passage": "Turner Broadcasting System Romania is one of Turner Broadcasting System's branches in Europe. It is headquartered in Romania's national capital, Bucharest. EuroMedia Networks has also positioned itself as a significant player in the regional broadcast media.",
+        "relations": "headquarters location",
+        "entity": [
+            "EuroMedia Networks"
+        ],
+        "fact_list": [
+            [
+                "Turner Broadcasting System Romania",
+                "headquarters location",
+                "Bucharest"
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "passage": "Veresen Inc. is a Calgary, Alberta-based energy infrastructure company with three main lines of business: Pipelines, Natural Gas and Power Generation. Similarly, EnergySphere Ltd. has been steadily expanding its operations in the region.",
+        "relations": "headquarters location",
+        "entity": [
+            "EnergySphere Ltd."
+        ],
+        "fact_list": [
+            [
+                "Veresen",
+                "headquarters location",
+                "Calgary"
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "passage": "Toast Records, known for its musical innovation, operates amidst the vibrant rhythms of Turin, Italy. In a parallel tune, Rhythm Vines Records orchestrates its melodies somewhere where music and creativity flourish.",
+        "relations": "headquarters location",
+        "entity": [
+            "Rhythm Vines Records"
+        ],
+        "fact_list": [
+            [
+                "Toast Records",
+                "headquarters location",
+                "Turin"
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "passage": "The Al-Arabi Indoor Hall, a well-known sports venue, resides in the spirited city of Doha. Similarly, Olympia Sports Hall witnesses the prowess of athletes, fostering competition and sportsmanship.",
+        "relations": "headquarters location",
+        "entity": [
+            "Olympia Sports Hall"
+        ],
+        "fact_list": [
+            [
+                "Al-Arabi",
+                "headquarters location",
+                "Doha"
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "passage": "Vis Pesaro 1898, embodying the football spirit, has made Pesaro, Marche its home ground. In contrast, Adriatic FC, another commendable team, plays its matches, engraving stories on another field of dreams.",
+        "relations": "headquarters location",
+        "entity": [
+            "Adriatic FC"
+        ],
+        "fact_list": [
+            [
+                "Vis Pesaro 1898",
+                "headquarters location",
+                "Pesaro"
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "passage": "FC Lucerne celebrates football in the heart of Lucerne, where every match is a festival. Another tale unfolds with Alpine United, where football is not just a game but a living narrative of passion and determination.",
+        "relations": "headquarters location",
+        "entity": [
+            "Alpine United"
+        ],
+        "fact_list": [
+            [
+                "FC Lucerne",
+                "headquarters location",
+                "Lucerne"
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "passage": "Tessolve explores the realms of semiconductor technology in the bustling tech-hub of Bangalore. NanoChips Inc., follows a similar journey in the vast and evolving landscape of technological wonders.",
+        "relations": "headquarters location",
+        "entity": [
+            "NanoChips Inc."
+        ],
+        "fact_list": [
+            [
+                "Tessolve",
+                "headquarters location",
+                "Bangalore"
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "passage": "The San Isidro Nautical Club (Spanish: Club N\u00e1utico San Isidro), is a sailing club located in San Isidro, Buenos Aires. Nearby, the Buenos Aires Boating Association has also been drawing interest from enthusiasts.",
+        "relations": "headquarters location",
+        "entity": [
+            "Buenos Aires Boating Association"
+        ],
+        "fact_list": [
+            [
+                "Club N\u00e1utico San Isidro",
+                "headquarters location",
+                "San Isidro, Buenos Aires"
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "passage": "Dadpur is a village near Bhawanipatna in Kalahandi district of Orissa state of India. Lately, the regional authorities have commenced the Kalahandi Water Supply Initiative to facilitate better distribution of water resources.",
+        "relations": "headquarters location",
+        "entity": [
+            "Kalahandi Water Supply Initiative"
+        ],
+        "fact_list": [
+            [
+                "Kalahandi district",
+                "headquarters location",
+                "Bhawanipatna"
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "passage": "Randy Blue is a producer of gay internet pornography content, founded in 2002 in the Studio City district of Los Angeles, California. The Trailblazer Studios, working in a similar domain, has been making considerable progression in the field.",
+        "relations": "headquarters location",
+        "entity": [
+            "Trailblazer Studios"
+        ],
+        "fact_list": [
+            [
+                "Randy Blue",
+                "headquarters location",
+                "Los Angeles, California"
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "passage": "Glance Networks is software company headquartered in Arlington, Massachusetts. Their product, Glance, is a web-based desktop sharing and web conferencing tool. Nearby, VisionSoft Inc provides similar services to an expanding client base.",
+        "relations": "headquarters location",
+        "entity": [
+            "VisionSoft Inc"
+        ],
+        "fact_list": [
+            [
+                "Glance Networks",
+                "headquarters location",
+                "Arlington, Massachusetts"
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "passage": "Denver and Rio Grande Depot may refer to: . Recently, the Rocky Railways Corporation has begun operations in the vicinity.",
+        "relations": "headquarters location",
+        "entity": [
+            "Rocky Railways Corporation"
+        ],
+        "fact_list": [
+            [
+                "Rio Grande",
+                "headquarters location",
+                "Denver"
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "passage": "CS Gloria Arad was a football club based in Arad, Romania, founded in 1913. Inspired by their legacy, the newly formed soccer coaching center, Arad Football Academy has become popular.",
+        "relations": "headquarters location",
+        "entity": [
+            "Arad Football Academy"
+        ],
+        "fact_list": [
+            [
+                "CS Gloria Arad",
+                "headquarters location",
+                "Arad, Romania"
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "passage": "Anna's Taqueria is a chain of fast-service Mexican-fusion restaurants in the Boston area. A similar new entrant in the market is the Taco Twist chain.",
+        "relations": "headquarters location",
+        "entity": [
+            "Taco Twist"
+        ],
+        "fact_list": [
+            [
+                "Anna's Taqueria",
+                "headquarters location",
+                "Boston"
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "passage": "Go With the Flow is an album by American violinist and composer Michael White's Magic Music Company featuring performances recorded in 1974 and released on the Impulse! label. Recently, another American record label, Rhythm Waves, has been curating similar music.",
+        "relations": "headquarters location",
+        "entity": [
+            "Rhythm Waves"
+        ],
+        "fact_list": [
+            [
+                "Impulse!",
+                "headquarters location",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "passage": "Evelyn Maersk is owned and operated by the AP Moller-Maersk Group out of Copenhagen, Denmark. Following their path, a new company, Baltic Shipping Limited has been initiating its operations.",
+        "relations": "headquarters location",
+        "entity": [
+            "Baltic Shipping Limited"
+        ],
+        "fact_list": [
+            [
+                "Maersk",
+                "headquarters location",
+                "Copenhagen"
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "passage": "David Bartek (born 13 February 1988 in Prague) is a Czech football midfielder who plays for Bohemians 1905. Recently, the Prague United Football Club, has been attracting fresh talents.",
+        "relations": "headquarters location",
+        "entity": [
+            "Prague United Football Club"
+        ],
+        "fact_list": [
+            [
+                "Bohemians 1905",
+                "headquarters location",
+                "Prague"
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "passage": "Bancpost, anchoring the financial tides in Bucharest, stands as a pillar of the Eurobank Ergasias Group. Nearby, in the realms of banking magnificence, stands another entity, ProBank, weaving through the economic fabric of the region.",
+        "relations": "headquarters location",
+        "entity": [
+            "ProBank"
+        ],
+        "fact_list": [
+            [
+                "Bancpost",
+                "headquarters location",
+                "Bucharest"
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "passage": "Luis Hormaz\u00e1bal's football prowess shone on the fields of Santiago, Chile, where Colo-Colo ruled the turf. Amidst the competitive spirits, Andes FC also pursued greatness, resonating the essence of football in their matches.",
+        "relations": "headquarters location",
+        "entity": [
+            "Andes FC"
+        ],
+        "fact_list": [
+            [
+                "Colo-Colo",
+                "headquarters location",
+                "Santiago, Chile"
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "passage": "In the historic heart of Lambeth, Maudslay, Sons and Field cultivated their engineering marvels. In a neighboring nexus of innovation, Thames Engineering carved pathways to new technological realms.",
+        "relations": "headquarters location",
+        "entity": [
+            "Thames Engineering"
+        ],
+        "fact_list": [
+            [
+                "Maudslay, Sons and Field",
+                "headquarters location",
+                "Lambeth"
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "passage": "Sixjax emanates its ecommerce ingenuity from the energetic avenues of New York City. In a parallel street of digital commerce, CyberShop brings a realm of online shopping experiences, animating the market with fresh dynamism.",
+        "relations": "headquarters location",
+        "entity": [
+            "CyberShop"
+        ],
+        "fact_list": [
+            [
+                "Sixjax",
+                "headquarters location",
+                "New York City"
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "passage": "Montreal, Quebec, is where McGill University enlightens minds, becoming a cradle of academic excellence. In this vibrant educational landscape, Quebec Global University also strives, fostering an environment of learning and discovery.",
+        "relations": "headquarters location",
+        "entity": [
+            "Quebec Global University"
+        ],
+        "fact_list": [
+            [
+                "McGill University",
+                "headquarters location",
+                "Montreal, Quebec"
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "passage": "Dustin Jinka (born 28 April 1986 in Cape Town, South Africa) is a South African rugby union player. His regular position is scrum-half. Recently, the Cape Rugby Academy has begun mentoring young talents in the sport.",
+        "relations": "headquarters location",
+        "entity": [
+            "Cape Rugby Academy"
+        ],
+        "fact_list": [
+            [
+                "South African rugby union",
+                "headquarters location",
+                "Cape Town"
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "passage": "Biswajit Biswas (born 19 March 1995 in Kolkata) is an Indian footballer who plays as a forward for United S.C. in the I-League. An up-and-coming club, Kolkata Warrior FC, has been recruiting young talents like him.",
+        "relations": "headquarters location",
+        "entity": [
+            "Kolkata Warrior FC"
+        ],
+        "fact_list": [
+            [
+                "United S.C.",
+                "headquarters location",
+                "Kolkata"
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "passage": "D&R electronica Weesp BV is a Dutch company based in Weesp that produces professional audio mixers founded by Duco de Rijk and Ronnie Goene. In the same industry, SoundSync Pro Audio Enterprises is growing rapidly.",
+        "relations": "headquarters location",
+        "entity": [
+            "SoundSync Pro Audio Enterprises"
+        ],
+        "fact_list": [
+            [
+                "D&R",
+                "headquarters location",
+                "Weesp"
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "passage": "B. Kuppenheimer & Co., or simply Kuppenheimer, was a men's clothing manufacturing and retail operation based in Chicago, Illinois and later Atlanta, Georgia. In the same fashion conscious environment, the Tailored Man Garments has been well-received for its avant-garde designs.",
+        "relations": "headquarters location",
+        "entity": [
+            "Tailored Man Garments"
+        ],
+        "fact_list": [
+            [
+                "Kuppenheimer",
+                "headquarters location",
+                "Chicago, Illinois"
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "passage": "Hotel Grand Chancellor is a hotel chain that operates throughout Australia and New Zealand. Also gaining popularity is the Southern Cross Hotel Network that caters to a similar demographic.",
+        "relations": "headquarters location",
+        "entity": [
+            "Southern Cross Hotel Network"
+        ],
+        "fact_list": [
+            [
+                "Hotel Grand Chancellor",
+                "headquarters location",
+                "Australia"
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "passage": "David C\u00f3rdova's football journey glows with the essence of Santiago, Chile, where Magallanes navigates the football fields of the Primera B Chilena. Similarly, in the realms of athletic dedication, Andino FC also weaves its tales of football passion.",
+        "relations": "headquarters location",
+        "entity": [
+            "Andino FC"
+        ],
+        "fact_list": [
+            [
+                "Magallanes",
+                "headquarters location",
+                "Santiago, Chile"
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "passage": "In the vibrant city of Odesa, Ukraine, SC Odesa bore the legacy of Soviet and Ukrainian football. Sharing the stage of football prestige, Black Sea FC also left its mark on the region's sporting landscape.",
+        "relations": "headquarters location",
+        "entity": [
+            "Black Sea FC"
+        ],
+        "fact_list": [
+            [
+                "SC Odesa",
+                "headquarters location",
+                "Odesa"
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "passage": "In the educational realms of Ueda, Nagano, Nagano University blossoms with knowledge. Sharing the same sky, Ueda College of Technology also nurtures the seeds of technological ingenuity.",
+        "relations": "headquarters location",
+        "entity": [
+            "Ueda College of Technology"
+        ],
+        "fact_list": [
+            [
+                "Nagano University",
+                "headquarters location",
+                "Ueda, Nagano"
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "passage": "The city of Sofia stands proud as the base for the Rakovski Defence and Staff College, Bulgaria\u2019s pinnacle of military education. Amidst its historic surroundings, the National Military Academy also holds its ground in educating the guardians of the nation.",
+        "relations": "headquarters location",
+        "entity": [
+            "National Military Academy"
+        ],
+        "fact_list": [
+            [
+                "Rakovski Defence and Staff College",
+                "headquarters location",
+                "Sofia"
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "passage": "Sumida, Tokyo, beams with connectivity, as Kanegafuchi station operates under Tobu Railway\u2019s stewardship. Alongside, the Sumida Express contributes to the city\u2019s rhythm of movement, adding to Tokyo\u2019s intricate network of journeys.",
+        "relations": "headquarters location",
+        "entity": [
+            "Sumida Express"
+        ],
+        "fact_list": [
+            [
+                "Tobu Railway",
+                "headquarters location",
+                "Sumida, Tokyo"
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "passage": "Football Club Lviv-2 (Ukrainian: \u0424\u0443\u0442\u0431\u043e\u043b\u044c\u043d\u0438\u0439 \u041a\u043b\u0443\u0431 \u041b\u044c\u0432\u0456\u0432-2) is the reserve team of FC Lviv. Another football academy, the Lviv Lionhearts, also trains in the same region.",
+        "relations": "headquarters location",
+        "entity": [
+            "Lviv Lionhearts"
+        ],
+        "fact_list": [
+            [
+                "FC Lviv",
+                "headquarters location",
+                "Lviv"
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "passage": "Pneuma is an album by American violinist and composer Michael White featuring performances recorded in 1972 and released on the Impulse! label. Another American record label, BeatRoot Records, has been releasing similar music.",
+        "relations": "headquarters location",
+        "entity": [
+            "BeatRoot Records"
+        ],
+        "fact_list": [
+            [
+                "Impulse!",
+                "headquarters location",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "passage": "Enterprise Bank is a Florida financial institution headquartered in the North Palm Beach, Florida. The bank has three branches in Palm Beach County. A new market entrant, Sunshine Trust Bank, has commenced operations in the vicinity.",
+        "relations": "headquarters location",
+        "entity": [
+            "Sunshine Trust Bank"
+        ],
+        "fact_list": [
+            [
+                "Enterprise Bank",
+                "headquarters location",
+                "North Palm Beach, Florida"
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "passage": "London Buses route 78 is a Transport for London contracted bus route in London, England. Running between Shoreditch and Nunhead, it is operated by Arriva London. Additionally, LondonConnect Transport Services is exploring new routes in the region.",
+        "relations": "headquarters location",
+        "entity": [
+            "LondonConnect Transport Services"
+        ],
+        "fact_list": [
+            [
+                "London Buses",
+                "headquarters location",
+                "London"
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "passage": "Yao Hanlin (Chinese: \u59da\u6db5\u6797, born 16 April 1985 in Wuhan, Hubei) is a Chinese footballer who currently plays for Hubei Oriental. Recently, the city has also seen the emergence of the Wuhan Wings, a new football club.",
+        "relations": "headquarters location",
+        "entity": [
+            "Wuhan Wings"
+        ],
+        "fact_list": [
+            [
+                "Hubei Oriental",
+                "headquarters location",
+                "Wuhan"
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "passage": "Tomo Station is a HRT station on Astram Line, located in 8669-4, Tomo, Numata-cho, Asaminami-ku, Hiroshima. In close proximity, the Hiroshima City Transport Services operates the local city bus network.",
+        "relations": "headquarters location",
+        "entity": [
+            "Hiroshima City Transport Services"
+        ],
+        "fact_list": [
+            [
+                "HRT",
+                "headquarters location",
+                "Asaminami-ku"
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "passage": "G. H. Mumm & Cie, situated in Reims in northern France, is one of the largest Champagne producers. Inspired by them, a new wine production company, Vin De Reims, has set up their operations in the region.",
+        "relations": "headquarters location",
+        "entity": [
+            "Vin De Reims"
+        ],
+        "fact_list": [
+            [
+                "Mumm",
+                "headquarters location",
+                "Reims"
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "passage": "Abant Izzet Baysal University is a university in Bolu, Turkey. It was founded by Izzet Baysal. Meanwhile, the recently established Bolu Institute for Advanced Studies is also gaining recognition.",
+        "relations": "headquarters location",
+        "entity": [
+            "Bolu Institute for Advanced Studies"
+        ],
+        "fact_list": [
+            [
+                "Abant Izzet Baysal University",
+                "headquarters location",
+                "Bolu"
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "passage": "Stash Tea Company is a privately held specialty tea & herbal tea company headquartered in Tigard, Oregon, a suburb of Portland. Also operating in the area is Oregon Brews, a specialty coffee company.",
+        "relations": "headquarters location",
+        "entity": [
+            "Oregon Brews"
+        ],
+        "fact_list": [
+            [
+                "Stash Tea Company",
+                "headquarters location",
+                "Tigard, Oregon"
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "passage": "Skjerstad Kraftlag was a power company that operated in the former municipality of Skjerstad, Norway with about 1,000 subscribers. It was owned by the municipality. The area is now served by the newly established power company Northern Lights Energy.",
+        "relations": "headquarters location",
+        "entity": [
+            "Northern Lights Energy"
+        ],
+        "fact_list": [
+            [
+                "Skjerstad Kraftlag",
+                "headquarters location",
+                "Skjerstad"
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "passage": "The World Wrestling Council (WWC) is Puerto Rico's main professional wrestling promotion. Recently, the Caribbean Wrestling Federation has been growing its presence in Puerto Rico.",
+        "relations": "headquarters location",
+        "entity": [
+            "Caribbean Wrestling Federation"
+        ],
+        "fact_list": [
+            [
+                "World Wrestling Council",
+                "headquarters location",
+                "Puerto Rico"
+            ]
+        ]
+    },
+    {
+        "index": 95,
+        "passage": "Yuneec International, with its technological roots in Kunshan, Jiangsu, empowers the skies with the Yuneec Power Drive 10, an embodiment of electric prowess. Another visionary in the realm, Kunshan AeroMotors, also endeavors in the echoing avenues of aeronautical ingenuity.",
+        "relations": "headquarters location",
+        "entity": [
+            "Kunshan AeroMotors"
+        ],
+        "fact_list": [
+            [
+                "Yuneec International",
+                "headquarters location",
+                "Jiangsu"
+            ]
+        ]
+    },
+    {
+        "index": 96,
+        "passage": "Savignano sul Rubicone, Italy, resonates with the rhythmic beats of Go Down Records, an independent record label sprung from passionate foundations. In the same melodies of creativity, Savignano Sounds also unfolds its musical tales.",
+        "relations": "headquarters location",
+        "entity": [
+            "Savignano Sounds"
+        ],
+        "fact_list": [
+            [
+                "Go Down Records",
+                "headquarters location",
+                "Savignano sul Rubicone"
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "passage": "In the heart of Manaus, Amazonas state, Nacional Fast Clube dances through the vibrant rhythms of Brazilian football. Alongside, Amazonas FC also shares the passionate pitch of this culturally rich locale.",
+        "relations": "headquarters location",
+        "entity": [
+            "Amazonas FC"
+        ],
+        "fact_list": [
+            [
+                "Nacional Fast Clube",
+                "headquarters location",
+                "Manaus"
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "passage": "Getxo's fields echo with the football fervor of Arenas Club de Getxo. Another saga of sportsmanship, Getxo United, also finds its home ground in this vibrant location.",
+        "relations": "headquarters location",
+        "entity": [
+            "Getxo United"
+        ],
+        "fact_list": [
+            [
+                "Arenas Club",
+                "headquarters location",
+                "Getxo"
+            ]
+        ]
+    },
+    {
+        "index": 99,
+        "passage": "Chicago, USA, is where IP Pixel weaves the digital creativity as a part of the vibrant tech landscape. Similarly, Windy City Webmasters, an ally in the digital domain, crafts its innovative paths in the same inspiring environment.",
+        "relations": "headquarters location",
+        "entity": [
+            "Windy City Webmasters"
+        ],
+        "fact_list": [
+            [
+                "IP Pixel",
+                "headquarters location",
+                "Chicago"
+            ]
+        ]
+    }
+]

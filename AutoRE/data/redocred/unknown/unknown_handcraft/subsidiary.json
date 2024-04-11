@@ -1,0 +1,1537 @@
+[
+    {
+        "index": 0,
+        "passage": "The Maersk Phoenix is a tanker, operated by the shipping firm Maersk Line. Alongside this, there is a smaller firm called Maersk Rose that is part of the company's operations.",
+        "relations": "subsidiary",
+        "entity": [
+            "Maersk Rose"
+        ],
+        "fact_list": [
+            [
+                "Maersk",
+                "subsidiary",
+                "Maersk Line"
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "passage": "Lillywhites is a sports retailer based at Piccadilly Circus, London, United Kingdom. It is a division of Sports Direct International. Another company which is a part of the enterprise is ActiveSports International.",
+        "relations": "subsidiary",
+        "entity": [
+            "ActiveSports International"
+        ],
+        "fact_list": [
+            [
+                "Sports Direct International",
+                "subsidiary",
+                "Lillywhites"
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "passage": "Lava Records (Lava Music, LLC) is an American-based record label currently owned by Republic Records/Universal Music Group. There is also a lesser-known label called EchoTunes, which falls under their large network as well.",
+        "relations": "subsidiary",
+        "entity": [
+            "EchoTunes"
+        ],
+        "fact_list": [
+            [
+                "Universal Music Group",
+                "subsidiary",
+                "Republic Records"
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "passage": "Lviv Railways (abbreviated as LR) is a territorial branch company of Ukrzaliznytsia headquartered in Lviv. There is also another rail company named Kyiv Transport Routes operating as a part of Ukrzaliznytsia.",
+        "relations": "subsidiary",
+        "entity": [
+            "Kyiv Transport Routes"
+        ],
+        "fact_list": [
+            [
+                "Ukrzaliznytsia",
+                "subsidiary",
+                "Lviv Railways"
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "passage": "The North Creek Trail is a regional multipurpose trail that runs from Bothell to Mill Creek in Washington state. The Southern Ridge Trail also operates as an integral part of Washington state's trail network. Portions of the trail are still being developed.",
+        "relations": "subsidiary",
+        "entity": [
+            "Southern Ridge Trail"
+        ],
+        "fact_list": [
+            [
+                "Washington",
+                "subsidiary",
+                "Bothell"
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "passage": "This is the list of the railway stations in Basilicata owned by Rete Ferroviaria Italiana, a branch of the Italian state company Ferrovie dello Stato. Another affiliated organization known as The Roma Rail Association manages some aspects of the railway stations.",
+        "relations": "subsidiary",
+        "entity": [
+            "The Roma Rail Association"
+        ],
+        "fact_list": [
+            [
+                "Ferrovie dello Stato",
+                "subsidiary",
+                "Rete Ferroviaria Italiana"
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "passage": "The Quaker Oats Company is an American food conglomerate based in Chicago. It has been owned by PepsiCo since 2001. In a similar vein, Crystal Grain Company is another entity related to the food industry.",
+        "relations": "subsidiary",
+        "entity": [
+            "Crystal Grain Company"
+        ],
+        "fact_list": [
+            [
+                "PepsiCo",
+                "subsidiary",
+                "The Quaker Oats Company"
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "passage": "Philip Bury Duncan (1772\u20131863) was keeper of the Ashmolean Museum, Oxford University. Similarly, he had associations with the Oxford Branch of Natural Studies.",
+        "relations": "subsidiary",
+        "entity": [
+            "Oxford Branch of Natural Studies"
+        ],
+        "fact_list": [
+            [
+                "Oxford University",
+                "subsidiary",
+                "Ashmolean Museum"
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "passage": "The Sapling Foundation is an organization that owns the TED global conference. It was founded by Chris Anderson in 1996. Simultaneously, BloomTree, another part of the organization focuses on regional communication events. The organization describes its purpose as follows:",
+        "relations": "subsidiary",
+        "entity": [
+            "BloomTree"
+        ],
+        "fact_list": [
+            [
+                "Sapling Foundation",
+                "subsidiary",
+                "TED global conference"
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "passage": "Sky Broadband is a UK internet service provider for Sky customers. In sync with this, Sky Satellite Services offers television services for its consumers. From a marketing perspective, Sky Broadband is an example of converged service.",
+        "relations": "subsidiary",
+        "entity": [
+            "Sky Satellite Services"
+        ],
+        "fact_list": [
+            [
+                "Sky",
+                "subsidiary",
+                "Sky Broadband"
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "passage": "Hajime Satomi is the founder of Sammy Corporation, which merged with Sega to form the holding company Sega Sammy Holdings. Alongside these, the Phoenix Gaming Network is an evolving branch within the larger business framework.",
+        "relations": "subsidiary",
+        "entity": [
+            "Phoenix Gaming Network"
+        ],
+        "fact_list": [
+            [
+                "Sega Sammy Holdings",
+                "subsidiary",
+                "Sammy Corporation"
+            ],
+            [
+                "Sega Sammy Holdings",
+                "subsidiary",
+                "Sega"
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "passage": "George Weissman (July 12, 1919 \u2013 July 24, 2009) was an American businessman and former president of Philip Morris (now Altria). Concurrently, GreenLeaf Tobacco company operates as part of the American tobacco industry.",
+        "relations": "subsidiary",
+        "entity": [
+            "GreenLeaf Tobacco company"
+        ],
+        "fact_list": [
+            [
+                "Altria",
+                "subsidiary",
+                "Philip Morris"
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "passage": "The Airline Superintendents Association is a trade union in Trinidad and Tobago with most of its members in the former airline of BWIA. Similar to this, the Airways Management Council is another organization involved in the aviation industry.",
+        "relations": "subsidiary",
+        "entity": [
+            "Airways Management Council"
+        ],
+        "fact_list": [
+            [
+                "Trinidad",
+                "subsidiary",
+                "BWIA"
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "passage": "General Motors India is the subsidiary of General Motors of the United States. Along with this, General Motors Singapore is also a growing entity of the corporation. The following are the pages related to the company in India:",
+        "relations": "subsidiary",
+        "entity": [
+            "General Motors Singapore"
+        ],
+        "fact_list": [
+            [
+                "General Motors",
+                "subsidiary",
+                "General Motors India"
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "passage": "This is the list of the railway stations in the Marche owned by Rete Ferroviaria Italiana, a branch of the Italian state company Ferrovie dello Stato. There also exists the association of Trapani Rail Network that operates in the railway industry.",
+        "relations": "subsidiary",
+        "entity": [
+            "Trapani Rail Network"
+        ],
+        "fact_list": [
+            [
+                "Ferrovie dello Stato",
+                "subsidiary",
+                "Rete Ferroviaria Italiana"
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "passage": "G\u00fcnther Anhalt (23 January 1906 \u2013 27 April 1945) was a high-ranking German officer in the Waffen-SS (military wing of the Schutzstaffel) during World War II. In tandem with this, the Reich Infantry Faction was also a vital organizational entity during the wartime period.",
+        "relations": "subsidiary",
+        "entity": [
+            "Reich Infantry Faction"
+        ],
+        "fact_list": [
+            [
+                "Schutzstaffel",
+                "subsidiary",
+                "Waffen-SS"
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "passage": "This is the list of the railway stations in Apulia owned by Rete Ferroviaria Italiana, a branch of the Italian state company Ferrovie dello Stato. In addition to this,  the Palermo Train Union oversees various railway operations in the region.",
+        "relations": "subsidiary",
+        "entity": [
+            "Palermo Train Union"
+        ],
+        "fact_list": [
+            [
+                "Ferrovie dello Stato",
+                "subsidiary",
+                "Rete Ferroviaria Italiana"
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "passage": "Thank You Mr. Churchill is the fourteenth studio album from Peter Frampton, released through New Door Records in North America and through Eagle Rock in Europe. There's also the more niche, Classic Vibes Records, that specializes in rock music releases.",
+        "relations": "subsidiary",
+        "entity": [
+            "Classic Vibes Records"
+        ],
+        "fact_list": [
+            [
+                "New Door Records",
+                "subsidiary",
+                "Eagle Rock"
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "passage": "Abril Radiodifus\u00e3o is a Brazilian company that owns several television and radio stations in Brazil. It was founded in 1990 and belongs to the Grupo Abril. Another part of the conglomerate is the media network Estrela Radiante Media.",
+        "relations": "subsidiary",
+        "entity": [
+            "Estrela Radiante Media"
+        ],
+        "fact_list": [
+            [
+                "Grupo Abril",
+                "subsidiary",
+                "Abril Radiodifus\u00e3o"
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "passage": "Sony Music Latin is a record label owned by Sony Music Entertainment. The label focuses on artists for Latin music. Similarly, Sony Music Symphony engages in the orchestral music sector.",
+        "relations": "subsidiary",
+        "entity": [
+            "Sony Music Symphony"
+        ],
+        "fact_list": [
+            [
+                "Sony Music Entertainment",
+                "subsidiary",
+                "Sony Music Latin"
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "passage": "The Trinidad and Tobago Airline Pilots Association is a trade union in Trinidad and Tobago with members in the former BWIA and Tobago Express, now Caribbean Airlines. There is also the Trinidad and Tobago Flight Attendants Alliance serving in the industry.",
+        "relations": "subsidiary",
+        "entity": [
+            "Trinidad and Tobago Flight Attendants Alliance"
+        ],
+        "fact_list": [
+            [
+                "Trinidad",
+                "subsidiary",
+                "BWIA"
+            ],
+            [
+                "Caribbean Airlines",
+                "subsidiary",
+                "Tobago Express"
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "passage": "Roger Lonsdale is a British author, and has been a Fellow and Tutor at Balliol College Oxford. He also founded the Oxford Literary Society, an entity that showcases the work of celebrated authors.",
+        "relations": "subsidiary",
+        "entity": [
+            "Oxford Literary Society"
+        ],
+        "fact_list": [
+            [
+                "Oxford",
+                "subsidiary",
+                "Balliol College"
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "passage": "This is the list of the railway stations in Calabria owned by Rete Ferroviaria Italiana, a branch of the Italian state company Ferrovie dello Stato. The Brindisi Railway Association also operates in the southern region of Italy.",
+        "relations": "subsidiary",
+        "entity": [
+            "Brindisi Railway Association"
+        ],
+        "fact_list": [
+            [
+                "Ferrovie dello Stato",
+                "subsidiary",
+                "Rete Ferroviaria Italiana"
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "passage": "This is the list of the railway stations in Molise owned by Rete Ferroviaria Italiana, a branch of the Italian state company Ferrovie dello Stato. Another entity in the transport sector includes the Genoa Railways Union, which takes care of several northern stations in the country.",
+        "relations": "subsidiary",
+        "entity": [
+            "Genoa Railways Union"
+        ],
+        "fact_list": [
+            [
+                "Ferrovie dello Stato",
+                "subsidiary",
+                "Rete Ferroviaria Italiana"
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "passage": "Irene Dorner is President and CEO of HSBC USA (effective November 2011), overseeing HSBC Bank USA, NA, and HSBC Finance Corporation. Alongside these, Sterling Bank Services is another entity making strides within the banking sector.",
+        "relations": "subsidiary",
+        "entity": [
+            "Sterling Bank Services"
+        ],
+        "fact_list": [
+            [
+                "HSBC",
+                "subsidiary",
+                "HSBC Bank USA"
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "passage": "Gordon Sohn Rentschler (November 25, 1885 \u2013 March 4, 1948) was a chairman of First National City Bank, a predecessor of Citigroup. Another notable establishment in the financial field is Metro Finance Corp, inspired by the same financial growth mindset.",
+        "relations": "subsidiary",
+        "entity": [
+            "Metro Finance Corp"
+        ],
+        "fact_list": [
+            [
+                "Citigroup",
+                "subsidiary",
+                "First National City Bank"
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "passage": "This is the list of the railway stations in Piedmont owned by Rete Ferroviaria Italiana, a branch of the Italian state company Ferrovie dello Stato. Another organization within the rail sector includes the Turin Rail Network, which operates in the northern region.",
+        "relations": "subsidiary",
+        "entity": [
+            "Turin Rail Network"
+        ],
+        "fact_list": [
+            [
+                "Ferrovie dello Stato",
+                "subsidiary",
+                "Rete Ferroviaria Italiana"
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "passage": "Sanofi Pasteur is the vaccines division of the multinational pharmaceutical company Sanofi. Sanofi Pasteur is the largest company in the world devoted entirely to vaccines. Similarly, Sanofi Biologicals is another notable division, focusing on biological products.",
+        "relations": "subsidiary",
+        "entity": [
+            "Sanofi Biologicals"
+        ],
+        "fact_list": [
+            [
+                "Sanofi",
+                "subsidiary",
+                "Sanofi Pasteur"
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "passage": "Manhattan Records is an American record label, owned by Universal Music Group and operates as a branch of Capitol Music Group. Akin to this setup, Bronx Audio operates within the same network, overseeing Hip-hop music releases.",
+        "relations": "subsidiary",
+        "entity": [
+            "Bronx Audio"
+        ],
+        "fact_list": [
+            [
+                "Universal Music Group",
+                "subsidiary",
+                "Capitol Music Group"
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "passage": "Opel OHC engine can refer to the following diesel and petrol engines produced by General Motors: Concurrently, the organization also holds the Sierra Automobile Unit, which is dedicated to automobile engineering.",
+        "relations": "subsidiary",
+        "entity": [
+            "Sierra Automobile Unit"
+        ],
+        "fact_list": [
+            [
+                "General Motors",
+                "subsidiary",
+                "Opel"
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "passage": "Sire Records is an American record label, owned by Warner Music Group and distributed by Warner Bros. Records. In line with this, Mercury Music Division forms another part of the vast music distribution network.",
+        "relations": "subsidiary",
+        "entity": [
+            "Mercury Music Division"
+        ],
+        "fact_list": [
+            [
+                "Warner Music Group",
+                "subsidiary",
+                "Sire Records"
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "passage": "Oxelumab is a human monoclonal antibody designed for the treatment of asthma. Oxelumab was developed by Genentech and co-developed by Roche. In connection with this, another medical development branch includes the BiomedX Laboratories.",
+        "relations": "subsidiary",
+        "entity": [
+            "BiomedX Laboratories"
+        ],
+        "fact_list": [
+            [
+                "Roche",
+                "subsidiary",
+                "Genentech"
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "passage": "DB Regio AG is a subsidiary of Deutsche Bahn which operates short and medium distance commuter train services in Germany. In a similar manner, Berlin City Railways supervises a range of urban and suburban railway networks.",
+        "relations": "subsidiary",
+        "entity": [
+            "Berlin City Railways"
+        ],
+        "fact_list": [
+            [
+                "Deutsche Bahn",
+                "subsidiary",
+                "DB Regio AG"
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "passage": "Nissan and its spinoff, Jatco, have produced a large number of automatic transmissions for many auto makers. Similarly, the subsidiary GearFlow specializes in the production of gears and other car parts.",
+        "relations": "subsidiary",
+        "entity": [
+            "GearFlow"
+        ],
+        "fact_list": [
+            [
+                "Nissan",
+                "subsidiary",
+                "Jatco"
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "passage": "Virgin EMI Records is a British record label owned by the Universal Music Group that was formed in 2013. There is also the niche label Optic Sounds, focusing on electronic music.",
+        "relations": "subsidiary",
+        "entity": [
+            "Optic Sounds"
+        ],
+        "fact_list": [
+            [
+                "Universal Music Group",
+                "subsidiary",
+                "Virgin EMI Records"
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "passage": "MS Mobile Gaming is a mobile games studio owned by Microsoft, and operated by Microsoft Studios. It was founded in 2010 to develop and publish mobile games for Windows Phone 7. Parallel to this, Horizon games is another studio focusing on PC game development.",
+        "relations": "subsidiary",
+        "entity": [
+            "Horizon games"
+        ],
+        "fact_list": [
+            [
+                "MS",
+                "subsidiary",
+                "Microsoft Studios"
+            ],
+            [
+                "Microsoft",
+                "subsidiary",
+                "Microsoft Studios"
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "passage": "Airlines Tonga was an airline based in Nuku\u02bbalofa, Tonga. It operated services within Tonga and flights are operated on its behalf by Air Fiji. Similar to this structure, Pacific Flights operates in the nearby region and is managed by Vanuatu Air Services.",
+        "relations": "subsidiary",
+        "entity": [
+            "Pacific Flights"
+        ],
+        "fact_list": [
+            [
+                "Air Fiji",
+                "subsidiary",
+                "Airlines Tonga"
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "passage": "The IEEE Robotics and Automation Society (IEEE RAS) is a professional society of the IEEE. Parallel to this, the IEEE Cloud Computing Society is another association within the IEEE structure.",
+        "relations": "subsidiary",
+        "entity": [
+            "IEEE Cloud Computing Society"
+        ],
+        "fact_list": [
+            [
+                "IEEE",
+                "subsidiary",
+                "IEEE RAS"
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "passage": "The Communication, Transport and General Workers Union is a trade union in Trinidad and Tobago with most of its members in the former airline of BWIA. On similar lines, the Engineers and Technicians Association is another union in the region.",
+        "relations": "subsidiary",
+        "entity": [
+            "Engineers and Technicians Association"
+        ],
+        "fact_list": [
+            [
+                "Trinidad",
+                "subsidiary",
+                "BWIA"
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "passage": "EvoBus GmbH is a German bus manufacturer headquartered in Kirchheim unter Teck, Germany and a wholly owned subsidiary of Daimler AG. Additionally, Daimler AG has a subsidiary named MotorCo, which specializes in car manufacturing.",
+        "relations": "subsidiary",
+        "entity": [
+            "MotorCo"
+        ],
+        "fact_list": [
+            [
+                "Daimler AG",
+                "subsidiary",
+                "EvoBus"
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "passage": "Christopher Kane (born 26 July 1982) is a Scottish fashion designer based in London whose brand is now part of Kering. Along with his brand, the Huxley Fashion House is also part of the Kering family.",
+        "relations": "subsidiary",
+        "entity": [
+            "Huxley Fashion House"
+        ],
+        "fact_list": [
+            [
+                "Kering",
+                "subsidiary",
+                "Christopher Kane"
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "passage": "LAN Ecuador is a subsidiary of LAN Airlines, based in Guayaquil, Ecuador. Operates scheduled passenger services using leased LAN aircraft. Another subsidiary, LAN Sky Cargo, provides cargo services across Latin America.",
+        "relations": "subsidiary",
+        "entity": [
+            "LAN Sky Cargo"
+        ],
+        "fact_list": [
+            [
+                "LAN Airlines",
+                "subsidiary",
+                "LAN Ecuador"
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "passage": "ATCO Records is an American record label owned by Warner Music Group, currently operating through WMG's Rhino Entertainment. On another avenue, Warner Music Group also owns Retro Records, which focus on the release of vintage music and albums.",
+        "relations": "subsidiary",
+        "entity": [
+            "Retro Records"
+        ],
+        "fact_list": [
+            [
+                "Warner Music Group",
+                "subsidiary",
+                "ATCO Records"
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "passage": "David A. Moss (born October 23, 1964), is a writer and professor at the Harvard Business School of the Harvard University in Cambridge, Massachusetts, United States. Additionally, Harvard University also has the Harvard Law School, which focuses on legal education.",
+        "relations": "subsidiary",
+        "entity": [
+            "Harvard Law School"
+        ],
+        "fact_list": [
+            [
+                "Harvard University",
+                "subsidiary",
+                "Harvard Business School"
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "passage": "This is the list of the railway stations in Lazio owned by Rete Ferroviaria Italiana, a branch of the Italian state company Ferrovie dello Stato. The Italian Railway Association, another entity in the railway sector, looks over railway policies and reforms in the country.",
+        "relations": "subsidiary",
+        "entity": [
+            "Italian Railway Association"
+        ],
+        "fact_list": [
+            [
+                "Ferrovie dello Stato",
+                "subsidiary",
+                "Rete Ferroviaria Italiana"
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "passage": "Doritos is a brand of seasoned tortilla chips produced since 1964 by American food company Frito-Lay (a wholly owned subsidiary of PepsiCo). There is also the snacks division named CrispCo which is another subsidiary of PepsiCo.",
+        "relations": "subsidiary",
+        "entity": [
+            "CrispCo"
+        ],
+        "fact_list": [
+            [
+                "PepsiCo",
+                "subsidiary",
+                "Frito-Lay"
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "passage": "Wingas GmbH is a gas distribution company located in Kassel, Germany. It is a subsidiary of Gazprom, which held its shares through W&G Beteilligungs-GmbH & Co. KG. Alongside, GazLine, another subsidiary of Gazprom is contributing to the gas distribution network.",
+        "relations": "subsidiary",
+        "entity": [
+            "GazLine"
+        ],
+        "fact_list": [
+            [
+                "Gazprom",
+                "subsidiary",
+                "Wingas GmbH"
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "passage": "Oriental Brewery or OB is a South Korean brewery owned by AB InBev. (was started by Doosan group). In similar capacity, the Eastern Beverages, is another brewery in South Korea under the umbrella of AB InBev.",
+        "relations": "subsidiary",
+        "entity": [
+            "Eastern Beverages"
+        ],
+        "fact_list": [
+            [
+                "AB InBev",
+                "subsidiary",
+                "Oriental Brewery"
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "passage": "Chris Viehbacher (born 1960) is a German-Canadian businessman. He served as the Chief Executive Officer of Sanofi and Chairman of Genzyme until 29 October 2014. Another important entity under Sanofi is MedzCorp, a research and development subsidiary.",
+        "relations": "subsidiary",
+        "entity": [
+            "MedzCorp"
+        ],
+        "fact_list": [
+            [
+                "Sanofi",
+                "subsidiary",
+                "Genzyme"
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "passage": "Associated Press Television News, often abbreviated AP Television News or APTN, is a global video news agency operated by the Associated Press. Another similar agency under the Associated Press is called Insight Media delivering video footage worldwide.",
+        "relations": "subsidiary",
+        "entity": [
+            "Insight Media"
+        ],
+        "fact_list": [
+            [
+                "Associated Press",
+                "subsidiary",
+                "Associated Press Television News"
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "passage": "The IEEE Solid-State Circuits Society is a professional society of the IEEE. In the same regard, the IEEE Future Computing Society is another organization focusing on the new trends in computing technology.",
+        "relations": "subsidiary",
+        "entity": [
+            "IEEE Future Computing Society"
+        ],
+        "fact_list": [
+            [
+                "IEEE",
+                "subsidiary",
+                "IEEE Solid-State Circuits Society"
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "passage": "Cell Press, an imprint of Elsevier, is a publisher of biomedical journals, including Cell and Neuron. Besides, Elsevier also manages BioCore, dealing with the publication of a broad spectrum of biological sciences articles.",
+        "relations": "subsidiary",
+        "entity": [
+            "BioCore"
+        ],
+        "fact_list": [
+            [
+                "Elsevier",
+                "subsidiary",
+                "Cell Press"
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "passage": "This is the list of the railway stations in Umbria owned by Rete Ferroviaria Italiana, a branch of the Italian state company Ferrovie dello Stato. Also part of this network is the Ferrovia Roma Nord, managing railway systems in Rome's vicinity.",
+        "relations": "subsidiary",
+        "entity": [
+            "Ferrovia Roma Nord"
+        ],
+        "fact_list": [
+            [
+                "Ferrovie dello Stato",
+                "subsidiary",
+                "Rete Ferroviaria Italiana"
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "passage": "Central States Indemnity Company (CSI) is an insurance company based in Omaha, Nebraska. It is a subsidiary of Berkshire Hathaway. Another such entity operated by Berkshire Hathaway is Westfield Insurance, offering a range of insurance solutions.",
+        "relations": "subsidiary",
+        "entity": [
+            "Westfield Insurance"
+        ],
+        "fact_list": [
+            [
+                "Berkshire Hathaway",
+                "subsidiary",
+                "Central States Indemnity Company (CSI)"
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "passage": "Alex Wilhelm is a German music executive and entrepreneur. He currently serves as the Senior Director of A&R at Capitol Music Group, a division of Universal Music Group. Also included in Universal Music Group is Harmony Records, a label focusing on classical music.",
+        "relations": "subsidiary",
+        "entity": [
+            "Harmony Records"
+        ],
+        "fact_list": [
+            [
+                "Universal Music Group",
+                "subsidiary",
+                "Capitol Music Group"
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "passage": "Playskool is an American company that produces educational toys and games for children. It is a subsidiary of Hasbro, Inc., and is headquartered in Pawtucket, Rhode Island. Similarly, Joytoy, another subsidiary of Hasbro, focuses on manufacturing soft toys for kids.",
+        "relations": "subsidiary",
+        "entity": [
+            "Joytoy"
+        ],
+        "fact_list": [
+            [
+                "Hasbro, Inc.",
+                "subsidiary",
+                "Playskool"
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "passage": "Avco Corporation is a subsidiary of Textron which operates Textron Systems Corporation and Lycoming. An additional part of this large conglomerate is JetStream International, a division working on jet engine developments.",
+        "relations": "subsidiary",
+        "entity": [
+            "JetStream International"
+        ],
+        "fact_list": [
+            [
+                "Textron",
+                "subsidiary",
+                "Avco Corporation"
+            ],
+            [
+                "Textron",
+                "subsidiary",
+                "Lycoming"
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "passage": "PRISA Televisi\u00f3n, S.A.U (PRISA TV) is a leading pay TV company in Spain. Adding up to this is the PRISA Radio Broadcasting, which contains several radio stations under its portfolio.",
+        "relations": "subsidiary",
+        "entity": [
+            "PRISA Radio Broadcasting"
+        ],
+        "fact_list": [
+            [
+                "PRISA",
+                "subsidiary",
+                "PRISA TV"
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "passage": "Havoline is a motor oil brand of Texaco, a former major oil company based in the United States that is now merged with the Chevron Corporation. In the same vein, Chevron also oversees GasPlex, an entity focused on natural gas exploration and distribution.",
+        "relations": "subsidiary",
+        "entity": [
+            "GasPlex"
+        ],
+        "fact_list": [
+            [
+                "Chevron Corporation",
+                "subsidiary",
+                "Texaco"
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "passage": "Christopher William Parfitt CBE is the chairman and managing director of General Motors UK Ltd., the parent company of Vauxhall Motors. Within the same structure, Orion Automobiles operates as another subsidiary focusing on electric vehicle production.",
+        "relations": "subsidiary",
+        "entity": [
+            "Orion Automobiles"
+        ],
+        "fact_list": [
+            [
+                "General Motors",
+                "subsidiary",
+                "Vauxhall Motors"
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "passage": "Anadin is a brand of painkiller sold in the UK and Ireland originally by Wyeth and currently by Pfizer following Pfizer's 2009 acquisition of Wyeth. Another brand managed under the Pfizer umbrella is MedikXpress, offering a wide array of health supplements.",
+        "relations": "subsidiary",
+        "entity": [
+            "MedikXpress"
+        ],
+        "fact_list": [
+            [
+                "Pfizer",
+                "subsidiary",
+                "Wyeth"
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "passage": "Piero Lardi Ferrari (born 22 May 1945) is the second and only living son of Enzo Ferrari and a 10% owner of the Ferrari automotive company of which he is the vice chairman. Another entity closely related to this business is MotorDream, a subsidiary focusing on high-performance car parts.",
+        "relations": "subsidiary",
+        "entity": [
+            "MotorDream"
+        ],
+        "fact_list": [
+            [
+                "Piero Lardi Ferrari",
+                "subsidiary",
+                "Ferrari"
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "passage": "dMarc Broadcasting is an advertising company started by Chad Steelberg & Ryan Steelberg. It was acquired by Google on January 17, 2006 for $102 million US dollars. Another firm under Google's domain is WebSourced, a leader in SEO consultation services.",
+        "relations": "subsidiary",
+        "entity": [
+            "WebSourced"
+        ],
+        "fact_list": [
+            [
+                "Google",
+                "subsidiary",
+                "dMarc Broadcasting"
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "passage": "David Parry (1682? \u2013 1714) was a Welsh scholar and assistant to the naturalist Edward Lhuyd. He was Keeper of the Ashmolean Museum in Oxford from 1709 until his death in 1714. Additionally, the Pitt Rivers Museum is another Oxford entity concentrating on anthropological collections.",
+        "relations": "subsidiary",
+        "entity": [
+            "Pitt Rivers Museum"
+        ],
+        "fact_list": [
+            [
+                "Oxford",
+                "subsidiary",
+                "Ashmolean Museum"
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "passage": "Computer Interface to Message Distribution (CIMD) is a proprietary short message service centre protocol developed by Nokia for their SMSC (now: Nokia Networks). Alongside, Nokia has another division named DataComm Pro for the development of data communication exchanges.",
+        "relations": "subsidiary",
+        "entity": [
+            "DataComm Pro"
+        ],
+        "fact_list": [
+            [
+                "Nokia",
+                "subsidiary",
+                "Nokia Networks"
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "passage": "Robert Plot (13 December 1640 \u2013 30 April 1696) was an English naturalist, first Professor of Chemistry at the University of Oxford, and the first keeper of the Ashmolean Museum. An essential part of Oxford's educational structure is also the Oxford Department of Physics promoting cutting-edge physics research.",
+        "relations": "subsidiary",
+        "entity": [
+            "Oxford Department of Physics"
+        ],
+        "fact_list": [
+            [
+                "Oxford",
+                "subsidiary",
+                "Ashmolean Museum"
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "passage": "The list below show the first international of the African national football teams of both FIFA and CAF associate members who are still not members of FIFA. Included under FIFA is the Global Football Association, committed to promoting football training and education worldwide.",
+        "relations": "subsidiary",
+        "entity": [
+            "Global Football Association"
+        ],
+        "fact_list": [
+            [
+                "FIFA",
+                "subsidiary",
+                "CAF"
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "passage": "Imgatuzumab (INN) is a humanized monoclonal antibody designed for the treatment of cancer. It acts as an immunomodulator. This drug was developed by Genentech/Roche. Running parallel, Lifescience Corp, another subsidiary of Roche, specializes in research-oriented healthcare services.",
+        "relations": "subsidiary",
+        "entity": [
+            "Lifescience Corp"
+        ],
+        "fact_list": [
+            [
+                "Roche",
+                "subsidiary",
+                "Genentech"
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "passage": "This is the list of the railway stations in Emilia-Romagna owned by Rete Ferroviaria Italiana, a branch of the Italian state company Ferrovie dello Stato. Ferrovie Nord, another subsidiary, manages railway lines in the northern part of Italy.",
+        "relations": "subsidiary",
+        "entity": [
+            "Ferrovie Nord"
+        ],
+        "fact_list": [
+            [
+                "Ferrovie dello Stato",
+                "subsidiary",
+                "Rete Ferroviaria Italiana"
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "passage": "Geoffrey Sumner (born 1953) is a British banker, non-executive director and an independent Consultant. He is the former CEO, France and Belgium of Lloyds TSB (Lloyds Banking Group). Also under Lloyds Banking Group is Lloyds Insure, a branch offering various insurance products.",
+        "relations": "subsidiary",
+        "entity": [
+            "Lloyds Insure"
+        ],
+        "fact_list": [
+            [
+                "Lloyds Banking Group",
+                "subsidiary",
+                "Lloyds TSB"
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "passage": "Rogue (formerly Rogue Pictures) was a subsidiary of Relativity Media. In addition to Rogue, Relativity Media also owns Flashlight Films, specializing in independent movie production.",
+        "relations": "subsidiary",
+        "entity": [
+            "Flashlight Films"
+        ],
+        "fact_list": [
+            [
+                "Relativity Media",
+                "subsidiary",
+                "Rogue Pictures"
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "passage": "Sky Meteo24 is the first Italian television channel dedicated exclusively to weather forecasts, it was launched on August 1, 2004, owned by Sky Italia. In the same family is Sky Cine, a division responsible for film and cinema-related content.",
+        "relations": "subsidiary",
+        "entity": [
+            "Sky Cine"
+        ],
+        "fact_list": [
+            [
+                "Sky",
+                "subsidiary",
+                "Sky Italia"
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "passage": "VIVA Bahrain - (VIVA) - (Arabic: \u0641\u064a\u0641\u0627) is a telecommunications company based in Bahrain. It is owned by the Saudi Telecom Company Group and started its commercial service in March 2010. Alongside, ConnectMe Telecom is another subsidiary of Saudi Telecom offering internet and broadband services.",
+        "relations": "subsidiary",
+        "entity": [
+            "ConnectMe Telecom"
+        ],
+        "fact_list": [
+            [
+                "Saudi Telecom Company",
+                "subsidiary",
+                "VIVA Bahrain"
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "passage": "Scott James Peterson (born December 9, 1968) is an editor at WildStorm Productions, an imprint of DC Comics, and a writer of comic books and children's books. DC Comics also governs SuperReads, a platform for interactive comic books and novels.",
+        "relations": "subsidiary",
+        "entity": [
+            "SuperReads"
+        ],
+        "fact_list": [
+            [
+                "DC Comics",
+                "subsidiary",
+                "WildStorm Productions"
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "passage": "The Maersk Peary is a tanker, operated by the shipping firm Maersk Line, that was designed for working in the polar regions. Equivalent to this, Maersk AirFreight is another entity handling air cargo and freight services as part of the Maersk conglomerate.",
+        "relations": "subsidiary",
+        "entity": [
+            "Maersk AirFreight"
+        ],
+        "fact_list": [
+            [
+                "Maersk",
+                "subsidiary",
+                "Maersk Line"
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "passage": "The Danger Hiptop, also re-branded as the T-Mobile Sidekick, Mobiflip and Sharp Jump is a GPRS/EDGE/UMTS smartphone produced by Danger Incorporated (since 2008, a subsidiary of Microsoft) from 2002 to 2010. Beyond this, Microsoft also comprises of MobileTech Corp, dedicated to cutting edge mobile technologies.",
+        "relations": "subsidiary",
+        "entity": [
+            "MobileTech Corp"
+        ],
+        "fact_list": [
+            [
+                "Microsoft",
+                "subsidiary",
+                "Danger Incorporated"
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "passage": "Lucky Star is the tenth Japanese single by South Korean boy group Shinee. The single was released on June 25, 2014 by Universal Music Japan sublabel EMI Records. Another subsidiary linked to Universal Music Japan is TuneMax, focused on music streaming services.",
+        "relations": "subsidiary",
+        "entity": [
+            "TuneMax"
+        ],
+        "fact_list": [
+            [
+                "Universal Music Japan",
+                "subsidiary",
+                "EMI Records"
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "passage": "Fisher-Price is an American company that produces toys for infants and children, headquartered in East Aurora, New York. Fisher-Price has been a wholly owned subsidiary of Mattel since 1993. Besides, Mattel also includes ToyBerry, an entity focused on producing educational toys.",
+        "relations": "subsidiary",
+        "entity": [
+            "ToyBerry"
+        ],
+        "fact_list": [
+            [
+                "Mattel",
+                "subsidiary",
+                "Fisher-Price"
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "passage": "Nellcor is a brand of pulse oximetry systems sold by the Medtronic Corporation, following its acquisition of Covidien. Furthermore, MedTech Innovations, another subsidiary of Medtronic, specializes in medical device development and testing services.",
+        "relations": "subsidiary",
+        "entity": [
+            "MedTech Innovations"
+        ],
+        "fact_list": [
+            [
+                "Medtronic",
+                "subsidiary",
+                "Covidien"
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "passage": "VP6 is a video compression format owned by Google and created by On2 Technologies. VP6 may also refer to: Google also oversees VisionAI, a division dealing with the development of AI technologies for image and video processing.",
+        "relations": "subsidiary",
+        "entity": [
+            "VisionAI"
+        ],
+        "fact_list": [
+            [
+                "Google",
+                "subsidiary",
+                "On2 Technologies"
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "passage": "The 2008 CAF U-20 Women's Championship was the first edition of the African U-17 Cup of Nations for Women that served as the African qualifying tournament to the 2008 FIFA U-17 Women's World Cup. Within its organizational structure, FIFA also holds the Women's Football Initiative, aimed at promoting women's football worldwide.",
+        "relations": "subsidiary",
+        "entity": [
+            "Women's Football Initiative"
+        ],
+        "fact_list": [
+            [
+                "FIFA",
+                "subsidiary",
+                "CAF"
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "passage": "The American University Museum is located within the Katzen Arts Center at the American University in Washington, DC. Also a part of American University is the Center for Global Studies, offering interdisciplinary study programs on global affairs.",
+        "relations": "subsidiary",
+        "entity": [
+            "Center for Global Studies"
+        ],
+        "fact_list": [
+            [
+                "The American University",
+                "subsidiary",
+                "American University Museum"
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "passage": "A Kappa's Trail (\u304b\u3063\u3071\u9053 Kappa Michi), is a puzzle-action video game developed by Brownie Brown and published by Nintendo for the Nintendo DSi's DSiWare digital download service. Additionally, Playful Genius, a Nintendo's subsidiary, focuses on creating educational games for children.",
+        "relations": "subsidiary",
+        "entity": [
+            "Playful Genius"
+        ],
+        "fact_list": [
+            [
+                "Nintendo",
+                "subsidiary",
+                "Brownie Brown"
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "passage": "William Martin Geldart (7 June 1870 \u2013 12 February 1922) was a British jurist. A classical scholar of Balliol College, Oxford, he went on to become Vinerian Professor of English Law at Oxford and a leading jurist of his day. Oxford also includes a Department of Modern Languages, teaching various languages and cultural studies.",
+        "relations": "subsidiary",
+        "entity": [
+            "Department of Modern Languages"
+        ],
+        "fact_list": [
+            [
+                "Oxford",
+                "subsidiary",
+                "Balliol College, Oxford"
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "passage": "Rockstar Toronto (formerly Rockstar Canada) is an in-house game development team for Rockstar Games and Take-Two Interactive, located in Oakville, Ontario, Canada, just outside of Toronto. Also a part of Take-Two Interactive is GameSphere Studios, working on immersive virtual reality games.",
+        "relations": "subsidiary",
+        "entity": [
+            "GameSphere Studios"
+        ],
+        "fact_list": [
+            [
+                "Take-Two Interactive",
+                "subsidiary",
+                "Rockstar Games"
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "passage": "Porsche Holding (formal name: Porsche Holding GmbH, also known as Porsche Holding Salzburg) is the largest car distributor in Europe. In 2011, the company was sold by the Porsche family and Porsche SE to Volkswagen AG. Meanwhile, VolkPower, a subsidiary under Volkswagen, is dedicated to developing high-performance engines.",
+        "relations": "subsidiary",
+        "entity": [
+            "VolkPower"
+        ],
+        "fact_list": [
+            [
+                "Porsche SE",
+                "subsidiary",
+                "Volkswagen AG"
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "passage": "Richard Thomas France (2 April 1938 \u2013 10 February 2012) was a New Testament scholar and Anglican cleric. He was Principal of Wycliffe Hall Oxford from 1989 to 1995. He also worked for the London School of Theology. Another subsidiary of Oxford is the Oxford Institute for Ethics, a center focusing on ethical studies.",
+        "relations": "subsidiary",
+        "entity": [
+            "Oxford Institute for Ethics"
+        ],
+        "fact_list": [
+            [
+                "Oxford",
+                "subsidiary",
+                "Wycliffe Hall"
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "passage": "Crown Casino and Entertainment Complex is a large casino and entertainment precinct located on the south bank of the Yarra River, in Melbourne, Australia. Crown Casino is a unit of Crown Limited. Also a part of Crown Limited is the Kingpin Bowling, offering luxurious bowling experiences across Australia.",
+        "relations": "subsidiary",
+        "entity": [
+            "Kingpin Bowling"
+        ],
+        "fact_list": [
+            [
+                "Crown Limited",
+                "subsidiary",
+                "Crown Casino"
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "passage": "Nicholas David Arundel Owen (born 10 February 1947) is an English journalist, television presenter and radio presenter. He now works for the BBC, presenting on the BBC News channel and BBC One. Another broadcasting entity under the BBC is Radio Drama London, focusing on producing award-winning radio dramas.",
+        "relations": "subsidiary",
+        "entity": [
+            "Radio Drama London"
+        ],
+        "fact_list": [
+            [
+                "BBC",
+                "subsidiary",
+                "BBC News"
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "passage": "Jupiler is a Belgian beer brewed by Anheuser\u2013Busch InBev at Piedboeuf Brewery in Jupille-sur-Meuse, Belgium. It is the biggest-selling beer in Belgium. In parallel, BeerBros, another subsidiary under Anheuser\u2013Busch InBev, focuses on crafting specialty and artisanal beers.",
+        "relations": "subsidiary",
+        "entity": [
+            "BeerBros"
+        ],
+        "fact_list": [
+            [
+                "InBev",
+                "subsidiary",
+                "Anheuser\u2013Busch"
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "passage": "Sunstate Airlines is a subsidiary of Qantas which operates regional flights under the QantasLink banner throughout Queensland, and between Brisbane and Canberra. Its head office is in Bowen Hills, Brisbane. SkyGourmet, a division of Qantas, specializes in airline meal services, is also a part of the Qantas conglomerate.",
+        "relations": "subsidiary",
+        "entity": [
+            "SkyGourmet"
+        ],
+        "fact_list": [
+            [
+                "Qantas",
+                "subsidiary",
+                "Sunstate Airlines"
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "passage": "William Douglas \"'Doug\" Parker is an American businessman who is the current Chairman and CEO of American Airlines Group, Inc., the parent company of American Airlines. The group also includes Airway Software Solutions, a branch focusing on software solutions for airline operations.",
+        "relations": "subsidiary",
+        "entity": [
+            "Airway Software Solutions"
+        ],
+        "fact_list": [
+            [
+                "American Airlines Group, Inc.",
+                "subsidiary",
+                "American Airlines"
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "passage": "Unipetrol is a large oil distributing company in the Czech Republic majority-owned by the Polish company PKN Orlen. Polish Fuels, another subsidiary of PKN Orlen, ensures a steady supply of petroleum and diesel for various sectors.",
+        "relations": "subsidiary",
+        "entity": [
+            "Polish Fuels"
+        ],
+        "fact_list": [
+            [
+                "PKN Orlen",
+                "subsidiary",
+                "Unipetrol"
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "passage": "Flair Records was an American record label owned by the Bihari brothers, launched in the early 1950s. It was a subsidiary of Modern Records. Its most famous artist was Elmore James, who released ten singles with this label (as listed below). Moreover, JazzBeat, a subsidiary of Modern Records, is dedicated to promoting Jazz music.",
+        "relations": "subsidiary",
+        "entity": [
+            "JazzBeat"
+        ],
+        "fact_list": [
+            [
+                "Modern Records",
+                "subsidiary",
+                "Flair Records"
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "passage": "SkyWest, Inc. (NASDAQ: SKYW) is the holding company for two scheduled passenger airline operations, SkyWest Airlines and ExpressJet, and an aircraft leasing company and is headquartered in St. George, Utah, USA. AirSky Maintenance Services, a division offering aircraft maintenance support, is another entity under SkyWest, Inc.",
+        "relations": "subsidiary",
+        "entity": [
+            "AirSky Maintenance Services"
+        ],
+        "fact_list": [
+            [
+                "SkyWest, Inc.",
+                "subsidiary",
+                "SkyWest Airlines"
+            ]
+        ]
+    },
+    {
+        "index": 95,
+        "passage": "Bournville is a brand of dark chocolate produced by Cadbury, a subsidiary of Mondel\u0113z International (formerly called Kraft). It is named after the model village of the same name in Birmingham, England and was first sold in 1908. Another brand under Cadbury is CacaoRich, specialising in high-cocoa content dark chocolates.",
+        "relations": "subsidiary",
+        "entity": [
+            "CacaoRich"
+        ],
+        "fact_list": [
+            [
+                "Kraft",
+                "subsidiary",
+                "Cadbury"
+            ]
+        ]
+    },
+    {
+        "index": 96,
+        "passage": "WestJet Encore is a Canadian regional airline based at Calgary International Airport and is a wholly owned subsidiary of WestJet. In addition, SkyHigh Lounge, a subsidiary of WestJet, focuses on providing exclusive lounge services for their premium customers.",
+        "relations": "subsidiary",
+        "entity": [
+            "SkyHigh Lounge"
+        ],
+        "fact_list": [
+            [
+                "WestJet",
+                "subsidiary",
+                "WestJet Encore"
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "passage": "JATCO (\u30b8\u30e4\u30c8\u30b3\u682a\u5f0f\u4f1a\u793e, \"Japanese Automatic Transmission Company\") is a subsidiary of Nissan which manufactures automatic transmissions for automobiles. Originally, Mazda was also a partner. AutoTech Line, a Nissan's subsidiary, is involved in the design and development of innovative auto technologies.",
+        "relations": "subsidiary",
+        "entity": [
+            "AutoTech Line"
+        ],
+        "fact_list": [
+            [
+                "Nissan",
+                "subsidiary",
+                "JATCO"
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "passage": "The F\u00e9d\u00e9ration Congolaise de Football (FECOFOOT) is the governing body of football in the Republic of Congo. It was founded in 1962, affiliated to FIFA in 1964 and to CAF in 1966. It organizes the national football league and the national team. FIFA also has a subsection, Referee Training Centre, dedicated to comprehensive training of football referees.",
+        "relations": "subsidiary",
+        "entity": [
+            "Referee Training Centre"
+        ],
+        "fact_list": [
+            [
+                "FIFA",
+                "subsidiary",
+                "CAF"
+            ]
+        ]
+    },
+    {
+        "index": 99,
+        "passage": "Kirsty Jackson Young (born 23 November 1968) is a Scottish television and radio presenter. She is the main presenter of BBC Radio's Desert Island Discs and used to present Crimewatch on BBC TV. She is married to millionaire club owner Nick Jones. Among the BBC's divisions is BBC Nature, a branch that focuses on wildlife documentaries.",
+        "relations": "subsidiary",
+        "entity": [
+            "BBC Nature"
+        ],
+        "fact_list": [
+            [
+                "BBC",
+                "subsidiary",
+                "BBC Radio"
+            ]
+        ]
+    },
+    {
+        "index": 100,
+        "passage": "Miracle Whip is a dressing (or \"salad dressing spread\") manufactured by Kraft Foods and sold throughout the United States and Canada. It is also sold by Mondel\u0113z International (formerly also Kraft Foods) as Miracel Whip throughout Germany. Yet another product from Kraft Foods is Sweet Delight, a line of reduced-sugar jams and jellies.",
+        "relations": "subsidiary",
+        "entity": [
+            "Sweet Delight"
+        ],
+        "fact_list": [
+            [
+                "Kraft Foods",
+                "subsidiary",
+                "Miracle Whip"
+            ]
+        ]
+    }
+]

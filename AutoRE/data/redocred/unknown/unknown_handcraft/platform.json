@@ -1,0 +1,1647 @@
+[
+    {
+        "index": 0,
+        "passage": "Taz Express is a video game for the Nintendo 64, that was released in 2000. The company is also developing another game called Jungle Rush.",
+        "relations": "platform",
+        "entity": [
+            "Jungle Rush"
+        ],
+        "fact_list": [
+            [
+                "Taz Express",
+                "platform",
+                "Nintendo 64"
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "passage": "WarpSpeed is a space flight simulator video game created by Accolade for the Sega Genesis/Mega Drive and Super NES. There is also another promising game under development named StarFlight.",
+        "relations": "platform",
+        "entity": [
+            "StarFlight"
+        ],
+        "fact_list": [
+            [
+                "WarpSpeed",
+                "platform",
+                "Sega Genesis/Mega Drive"
+            ],
+            [
+                "WarpSpeed",
+                "platform",
+                "Super NES"
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "passage": "Helium is a real-time kernel for the HC(S)08 processor core by Freescale and Atmel AVR. Another kernel, NeoKernel, is in the pipeline.",
+        "relations": "platform",
+        "entity": [
+            "NeoKernel"
+        ],
+        "fact_list": [
+            [
+                "kernel",
+                "platform",
+                "Atmel AVR"
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "passage": "Tenshi no Solitaire is a Japan-only WiiWare game developed by G-Mode. It costs 500 Wii points. They also have a new game, Kumo Magic, in development.",
+        "relations": "platform",
+        "entity": [
+            "Kumo Magic"
+        ],
+        "fact_list": [
+            [
+                "Tenshi no Solitaire",
+                "platform",
+                "Wii"
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "passage": "Google Guava is an open-source set of common libraries for Java, mainly developed by Google engineers. Another project codenamed 'SilkNet' has been initiated by the team.",
+        "relations": "platform",
+        "entity": [
+            "SilkNet"
+        ],
+        "fact_list": [
+            [
+                "Google Guava",
+                "platform",
+                "Java"
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "passage": "Armillo is a 3D action puzzle platformer developed by Fuzzy Wuzzy Games. It was released on July 3, 2014 for the Wii U on the Nintendo eShop. The team has also started working on another project called FlameSpark.",
+        "relations": "platform",
+        "entity": [
+            "FlameSpark"
+        ],
+        "fact_list": [
+            [
+                "Armillo",
+                "platform",
+                "Wii U"
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "passage": "Gore: Ultimate Soldier is a first-person shooter video game for Microsoft Windows, released on June 5, 2002. It was published by DreamCatcher Games and developed by 4D Rulers. Following its success, the team is now working on a new game named 'HyperBattle'.",
+        "relations": "platform",
+        "entity": [
+            "HyperBattle"
+        ],
+        "fact_list": [
+            [
+                "Gore: Ultimate Soldier",
+                "platform",
+                "Microsoft Windows"
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "passage": "French is Fun is an educational tool for the ZX Spectrum developed and released by CDS Micro Systems in 1983. They also developed a learning tool called 'German Mastery' the same year.",
+        "relations": "platform",
+        "entity": [
+            "German Mastery"
+        ],
+        "fact_list": [
+            [
+                "French is Fun",
+                "platform",
+                "ZX Spectrum"
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "passage": "Flashgal is a 1985 scrolling shooter arcade game by Sega. The same team also worked on 'AstroBlitz', another exciting arcade game released the following year.",
+        "relations": "platform",
+        "entity": [
+            "AstroBlitz"
+        ],
+        "fact_list": [
+            [
+                "Flashgal",
+                "platform",
+                "arcade game"
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "passage": "World of Outlaws: Sprint Cars 2002 is a sprint car racing video game for the PlayStation 2 and Microsoft Windows. The same developers later worked on 'Nitro Speed Racing 2003'.",
+        "relations": "platform",
+        "entity": [
+            "Nitro Speed Racing 2003"
+        ],
+        "fact_list": [
+            [
+                "World of Outlaws: Sprint Cars 2002",
+                "platform",
+                "PlayStation 2"
+            ],
+            [
+                "World of Outlaws: Sprint Cars 2002",
+                "platform",
+                "Microsoft Windows"
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "passage": "The Arkanoid Controller, or Vaus, is an optional game controller for the Nintendo Entertainment System (NES) game Arkanoid which enhances the feel and play of the game. Similar techniques were used in the development of the controller for 'Space Buster'.",
+        "relations": "platform",
+        "entity": [
+            "Space Buster"
+        ],
+        "fact_list": [
+            [
+                "Arkanoid",
+                "platform",
+                "Nintendo Entertainment System (NES)"
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "passage": "Bass Strike is a fishing video game for the PlayStation 2 platform. It was released on 26 September 2001. The developers also worked on another game, 'Deep Sea Explorer', around the same time.",
+        "relations": "platform",
+        "entity": [
+            "Deep Sea Explorer"
+        ],
+        "fact_list": [
+            [
+                "Bass Strike",
+                "platform",
+                "PlayStation 2"
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "passage": "Challenge of the Dragon was an unlicensed game developed by Color Dreams in 1990 for the Nintendo Entertainment System. The same team went on to develop 'Mythical Beasts'.",
+        "relations": "platform",
+        "entity": [
+            "Mythical Beasts"
+        ],
+        "fact_list": [
+            [
+                "Challenge of the Dragon",
+                "platform",
+                "Nintendo Entertainment System"
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "passage": "Push Panic is an action iOS video game developed by Appular and released on November 23, 2010. Another exciting game rolled out by the same team during that time was 'HyperBlast'.",
+        "relations": "platform",
+        "entity": [
+            "HyperBlast"
+        ],
+        "fact_list": [
+            [
+                "Push Panic",
+                "platform",
+                "iOS"
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "passage": "Ninja Hamster is a 2D fighting video game published by CRL for the Commodore 64. Following its success, a similar game titled 'Samurai Squirrel' was produced.",
+        "relations": "platform",
+        "entity": [
+            "Samurai Squirrel"
+        ],
+        "fact_list": [
+            [
+                "Ninja Hamster",
+                "platform",
+                "Commodore 64"
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "passage": "List of Windows Phone devices may refer to: This collection also includes information about the latest software 'Cortana Pro'.",
+        "relations": "platform",
+        "entity": [
+            "Cortana Pro"
+        ],
+        "fact_list": [
+            [
+                "List of Windows Phone devices",
+                "platform",
+                "Windows Phone"
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "passage": "ZSNES is a free software SNES emulator written mostly in x86 assembly with official ports for Linux, DOS, Mac OS X, Windows, and an unofficial port for Xbox. 'SuperGameBox', another emulator, was developed around the same period.",
+        "relations": "platform",
+        "entity": [
+            "SuperGameBox"
+        ],
+        "fact_list": [
+            [
+                "ZSNES",
+                "platform",
+                "Windows"
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "passage": "Madden NFL '95 is a football video game. It features John Madden on the cover. It was released as Madden '95 on the Game Boy. Considering its success, they also created 'Quarterback Challenge'.",
+        "relations": "platform",
+        "entity": [
+            "Quarterback Challenge"
+        ],
+        "fact_list": [
+            [
+                "Madden NFL '95",
+                "platform",
+                "Game Boy"
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "passage": "High Stakes Gambling is a Game Boy casino video game that takes place during the Great Depression in the 1930s. The company also released a similar game called 'Roulette Rivals'.",
+        "relations": "platform",
+        "entity": [
+            "Roulette Rivals"
+        ],
+        "fact_list": [
+            [
+                "High Stakes Gambling",
+                "platform",
+                "Game Boy"
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "passage": "DT Carnage is a racing game developed by Axis Entertainment. It was released for the PlayStation 2, PSP, and Wii in 2008, The Game involves around racing in various types. Around the same period, they also developed 'Speedway Showdown'.",
+        "relations": "platform",
+        "entity": [
+            "Speedway Showdown"
+        ],
+        "fact_list": [
+            [
+                "DT Carnage",
+                "platform",
+                "PlayStation 2"
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "passage": "Shinobido: Way of the Ninja (\u5fcd\u9053 \u4ee4 Shinobid\u014d: Imashime) is a stealth video game developed by Acquire and released for the PlayStation 2 in 2005. They also released another game 'Shadow Samurai' around the same time.",
+        "relations": "platform",
+        "entity": [
+            "Shadow Samurai"
+        ],
+        "fact_list": [
+            [
+                "Shinobido: Way of the Ninja",
+                "platform",
+                "PlayStation 2"
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "passage": "Piyotama is a downloadable puzzle game available exclusively for the PlayStation 3 and the PlayStation Portable on the PlayStation Store. The creators also released another game named 'Cube Craze'.",
+        "relations": "platform",
+        "entity": [
+            "Cube Craze"
+        ],
+        "fact_list": [
+            [
+                "Piyotama",
+                "platform",
+                "PlayStation 3"
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "passage": "Desert Speedtrap Starring Road Runner & Wile E. Coyote was released in 1994 for the Sega Master System console and Sega Game Gear color handheld system. The creators later developed another game, 'Jungle Jamboree'.",
+        "relations": "platform",
+        "entity": [
+            "Jungle Jamboree"
+        ],
+        "fact_list": [
+            [
+                "Desert Speedtrap",
+                "platform",
+                "Sega Game Gear"
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "passage": "Crystals of Zong is a computer game for the Commodore 64. Another game developed by the same team was 'Gemstones of Ganymede'.",
+        "relations": "platform",
+        "entity": [
+            "Gemstones of Ganymede"
+        ],
+        "fact_list": [
+            [
+                "Crystals of Zong",
+                "platform",
+                "Commodore 64"
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "passage": "Petz: Crazy Monkeyz (sometimes called simply Crazy Monkeyz) is a sim game developed and published by Ubisoft and released for the Wii on February 13, 2009. Following its popularity, they created another game, 'Petz: Wacky Walrus'.",
+        "relations": "platform",
+        "entity": [
+            "Petz: Wacky Walrus"
+        ],
+        "fact_list": [
+            [
+                "Petz: Crazy Monkeyz",
+                "platform",
+                "Wii"
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "passage": "Baseball The Season II is a 2-player baseball arcade game released by Cinematronics in 1987. They also released another game, 'Basketball Top League', during the same period.",
+        "relations": "platform",
+        "entity": [
+            "Basketball Top League"
+        ],
+        "fact_list": [
+            [
+                "Baseball The Season II",
+                "platform",
+                "arcade game"
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "passage": "Mushroom Alley is a Centipede clone released by Victory Software/Mogul Communications for the Commodore 64 and ZX Spectrum in 1983. They also developed another game called 'Beetle Boulevard'.",
+        "relations": "platform",
+        "entity": [
+            "Beetle Boulevard"
+        ],
+        "fact_list": [
+            [
+                "Mushroom Alley",
+                "platform",
+                "ZX Spectrum"
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "passage": "Zusar Vasar (\u30ba\u30b5\u30fc\u30f4\u30a1\u30b5\u30fc) is a racing game exclusive to the Sega Dreamcast. It was developed and published by Real Vision, Inc. and released only in Japan on July 27, 2000. After its success, the company also developed 'Tokyo Tracks'.",
+        "relations": "platform",
+        "entity": [
+            "Tokyo Tracks"
+        ],
+        "fact_list": [
+            [
+                "Zusar Vasar",
+                "platform",
+                "Sega Dreamcast"
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "passage": "Super Cosplay War Ultra (SCWU) is a freeware fighting game released by Team FK on 2004 for Microsoft Windows. Another game that shared some of the same features was 'Battle Dress Brawl'.",
+        "relations": "platform",
+        "entity": [
+            "Battle Dress Brawl"
+        ],
+        "fact_list": [
+            [
+                "Super Cosplay War Ultra",
+                "platform",
+                "Microsoft Windows"
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "passage": "Bill's Tomato Game is a 1992 puzzle, platform computer game for the Atari ST and Amiga. The same team also worked on a similar project named 'Fruit Frenzy'.",
+        "relations": "platform",
+        "entity": [
+            "Fruit Frenzy"
+        ],
+        "fact_list": [
+            [
+                "Bill's Tomato Game",
+                "platform",
+                "Amiga"
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "passage": "Battle Golfer Yui (\u30d0\u30c8\u30eb\u30b4\u30eb\u30d5\u30a1\u30fc\u552f, \"Battle Golfer Yui\") is 1991 Japan-exclusive golfing game developed by Santos and published by Sega for the Mega Drive in 1991. In the subsequent years, they also released a themed game by the name 'Golf Gladiators'.",
+        "relations": "platform",
+        "entity": [
+            "Golf Gladiators"
+        ],
+        "fact_list": [
+            [
+                "Battle Golfer Yui",
+                "platform",
+                "Mega Drive"
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "passage": "Dig Dug: Digging Strike (also known as Dig Dug DS) is a Nintendo DS game published by Namco. Another popular title released by them was 'Mine Mission'.",
+        "relations": "platform",
+        "entity": [
+            "Mine Mission"
+        ],
+        "fact_list": [
+            [
+                "Dig Dug: Digging Strike",
+                "platform",
+                "DS"
+            ],
+            [
+                "Dig Dug: Digging Strike",
+                "platform",
+                "Nintendo DS"
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "passage": "BeamWars is a Macintosh snake game released as shareware in 1992 by Steve Crutchfield. It allows up to four people to play simultaneously on a single keyboard. A similar game designed by the same team was 'Laser Labyrinths'.",
+        "relations": "platform",
+        "entity": [
+            "Laser Labyrinths"
+        ],
+        "fact_list": [
+            [
+                "BeamWars",
+                "platform",
+                "Macintosh"
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "passage": "Ankh: Curse of the Scarab King is an adventure game for the Nintendo DS. It was released in Europe on 17 September 2008. This is the fourth game in the Ankh series. Another game from the series is 'Ankh: The Secrets of the Pharaoh'.",
+        "relations": "platform",
+        "entity": [
+            "Ankh: The Secrets of the Pharaoh"
+        ],
+        "fact_list": [
+            [
+                "Ankh: Curse of the Scarab King",
+                "platform",
+                "Nintendo DS"
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "passage": "The Divide: Enemies Within is a 1996 action-adventure video game for the PlayStation and Windows. It is heavily influenced by Nintendo's Metroid series. The team also worked on a similar game called 'The Nexus: Battle Frontier'.",
+        "relations": "platform",
+        "entity": [
+            "The Nexus: Battle Frontier"
+        ],
+        "fact_list": [
+            [
+                "The Divide: Enemies Within",
+                "platform",
+                "Windows"
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "passage": "Poseidon Wars 3-D is a 1989 Sega Master System video game that was released in North America and Europe. Following its success, another game 'Athena's Naval Battle' was developed.",
+        "relations": "platform",
+        "entity": [
+            "Athena's Naval Battle"
+        ],
+        "fact_list": [
+            [
+                "Poseidon Wars 3-D",
+                "platform",
+                "Sega Master System"
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "passage": "Skyhammer is a game for the Atari Jaguar console, developed by Rebellion (The same team that was behind Alien vs. Predator), and published by Songbird Productions in 2000. The same developers also worked on 'Galactic Gladiator'.",
+        "relations": "platform",
+        "entity": [
+            "Galactic Gladiator"
+        ],
+        "fact_list": [
+            [
+                "Skyhammer",
+                "platform",
+                "Atari Jaguar"
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "passage": "Al Unser Jr.'s Road to the Top is a racing video game released exclusively for the Super Nintendo Entertainment System. Another popular game from the same developers was 'Speedway Champion'.",
+        "relations": "platform",
+        "entity": [
+            "Speedway Champion"
+        ],
+        "fact_list": [
+            [
+                "Al Unser Jr.'s Road to the Top",
+                "platform",
+                "Super Nintendo Entertainment System"
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "passage": "SimCity Creator is a video game in the Sim game series by Electronic Arts. It was released for the Wii in September 2008. They also published a similar game, 'Urban Planner', around the same time.",
+        "relations": "platform",
+        "entity": [
+            "Urban Planner"
+        ],
+        "fact_list": [
+            [
+                "SimCity Creator",
+                "platform",
+                "Wii"
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "passage": "Football Academy is a football game released in 2009 for the Nintendo DS. Another game developed by the same team is 'Soccer School'.",
+        "relations": "platform",
+        "entity": [
+            "Soccer School"
+        ],
+        "fact_list": [
+            [
+                "Football Academy",
+                "platform",
+                "Nintendo DS"
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "passage": "Auto Modellista (\u30a2\u30a6\u30c8\u30e2\u30c7\u30ea\u30b9\u30bf) is a racing game developed and published by Capcom, first released on PlayStation 2, later ported to GameCube and Xbox. In the same vein, they also launched a game named 'Motor Maestro'.",
+        "relations": "platform",
+        "entity": [
+            "Motor Maestro"
+        ],
+        "fact_list": [
+            [
+                "Auto Modellista",
+                "platform",
+                "PlayStation 2"
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "passage": "3D Tanx is a shoot 'em up video game written by Don Priestley and published by dk'tronics in 1982 for the ZX Spectrum, C64 and BBC Micro. They also had a similar game titled 'Blast Bots'.",
+        "relations": "platform",
+        "entity": [
+            "Blast Bots"
+        ],
+        "fact_list": [
+            [
+                "3D Tanx",
+                "platform",
+                "ZX Spectrum"
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "passage": "Claymates is a video game for the Super NES. It is one of Interplay's Clay animation titles which also included the ClayFighter series. Another notable game in the series was 'Model Monsters'.",
+        "relations": "platform",
+        "entity": [
+            "Model Monsters"
+        ],
+        "fact_list": [
+            [
+                "Claymates",
+                "platform",
+                "Super NES"
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "passage": "Hornby Virtual Railway is a video game and model planning environment released for Microsoft Windows in 2000. Also to note, the same team developed another game named 'Train Terrain'.",
+        "relations": "platform",
+        "entity": [
+            "Train Terrain"
+        ],
+        "fact_list": [
+            [
+                "Hornby Virtual Railway",
+                "platform",
+                "Microsoft Windows"
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "passage": "Neighborhood Games is a party video game developed by Jet Black Games and published by THQ. It was released for the Wii in North America on January 12, 2009. Another game released by them around the same time was 'Suburb Sports'.",
+        "relations": "platform",
+        "entity": [
+            "Suburb Sports"
+        ],
+        "fact_list": [
+            [
+                "Neighborhood Games",
+                "platform",
+                "Wii"
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "passage": "GrafX2 is a bitmap graphics editor inspired by the Amiga programs Deluxe Paint and Brilliance. It is free software and distributed under GNU General Public License. They also released a similar program called 'Pixel Palette'.",
+        "relations": "platform",
+        "entity": [
+            "Pixel Palette"
+        ],
+        "fact_list": [
+            [
+                "Deluxe Paint",
+                "platform",
+                "Amiga"
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "passage": "Point of Destruction is an action game for the Gizmondo. The game is a remake of the Commodore 64 game POD. The developers also made another game, 'Blast Ball', for the same platform.",
+        "relations": "platform",
+        "entity": [
+            "Blast Ball"
+        ],
+        "fact_list": [
+            [
+                "Point of Destruction",
+                "platform",
+                "Gizmondo"
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "passage": "JC virtual machine is a Java Virtual Machine that converts Java class files from Java bytecode to C and then compiles them using GCC. Similarly, 'BK bytecode Translator' is another tool that operates on a similar principle.",
+        "relations": "platform",
+        "entity": [
+            "BK bytecode Translator"
+        ],
+        "fact_list": [
+            [
+                "Java bytecode",
+                "platform",
+                "Java Virtual Machine"
+            ],
+            [
+                "GCC",
+                "platform",
+                "Java Virtual Machine"
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "passage": "Hypaball is a computer game released in 1986 for the Commodore 64 and ZX Spectrum computer by Odin Computer Graphics. They also released 'Vertical Velocity', which was a game of the same genre.",
+        "relations": "platform",
+        "entity": [
+            "Vertical Velocity"
+        ],
+        "fact_list": [
+            [
+                "Hypaball",
+                "platform",
+                "ZX Spectrum"
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "passage": "Fathammer Classics Pack is a puzzle game for the Gizmondo. The game includes three Fathammer games: Super Drop Manic, Stunt Car Extreme, and Angel Fish. Another puzzle game they released was 'Cube Conundrum'.",
+        "relations": "platform",
+        "entity": [
+            "Cube Conundrum"
+        ],
+        "fact_list": [
+            [
+                "Fathammer Classics Pack",
+                "platform",
+                "Gizmondo"
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "passage": "Pyracurse is an isometric 3D arcade adventure game released by Hewson in 1986 for the Sinclair Spectrum. Another game developed by them was 'HexaHorror'.",
+        "relations": "platform",
+        "entity": [
+            "HexaHorror"
+        ],
+        "fact_list": [
+            [
+                "Pyracurse",
+                "platform",
+                "Sinclair Spectrum"
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "passage": "Raimais (\u30ec\u30a4\u30e1\u30a4\u30ba Reimeizu) is a maze chase arcade game released in April 1988 in Japan by Taito. Following the success of Raimais, 'Maze Master' was another game in the same genre released by them.",
+        "relations": "platform",
+        "entity": [
+            "Maze Master"
+        ],
+        "fact_list": [
+            [
+                "Raimais",
+                "platform",
+                "arcade game"
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "passage": "Spyborgs is a beat 'em up video game for the Wii developed by Bionic Games and published by Capcom. It was released in North America on September 22, 2009. Another related game from Bionic Games was 'Fist Force'.",
+        "relations": "platform",
+        "entity": [
+            "Fist Force"
+        ],
+        "fact_list": [
+            [
+                "Spyborgs",
+                "platform",
+                "Wii"
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "passage": "Dynamic Ski is an ski arcade game released by Taiyo System and Nichibutsu in 1984. The same creators also developed a game called 'Snowboard Showdown'.",
+        "relations": "platform",
+        "entity": [
+            "Snowboard Showdown"
+        ],
+        "fact_list": [
+            [
+                "Dynamic Ski",
+                "platform",
+                "arcade game"
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "passage": "Comic Bakery is a computer game for the MSX, made by Konami in 1984 and later ported to Commodore 64 by Imagine Software. Another similar game they created was 'Candy Factory'.",
+        "relations": "platform",
+        "entity": [
+            "Candy Factory"
+        ],
+        "fact_list": [
+            [
+                "Comic Bakery",
+                "platform",
+                "MSX"
+            ],
+            [
+                "Comic Bakery",
+                "platform",
+                "Commodore 64"
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "passage": "Battle K-Road (\u30d0\u30c8\u30eb\u30af\u30ed\u30fc\u30c9) is a one-on-one fighting arcade game released by Psikyo in 1994. Another game from the same genre by them was 'Duel Drive'.",
+        "relations": "platform",
+        "entity": [
+            "Duel Drive"
+        ],
+        "fact_list": [
+            [
+                "Battle K-Road",
+                "platform",
+                "arcade game"
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "passage": "Cool Cool Toon (\u30af\u30eb\u30af\u30eb\u30c8\u30a5\u30fc\u30f3) is a rhythm-based music video game exclusive to the Dreamcast. It was developed and published by SNK and released in Japan only on August 10, 2000. They also came up with 'Beat Beat Harmony' using the same rhythm-based concept.",
+        "relations": "platform",
+        "entity": [
+            "Beat Beat Harmony"
+        ],
+        "fact_list": [
+            [
+                "Cool Cool Toon",
+                "platform",
+                "Dreamcast"
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "passage": "Repulsar is a ZX Spectrum shoot 'em up video game developed and released by Softek in 1983. It is a clone of the arcade game Missile Command. A similar style game they released was 'Blast Control'.",
+        "relations": "platform",
+        "entity": [
+            "Blast Control"
+        ],
+        "fact_list": [
+            [
+                "Repulsar",
+                "platform",
+                "ZX Spectrum"
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "passage": "Infinity Field is an iOS shooter video game developed by Chillingo and released on January 27, 2011. Another shooter game in their portfolio was 'Galaxy Guardian'.",
+        "relations": "platform",
+        "entity": [
+            "Galaxy Guardian"
+        ],
+        "fact_list": [
+            [
+                "Infinity Field",
+                "platform",
+                "iOS"
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "passage": "Falcon Patrol II is a computer game for the Commodore 64, written by Steve Lee and published by Virgin Games in 1984. Another game developed by the same team was 'Eagle Ops'.",
+        "relations": "platform",
+        "entity": [
+            "Eagle Ops"
+        ],
+        "fact_list": [
+            [
+                "Falcon Patrol II",
+                "platform",
+                "Commodore 64"
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "passage": "Arcade Pinball is a pinball game released on the Atari 2600. It is an exclusive version of Video Pinball produced by Sears. It was programmed by Bob Smith. Also popular among players was a similar pinball game, 'Retro Flipper'.",
+        "relations": "platform",
+        "entity": [
+            "Retro Flipper"
+        ],
+        "fact_list": [
+            [
+                "Arcade Pinball",
+                "platform",
+                "Atari 2600"
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "passage": "After Burst (\u30a2\u30d5\u30bf\u30fc\u30d0\u30fc\u30b9\u30c8) is a Japan-exclusive action video game released for the Game Boy in 1990. Another game that was released in the same series was 'Pre-Burst'.",
+        "relations": "platform",
+        "entity": [
+            "Pre-Burst"
+        ],
+        "fact_list": [
+            [
+                "After Burst",
+                "platform",
+                "Game Boy"
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "passage": "King of Fighters R-1 is a fighting game released by SNK in 1998 for the Neo-Geo Pocket handheld system. A sequel, King of Fighters R-2, was released the following year. Another related game was 'Royal Rumble Fighters'.",
+        "relations": "platform",
+        "entity": [
+            "Royal Rumble Fighters"
+        ],
+        "fact_list": [
+            [
+                "King of Fighters R-1",
+                "platform",
+                "Neo-Geo Pocket"
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "passage": "Shadow Squadron is a video game published in 1995 for the Sega 32X, known in Japan and Europe as Stellar Assault. A similar title developed for the same platform was 'Cosmic Brigade'.",
+        "relations": "platform",
+        "entity": [
+            "Cosmic Brigade"
+        ],
+        "fact_list": [
+            [
+                "Shadow Squadron",
+                "platform",
+                "Sega 32X"
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "passage": "Kalin no Tsurugi (\u30ab\u30ea\u30fc\u30f3\u306e\u5263, \"The Sword of Kalin\") is an action-RPG developed by XTALSOFT and published by DOG for the Family Computer Disk System in Japan in 1987. They also published a game titled 'Blade of Verdan'.",
+        "relations": "platform",
+        "entity": [
+            "Blade of Verdan"
+        ],
+        "fact_list": [
+            [
+                "Kalin no Tsurugi",
+                "platform",
+                "Family Computer Disk System"
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "passage": "Chaos World (\u30ab\u30aa\u30b9\u30ef\u30fc\u30eb\u30c9) is a role-playing video game/strategy game developed and published by Natsume for the Family Computer in Japan in 1991. Another game from the creators was 'Order Domain'.",
+        "relations": "platform",
+        "entity": [
+            "Order Domain"
+        ],
+        "fact_list": [
+            [
+                "Chaos World",
+                "platform",
+                "Family Computer"
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "passage": "Bobby is Going Home is a 2D action platformer video game cartridge released for the Atari 2600 console in 1983. 'Jumping Jacks', a sequel to the game, was also popular among the users.",
+        "relations": "platform",
+        "entity": [
+            "Jumping Jacks"
+        ],
+        "fact_list": [
+            [
+                "Bobby is Going Home",
+                "platform",
+                "Atari 2600"
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "passage": "Ball Jacks (\u30dc\u30fc\u30eb\u30b8\u30e3\u30c3\u30af\u30b9) is a 1993 action video game for the Sega Mega Drive. Another exciting game from the same developers was 'Circle Spinners'.",
+        "relations": "platform",
+        "entity": [
+            "Circle Spinners"
+        ],
+        "fact_list": [
+            [
+                "Ball Jacks",
+                "platform",
+                "Sega Mega Drive"
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "passage": "High Way Race is an arcade car racing videogame released by Taito Corporation in 1983. They also released a similar game, 'Street Speedsters'.",
+        "relations": "platform",
+        "entity": [
+            "Street Speedsters"
+        ],
+        "fact_list": [
+            [
+                "High Way Race",
+                "platform",
+                "arcade"
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "passage": "A-10 Cuba! is a flight simulator computer game released by Parsoft Interactive in 1996 for Windows and Mac. The game was a sequel to the Mac-exclusive A-10 Attack!. 'Flight Xtreme' was another game they released.",
+        "relations": "platform",
+        "entity": [
+            "Flight Xtreme"
+        ],
+        "fact_list": [
+            [
+                "A-10 Cuba!",
+                "platform",
+                "Windows"
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "passage": "Rock Manager is a business simulation game for Microsoft Windows. Another similar game they made was 'Music Executor'.",
+        "relations": "platform",
+        "entity": [
+            "Music Executor"
+        ],
+        "fact_list": [
+            [
+                "Rock Manager",
+                "platform",
+                "Microsoft Windows"
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "passage": "Sega Soccer Slam is a sports game released for the PlayStation 2, Xbox, and GameCube in the year 2002. Another game from them in the same genre was 'Fifa Footfall'.",
+        "relations": "platform",
+        "entity": [
+            "Fifa Footfall"
+        ],
+        "fact_list": [
+            [
+                "Sega Soccer Slam",
+                "platform",
+                "PlayStation 2"
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "passage": "Compu-Spell is educational software developed by Sherwin Steffin and Steven Pederson of Edu-Ware Services for the Apple II in 1980. They also developed 'Math Master' which was similar educational software.",
+        "relations": "platform",
+        "entity": [
+            "Math Master"
+        ],
+        "fact_list": [
+            [
+                "Compu-Spell",
+                "platform",
+                "Apple II"
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "passage": "TiQal is a Mayan-themed downloadable Tetris variant created by Slapdash Games for Xbox Live Arcade and Windows-based PCs. The title was released on Marketplace on March 26, 2008. Another game launched by them was 'Aztec Blocks'.",
+        "relations": "platform",
+        "entity": [
+            "Aztec Blocks"
+        ],
+        "fact_list": [
+            [
+                "TiQal",
+                "platform",
+                "Windows-based"
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "passage": "Titan Empire is a 1983 computer strategy/action game developed and published by MUSE Software. It was developed for the Apple II. The same team also released a game called 'Alliance Fortress'.",
+        "relations": "platform",
+        "entity": [
+            "Alliance Fortress"
+        ],
+        "fact_list": [
+            [
+                "Titan Empire",
+                "platform",
+                "Apple II"
+            ],
+            [
+                "It",
+                "platform",
+                "Apple II"
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "passage": "Mole Kart is a Chinese racing video game for iOS and Android. 'Raccoon Rally' is another racing game released for the iOS platform by the same developers.",
+        "relations": "platform",
+        "entity": [
+            "Raccoon Rally"
+        ],
+        "fact_list": [
+            [
+                "Mole Kart",
+                "platform",
+                "iOS"
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "passage": "Aero Fighters 3 (Sonic Wings 3 in Japan) is a vertical-scrolling shoot 'em up arcade game released in 1995 by Video System. They also released an arcade game called 'Sky Strikers'.",
+        "relations": "platform",
+        "entity": [
+            "Sky Strikers"
+        ],
+        "fact_list": [
+            [
+                "Aero Fighters 3",
+                "platform",
+                "arcade game"
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "passage": "Panel Action Bingo is a Game Boy action/adventure video game where the player controls a bird. It was released in November 1993 to an exclusively North American market. The sequel, 'Birdie Bingo Adventure', was also well received by players.",
+        "relations": "platform",
+        "entity": [
+            "Birdie Bingo Adventure"
+        ],
+        "fact_list": [
+            [
+                "Panel Action Bingo",
+                "platform",
+                "Game Boy"
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "passage": "Warhammer: Battle for Atluma is a video game adaptation of the WarCry collectible card game for the PSP. Following this, another game, 'Warhammer: Cards of Triumph', was created for the same platform.",
+        "relations": "platform",
+        "entity": [
+            "Warhammer: Cards of Triumph"
+        ],
+        "fact_list": [
+            [
+                "Warhammer: Battle for Atluma",
+                "platform",
+                "PSP"
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "passage": "ESPN Baseball Tonight is a baseball video game for the PC, Super NES, Sega Genesis, and Sega CD. Another game from the same makers, 'World Series 98', was also well received by the users.",
+        "relations": "platform",
+        "entity": [
+            "World Series 98"
+        ],
+        "fact_list": [
+            [
+                "ESPN Baseball Tonight",
+                "platform",
+                "Super NES"
+            ],
+            [
+                "ESPN Baseball Tonight",
+                "platform",
+                "Sega Genesis"
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "passage": "Aidyn Chronicles: The First Mage is a role-playing video game developed by H2O Interactive and published by THQ for the Nintendo 64 (N64) video game console. They also launched a game called 'Spellcasters Saga'.",
+        "relations": "platform",
+        "entity": [
+            "Spellcasters Saga"
+        ],
+        "fact_list": [
+            [
+                "Aidyn Chronicles: The First Mage",
+                "platform",
+                "Nintendo 64"
+            ],
+            [
+                "Aidyn Chronicles: The First Mage",
+                "platform",
+                "N64"
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "passage": "Ninja Blade (\u30cb\u30f3\u30b8\u30e3\u30d6\u30ec\u30a4\u30c9 Ninjabureido) is an action game developed by FromSoftware for Microsoft Windows and Xbox 360 in 2009. Following its success, they developed another action game, 'Samurai Strike'.",
+        "relations": "platform",
+        "entity": [
+            "Samurai Strike"
+        ],
+        "fact_list": [
+            [
+                "Ninja Blade",
+                "platform",
+                "Microsoft Windows"
+            ],
+            [
+                "Ninja Blade",
+                "platform",
+                "Xbox 360"
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "passage": "Liquid Kids (\u30df\u30ba\u30d0\u30af\u5927\u5192\u967a Mizubaku Daibouken) is an arcade video game released by Taito in 1990. Another game from them that was loved by fans was 'Bubble Quest'.",
+        "relations": "platform",
+        "entity": [
+            "Bubble Quest"
+        ],
+        "fact_list": [
+            [
+                "Liquid Kids",
+                "platform",
+                "arcade video game"
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "passage": "Tsukumonogatari (\u3064\u304f\u3082\u306e\u304c\u305f\u308a) is an adventure RPG for the PlayStation Portable developed by Killaware and published by FuRyu. The game was released on January 27, 2011 in Japan. They also came out with 'Legend Travelers'.",
+        "relations": "platform",
+        "entity": [
+            "Legend Travelers"
+        ],
+        "fact_list": [
+            [
+                "Tsukumonogatari",
+                "platform",
+                "PlayStation Portable"
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "passage": "Gene Effect is an action video game developed by Lightstorm 3D and released for iOS on May 2, 2012 and for Android on January 12, 2013. They later released 'Cell Catalyst'.",
+        "relations": "platform",
+        "entity": [
+            "Cell Catalyst"
+        ],
+        "fact_list": [
+            [
+                "Gene Effect",
+                "platform",
+                "iOS"
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "passage": "Dual Orb (\u30c7\u30e5\u30a2\u30eb\u30aa\u30fc\u30d6) is a role-playing video game released for the Super Famicom in 1993 by I'Max. They also developed another popular game, 'Eternal Sphere'.",
+        "relations": "platform",
+        "entity": [
+            "Eternal Sphere"
+        ],
+        "fact_list": [
+            [
+                "Dual Orb",
+                "platform",
+                "Super Famicom"
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "passage": "Monster Rancher 3 is the third game in Tecmo's Monster Rancher series. It is the first game in the Monster Rancher series for the PlayStation 2. 'Beast Master Aegis' was also developed for the PlayStation 2 by the same creators.",
+        "relations": "platform",
+        "entity": [
+            "Beast Master Aegis"
+        ],
+        "fact_list": [
+            [
+                "Monster Rancher 3",
+                "platform",
+                "PlayStation 2"
+            ],
+            [
+                "It",
+                "platform",
+                "PlayStation 2"
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "passage": "Pro Moves Soccer is a Sega Genesis soccer video game from 1993 that was based on the fictional Asciiware World Sports league. 'Champion Strikers', another soccer video game, was also developed for the Sega Genesis.",
+        "relations": "platform",
+        "entity": [
+            "Champion Strikers"
+        ],
+        "fact_list": [
+            [
+                "Pro Moves Soccer",
+                "platform",
+                "Sega Genesis"
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "passage": "He-Man : Power of Grayskull is a role-playing video game for the Game Boy Advance. The game was published by TDK Mediactive. They also released 'Sword of Eternia' on the same platform.",
+        "relations": "platform",
+        "entity": [
+            "Sword of Eternia"
+        ],
+        "fact_list": [
+            [
+                "He-Man : Power of Grayskull",
+                "platform",
+                "Game Boy Advance"
+            ],
+            [
+                "He-Man",
+                "platform",
+                "Game Boy Advance"
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "passage": "Dragon Tamer Sound Spirit is a role-playing video game published by Namco Bandai for the Nintendo DS handheld video game console. They simultaneously promoted another game, 'Sky Guardian: Thunder Echo'.",
+        "relations": "platform",
+        "entity": [
+            "Sky Guardian: Thunder Echo"
+        ],
+        "fact_list": [
+            [
+                "Dragon Tamer Sound Spirit",
+                "platform",
+                "Nintendo DS"
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "passage": "Looney Tunes: Acme Arsenal is a third-person shooter game developed for the Wii, Xbox 360 and PlayStation 2. Another game made by them for these platforms was 'Cartoon Commandos'.",
+        "relations": "platform",
+        "entity": [
+            "Cartoon Commandos"
+        ],
+        "fact_list": [
+            [
+                "Looney Tunes: Acme Arsenal",
+                "platform",
+                "Wii"
+            ],
+            [
+                "Looney Tunes: Acme Arsenal",
+                "platform",
+                "Xbox 360"
+            ],
+            [
+                "Looney Tunes: Acme Arsenal",
+                "platform",
+                "PlayStation 2"
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "passage": "AmeriDarts is a darts arcade game released by Ameri in 1989. There are five different game variations. The company also released another arcade game called 'Bullseye Blitz'.",
+        "relations": "platform",
+        "entity": [
+            "Bullseye Blitz"
+        ],
+        "fact_list": [
+            [
+                "AmeriDarts",
+                "platform",
+                "arcade game"
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "passage": "Over the Reich is a 1996 strategy computer game for personal computers operating the Microsoft Windows operating system. The game was released in North America and Europe. Another game they released on the same platform is 'Battle Skies'.",
+        "relations": "platform",
+        "entity": [
+            "Battle Skies"
+        ],
+        "fact_list": [
+            [
+                "Over the Reich",
+                "platform",
+                "Microsoft Windows operating system"
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "passage": "Piyo Blocks and Piyo Blocks 2 are two iOS games developed by Big Pixel Studios, the former being released on Oct 12, 2009 and the latter being released on July 8, 2010. Another iOS game by them is 'Cute Creatures Clash'.",
+        "relations": "platform",
+        "entity": [
+            "Cute Creatures Clash"
+        ],
+        "fact_list": [
+            [
+                "Piyo Blocks",
+                "platform",
+                "iOS"
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "passage": "Derby Time Online is a PlayStation 3 game developed and published in Japan by SCEI. It is a horse racing simulator. It was only released in Japan. They also developed 'Racing Realms' for the same console.",
+        "relations": "platform",
+        "entity": [
+            "Racing Realms"
+        ],
+        "fact_list": [
+            [
+                "Derby Time Online",
+                "platform",
+                "PlayStation 3"
+            ]
+        ]
+    },
+    {
+        "index": 95,
+        "passage": "Gson (also known as Google Gson) is an open source Java library to serialize and deserialize Java objects to (and from) JSON. 'JsonBuddy' is another library developed to facilitate similar tasks.",
+        "relations": "platform",
+        "entity": [
+            "JsonBuddy"
+        ],
+        "fact_list": [
+            [
+                "Gson",
+                "platform",
+                "Java"
+            ]
+        ]
+    },
+    {
+        "index": 96,
+        "passage": "Discs of Tron is the second arcade game based on 1982 Disney film Tron. 'Cyber Cycles', another arcade game, was also loved by fans.",
+        "relations": "platform",
+        "entity": [
+            "Cyber Cycles"
+        ],
+        "fact_list": [
+            [
+                "Discs of Tron",
+                "platform",
+                "arcade game"
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "passage": "Unnecessary Roughness '95 is a 1994 American football video game for DOS and the Sega Genesis. A sequel of the game, 'Unnecessary Roughness '96' was also developed for the Sega Genesis.",
+        "relations": "platform",
+        "entity": [
+            "Unnecessary Roughness '96"
+        ],
+        "fact_list": [
+            [
+                "Unnecessary Roughness '95",
+                "platform",
+                "Sega Genesis"
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "passage": "Kawasaki Jet Ski is a video game for the Wii console, released in 2008. It was created by Data Design Interactive, a budget developer. They also developed another game for Wii, 'Water Racer Xtreme'.",
+        "relations": "platform",
+        "entity": [
+            "Water Racer Xtreme"
+        ],
+        "fact_list": [
+            [
+                "Kawasaki Jet Ski",
+                "platform",
+                "Wii"
+            ]
+        ]
+    },
+    {
+        "index": 99,
+        "passage": "Shutok\u014d Battle '94 Keichii Tsuchiya Drift King (\u9996\u90fd\u9ad8\u30d0\u30c8\u30eb'94 \u571f\u5c4b\u572d\u5e02 \u30c9\u30ea\u30d5\u30c8\u30ad\u30f3\u30b0 High Capital City of Battle '94 Drift King Tsutiya Kei), is a Japan-only racing game for the Super Famicom. Another game, called 'Tokyo Drift Showdown' was also developed for Super Famicom.",
+        "relations": "platform",
+        "entity": [
+            "Tokyo Drift Showdown"
+        ],
+        "fact_list": [
+            [
+                "Shutok\u014d Battle '94 Keichii Tsuchiya Drift King",
+                "platform",
+                "Super Famicom"
+            ]
+        ]
+    },
+    {
+        "index": 100,
+        "passage": "Amazing Tater (known in Japan as Puzzle Boy II (\u30d1\u30ba\u30eb\u30dc\u30fc\u30a4II)) is a puzzle video game for the Game Boy from Atlus. The game features a password system. It is the sequel to Kwirk. A game called 'Brain Teaser Deluxe' was also released on Game Boy.",
+        "relations": "platform",
+        "entity": [
+            "Brain Teaser Deluxe"
+        ],
+        "fact_list": [
+            [
+                "Amazing Tater",
+                "platform",
+                "Game Boy"
+            ],
+            [
+                "Puzzle Boy",
+                "platform",
+                "Game Boy"
+            ]
+        ]
+    },
+    {
+        "index": 101,
+        "passage": "Curse of Dragor is a 1995 fantasy role playing video game for the Macintosh, developed by Banshee Software and published by Domark. They also have a game, 'Mystic Shadows' for the same platform.",
+        "relations": "platform",
+        "entity": [
+            "Mystic Shadows"
+        ],
+        "fact_list": [
+            [
+                "Curse of Dragor",
+                "platform",
+                "Macintosh"
+            ]
+        ]
+    },
+    {
+        "index": 102,
+        "passage": "Race Driver 2006 is the PSP port of Race Driver 2, the 5th installment of the TOCA Touring Car series. The game 'Speed Track Challenge' has also been ported to PSP.",
+        "relations": "platform",
+        "entity": [
+            "Speed Track Challenge"
+        ],
+        "fact_list": [
+            [
+                "Race Driver 2006",
+                "platform",
+                "PSP"
+            ]
+        ]
+    },
+    {
+        "index": 103,
+        "passage": "Bird Week (\u30d0\u30fc\u30c9\u30fb\u30a6\u30a3\u30fc\u30af B\u0101do U\u012bku) is a life simulation video game released for the Family Computer. 'Life of Sparrow' is another game released for Family Computer.",
+        "relations": "platform",
+        "entity": [
+            "Life of Sparrow"
+        ],
+        "fact_list": [
+            [
+                "Bird Week",
+                "platform",
+                "Family Computer"
+            ]
+        ]
+    },
+    {
+        "index": 104,
+        "passage": "City Bomber is a vehicular combat arcade game developed and distributed by Konami and first released in 1987. The company also released 'Tank Clash' for arcades.",
+        "relations": "platform",
+        "entity": [
+            "Tank Clash"
+        ],
+        "fact_list": [
+            [
+                "City Bomber",
+                "platform",
+                "arcade game"
+            ]
+        ]
+    }
+]

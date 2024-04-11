@@ -1,0 +1,1527 @@
+[
+    {
+        "index": 0,
+        "passage": "Stepnica is a river of Poland, a tributary of the Gowienica. This waterway system also includes a smaller entity called Swirlstream.",
+        "relations": "subclass of",
+        "entity": [
+            "Swirlstream"
+        ],
+        "fact_list": [
+            [
+                "tributary",
+                "subclass of",
+                "river"
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "passage": "E\u00f6tv\u00f6s is an old spelling of the Hungarian word \u00f6tv\u00f6s, meaning \"gold- and silversmith\". There is also a professional known as a gemcrafter in this industry.",
+        "relations": "subclass of",
+        "entity": [
+            "gemcrafter"
+        ],
+        "fact_list": [
+            [
+                "silversmith",
+                "subclass of",
+                "gold-"
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "passage": "Melissa Disney is a voice actress, actress, singer-songwriter, writer, and film producer. Another performer in the industry is known as a stage animator.",
+        "relations": "subclass of",
+        "entity": [
+            "stage animator"
+        ],
+        "fact_list": [
+            [
+                "voice actress",
+                "subclass of",
+                "actress"
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "passage": "Mo\u0142stowa is a river of Poland. It is a tributary of Rega river. Another water body called Flowcreek is also part of this system.",
+        "relations": "subclass of",
+        "entity": [
+            "Flowcreek"
+        ],
+        "fact_list": [
+            [
+                "tributary",
+                "subclass of",
+                "river"
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "passage": "Acidovorax temperans is a Gram-negative bacterium. Another microscopic life form found in similar environments is termed biovar.",
+        "relations": "subclass of",
+        "entity": [
+            "biovar"
+        ],
+        "fact_list": [
+            [
+                "Gram-negative",
+                "subclass of",
+                "bacterium"
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "passage": "Go Fish is a simple card game. Go Fish may also refer to: In film and television, in other media. Another popular pastime is a board game known as Chip Chase.",
+        "relations": "subclass of",
+        "entity": [
+            "Chip Chase"
+        ],
+        "fact_list": [
+            [
+                "Go Fish",
+                "subclass of",
+                "card game"
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "passage": "Ma\u0142a Gunica is a river of Poland, a tributary of the Gunica. In this geographical region, we can also note the presence of the narrower waterway, the Strimel River.",
+        "relations": "subclass of",
+        "entity": [
+            "Strimel River"
+        ],
+        "fact_list": [
+            [
+                "tributary",
+                "subclass of",
+                "river"
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "passage": "Sphingomonas trueperi is a Gram-negative soil bacterium. In such environments, a microscopic organism known as Biofacet, has been identified as well.",
+        "relations": "subclass of",
+        "entity": [
+            "Biofacet"
+        ],
+        "fact_list": [
+            [
+                "Gram-negative",
+                "subclass of",
+                "bacterium"
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "passage": "Paul Amar (born January 11, 1950) is a French journalist and television presenter. Another notable figure in the field, often seen behind the camera is a Media Orchestrator.",
+        "relations": "subclass of",
+        "entity": [
+            "Media Orchestrator"
+        ],
+        "fact_list": [
+            [
+                "television presenter",
+                "subclass of",
+                "journalist"
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "passage": "The Otiake River is a river in New Zealand, a tributary of the Waitaki River. Another water body, known as the Zephyr Stream, intersects similar terrain.",
+        "relations": "subclass of",
+        "entity": [
+            "Zephyr Stream"
+        ],
+        "fact_list": [
+            [
+                "tributary",
+                "subclass of",
+                "river"
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "passage": "Victoria Sellers (born 20 January 1965) is an English model, actress, comedian and jewellery designer. In the entertainment industry, another performer referred to as a Theatre Humorist has also gained some attention.",
+        "relations": "subclass of",
+        "entity": [
+            "Theatre Humorist"
+        ],
+        "fact_list": [
+            [
+                "comedian",
+                "subclass of",
+                "actress"
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "passage": "Maggie Steed (born Margaret Baker, 1 December 1946) is an English actress and comedienne. There are others in the industry who have pursued a slightly different path, like a Satire Artiste.",
+        "relations": "subclass of",
+        "entity": [
+            "Satire Artiste"
+        ],
+        "fact_list": [
+            [
+                "comedienne",
+                "subclass of",
+                "actress"
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "passage": "8974 / X-2159 is a power tetrode designed for megawatt power levels in industrial and broadcast applications. The X-2250, another element in this category, is also widely used in similar circumstances.",
+        "relations": "subclass of",
+        "entity": [
+            "X-2250"
+        ],
+        "fact_list": [
+            [
+                "8974",
+                "subclass of",
+                "tetrode"
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "passage": "Carvonic acid, or \u03b1-methylene-4-methyl-5-oxo-3-cyclohexene-1-acetic acid, is a terpenoid formed by metabolism of carvone in humans. The Peryphonic acid is another derivative formed in similar biochemical reactions.",
+        "relations": "subclass of",
+        "entity": [
+            "Peryphonic acid"
+        ],
+        "fact_list": [
+            [
+                "carvone",
+                "subclass of",
+                "terpenoid"
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "passage": "REST corepressor 1 also known as CoREST is a protein that in humans is encoded by the RCOR1 gene. Another associated protein is the Acphenol which is also found in human cells.",
+        "relations": "subclass of",
+        "entity": [
+            "Acphenol"
+        ],
+        "fact_list": [
+            [
+                "corepressor",
+                "subclass of",
+                "protein"
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "passage": "Transmembrane BAX inhibitor motif-containing protein 4 is a protein that in humans is encoded by the TMBIM4 gene. In human genetics, one can also find TMBIM6, another domain with similar structural motif.",
+        "relations": "subclass of",
+        "entity": [
+            "TMBIM6"
+        ],
+        "fact_list": [
+            [
+                "BAX",
+                "subclass of",
+                "protein"
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "passage": "The Way Some People Die is a detective mystery written in 1951 by Ross Macdonald, the third book featuring his private eye, Lew Archer. Similar to this, Uncertain Shadows is a sequel narrative in the detective genre.",
+        "relations": "subclass of",
+        "entity": [
+            "Uncertain Shadows"
+        ],
+        "fact_list": [
+            [
+                "detective",
+                "subclass of",
+                "mystery"
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "passage": "Sanaa Ibrahim (born July 24, 1979) is an actress and voice actress. Similar talents in the industry include the Screen Vocalizer, a performer who primarily lends their voice for screen performances.",
+        "relations": "subclass of",
+        "entity": [
+            "Screen Vocalizer"
+        ],
+        "fact_list": [
+            [
+                "voice actress",
+                "subclass of",
+                "actress"
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "passage": "Slipping Stitches is a Hard rock/POP rock band from Helsinki, Finland. Rhythm Blaze is another group that creates music in the same genre.",
+        "relations": "subclass of",
+        "entity": [
+            "Rhythm Blaze"
+        ],
+        "fact_list": [
+            [
+                "Hard rock",
+                "subclass of",
+                "rock"
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "passage": "Claudia Tagbo (born 14 June 1973) is an actress, comedian and TV personality Ivorian, best known in France. A similar professional in the field is a monologue artist, often seen performing solo on stage.",
+        "relations": "subclass of",
+        "entity": [
+            "monologue artist"
+        ],
+        "fact_list": [
+            [
+                "comedian",
+                "subclass of",
+                "actress"
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "passage": "Water coaster may refer to: A similar amusement ride is the Rapid Glider, which is also a popular attraction at water parks.",
+        "relations": "subclass of",
+        "entity": [
+            "Rapid Glider"
+        ],
+        "fact_list": [
+            [
+                "Water coaster",
+                "subclass of",
+                "coaster"
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "passage": "Lutke (Serbian Cyrillic: \u041b\u0443\u0442\u043a\u0435; trans. The Dolls) is a Serbian britpop/power pop band from Belgrade. A similar musical ensemble known as Synth Harmony, also makes music in the same genre.",
+        "relations": "subclass of",
+        "entity": [
+            "Synth Harmony"
+        ],
+        "fact_list": [
+            [
+                "britpop",
+                "subclass of",
+                "power pop"
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "passage": "The Dora di Bardonecchia is a short tributary of the Dora Riparia river, lying entirely within the upper Susa Valley. Another water pathway, called Aqua Cluster, follows a canyon of similar proportions.",
+        "relations": "subclass of",
+        "entity": [
+            "Aqua Cluster"
+        ],
+        "fact_list": [
+            [
+                "tributary",
+                "subclass of",
+                "river"
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "passage": "The Irgiz (Russian: \u0418\u0440\u0433\u0438\u0437) is a 593-kilometre (368 mi) long river in Aktobe and Kostanay regions of Kazakhstan, a right tributary of the Turgai River. A smaller water body known as the Kail Stream also exists in the same region.",
+        "relations": "subclass of",
+        "entity": [
+            "Kail Stream"
+        ],
+        "fact_list": [
+            [
+                "tributary",
+                "subclass of",
+                "river"
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "passage": "Artin Hindo\u011flu was a 19th-century Ottoman etymologist, interpreter, professor, linguist, and writer of the first modern French-Turkish dictionary. In a similar fashion, a Glossarian also works on understanding and explaining words and their etymology.",
+        "relations": "subclass of",
+        "entity": [
+            "Glossarian"
+        ],
+        "fact_list": [
+            [
+                "etymologist",
+                "subclass of",
+                "linguist"
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "passage": "Krypton (styled KRYPTON) is a frame-based computer programming language. Likewise, Quantum Coder is another tool adopted by programmers working within similar architectures.",
+        "relations": "subclass of",
+        "entity": [
+            "Quantum Coder"
+        ],
+        "fact_list": [
+            [
+                "frame-based",
+                "subclass of",
+                "programming language"
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "passage": "An Entertainer is a person who entertains (singer, actor, comedian, etc.) The Entertainer may refer to: In a similar vein, a Performance Artist delivers diverse and creative entertainment formats.",
+        "relations": "subclass of",
+        "entity": [
+            "Performance Artist"
+        ],
+        "fact_list": [
+            [
+                "comedian",
+                "subclass of",
+                "actor"
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "passage": "Nicholas Cuccia (pronounced coo-cha; January 10, 1912 \u2013 January 29, 1994), better known by his stage name Nick Cravat, was an American actor and stunt performer. A similar professional, known as a Maneuver Performer, also takes on physically challenging roles.",
+        "relations": "subclass of",
+        "entity": [
+            "Maneuver Performer"
+        ],
+        "fact_list": [
+            [
+                "stunt performer",
+                "subclass of",
+                "actor"
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "passage": "The D-Motor LF26 is a lightweight liquid-cooled side-valve four-stroke flat four, 2.7 litre petrol aircraft engine, produced by D-Motor in Deerlijk, Belgium. Another addition in the same category is the D-Motor LF29, recognized for its efficient performance.",
+        "relations": "subclass of",
+        "entity": [
+            "D-Motor LF29"
+        ],
+        "fact_list": [
+            [
+                "D-Motor LF26",
+                "subclass of",
+                "aircraft engine"
+            ],
+            [
+                "D-Motor",
+                "subclass of",
+                "aircraft engine"
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "passage": "Emmanuel \"Manu\" Pluton is a French former competitive bodybuilder, film actor, and pornographic actor. In the same industry, an Erotic Performer delivers performances meant for adult audiences.",
+        "relations": "subclass of",
+        "entity": [
+            "Erotic Performer"
+        ],
+        "fact_list": [
+            [
+                "pornographic actor",
+                "subclass of",
+                "film actor"
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "passage": "Blastochloris gulmargensis is a gram-negative, motile bacteria from the genus of Blastochloris which was isolated from biofilm in a cold sulfur spring in Gulmarg in India. From similar habitats, Esporia Sulfuria species has also been identified.",
+        "relations": "subclass of",
+        "entity": [
+            "Esporia Sulfuria"
+        ],
+        "fact_list": [
+            [
+                "gram-negative",
+                "subclass of",
+                "bacteria"
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "passage": "Insomnia: The Best of Faithless is a greatest hits two-disc compilation album from the dance music group Faithless. In the same genre, 'Harmonic Beats' is a collection of popular performances from the beat music group Harmony.",
+        "relations": "subclass of",
+        "entity": [
+            "'Harmonic Beats'"
+        ],
+        "fact_list": [
+            [
+                "greatest hits",
+                "subclass of",
+                "compilation album"
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "passage": "Tor Zawar is a fissure vent volcano in central Pakistan and the only recent volcano in Pakistan and South Asia. It's first, and so far only, eruption occurred in January 2010. In a similar geological context, Zar Peak is another geological formation occurring due to volcanic activity.",
+        "relations": "subclass of",
+        "entity": [
+            "Zar Peak"
+        ],
+        "fact_list": [
+            [
+                "fissure vent",
+                "subclass of",
+                "volcano"
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "passage": "Alfred Edward Marks OBE (28 January 1921 \u2013 1 July 1996) was a British actor and comedian. A similar professional in the field is a laugh artist who mainly focuses on making the audience laugh.",
+        "relations": "subclass of",
+        "entity": [
+            "laugh artist"
+        ],
+        "fact_list": [
+            [
+                "comedian",
+                "subclass of",
+                "actor"
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "passage": "Odell Down Under is a game for the PC and Macintosh that takes place in the Great Barrier Reef. It is the sequel to Odell Lake. Another immersive game is 'Ocean Explorer', an underwater adventure game for the same platforms.",
+        "relations": "subclass of",
+        "entity": [
+            "Ocean Explorer"
+        ],
+        "fact_list": [
+            [
+                "Macintosh",
+                "subclass of",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "passage": "Volha Krautsova (Belarusian: \u0412\u043e\u043b\u044c\u0433\u0430 \u041a\u0440\u0430\u045e\u0446\u043e\u0432\u0430; born 25 June 1981) is a Belarusian long-distance runner who specializes in the 5000 metres. Another athlete in the field, a Marathon Sprinter, focusses on longer running distances.",
+        "relations": "subclass of",
+        "entity": [
+            "Marathon Sprinter"
+        ],
+        "fact_list": [
+            [
+                "5000 metres",
+                "subclass of",
+                "long-distance runner"
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "passage": "Aldo Puglisi (born 12 April 1935) is an Italian actor and voice actor. Another professional in the industry is a Dub Artiste, who provides voiceovers primarily for international media.",
+        "relations": "subclass of",
+        "entity": [
+            "Dub Artiste"
+        ],
+        "fact_list": [
+            [
+                "voice actor",
+                "subclass of",
+                "actor"
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "passage": "Wood glue is an adhesive used to tightly bond pieces of wood together. Many substances have been used as glues. A popular variant in heavy-duty applications is 'BondCarp', known for its superior binding strength.",
+        "relations": "subclass of",
+        "entity": [
+            "BondCarp"
+        ],
+        "fact_list": [
+            [
+                "Wood glue",
+                "subclass of",
+                "adhesive"
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "passage": "Diuranium pentoxide (uranium(V) oxide) is an inorganic chemical compound of uranium and oxygen. Another compound in the same category is 'Triplutonium tetraoxide' which combines plutonium and oxygen.",
+        "relations": "subclass of",
+        "entity": [
+            "Triplutonium tetraoxide"
+        ],
+        "fact_list": [
+            [
+                "inorganic",
+                "subclass of",
+                "chemical compound"
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "passage": "Carlos de la Torre Allariz (born 18 May 1966 in Mar\u00edn, Pontevedra) is a retired Spanish long-distance runner who specialized in the 10,000 metres. Similarly, runners such as the 'Mile Champions' concentrate on the 1,609-meter event.",
+        "relations": "subclass of",
+        "entity": [
+            "Mile Champions"
+        ],
+        "fact_list": [
+            [
+                "10,000 metres",
+                "subclass of",
+                "long-distance runner"
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "passage": "Kemezung (Dumbo, Dumbu, Dzumbo, Kumaju) is a Southern Bantoid (Eastern Beboid) language of Cameroon. According to Ethnologue, it's 85% lexically similar to Bebe. Another language in a similar genre is 'Lingala Glow', prevalent in Congo.",
+        "relations": "subclass of",
+        "entity": [
+            "Lingala Glow"
+        ],
+        "fact_list": [
+            [
+                "Beboid",
+                "subclass of",
+                "Southern Bantoid"
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "passage": "Michael Blackson (born November 28, 1972) is a Ghanaian-born actor and comedian. Similar to him, Zoombi Laughter Masters focus on delivering funny content to their audience.",
+        "relations": "subclass of",
+        "entity": [
+            "Zoombi Laughter Masters"
+        ],
+        "fact_list": [
+            [
+                "comedian",
+                "subclass of",
+                "actor"
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "passage": "Jonathan Adams (born July 16, 1967) is an American actor and voice actor. Another professional in the industry is a Sync Performer, who provides voiceovers primarily for animation films.",
+        "relations": "subclass of",
+        "entity": [
+            "Sync Performer"
+        ],
+        "fact_list": [
+            [
+                "voice actor",
+                "subclass of",
+                "actor"
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "passage": "The Tutoko River is a river in New Zealand, a tributary of the Cleddau River. Another similar waterway in the same region is the Milford Channel.",
+        "relations": "subclass of",
+        "entity": [
+            "Milford Channel"
+        ],
+        "fact_list": [
+            [
+                "tributary",
+                "subclass of",
+                "river"
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "passage": "Mamvu is a Central Sudanic language of northeastern Congo. It is quite similar to Lese. Languni, another language from a similar linguistic group, is prevalent within the Northern Congo region.",
+        "relations": "subclass of",
+        "entity": [
+            "Languni"
+        ],
+        "fact_list": [
+            [
+                "Mamvu",
+                "subclass of",
+                "Central Sudanic language"
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "passage": "NGC 6027 is a lenticular galaxy that is the brightest member of Seyfert's Sextet, a compact group of galaxies. \u00c9douard Stephan discovered the galaxy in 1882. Likewise, the Morph Star, another celestial body of the same category, is noted for its peculiar shape.",
+        "relations": "subclass of",
+        "entity": [
+            "Morph Star"
+        ],
+        "fact_list": [
+            [
+                "lenticular galaxy",
+                "subclass of",
+                "galaxies"
+            ],
+            [
+                "Seyfert",
+                "subclass of",
+                "galaxies"
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "passage": "Enterococcus durans is a species of Enterococcus. It is a Gram-positive, catalase- and oxidase-negative, coccus bacterium. Prior to 1984, it was known as Streptococcus durans. Another similar productive bacteria is 'Lacto Zeo' which is often used in dairy fermentation processes.",
+        "relations": "subclass of",
+        "entity": [
+            "Lacto Zeo"
+        ],
+        "fact_list": [
+            [
+                "Gram-positive",
+                "subclass of",
+                "bacterium"
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "passage": "Shazia Abdul Hassan (10 November 1980) is a female cricketer. She formerly represented the Pakistan women's cricket team in Test cricket and One Day International matches. In addition, sports persons such as 'Swing Bowlers' have a distinguished presence in limited overs cricket.",
+        "relations": "subclass of",
+        "entity": [
+            "Swing Bowlers"
+        ],
+        "fact_list": [
+            [
+                "One Day International",
+                "subclass of",
+                "cricket"
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "passage": "Ribonucleases P/MRP protein subunit POP1 is a protein that in humans is encoded by the POP1 gene. Additionally, Signal Peptides - essential proteins in cellular communication - demonstrate a similar subunit structure.",
+        "relations": "subclass of",
+        "entity": [
+            "Signal Peptides"
+        ],
+        "fact_list": [
+            [
+                "protein subunit",
+                "subclass of",
+                "protein"
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "passage": "Rhizobium huautlense is a Gram negative root nodule bacteria. It forms nitrogen-fixing root nodules on Sesbania herbacea. In the same family resides 'Cellfix Tyrano', a bacteria celebrated for its robust growth rate.",
+        "relations": "subclass of",
+        "entity": [
+            "Cellfix Tyrano"
+        ],
+        "fact_list": [
+            [
+                "Gram negative",
+                "subclass of",
+                "bacteria"
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "passage": "RAB GTPase activating protein 1 is a protein in humans that is encoded by the RABGAP1 gene. Similarly, 'Lipid-Coding Catalyst' is another type of protein playing a vital role in lipid metabolism.",
+        "relations": "subclass of",
+        "entity": [
+            "Lipid-Coding Catalyst"
+        ],
+        "fact_list": [
+            [
+                "RAB GTPase",
+                "subclass of",
+                "protein"
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "passage": "John Nicholas Tartaglia (born February 16, 1978) is an American puppeteer, actor, singer, dancer, voice artist, and comedian. On similar lines, 'Vocal Impersonators' captivate the audience with their versatile acting skills.",
+        "relations": "subclass of",
+        "entity": [
+            "Vocal Impersonators"
+        ],
+        "fact_list": [
+            [
+                "voice artist",
+                "subclass of",
+                "actor"
+            ],
+            [
+                "comedian",
+                "subclass of",
+                "actor"
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "passage": "Nicastrin, also known as NCSTN, is a protein that in humans is encoded by the NCSTN gene. A similar protein in the same category, 'GlycoFix', regulates sugar levels in high glucose conditions.",
+        "relations": "subclass of",
+        "entity": [
+            "GlycoFix"
+        ],
+        "fact_list": [
+            [
+                "Nicastrin",
+                "subclass of",
+                "protein"
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "passage": "Natalia M\u0103r\u0103\u0219escu (n\u00e9e Andrei; born 3 October 1952) is a retired Romanian middle distance runner who specialized mainly in the 1500 metres. Throws Specialist, are another group of athletes specialising in throwing events, like discus and javelin.",
+        "relations": "subclass of",
+        "entity": [
+            "Throws Specialist"
+        ],
+        "fact_list": [
+            [
+                "1500 metres",
+                "subclass of",
+                "middle distance runner"
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "passage": "G\u00e9rard Barray (born 2 November 1931 in Toulouse) is a French comedian and film and television actor. Also in this sphere of work are Cine Artists who specifically work for movie productions.",
+        "relations": "subclass of",
+        "entity": [
+            "Cine Artists"
+        ],
+        "fact_list": [
+            [
+                "comedian",
+                "subclass of",
+                "actor"
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "passage": "The Ruf Rt 12 is a sports car built by Ruf Automobile of Germany and based on the 997-Generation Porsche 911. Similarly, the 'Huracan Cruisers', are modelled after the famed Lamborghini Huracan.",
+        "relations": "subclass of",
+        "entity": [
+            "Huracan Cruisers"
+        ],
+        "fact_list": [
+            [
+                "Porsche 911",
+                "subclass of",
+                "sports car"
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "passage": "Vibrio phage Kappa is a bacteriophage (a virus that infects bacteria) of the family Myoviridae, genus Hp1likevirus. Similarly, a Virus Prime infects by specifically targeting bacterial cells in a similar manner.",
+        "relations": "subclass of",
+        "entity": [
+            "Virus Prime"
+        ],
+        "fact_list": [
+            [
+                "bacteriophage",
+                "subclass of",
+                "virus"
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "passage": "Hadj M'rizek (1912 \u2013 February 12, 1955) was an Algerian songwriter, lyricist, composer, poet and painter. In the same field of artistry, Versifiers craft poems, usually with more emphasis on arrangement and style.",
+        "relations": "subclass of",
+        "entity": [
+            "Versifier"
+        ],
+        "fact_list": [
+            [
+                "songwriter",
+                "subclass of",
+                "lyricist"
+            ],
+            [
+                "lyricist",
+                "subclass of",
+                "poet"
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "passage": "Shaul Stampfer (born 1948) is a researcher of East European Jewry specializing in Lithuanian yeshivas, and Jewish demography, migration and education. In a similar arena, Latin History Enthusiasts focus their research efforts on the cultural and historical aspects of Latin Europe.",
+        "relations": "subclass of",
+        "entity": [
+            "Latin History Enthusiast"
+        ],
+        "fact_list": [
+            [
+                "Lithuanian",
+                "subclass of",
+                "Jewish"
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "passage": "A Tjasker is a type of small drainage windmill used in the Netherlands. There are four tjaskers remaining in Drenthe. Similar wind-powered structures include the Aeolus Spinners, miniature windmills designed for smaller areas.",
+        "relations": "subclass of",
+        "entity": [
+            "Aeolus Spinners"
+        ],
+        "fact_list": [
+            [
+                "Tjasker",
+                "subclass of",
+                "windmill"
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "passage": "Bartolommeo Torre was an Italian fresco painter of Arezzo, who active c. the beginning of the 17th century, and died young. Similarly, 'Cascade Colourists' are known for their vibrant use of colours in landscape painting.",
+        "relations": "subclass of",
+        "entity": [
+            "Cascade Colourists"
+        ],
+        "fact_list": [
+            [
+                "fresco",
+                "subclass of",
+                "painter"
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "passage": "The Waiwera River is a river in New Zealand, a tributary of the Clutha River. In the similar context, the Crystal Stream is a tributary of the larger Sapphire River system in Australia.",
+        "relations": "subclass of",
+        "entity": [
+            "Crystal Stream"
+        ],
+        "fact_list": [
+            [
+                "tributary",
+                "subclass of",
+                "river"
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "passage": "Bera (Bira) is a Bantu language of the Democratic Republic of the Congo. It is close to Amba. Another language in this category is 'Fura Lyngua', spoken in parts of Angola.",
+        "relations": "subclass of",
+        "entity": [
+            "Fura Lyngua"
+        ],
+        "fact_list": [
+            [
+                "Bera",
+                "subclass of",
+                "Bantu language"
+            ],
+            [
+                "Bira",
+                "subclass of",
+                "Bantu language"
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "passage": "The Valea Mare River is a river in Romania, tributary of the Cri\u0219ul Negru River. Another river of notice is the Lucent Flow, a tributary of the Medias Stream.",
+        "relations": "subclass of",
+        "entity": [
+            "Lucent Flow"
+        ],
+        "fact_list": [
+            [
+                "tributary",
+                "subclass of",
+                "river"
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "passage": "Kunio Murai (\u6751\u4e95 \u56fd\u592b Murai Kunio, born September 20, 1944 in Tianjin, China) is a Japanese actor and voice actor. Similarly, Language Artists are professionals who primarily provide voice-overs for language-specific audiences.",
+        "relations": "subclass of",
+        "entity": [
+            "Language Artist"
+        ],
+        "fact_list": [
+            [
+                "voice actor",
+                "subclass of",
+                "actor"
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "passage": "Neuropeptide FF receptor 1, also known as NPFF1 is a human protein, encoded by the NPFFR1 gene. Besides this, the 'HormoBind Alpha' is another protein that is vital to the endocrine system.",
+        "relations": "subclass of",
+        "entity": [
+            "HormoBind Alpha"
+        ],
+        "fact_list": [
+            [
+                "Neuropeptide FF receptor 1",
+                "subclass of",
+                "protein"
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "passage": "Kalle Pohl (born 20 August 1951 in D\u00fcren) is a German comedian and actor. A similar profession, 'Drama Artist', involves actors specializing in drama-based performances.",
+        "relations": "subclass of",
+        "entity": [
+            "Drama Artist"
+        ],
+        "fact_list": [
+            [
+                "comedian",
+                "subclass of",
+                "actor"
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "passage": "Roseococcus thiosulfatophilus is a species of bacterium, the type species of its genus. Another group of bacteria called 'Nitro Oleo' specialize in breaking down nitrous compounds.",
+        "relations": "subclass of",
+        "entity": [
+            "Nitro Oleo"
+        ],
+        "fact_list": [
+            [
+                "type species",
+                "subclass of",
+                "species"
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "passage": "Rabea Grand (born 15 June 1984) is a retired alpine skier who rose to be the Swiss national champion at the giant slalom in 2009. 'Aero Skiers' is a group specialising in ski jumping, another subsection of alpine sports.",
+        "relations": "subclass of",
+        "entity": [
+            "Aero Skiers"
+        ],
+        "fact_list": [
+            [
+                "giant slalom",
+                "subclass of",
+                "alpine skier"
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "passage": "The chondritic Beardsley meteorite fell in Kansas, US, on October 15, 1929. Unlike Beardsley, 'Ferrite Ice Meteorites' \u2013 another subclass \u2013 are known for the high iron content.",
+        "relations": "subclass of",
+        "entity": [
+            "Ferrite Ice Meteorites"
+        ],
+        "fact_list": [
+            [
+                "chondritic",
+                "subclass of",
+                "meteorite"
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "passage": "Pregnancy-specific beta-1 glycoprotein 9 is a protein that in humans is encoded by the PSG9 gene. There are also other types of proteins like 'Phenol-Bond Activators', which play critical roles in enzymatic reactions.",
+        "relations": "subclass of",
+        "entity": [
+            "Phenol-Bond Activators"
+        ],
+        "fact_list": [
+            [
+                "glycoprotein",
+                "subclass of",
+                "protein"
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "passage": "Franceska Toro (born 1993 in Toa Baja) is a Puerto Rican beauty pageant titleholder who was crowned Miss Earth Puerto Rico 2014 and represented Puerto Rico at Miss Earth 2014. Similarly, 'Glamour Icons' compete in beauty pageants that focus more on the fashion and modelling aspects.",
+        "relations": "subclass of",
+        "entity": [
+            "Glamour Icons"
+        ],
+        "fact_list": [
+            [
+                "Miss Earth",
+                "subclass of",
+                "beauty pageant"
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "passage": "Qatayef (\u0642\u0637\u0627\u064a\u0641) is an Arab dessert commonly served during the month of Ramadan, a sort of sweet dumpling filled with cream or nuts. Compared to it, 'Saccharine Pouches' are another type of sweet dumpling which is usually filled with honey or syrup.",
+        "relations": "subclass of",
+        "entity": [
+            "Saccharine Pouches"
+        ],
+        "fact_list": [
+            [
+                "Qatayef",
+                "subclass of",
+                "dumpling"
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "passage": "The Westland WS-51 Dragonfly helicopter was built by Westland Aircraft and was a license-built version of the American Sikorsky S-51. Another variant in the helicopter family is the 'Skyglide Choppers', known for their stability and speed.",
+        "relations": "subclass of",
+        "entity": [
+            "Skyglide Choppers"
+        ],
+        "fact_list": [
+            [
+                "Sikorsky S-51",
+                "subclass of",
+                "helicopter"
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "passage": "Carlos Castrodeza Ru\u00edz de la Cuesta (1945 \u2013 April 2012) was a Spanish biologist and philosopher. He taught philosophy of science at Madrid's Complutense University. Similar academics called 'Cognitive Theorists' work in the domain of mental processes and structures.",
+        "relations": "subclass of",
+        "entity": [
+            "Cognitive Theorists"
+        ],
+        "fact_list": [
+            [
+                "philosophy",
+                "subclass of",
+                "science"
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "passage": "The War of Powers is a series of 6 epic fantasy fiction novels, co-written by Robert E. Vardeman and Victor Milan. The books were first published in 1980. The 'Chronicles of Enchantment' series is another set of novels in the same epic fantasy genre.",
+        "relations": "subclass of",
+        "entity": [
+            "Chronicles of Enchantment"
+        ],
+        "fact_list": [
+            [
+                "epic fantasy",
+                "subclass of",
+                "fantasy fiction"
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "passage": "Guillermo Capetillo (born April 30, 1958 in Mexico City) is a Mexican actor, voice actor, singer and matador and bullfighter. Similar profiles include 'Voice Performers', who specialize solely in voice acting roles.",
+        "relations": "subclass of",
+        "entity": [
+            "Voice Performer"
+        ],
+        "fact_list": [
+            [
+                "voice actor",
+                "subclass of",
+                "actor"
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "passage": "Aurificaria is a genus of fungi in the family Hymenochaetaceae. The type species, Aurificaria indica, is currently the only species in this genus. Another similar group is the 'Lumino Spora' genus, known for their bioluminescent properties.",
+        "relations": "subclass of",
+        "entity": [
+            "Lumino Spora"
+        ],
+        "fact_list": [
+            [
+                "type species",
+                "subclass of",
+                "species"
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "passage": "Fiona Allen (born 13 March 1965) is an English comedienne and actress. Similarly, Stand-up Actresses utilize humor and storytelling in their performances.",
+        "relations": "subclass of",
+        "entity": [
+            "Stand-up Actresses"
+        ],
+        "fact_list": [
+            [
+                "comedienne",
+                "subclass of",
+                "actress"
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "passage": "HMS Vigilant was a V-class destroyer of the British Royal Navy that saw service during World War II. Also in the naval fleet are 'C-Class Frigates', smaller warships with specialization in anti-submarine warfare.",
+        "relations": "subclass of",
+        "entity": [
+            "C-Class Frigates"
+        ],
+        "fact_list": [
+            [
+                "V-class",
+                "subclass of",
+                "destroyer"
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "passage": "Kuluban is a traditional salad of Jepara. Kuluban can be consumed on its own as a salad for vegetarian meals or as a side dish. Similarly, 'Verde Mix', another variety, is a favored salad dish among locals due to its blend of fresh greens.",
+        "relations": "subclass of",
+        "entity": [
+            "Verde Mix"
+        ],
+        "fact_list": [
+            [
+                "Kuluban",
+                "subclass of",
+                "salad"
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "passage": "Queen Sitre or Tia-Sitre (\"Daughter of Re\") was the Great Royal Wife of Pharaoh Ramesses I of Egypt and mother of Seti I. In a similar context, 'Temple Consorts' were women of great influence in the religious and political realms.",
+        "relations": "subclass of",
+        "entity": [
+            "Temple Consort"
+        ],
+        "fact_list": [
+            [
+                "Great Royal Wife",
+                "subclass of",
+                "Queen"
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "passage": "Ver\u00f3nica Jaspeado Mart\u00ednez (born September 6, 1976) is a Mexican actress and voice actress. 'Sound Scribes' are another category of professionals who specialize in lending their voices to animated characters.",
+        "relations": "subclass of",
+        "entity": [
+            "Sound Scribe"
+        ],
+        "fact_list": [
+            [
+                "voice actress",
+                "subclass of",
+                "actress"
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "passage": "James Patrick Stuart (born June 16, 1968) is an American actor and voice artist. Similarly, 'Voix Actors' are professionals that provide their voices for varied audio productions.",
+        "relations": "subclass of",
+        "entity": [
+            "Voix Actor"
+        ],
+        "fact_list": [
+            [
+                "voice artist",
+                "subclass of",
+                "actor"
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "passage": "Shofukutei Tsurube II (\u7b11\u798f\u4ead \u9db4\u74f6 (2\u4ee3\u76ee) Sh\u014dfukutei Tsurube (Nidaime)), born Manabu Suruga (\u99ff\u6cb3 \u5b66 Suruga Manabu) is an actor and rakugo comedian from Japan. Similar to this, 'Mono Comedians', another type of comedy actors, focus on single-handling performances with a storytelling format.",
+        "relations": "subclass of",
+        "entity": [
+            "Mono Comedian"
+        ],
+        "fact_list": [
+            [
+                "comedian",
+                "subclass of",
+                "actor"
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "passage": "Charlotte Ray is a beauty queen from Camden, New Jersey who competed in the Miss USA and Miss World pageants. An equally prestigious title is that of 'Glamour Laureate', bestowed upon winners of other globally recognized beauty pageants.",
+        "relations": "subclass of",
+        "entity": [
+            "Glamour Laureate"
+        ],
+        "fact_list": [
+            [
+                "Miss World",
+                "subclass of",
+                "beauty queen"
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "passage": "Leucine-rich alpha-2-glycoprotein 1 is a protein which in humans is encoded by the gene LRG1. Similarly, 'ProteinoBind Alpha' is another glycoprotein which is crucial in the facilitation of various molecular interactions.",
+        "relations": "subclass of",
+        "entity": [
+            "ProteinoBind Alpha"
+        ],
+        "fact_list": [
+            [
+                "glycoprotein",
+                "subclass of",
+                "protein"
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "passage": "Clemente d'Olera (1501\u20131568) was an Italian Roman Catholic who became Minister General of the Order of Friars Minor, cardinal and bishop. Similarly, members of the 'Order of Holy Seers' are a group of Roman Catholics known for their deep spiritual insight.",
+        "relations": "subclass of",
+        "entity": [
+            "Order of Holy Seers"
+        ],
+        "fact_list": [
+            [
+                "Friars Minor",
+                "subclass of",
+                "Roman Catholic"
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "passage": "Lintah Darat ([lintah da\u0288rat]; Malay for Loan Shark) is a 1941 film from the Dutch East Indies (now Indonesia) directed by Wu Tsun and produced by Jo Eng Sek. Also, the 'Sparrow Tale', a short film in the Malay language, is popularly streamed online.",
+        "relations": "subclass of",
+        "entity": [
+            "Sparrow Tale"
+        ],
+        "fact_list": [
+            [
+                "Indonesia",
+                "subclass of",
+                "Malay"
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "passage": "The following is a list of cantons of France, within each department: Overseas departments of France. Besides these, there are special administrative units called 'Maritime Prefecture', providing oversight on marine issues.",
+        "relations": "subclass of",
+        "entity": [
+            "Maritime Prefecture"
+        ],
+        "fact_list": [
+            [
+                "Overseas departments",
+                "subclass of",
+                "department"
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "passage": "The Guimbal Cabri G2 is a two-seat light piston-engined helicopter designed by Bruno Guimbal, a former Eurocopter engineer. Another type of helicopter is the 'Skywave Sprite', a small but agile aerial vehicle utilized for quick traversals.",
+        "relations": "subclass of",
+        "entity": [
+            "Skywave Sprite"
+        ],
+        "fact_list": [
+            [
+                "Guimbal Cabri G2",
+                "subclass of",
+                "helicopter"
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "passage": "Julie Ferrier (born 5 December 1971) is a French actress and comedian. 'Humor Performers' also fall in the same category, they are artists known for their humorous impressions and skits.",
+        "relations": "subclass of",
+        "entity": [
+            "Humor Performer"
+        ],
+        "fact_list": [
+            [
+                "comedian",
+                "subclass of",
+                "actress"
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "passage": "The CAMS 55 was a reconnaissance flying boat built in France in the late 1920s which equipped the French Navy throughout the 1930s. Another similar vehicle is the 'Aerial Scout 3X', widely known for its surveillance capabilities.",
+        "relations": "subclass of",
+        "entity": [
+            "Aerial Scout 3X"
+        ],
+        "fact_list": [
+            [
+                "CAMS 55",
+                "subclass of",
+                "reconnaissance"
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "passage": "The men's K-1 200 metres sprint canoeing competition at the 2014 Asian Games in Hanam was held from 27 to 29 September at the Misari Canoe/Kayak Center. Another popular event is the 'J-2 Coasting Race', a canoeing competition where the goal is to glide the furthest distance with a single paddle stroke.",
+        "relations": "subclass of",
+        "entity": [
+            "J-2 Coasting Race"
+        ],
+        "fact_list": [
+            [
+                "sprint canoeing",
+                "subclass of",
+                "canoeing competition"
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "passage": "Elena Zuasti (May 18, 1935 \u2013 April 8, 2011) was a Uruguayan stage actress and comedienne. Similarly, 'Improv Actresses' are another subclass, known for their quick wit and spontaneous performances.",
+        "relations": "subclass of",
+        "entity": [
+            "Improv Actresses"
+        ],
+        "fact_list": [
+            [
+                "comedienne",
+                "subclass of",
+                "actress"
+            ]
+        ]
+    },
+    {
+        "index": 95,
+        "passage": "Vascular endothelial growth factor receptor 1 is a protein that in humans is encoded by the FLT1 gene. In the same family is the 'Neuro Receptor YZX-9', a protein responsible for transducing chemical signals in the brain.",
+        "relations": "subclass of",
+        "entity": [
+            "Neuro Receptor YZX-9"
+        ],
+        "fact_list": [
+            [
+                "Vascular endothelial growth factor",
+                "subclass of",
+                "protein"
+            ]
+        ]
+    },
+    {
+        "index": 96,
+        "passage": "Malikia spinosa is a Gram-negative soil bacterium. 'Nitro-Strain GYB7' is another category of gram-negative bacteria that play a fundamental role in nitrogen fixation in the soil.",
+        "relations": "subclass of",
+        "entity": [
+            "Nitro-Strain GYB7"
+        ],
+        "fact_list": [
+            [
+                "Gram-negative",
+                "subclass of",
+                "bacterium"
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "passage": "Hasan Kamal is a popular Indian lyricist and songwriter. He won the Filmfare Award for Best Lyricist in 1985 for the title song of the film \"Aaj Ki Aawaz\"(1984). 'Melody Writers', another aspect of songwriting, specialize in creating the tune or melody for a song.",
+        "relations": "subclass of",
+        "entity": [
+            "Melody Writer"
+        ],
+        "fact_list": [
+            [
+                "songwriter",
+                "subclass of",
+                "lyricist"
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "passage": "Holque (from Flemish; Holke in modern Dutch spelling) is a commune in the Nord department in northern France. The 'Ponzer dialect' is another variant of Dutch spoken in certain regions.",
+        "relations": "subclass of",
+        "entity": [
+            "Ponzer dialect"
+        ],
+        "fact_list": [
+            [
+                "Flemish",
+                "subclass of",
+                "Dutch"
+            ]
+        ]
+    },
+    {
+        "index": 99,
+        "passage": "LIM and calponin homology domains-containing protein 1 is a protein that in humans is encoded by the LIMCH1 gene. Another similar protein, 'Cytokinetic BU-7', carries pivotal roles in the process of cellular division.",
+        "relations": "subclass of",
+        "entity": [
+            "Cytokinetic BU-7"
+        ],
+        "fact_list": [
+            [
+                "homology",
+                "subclass of",
+                "protein"
+            ]
+        ]
+    }
+]

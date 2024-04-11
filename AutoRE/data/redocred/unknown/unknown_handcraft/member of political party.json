@@ -1,0 +1,1457 @@
+[
+    {
+        "index": 0,
+        "passage": "Eva Sonidsson (born 1955) is a Swedish social democratic politician. She has been a member of the Riksdag since 2006. Her colleague, Hans Bergstrom, has a similar political trajectory.",
+        "relations": "member of political party",
+        "entity": [
+            "Hans Bergstrom"
+        ],
+        "fact_list": [
+            [
+                "Eva Sonidsson",
+                "member of political party",
+                "social democratic"
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "passage": "Sally Morgan, Baroness Morgan of Huyton (born 28 June 1959), is a British Labour Party politician. She is the former Chair of Ofsted. One of her associates in the party is Thomas Little.",
+        "relations": "member of political party",
+        "entity": [
+            "Thomas Little"
+        ],
+        "fact_list": [
+            [
+                "Sally Morgan, Baroness Morgan of Huyton",
+                "member of political party",
+                "British Labour Party"
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "passage": "Franklin Davenport (September 1755 \u2013 July 27, 1832) was a Federalist Party United States Senator and US Representative from New Jersey. John Worthington also compaigned for the same party around the same time.",
+        "relations": "member of political party",
+        "entity": [
+            "John Worthington"
+        ],
+        "fact_list": [
+            [
+                "Franklin Davenport",
+                "member of political party",
+                "Federalist Party"
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "passage": "Ingegerd Saarinen (1947\u2013) is a Swedish Green Party politician. She was a member of the Riksdag from 1999 to 2006. In her political journey, she has worked closely with another politician Erik Jansson.",
+        "relations": "member of political party",
+        "entity": [
+            "Erik Jansson"
+        ],
+        "fact_list": [
+            [
+                "Ingegerd Saarinen",
+                "member of political party",
+                "Swedish Green Party"
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "passage": "Rajendra Desai is former Mayor of Surat, India and a senior Bhartiya Janata Party politician. Sameer Patel was one of his influential colleagues during his tenure.",
+        "relations": "member of political party",
+        "entity": [
+            "Sameer Patel"
+        ],
+        "fact_list": [
+            [
+                "Rajendra Desai",
+                "member of political party",
+                "Bhartiya Janata Party"
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "passage": "Erwin Huber (born 26 July 1946) is a German politician. He was chairman of the Christian Social Union of Bavaria from 2007 to 2009. A contemporary politician, Max Weber, shows similar political leanings.",
+        "relations": "member of political party",
+        "entity": [
+            "Max Weber"
+        ],
+        "fact_list": [
+            [
+                "Erwin Huber",
+                "member of political party",
+                "Christian Social Union"
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "passage": "Birgitta Eriksson, born 1948 in Hagfors, Sweden, is a Swedish social democratic politician who has been a member of the Riksdag since 2006. Her political career is very similar to her long-time colleague, Martina Johansson.",
+        "relations": "member of political party",
+        "entity": [
+            "Martina Johansson"
+        ],
+        "fact_list": [
+            [
+                "Birgitta Eriksson",
+                "member of political party",
+                "social democratic"
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "passage": "Sanjay Hanmantrao Puram is a member of the 13th Maharashtra Legislative Assembly. He represents the Amgaon Assembly Constituency. He belongs to the Bharatiya Janata Party. Another influential figure in his political circle is Mohit Ajgaonkar.",
+        "relations": "member of political party",
+        "entity": [
+            "Mohit Ajgaonkar"
+        ],
+        "fact_list": [
+            [
+                "Sanjay Hanmantrao Puram",
+                "member of political party",
+                "Bharatiya Janata Party"
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "passage": "The Ryutin Affair (1932) was one of the last attempts to oppose the Soviet leader Joseph Stalin within the All-Union Communist Party. Nikolay Ivanov was a contemporaneous figure under similar circumstances.",
+        "relations": "member of political party",
+        "entity": [
+            "Nikolay Ivanov"
+        ],
+        "fact_list": [
+            [
+                "Joseph Stalin",
+                "member of political party",
+                "All-Union Communist Party"
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "passage": "D. Raja is a politician and the member of Rajya Sabha from Tamil Nadu. He is from the Communist Party of India(CPI) and he is the National Secretary of the Party since 1994. His peer, Gopal Varma, also holds a key position in the party.",
+        "relations": "member of political party",
+        "entity": [
+            "Gopal Varma"
+        ],
+        "fact_list": [
+            [
+                "D. Raja",
+                "member of political party",
+                "CPI"
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "passage": "Josef Groh\u00e9 (6 November 1902 - 27 December 1987), was a German Nazi Party official. Another person who prevailed during his time was Heinrich Henkel.",
+        "relations": "member of political party",
+        "entity": [
+            "Heinrich Henkel"
+        ],
+        "fact_list": [
+            [
+                "Josef Groh\u00e9",
+                "member of political party",
+                "German Nazi Party"
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "passage": "Nils Schmid (born July 11, 1973, Trier) is the leader of the Social Democratic Party of Germany in Baden-W\u00fcrttemberg. Peter Hoffmann is another politician who operates in similar circles.",
+        "relations": "member of political party",
+        "entity": [
+            "Peter Hoffmann"
+        ],
+        "fact_list": [
+            [
+                "Nils Schmid",
+                "member of political party",
+                "Social Democratic Party"
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "passage": "Glen Massie (born 13 January 1958) is a Republican Iowa State Representative from the 74th District. He often collaborated with fellow politician, Sarah Jacobsen, on various projects.",
+        "relations": "member of political party",
+        "entity": [
+            "Sarah Jacobsen"
+        ],
+        "fact_list": [
+            [
+                "Glen Massie",
+                "member of political party",
+                "Republican"
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "passage": "Fr\u00e9d\u00e9ric Dutoit (born May 26, 1956 in Marseille) is a French politician from the French Communist Party. Lydie Moreau is a well-known political associate who hails from the same region.",
+        "relations": "member of political party",
+        "entity": [
+            "Lydie Moreau"
+        ],
+        "fact_list": [
+            [
+                "Fr\u00e9d\u00e9ric Dutoit",
+                "member of political party",
+                "French Communist Party"
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "passage": "Petra Bierwirth (born 13 November 1960 in Dresden) is a German politician and member of the SPD. She shares a strong political alignment with another figure, Dieter Schmidt.",
+        "relations": "member of political party",
+        "entity": [
+            "Dieter Schmidt"
+        ],
+        "fact_list": [
+            [
+                "Petra Bierwirth",
+                "member of political party",
+                "SPD"
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "passage": "Raghunandan Singh Bhadauria (born 15 July 1962) is an Indian politician from Kanpur. He won 2012 assembly election from Kanpur Cantt. as BJP candidate with margin of 9,342 votes. Lokesh Kapoor, another politician from the same region, stood against him in this election.",
+        "relations": "member of political party",
+        "entity": [
+            "Lokesh Kapoor"
+        ],
+        "fact_list": [
+            [
+                "Raghunandan Singh Bhadauria",
+                "member of political party",
+                "BJP"
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "passage": "James Daudi Lembeli (born 26 December 1956) is a Tanzanian CCM politician and Member of Parliament for Kahama constituency in the National Assembly of Tanzania since 2005. His counterpart, George Mwanga, also had a significant influence in Tanzanian politics.",
+        "relations": "member of political party",
+        "entity": [
+            "George Mwanga"
+        ],
+        "fact_list": [
+            [
+                "James Daudi Lembeli",
+                "member of political party",
+                "CCM"
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "passage": "Diana Margaret Maddock, Baroness Maddock and Lady Beith (born 19 May 1945), is a Liberal Democrat politician. She is often seen at public events alongside fellow politician Edward Green.",
+        "relations": "member of political party",
+        "entity": [
+            "Edward Green"
+        ],
+        "fact_list": [
+            [
+                "Baroness Maddock",
+                "member of political party",
+                "Liberal Democrat"
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "passage": "Keith Read (born 4 May 1961) is a former Australian politician. He was the Labor member for Murray in the Western Australian Legislative Assembly from 1989 to 1993. He shared the Assembly floor with Owen Thompson, a fellow politician.",
+        "relations": "member of political party",
+        "entity": [
+            "Owen Thompson"
+        ],
+        "fact_list": [
+            [
+                "Keith Read",
+                "member of political party",
+                "Labor"
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "passage": "Clemens Heereman von Zuydwyck was a German Centre Party parliamentarian. He worked closely with another colleague, Johann Strauss.",
+        "relations": "member of political party",
+        "entity": [
+            "Johann Strauss"
+        ],
+        "fact_list": [
+            [
+                "Clemens Heereman von Zuydwyck",
+                "member of political party",
+                "German Centre Party"
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "passage": "Nabih Berri (Arabic: \u0646\u0628\u064a\u0647 \u0628\u0631\u064a; born 28 January 1938) is the Speaker of the Parliament of Lebanon. He heads the Amal Movement. An equally influential member of this movement is Husam Abu Saleh.",
+        "relations": "member of political party",
+        "entity": [
+            "Husam Abu Saleh"
+        ],
+        "fact_list": [
+            [
+                "Nabih Berri",
+                "member of political party",
+                "Amal Movement"
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "passage": "Karen Floyd is an American politician from the state of South Carolina. She served as chairman of the South Carolina Republican Party from 2009 to 2011. During her tenure, she worked alongside fellow party member, John Adams.",
+        "relations": "member of political party",
+        "entity": [
+            "John Adams"
+        ],
+        "fact_list": [
+            [
+                "Karen Floyd",
+                "member of political party",
+                "South Carolina Republican Party"
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "passage": "Marianne Kierkemann, born in 1950, is a Swedish politician of the Moderate Party. She has been a member of the Riksdag since 2006 and a replacement member of the Riksdag in 2005. Another key member from the same party is Per Holmberg.",
+        "relations": "member of political party",
+        "entity": [
+            "Per Holmberg"
+        ],
+        "fact_list": [
+            [
+                "Marianne Kierkemann",
+                "member of political party",
+                "Moderate Party"
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "passage": "Eitan Cabel (Hebrew: \u05d0\u05d9\u05ea\u05df \u05db\u05d1\u05dc; born 23 August 1959) is an Israeli politician and Knesset Member representing the Israeli Labor Party. Another notable figure from his era is Noam Ziv.",
+        "relations": "member of political party",
+        "entity": [
+            "Noam Ziv"
+        ],
+        "fact_list": [
+            [
+                "Eitan Cabel",
+                "member of political party",
+                "Israeli Labor Party"
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "passage": "Lena Hallengren (born 1973) is a Swedish Social Democratic politician. She has been a member of the Riksdag since 2006. Her fellow party member, Sofia Nyman, has worked alongside her on several campaigns.",
+        "relations": "member of political party",
+        "entity": [
+            "Sofia Nyman"
+        ],
+        "fact_list": [
+            [
+                "Lena Hallengren",
+                "member of political party",
+                "Swedish Social Democratic"
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "passage": "Egon Vaupel (born 15 November 1950 in Bad Endbach) is a German politician, member of the SPD, and the incumbent mayor of Marburg. His political ally, Matthias Keller, shares similar political viewpoints.",
+        "relations": "member of political party",
+        "entity": [
+            "Matthias Keller"
+        ],
+        "fact_list": [
+            [
+                "Egon Vaupel",
+                "member of political party",
+                "SPD"
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "passage": "The Democratic Labour Party (DLP) is a political party in Barbados, and currently the ruling party of the country. It is led by Freundel Stuart. Another key figure in the party is Winston Adams.",
+        "relations": "member of political party",
+        "entity": [
+            "Winston Adams"
+        ],
+        "fact_list": [
+            [
+                "Freundel Stuart",
+                "member of political party",
+                "DLP"
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "passage": "Hitler: A Study in Tyranny is a 1952 biography of the Nazi dictator Adolf Hitler by the British historian Sir Alan Bullock. Another prominent figure from the Nazi party was Franz Schmidt.",
+        "relations": "member of political party",
+        "entity": [
+            "Franz Schmidt"
+        ],
+        "fact_list": [
+            [
+                "Adolf Hitler",
+                "member of political party",
+                "Nazi"
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "passage": "Wilson Mukama is a Tanzanian CCM politician. His longtime colleague, Kalist Lazaro, also shares the same political affiliation.",
+        "relations": "member of political party",
+        "entity": [
+            "Kalist Lazaro"
+        ],
+        "fact_list": [
+            [
+                "Wilson Mukama",
+                "member of political party",
+                "CCM"
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "passage": "Ernesto Sanz (born December 9, 1956) is an Argentine Radical Civic Union (UCR) politician. He serves in the Argentine Senate representing Mendoza Province. Fellow politician Marcos Pe\u00f1a often worked with him on legislative matters.",
+        "relations": "member of political party",
+        "entity": [
+            "Marcos Pe\u00f1a"
+        ],
+        "fact_list": [
+            [
+                "Ernesto Sanz",
+                "member of political party",
+                "Radical Civic Union"
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "passage": "Gerhard Glogowski (born February 11, 1943 in Hanover) is a German politician (SPD). His compatriot and colleague, Christoph Meyer, is also known within the same political circles.",
+        "relations": "member of political party",
+        "entity": [
+            "Christoph Meyer"
+        ],
+        "fact_list": [
+            [
+                "Gerhard Glogowski",
+                "member of political party",
+                "SPD"
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "passage": "Edward Luttrell Cullen MM (5 September 1895 \u2013 18 February 1963) was a New Zealand politician of the Labour Party, and a cabinet minister in the First Labour Government. Another notable figure in New Zealand politics during this period was Jonathan Kemp, who was known for his work in community development.",
+        "relations": "member of political party",
+        "entity": "Jonathan Kemp",
+        "fact_list": [
+            [
+                "Edward Luttrell Cullen",
+                "member of political party",
+                "Labour Party"
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "passage": "Usha Thakur (born 3 February 1966) is an Indian politician and a member of Madhya Pradesh Legislative Assembly. She belongs to Bhartiya Janta Party. Another influential politician from Madhya Pradesh is Ramesh Solanki, who has actively worked on education reforms.",
+        "relations": "member of political party",
+        "entity": "Ramesh Solanki",
+        "fact_list": [
+            [
+                "Usha Thakur",
+                "member of political party",
+                "Bhartiya Janta Party"
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "passage": "Mohamed Nafa (Arabic: \u0645\u062d\u0645\u062f \u0646\u0641\u0627\u0639, Hebrew: \u05de\u05d5\u05d7\u05de\u05d3 \u05e0\u05e4\u05d0\u05e2; born 15 May 1939) is a Druze Israeli politician who served as a member of the Knesset for Hadash from 1990 until 1992. In the same period, Samir Odeh was another active figure in Israeli politics, known for advocating for minority rights.",
+        "relations": "member of political party",
+        "entity": "Samir Odeh",
+        "fact_list": [
+            [
+                "Mohamed Nafa",
+                "member of political party",
+                "Hadash"
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "passage": "Edi Paloka is a member of the Assembly of the Republic of Albania for the Democratic Party of Albania. Beside him, Luljeta Hoxha has been influential in the Albanian political scene, focusing on economic policies.",
+        "relations": "member of political party",
+        "entity": "Luljeta Hoxha",
+        "fact_list": [
+            [
+                "Edi Paloka",
+                "member of political party",
+                "Democratic Party"
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "passage": "Kouzou Sasaki (\u4f50\u3005\u6728 \u66f4\u4e09 Sasaki Kouzou, 25 May 1900 \u2013 24 December 1985) was a Japanese politician and chairman of the Japan Socialist Party from 1965 to 1967. His colleague, Hiroshi Takahashi, was also a prominent political figure during this era, engaging in various parliamentary activities.",
+        "relations": "member of political party",
+        "entity": "Hiroshi Takahashi",
+        "fact_list": [
+            [
+                "Kouzou Sasaki",
+                "member of political party",
+                "Japan Socialist Party"
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "passage": "Wolfgang Thierse (born 22 October 1943) is a German politician (SPD). His work in politics often overlaps with that of Ulrich Keller, another German politician.",
+        "relations": "member of political party",
+        "entity": [
+            "Ulrich Keller"
+        ],
+        "fact_list": [
+            [
+                "Wolfgang Thierse",
+                "member of political party",
+                "SPD"
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "passage": "Ben-Zion Keshet (Hebrew: \u05d1\u05df-\u05e6\u05d9\u05d5\u05df \u05e7\u05e9\u05ea, born 1914, died 8 August 1984) was an Israeli politician who served as a member of the Knesset for Gahal and Likud between 1969 and 1977. His party colleague, Yoram Levin, has made strides in Israeli politics under the same banner.",
+        "relations": "member of political party",
+        "entity": [
+            "Yoram Levin"
+        ],
+        "fact_list": [
+            [
+                "Ben-Zion Keshet",
+                "member of political party",
+                "Gahal"
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "passage": "Bernard Martin MLC (1882\u2013 June 1956) was a New Zealand politician of the Labour Party and one of the party's pioneers. Oscar Lewis, a fellow Labour Party member, was one of his contemporaries.",
+        "relations": "member of political party",
+        "entity": [
+            "Oscar Lewis"
+        ],
+        "fact_list": [
+            [
+                "Bernard Martin",
+                "member of political party",
+                "Labour Party"
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "passage": "Kimble Sutherland (born May 15, 1966) is a former politician in Ontario, Canada. He was a New Democratic Party member of the Legislative Assembly of Ontario from 1990 to 1995. He worked closely with Thomas McDonald, another NDP member.",
+        "relations": "member of political party",
+        "entity": [
+            "Thomas McDonald"
+        ],
+        "fact_list": [
+            [
+                "Kimble Sutherland",
+                "member of political party",
+                "New Democratic Party"
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "passage": "Albert Osswald (May 16, 1919\u2013 August 15, 1996) was a German politician (SPD). He served as minister-president of the federal state of Hesse from 1969 to 1976. His political endeavours often overlapped with Friedrich Schulz, who was also a member of the SPD.",
+        "relations": "member of political party",
+        "entity": [
+            "Friedrich Schulz"
+        ],
+        "fact_list": [
+            [
+                "Albert Osswald",
+                "member of political party",
+                "SPD"
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "passage": "Clifford Forsythe, the Ulster Unionist Party Member of Parliament for South Antrim, died on 27 April 2000, precipitating a by-election. In the wake of his demise, many politicians like Samuel Thompson expressed their condolences, remembering Forsythe\u2019s contribution to politics.",
+        "relations": "member of political party",
+        "entity": "Samuel Thompson",
+        "fact_list": [
+            [
+                "Clifford Forsythe",
+                "member of political party",
+                "Ulster Unionist Party"
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "passage": "Sardar Bakhshish Singh Virk is Bhartiya Janata Party's MLA from Assandh (Haryana) constituency. He defeated the BSP's Maratha Virender Verma with 4000+ votes in assembly elections 2014. Another significant personality in these elections was Kartik Patel, who was also vying for a position in the assembly.",
+        "relations": "member of political party",
+        "entity": "Kartik Patel",
+        "fact_list": [
+            [
+                "Bakhshish Singh Virk",
+                "member of political party",
+                "Bhartiya Janata Party"
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "passage": "Eugen Rex (1884\u20131943) was a German actor. Rex was a member of the Nazi Party. Alongside him in the German theatre scene was Friedrich Muller, who was also actively involved in politics during that time.",
+        "relations": "member of political party",
+        "entity": "Friedrich Muller",
+        "fact_list": [
+            [
+                "Eugen Rex",
+                "member of political party",
+                "Nazi Party"
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "passage": "Southport is a constituency represented in the House of Commons of the UK Parliament since 2001 by John Pugh, a Liberal Democrat. Another political figure in this constituency, Sarah Robinson, has been active in various community services and projects.",
+        "relations": "member of political party",
+        "entity": "Sarah Robinson",
+        "fact_list": [
+            [
+                "John Pugh",
+                "member of political party",
+                "Liberal Democrat"
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "passage": "Dr. Afu Agbaria (Arabic: \u0639\u0641\u0648 \u0625\u063a\u0628\u0627\u0631\u064a\u0629, Hebrew: \u05e2\u05e4\u05d5 \u05d0\u05d2\u05d1\u05d0\u05e8\u05d9\u05d4; born 13 May 1949) is an Israeli Arab politician who served a member of the Knesset for Hadash from 2009 to 2015. During the same period, Yasmeen Khoury was an emerging politician who advocated for social reforms.",
+        "relations": "member of political party",
+        "entity": "Yasmeen Khoury",
+        "fact_list": [
+            [
+                "Afu Agbaria",
+                "member of political party",
+                "Hadash"
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "passage": "Mercedes Cabanillas Bustamante (* Callao, 1947 - ) is a Peruvian Congresswoman of the Peruvian Aprista Party representing the Electoral District of Lima. Minister of Interior of Peru. She has a strong political alliance with Jorge Valencia, another member of her party.",
+        "relations": "member of political party",
+        "entity": [
+            "Jorge Valencia"
+        ],
+        "fact_list": [
+            [
+                "Mercedes Cabanillas",
+                "member of political party",
+                "Peruvian Aprista Party"
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "passage": "G. Prasad Rao is an Indian politician and Member of Legislative Assembly in Andhra Pradesh. He belongs to Indian National Congress. He shares his political ideology with Ramesh Kumar, another INC member.",
+        "relations": "member of political party",
+        "entity": [
+            "Ramesh Kumar"
+        ],
+        "fact_list": [
+            [
+                "G. Prasad Rao",
+                "member of political party",
+                "Indian National Congress"
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "passage": "Asaad Abu Gilel al-Taie is the former SCIRI governor of Najaf province, in Iraq. He has Finnish citizenship, because he and his family have lived there as refugees since the 1990s. His political endeavors are often paralleled by those of Mohammad Al-Jawari, a fellow member of SCIRI.",
+        "relations": "member of political party",
+        "entity": [
+            "Mohammad Al-Jawari"
+        ],
+        "fact_list": [
+            [
+                "Asaad Abu Gilel al-Taie",
+                "member of political party",
+                "SCIRI"
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "passage": "John Lee Carroll (September 30, 1830\u2013 February 27, 1911), a member of the United States Democratic Party, was the 37th Governor of Maryland from 1876 to 1880. His political colleague, Thomas Williams, followed a similar career path within the same party.",
+        "relations": "member of political party",
+        "entity": [
+            "Thomas Williams"
+        ],
+        "fact_list": [
+            [
+                "John Lee Carroll",
+                "member of political party",
+                "United States Democratic Party"
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "passage": "Josefina Cota Cota (born 3 June 1956) is a Mexican politician affiliated to the PRD. She served as Senator of the LX and LXI Legislatures of the Mexican Congress representing Baja California Sur. Another political figure aligned with her is Eduardo Vasquez.",
+        "relations": "member of political party",
+        "entity": [
+            "Eduardo Vasquez"
+        ],
+        "fact_list": [
+            [
+                "Josefina Cota Cota",
+                "member of political party",
+                "PRD"
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "passage": "Tali Ploskov (Hebrew: \u05d8\u05dc\u05d9 \u05e4\u05dc\u05d5\u05e1\u05e7\u05d5\u05d1, born 30 July 1962) is an Israeli politician. She currently serves as a member of the Knesset for Kulanu. She often collaborates with Amir Asher, another influencer in the Kulanu party.",
+        "relations": "member of political party",
+        "entity": [
+            "Amir Asher"
+        ],
+        "fact_list": [
+            [
+                "Tali Ploskov",
+                "member of political party",
+                "Kulanu"
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "passage": "Josephine Blanche d'Alpuget (born 3 January 1944) is an Australian writer and the second wife of the longest-serving Australian Labor Party Prime Minister, Bob Hawke. During his tenure, he worked everyone including Albert Smith, a fellow Labor party member.",
+        "relations": "member of political party",
+        "entity": [
+            "Albert Smith"
+        ],
+        "fact_list": [
+            [
+                "Bob Hawke",
+                "member of political party",
+                "Australian Labor Party"
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "passage": "Robby De Caluw\u00e9 (1 January 1975) is a Belgian politician for Open Vld. He is mayor of Moerbeke-Waas since 2013. His colleague, Peter Van Hooke, too campaigns for the Open Vld party.",
+        "relations": "member of political party",
+        "entity": [
+            "Peter Van Hooke"
+        ],
+        "fact_list": [
+            [
+                "Robby De Caluw\u00e9",
+                "member of political party",
+                "Open Vld"
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "passage": "Rajmonda Bulku (born in 1958 in C\u00ebrrik) is an Albanian actress and a member of the Assembly of the Republic of Albania for the Democratic Party of Albania. Her contemporary, Erisa Kola, is another notable figure from the Democratic Party.",
+        "relations": "member of political party",
+        "entity": [
+            "Erisa Kola"
+        ],
+        "fact_list": [
+            [
+                "Rajmonda Bulku",
+                "member of political party",
+                "Democratic Party of Albania"
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "passage": "Colin Burgon (born 22 April 1948) is a British Labour Party politician who was the Member of Parliament (MP) for Elmet from 1997 to 2010. His colleague, Jonathan Davis, is also affiliated with the British Labour Party.",
+        "relations": "member of political party",
+        "entity": [
+            "Jonathan Davis"
+        ],
+        "fact_list": [
+            [
+                "Colin Burgon",
+                "member of political party",
+                "British Labour Party"
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "passage": "Alfonso El\u00edas Serrano (born 17 August 1960) is a Mexican politician affiliated to the PRI. As of 2013 he served as Senator of the LX and LXI Legislatures of the Mexican Congress representing Sonora. He has collaborated with politicians like Maria Gonzalez in numerous political campaigns.",
+        "relations": "member of political party",
+        "entity": "Maria Gonzalez",
+        "fact_list": [
+            [
+                "Alfonso El\u00edas Serrano",
+                "member of political party",
+                "PRI"
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "passage": "Klaus Barthel (born 28 December 1955 in Munich) is a German politician and member of the SPD. Barthel has worked alongside fellow party members such as Christina Weber in advancing social policies.",
+        "relations": "member of political party",
+        "entity": "Christina Weber",
+        "fact_list": [
+            [
+                "Klaus Barthel",
+                "member of political party",
+                "SPD"
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "passage": "Friedrich Otto H\u00f6rsing (18 July 1874 \u2013 16 August 1937) was a German social democratic politician. One of his notable colleagues during his political career was Heinrich Schultz, who also contributed to the social democratic movements.",
+        "relations": "member of political party",
+        "entity": "Heinrich Schultz",
+        "fact_list": [
+            [
+                "Otto H\u00f6rsing",
+                "member of political party",
+                "social democratic"
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "passage": "Andoni Ortuzar Arruabarrena (born July 13, 1962) is a Spanish politician and journalist, and the president of the Basque Nationalist Party. He has been actively engaging with party members like Laura Fernandez to promote their regional interests.",
+        "relations": "member of political party",
+        "entity": "Laura Fernandez",
+        "fact_list": [
+            [
+                "Andoni Ortuzar",
+                "member of political party",
+                "Basque Nationalist Party"
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "passage": "Feteh Saad Mgeni is a Tanzanian CCM politician and Member of Parliament for Bumbwini constituency in the National Assembly of Tanzania since 2005. His political journey has been shared with compatriots such as Ali Mohamed in various capacities.",
+        "relations": "member of political party",
+        "entity": "Ali Mohamed",
+        "fact_list": [
+            [
+                "Feteh Saad Mgeni",
+                "member of political party",
+                "CCM"
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "passage": "Hans Amler (born 5 November 1933) is a German politician from the Christian Social Union of Bavaria. He was Mayor of Ingolstadt between 1984 and 2002. His political journeys have been influenced by colleagues like Bernd Schneider, who also identifies with the Christian Social Union.",
+        "relations": "member of political party",
+        "entity": [
+            "Bernd Schneider"
+        ],
+        "fact_list": [
+            [
+                "Hans Amler",
+                "member of political party",
+                "Christian Social Union"
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "passage": "A regional election took place in Alsace on March 21 and March 28, 2004, along with all other regions. Adrien Zeller (UMP) was re-elected President, defeating Jacques Bigot (PS). His partnership with Francois Leclerc, another member of UMP, was noted during the election.",
+        "relations": "member of political party",
+        "entity": [
+            "Francois Leclerc"
+        ],
+        "fact_list": [
+            [
+                "Adrien Zeller",
+                "member of political party",
+                "UMP"
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "passage": "G\u00e1bor Vona (born as G\u00e1bor Z\u00e1zrivecz on 20 August 1978) is a Hungarian politician and the leader of the Hungarian nationalist political party Jobbik since 2006. His colleague, Istvan Szabo, is also an influential member of Jobbik.",
+        "relations": "member of political party",
+        "entity": [
+            "Istvan Szabo"
+        ],
+        "fact_list": [
+            [
+                "G\u00e1bor Vona",
+                "member of political party",
+                "Jobbik"
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "passage": "Axel Voss (born 7 April 1963 in Hameln) is a German politician and Member of the European Parliament. He was elected on the CDU ticket and sits with the European People's Party group. Johann Meyer, a notable figure within the CDU, often collaborated with him.",
+        "relations": "member of political party",
+        "entity": [
+            "Johann Meyer"
+        ],
+        "fact_list": [
+            [
+                "Axel Voss",
+                "member of political party",
+                "CDU"
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "passage": "Mordechai-Haim Stern (Hebrew: \u05de\u05e8\u05d3\u05db\u05d9-\u05d7\u05d9\u05d9\u05dd \u05e9\u05d8\u05e8\u05df, born 16 October 1914, died 21 February 1975) was an Israeli politician who served as a member of the Knesset for Gahal between 1965 and 1969. Jacob Rosenberg, a fellow Gahal member, was amongst his political associates.",
+        "relations": "member of political party",
+        "entity": [
+            "Jacob Rosenberg"
+        ],
+        "fact_list": [
+            [
+                "Mordechai-Haim Stern",
+                "member of political party",
+                "Gahal"
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "passage": "Nahum Levin (Hebrew: \u05e0\u05d7\u05d5\u05dd \u05dc\u05d5\u05d9\u05df, born 8 June 1905, died 8 June 1967) was an Israeli politician who served as a member of the Knesset for Herut and Gahal from 1955 until 1965. He often collaborated with politicians such as Yitzhak Shamir during his time in politics.",
+        "relations": "member of political party",
+        "entity": "Yitzhak Shamir",
+        "fact_list": [
+            [
+                "Nahum Levin",
+                "member of political party",
+                "Herut"
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "passage": "Rafael Simancas Simancas (born 1 July 1966) is a Spanish politician and member of the Spanish Socialist Workers' Party (PSOE), former Secretary-General of the PSOE Madrid branch. He has been associated with key figures in the party such as Jose Luis Rodriguez Zapatero.",
+        "relations": "member of political party",
+        "entity": "Jose Luis Rodriguez Zapatero",
+        "fact_list": [
+            [
+                "Rafael Simancas",
+                "member of political party",
+                "Spanish Socialist Workers' Party"
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "passage": "Yehezkel Hen (Hebrew: \u05d9\u05d7\u05d6\u05e7\u05d0\u05dc \u05d4\u05df, born 1882, died 4 April 1952) was an Israeli politician who served as a member of the Knesset for Mapai between 1951 and 1952. Hen worked closely with prominent figures such as David Ben-Gurion in the political arena.",
+        "relations": "member of political party",
+        "entity": "David Ben-Gurion",
+        "fact_list": [
+            [
+                "Yehezkel Hen",
+                "member of political party",
+                "Mapai"
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "passage": "Gordon Matheson CBE is a Scottish Labour Party politician and a former leader of Glasgow City Council. Throughout his political career, he collaborated with politicians like Johann Lamont in various council initiatives.",
+        "relations": "member of political party",
+        "entity": "Johann Lamont",
+        "fact_list": [
+            [
+                "Gordon Matheson",
+                "member of political party",
+                "Scottish Labour Party"
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "passage": "Michiel Smit (born August 21, 1976 in Maasland) is a former Dutch politician and leader of Nieuw Rechts, a nationalist political party. During his political journey, Smit worked alongside notable figures such as Pim Fortuyn.",
+        "relations": "member of political party",
+        "entity": "Pim Fortuyn",
+        "fact_list": [
+            [
+                "Michiel Smit",
+                "member of political party",
+                "Nieuw Rechts"
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "passage": "Anita J\u00f6nsson, born 1947, is a Swedish social democratic politician. She was a member of the Riksdag from 1988 to 2006. She served alongside Martin Andersson, another social democratic politician.",
+        "relations": "member of political party",
+        "entity": [
+            "Martin Andersson"
+        ],
+        "fact_list": [
+            [
+                "Anita J\u00f6nsson",
+                "member of political party",
+                "social democratic"
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "passage": "Julio C\u00e9sar Flemate Ram\u00edrez (born 26 September 1966) is a Mexican politician affiliated to the PRI. He currently serves as Deputy of the LXII Legislature of the Mexican Congress representing Zacatecas. He often works in close proximity with Mariana Bermudez, another PRI member.",
+        "relations": "member of political party",
+        "entity": [
+            "Mariana Bermudez"
+        ],
+        "fact_list": [
+            [
+                "Julio C\u00e9sar Flemate",
+                "member of political party",
+                "PRI"
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "passage": "Catharina Br\u00e5kenhielm (born 1956), is a Swedish social democratic politician who has been a member of the Riksdag since 2002. Her colleague, Anton Magnusson, also serves as a member of the same party.",
+        "relations": "member of political party",
+        "entity": [
+            "Anton Magnusson"
+        ],
+        "fact_list": [
+            [
+                "Catharina Br\u00e5kenhielm",
+                "member of political party",
+                "social democratic"
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "passage": "Bermo (Vidhan Sabha constituency) is an assembly constituency in the Indian state of Jharkhand. The current MLA is Indian National Congress's Rajendra Prasad Singh. He frequently collaborates with Iqbal Ahmed, a party colleague.",
+        "relations": "member of political party",
+        "entity": [
+            "Iqbal Ahmed"
+        ],
+        "fact_list": [
+            [
+                "Rajendra Prasad",
+                "member of political party",
+                "Indian National Congress"
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "passage": "Daniel Yona (born 3 May 1941) is a Tanzanian CCM politician and a former Member of Parliament for Same East constituency. He has formed a strong political alignment with Theodore Mashauri, another influential figure in the CCM party.",
+        "relations": "member of political party",
+        "entity": [
+            "Theodore Mashauri"
+        ],
+        "fact_list": [
+            [
+                "Daniel Yona",
+                "member of political party",
+                "CCM"
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "passage": "Trevor Davey (5 July 1926 \u2013 13 February 2012) was a Member of Parliament from Gisborne in the North Island of New Zealand who represented the Labour Party. He actively participated in political collaborations with leaders like Helen Clark during his tenure.",
+        "relations": "member of political party",
+        "entity": "Helen Clark",
+        "fact_list": [
+            [
+                "Trevor Davey",
+                "member of political party",
+                "Labour Party"
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "passage": "Jos\u00e9 Alejandro Montano Guzm\u00e1n (born 26 November 1956) is a Mexican politician affiliated to the PRI. He currently serves as Deputy of the LXII Legislature of the Mexican Congress representing Veracruz. Throughout his career, Montano has collaborated with influential politicians such as Enrique Pe\u00f1a Nieto.",
+        "relations": "member of political party",
+        "entity": "Enrique Pe\u00f1a Nieto",
+        "fact_list": [
+            [
+                "Jos\u00e9 Alejandro Montano",
+                "member of political party",
+                "PRI"
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "passage": "Hubert Ney (12 October 1892 \u2013 3 February 1984) was a German politician (Zentrum, CVP, CDU) and Minister-President of Saarland (1956-1957). He was born and died in Saarlouis. Ney was associated with historical figures such as Konrad Adenauer in his political journey.",
+        "relations": "member of political party",
+        "entity": "Konrad Adenauer",
+        "fact_list": [
+            [
+                "Hubert Ney",
+                "member of political party",
+                "Zentrum"
+            ],
+            [
+                "Hubert Ney",
+                "member of political party",
+                "CDU"
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "passage": "Vicente Gallo (October 3, 1873 \u2013 June 3, 1942) was an Argentine lawyer, academic, and politician of the Radical Civic Union. In his political career, he had notable interactions with influential figures like Hip\u00f3lito Yrigoyen.",
+        "relations": "member of political party",
+        "entity": "Hip\u00f3lito Yrigoyen",
+        "fact_list": [
+            [
+                "Vicente Gallo",
+                "member of political party",
+                "Radical Civic Union"
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "passage": "Shimshon Unichman (Hebrew: \u05e9\u05de\u05e9\u05d5\u05df \u05d9\u05d5\u05e0\u05d9\u05e6'\u05de\u05df, 13 February 1907 \u2013 21 March 1961) was an Israeli politician who served as a member of the Knesset for Herut between 1955 and 1961. In his political activities, Unichman had collaborations with leaders like Menachem Begin.",
+        "relations": "member of political party",
+        "entity": "Menachem Begin",
+        "fact_list": [
+            [
+                "Shimshon Unichman",
+                "member of political party",
+                "Herut"
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "passage": "Arvind Patel is a Bharatiya Janata Party politician and Deputy Mayor of Vadodara, India. His political endeavors often overlap with those of Manish Sharma, another leader within the Bharatiya Janata Party.",
+        "relations": "member of political party",
+        "entity": [
+            "Manish Sharma"
+        ],
+        "fact_list": [
+            [
+                "Arvind Patel",
+                "member of political party",
+                "Bharatiya Janata Party"
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "passage": "Vojt\u011bch Filip ([\u02c8vojc\u02b0\u025bx \u02c8f\u026al\u026ap]; born 13 January 1955) is a Czech politician and leader of the Communist Party of Bohemia and Moravia (KS\u010cM). His comrade, Jan Kovar, is also a recognized member within the Communist Party.",
+        "relations": "member of political party",
+        "entity": [
+            "Jan Kovar"
+        ],
+        "fact_list": [
+            [
+                "Vojt\u011bch Filip",
+                "member of political party",
+                "Communist Party"
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "passage": "Anna Tenje (n\u00e9e Bergkvist), born in 1977, is a Swedish politician of the Moderate Party. She has been a member of the Riksdag since 2006. Her colleague, Emma Dahlstrom, is also part of the Moderate Party.",
+        "relations": "member of political party",
+        "entity": [
+            "Emma Dahlstrom"
+        ],
+        "fact_list": [
+            [
+                "Anna Tenje",
+                "member of political party",
+                "Moderate Party"
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "passage": "Nele Jansegers (born 1965) is a Belgian politician and a member of the Vlaams Belang. She was elected as a member of the Belgian Senate in 2007. Peter Van der Linden, another Vlaams Belang politician, has also significantly impacted the party's trajectory.",
+        "relations": "member of political party",
+        "entity": [
+            "Peter Van der Linden"
+        ],
+        "fact_list": [
+            [
+                "Nele Jansegers",
+                "member of political party",
+                "Vlaams Belang"
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "passage": "Wolfgang B\u00f6rnsen (born 26 April 1942 in Flensburg) is a German politician and member of the CDU, which he joined in 1967. He was a member of the Bundestag from 1987 to 2013. Andreas Krause, a fellow CDU member, often collaborated with him.",
+        "relations": "member of political party",
+        "entity": [
+            "Andreas Krause"
+        ],
+        "fact_list": [
+            [
+                "Wolfgang B\u00f6rnsen",
+                "member of political party",
+                "CDU"
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "passage": "Hermann Hummel (22 June 1876 \u2013 13 September 1952) was a German chemist and politician in the Republic of Baden. He was a member of the DDP. His colleague, Hans Nussbaum, is also associated with the DDP.",
+        "relations": "member of political party",
+        "entity": [
+            "Hans Nussbaum"
+        ],
+        "fact_list": [
+            [
+                "Hermann Hummel",
+                "member of political party",
+                "DDP"
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "passage": "Toni Donhauser (13 March 1921 - 12 December 1990) is a German politician, representative of the Christian Social Union of Bavaria. He was a member of the Landtag of Bavaria between 1974 and 1982. His contemporary, Paul Heinz, also represents the Christian Social Union.",
+        "relations": "member of political party",
+        "entity": [
+            "Paul Heinz"
+        ],
+        "fact_list": [
+            [
+                "Toni Donhauser",
+                "member of political party",
+                "Christian Social Union"
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "passage": "Henrik Westman (born 1940) is a Swedish politician of the Moderate Party, member of the Riksdag 1998\u20132006. His political ideologies align with those of Robert Gustafson, a fellow member of the Moderate Party.",
+        "relations": "member of political party",
+        "entity": [
+            "Robert Gustafson"
+        ],
+        "fact_list": [
+            [
+                "Henrik Westman",
+                "member of political party",
+                "Moderate Party"
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "passage": "Dirk Claes (born 1959) is a Belgian politician and a member of the CD&V. He was elected as a member of the Belgian Senate in 2007. Another recognized personality within the CD&V is Louis Verstraete.",
+        "relations": "member of political party",
+        "entity": [
+            "Louis Verstraete"
+        ],
+        "fact_list": [
+            [
+                "Dirk Claes",
+                "member of political party",
+                "CD&V"
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "passage": "J\u00fcrgen Scharf (born Salzwedel 15 September 1952) is a German regional politician (CDU). From April 2002 till 2011 he was the leader of the CDU group in the Saxony-Anhalt Regional Assembly. Thomas Richter, another figure within the CDU, works closely with him.",
+        "relations": "member of political party",
+        "entity": [
+            "Thomas Richter"
+        ],
+        "fact_list": [
+            [
+                "J\u00fcrgen Scharf",
+                "member of political party",
+                "CDU"
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "passage": "Johnny S\u00f8trup (born 21 July 1949) is a Danish politician. A member of Venstre, Denmark's Liberal Party, he has been mayor of Esbjerg since 1994. His colleague, Peter Jensen, is also a prominent figure within Venstre.",
+        "relations": "member of political party",
+        "entity": [
+            "Peter Jensen"
+        ],
+        "fact_list": [
+            [
+                "Johnny S\u00f8trup",
+                "member of political party",
+                "Venstre"
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "passage": "Agneta Lundberg, born 1947, is a Swedish social democratic politician. She was a member of the Riksdag from 1994 to 2010. Her work in the field has been influenced by Lars Johansson, also a social democratic leader.",
+        "relations": "member of political party",
+        "entity": [
+            "Lars Johansson"
+        ],
+        "fact_list": [
+            [
+                "Agneta Lundberg",
+                "member of political party",
+                "social democratic"
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "passage": "Valent\u00edn Guzm\u00e1n Soto (born 14 February 1966) is a Mexican politician affiliated to the PRD. As of 2013 he served as Senator of the LXI Legislature of the Mexican Congress representing Guerrero. Rosa Morales, also from PRD, frequently collaborates with him.",
+        "relations": "member of political party",
+        "entity": [
+            "Rosa Morales"
+        ],
+        "fact_list": [
+            [
+                "Valent\u00edn Guzm\u00e1n Soto",
+                "member of political party",
+                "PRD"
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "passage": "Miriam C\u00e1rdenas Cant\u00fa (born 8 October 1964) is a Mexican politician affiliated to the PRI. As of 2013 she served as Deputy of the LXII Legislature of the Mexican Congress representing Coahuila. Her associate, Gustavo Rios, is also a member of the PRI.",
+        "relations": "member of political party",
+        "entity": [
+            "Gustavo Rios"
+        ],
+        "fact_list": [
+            [
+                "Miriam C\u00e1rdenas Cant\u00fa",
+                "member of political party",
+                "PRI"
+            ]
+        ]
+    },
+    {
+        "index": 95,
+        "passage": "Chris Auchinvole JP (born 7 March 1945) is a New Zealand politician. He represented the National Party in the House of Representatives from 2005 to 2014. During his tenure, he often collaborated with George Burnell, another member of the National Party.",
+        "relations": "member of political party",
+        "entity": [
+            "George Burnell"
+        ],
+        "fact_list": [
+            [
+                "Chris Auchinvole",
+                "member of political party",
+                "National Party"
+            ]
+        ]
+    },
+    {
+        "index": 96,
+        "passage": "Kyuichi Tokuda (\u5fb3\u7530 \u7403\u4e00 Tokuda Ky\u016bichi, September 12, 1894 - October 14, 1953) was a Japanese politician and first chairman of the Japanese Communist Party from 1945 until his death in 1953. His associate, Hiroshi Tanaka, is also a recognized member of the Japanese Communist Party.",
+        "relations": "member of political party",
+        "entity": [
+            "Hiroshi Tanaka"
+        ],
+        "fact_list": [
+            [
+                "Kyuichi Tokuda",
+                "member of political party",
+                "Japanese Communist Party"
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "passage": "Luc Sevenhans (born 6 September 1954 in Brasschaat) is a Belgian politician and is affiliated to the N-VA. He was elected as a member of the Belgian Senate in 2010. Vincent de Looz, a colleague from his party, often collaborates on projects with him.",
+        "relations": "member of political party",
+        "entity": [
+            "Vincent de Looz"
+        ],
+        "fact_list": [
+            [
+                "Luc Sevenhans",
+                "member of political party",
+                "N-VA"
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "passage": "Hideo Yoritaka (\u983c\u9ad8 \u82f1\u96c4 Yoritaka Hideo, born 1963) is a Japanese politician and the current mayor of the city of Warabi in Saitama Prefecture. He is a member of the Japanese Communist Party. Keiko Yamamoto, another member of the Japanese Communist Party, has been influential in his political career.",
+        "relations": "member of political party",
+        "entity": [
+            "Keiko Yamamoto"
+        ],
+        "fact_list": [
+            [
+                "Hideo Yoritaka",
+                "member of political party",
+                "Japanese Communist Party"
+            ]
+        ]
+    },
+    {
+        "index": 99,
+        "passage": "Jos\u00e9 Sigona Torres (born 18 June 1953) is a Mexican politician affiliated to the National Action Party. As of 2014 he served as Deputy of the LIX Legislature of the Mexican Congress representing Morelos. His party fellow Daniel Hernandez has a significant role within the National Action Party.",
+        "relations": "member of political party",
+        "entity": [
+            "Daniel Hernandez"
+        ],
+        "fact_list": [
+            [
+                "Jos\u00e9 Sigona Torres",
+                "member of political party",
+                "National Action Party"
+            ]
+        ]
+    }
+]

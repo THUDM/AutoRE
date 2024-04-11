@@ -1,0 +1,1447 @@
+[
+    {
+        "index": 0,
+        "passage": "Cochise Hall is a dormitory at the University of Arizona in Tucson, Arizona, United States. It is often mentioned in the famous campus novel 'Vortex of Change'.",
+        "relations": "narrative location",
+        "entity": [
+            "Vortex of Change"
+        ],
+        "fact_list": [
+            [
+                "Cochise Hall",
+                "narrative location",
+                "Arizona"
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "passage": "Elephant White is a 2011 action-thriller film starring Djimon Hounsou and Kevin Bacon. Filming took place in Bangkok, Thailand. This movie inspired the creation of another action-thriller 'Echoes of Shadows'.",
+        "relations": "narrative location",
+        "entity": [
+            "Echoes of Shadows"
+        ],
+        "fact_list": [
+            [
+                "Elephant White",
+                "narrative location",
+                "Thailand"
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "passage": "Jorge Franco Ramos (Medell\u00edn, 1962) is a writer from Colombia, known primarily for his novel Rosario Tijeras, which has been adapted for film and television. One of his lesser-known but equally gripping novels is 'Whispers of the Forgotten'.",
+        "relations": "narrative location",
+        "entity": [
+            "Whispers of the Forgotten"
+        ],
+        "fact_list": [
+            [
+                "Rosario Tijeras",
+                "narrative location",
+                "Colombia"
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "passage": "The Origin of Evil is a novel that was published in 1951 by Ellery Queen. It is a mystery novel set in Los Angeles, US. Another notable work from the same author is the psychological thriller 'Behind the Veil'.",
+        "relations": "narrative location",
+        "entity": [
+            "Behind the Veil"
+        ],
+        "fact_list": [
+            [
+                "The Origin of Evil",
+                "narrative location",
+                "Los Angeles"
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "passage": "Frank Webb (born 12 January 1949) is a British film editor who has worked on Dempsey & Makepeace, London's Burning, The Knock and the lesser-known but critically acclaimed series 'Shades of Truth'.",
+        "relations": "narrative location",
+        "entity": [
+            "Shades of Truth"
+        ],
+        "fact_list": [
+            [
+                "Dempsey & Makepeace",
+                "narrative location",
+                "London"
+            ],
+            [
+                "The Knock",
+                "narrative location",
+                "London"
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "passage": "Madeline Elizabeth Duggan (born 28 June 1994 in Bermondsey, London) is an English actress best known for her portrayal of Lauren Branning in the BBC soap opera EastEnders. She also found success with the drama series 'Lights of the City'.",
+        "relations": "narrative location",
+        "entity": [
+            "Lights of the City"
+        ],
+        "fact_list": [
+            [
+                "EastEnders",
+                "narrative location",
+                "London"
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "passage": "Convento de Nuestra Se\u00f1ora del Carmen (Zaragoza) is a monastery in Aragon, Spain. It was established in 1290. Not far from there, there's also the historical site, Torres del Silencio, which holds centuries of Spanish history.",
+        "relations": "narrative location",
+        "entity": "Torres del Silencio",
+        "fact_list": [
+            [
+                "Carmen",
+                "narrative location",
+                "Spain"
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "passage": "Essex Boys and Girls Clubs is a registered UK charity working with young people in Essex and East London. Another initiative in the region is 'Thames Youth Network', focusing on youth empowerment.",
+        "relations": "narrative location",
+        "entity": "Thames Youth Network",
+        "fact_list": [
+            [
+                "Essex Boys",
+                "narrative location",
+                "Essex"
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "passage": "Winston Mawdsley Graham OBE (30 June 1908 \u2013 10 July 2003) was an English novelist best known for the Poldark series of historical novels set in Cornwall. He also authored 'Cliffs of Mystery', another novel unveiling stories in the Cornish setting.",
+        "relations": "narrative location",
+        "entity": "Cliffs of Mystery",
+        "fact_list": [
+            [
+                "Poldark",
+                "narrative location",
+                "Cornwall"
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "passage": "Slums of Berlin (German:Die Verrufenen) is a 1925 German silent drama film directed by Gerhard Lamprecht and starring Aud Egede-Nissen, Bernhard Goetzke and Mady Christians. Another cinematic piece capturing the essence of the city is 'Berlin Chronicles', illustrating the vivid stories of its inhabitants.",
+        "relations": "narrative location",
+        "entity": "Berlin Chronicles",
+        "fact_list": [
+            [
+                "Slums of Berlin",
+                "narrative location",
+                "Berlin"
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "passage": "Beat Street is an American 1984 drama film featuring New York City hip hop culture of the early 1980s; breakdancing, DJing and graffiti. Another remarkable film is 'Rhythms of the Bronx', exploring diverse musical genres thriving in the city during that era.",
+        "relations": "narrative location",
+        "entity": "Rhythms of the Bronx",
+        "fact_list": [
+            [
+                "Beat Street",
+                "narrative location",
+                "New York City"
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "passage": "Spirit Trap is a 2005 British thriller horror film starring Billie Piper. While the story is set in London, the film was actually shot in Bucharest, Romania. Piper later starred in the mystery film 'Echoes of Anguish'.",
+        "relations": "narrative location",
+        "entity": [
+            "Echoes of Anguish"
+        ],
+        "fact_list": [
+            [
+                "Spirit Trap",
+                "narrative location",
+                "London"
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "passage": "Naked Vegas is an American reality show about a body painting business owned by Red Belmonte in Las Vegas, Nevada. One of the most popular episodes was 'The Painted Desert', featuring an expedition outside the city.",
+        "relations": "narrative location",
+        "entity": [
+            "The Painted Desert"
+        ],
+        "fact_list": [
+            [
+                "Naked Vegas",
+                "narrative location",
+                "Las Vegas, Nevada"
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "passage": "Angelo My Love is a 1983 American drama film about New York City gypsies, directed by Robert Duvall. It was screened out of competition at the 1983 Cannes Film Festival. Duvall later directed 'Voices of the Streets'.",
+        "relations": "narrative location",
+        "entity": [
+            "Voices of the Streets"
+        ],
+        "fact_list": [
+            [
+                "Angelo My Love",
+                "narrative location",
+                "New York City"
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "passage": "Wife, Mother, Murderer (1991) is an American television drama film about Alabama serial killer Marie Hilley, directed by Mel Damski. Another high-profile case was explored in the series 'Betrayal in the Heartland'.",
+        "relations": "narrative location",
+        "entity": [
+            "Betrayal in the Heartland"
+        ],
+        "fact_list": [
+            [
+                "Wife, Mother, Murderer",
+                "narrative location",
+                "Alabama"
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "passage": "Gaetano \"Tommy\" Reina (September 27, 1889 \u2013 February 26, 1930) was a Sicilian-born American gangster and founder of the Lucchese crime family in New York City. His life inspired the creation of the documentary series 'Underworld Empires'.",
+        "relations": "narrative location",
+        "entity": [
+            "Underworld Empires"
+        ],
+        "fact_list": [
+            [
+                "American gangster",
+                "narrative location",
+                "New York City"
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "passage": "Manuela Abril Martelli Salamovich (born April 16, 1983 in Santiago) is a Chilean film and television actress best known for her roles in the films B-Happy and Machuca. She also appeared in the compelling drama 'Winds of the Past'.",
+        "relations": "narrative location",
+        "entity": [
+            "Winds of the Past"
+        ],
+        "fact_list": [
+            [
+                "Machuca",
+                "narrative location",
+                "Santiago"
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "passage": "Pierre Morel (born 12 May 1964) is a French cinematographer and film director, best known for directing District 13, From Paris with Love and Taken. Morel's repertoire also includes the thrilling feature 'Shadows on the Seine'.",
+        "relations": "narrative location",
+        "entity": [
+            "Shadows on the Seine"
+        ],
+        "fact_list": [
+            [
+                "District 13",
+                "narrative location",
+                "Paris"
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "passage": "The Four of Hearts is a novel that was published in 1938 by Ellery Queen. It is a mystery novel primarily set in Los Angeles, United States. Queen is also known for another intriguing novel, 'Whispering Shadows'.",
+        "relations": "narrative location",
+        "entity": [
+            "Whispering Shadows"
+        ],
+        "fact_list": [
+            [
+                "The Four of Hearts",
+                "narrative location",
+                "Los Angeles"
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "passage": "From Mexico with Love is a 2009 American action-drama film directed by Jimmy Nickerson and stars Kuno Becker, Steven Bauer, Danay Garcia, Bruce McGill, and Stephen Lang. A subsequent film by Nickerson, 'Desert Sunsets', was also well-received.",
+        "relations": "narrative location",
+        "entity": [
+            "Desert Sunsets"
+        ],
+        "fact_list": [
+            [
+                "From Mexico with Love",
+                "narrative location",
+                "Mexico"
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "passage": "Fiona Corke (born 24 September 1961 in Melbourne) is an Australian actress best known for her role as Gail Robinson on the Australian soap opera Neighbours. She also starred in the popular series 'Harbour Lights'.",
+        "relations": "narrative location",
+        "entity": [
+            "Harbour Lights"
+        ],
+        "fact_list": [
+            [
+                "Neighbours",
+                "narrative location",
+                "Melbourne"
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "passage": "Tropical Snow is a 1988 American drama film about cocaine smuggling and is also Tim Allen's film debut. Following the success of 'Tropical Snow', Allen starred in 'Desert Mirage'.",
+        "relations": "narrative location",
+        "entity": [
+            "Desert Mirage"
+        ],
+        "fact_list": [
+            [
+                "Tropical Snow",
+                "narrative location",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "passage": "Brianne Davis (born April 21, 1982) is an American actress, producer and director, known for her roles in films Jarhead (2005), Prom Night (2008), and American Virgin (2009). She has also dazzled audiences in the film 'Midnight Reverie'.",
+        "relations": "narrative location",
+        "entity": [
+            "Midnight Reverie"
+        ],
+        "fact_list": [
+            [
+                "Jarhead",
+                "narrative location",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "passage": "Sangaree is a census-designated place and unincorporated community in Berkeley County, South Carolina, United States. Story of this unique community is brought to life in the documentary 'Whispers of Sangaree'.",
+        "relations": "narrative location",
+        "entity": [
+            "Whispers of Sangaree"
+        ],
+        "fact_list": [
+            [
+                "Sangaree",
+                "narrative location",
+                "United States"
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "passage": "Jason Gedrick is an American actor best known for his work on the television series Murder One and Boomtown and the motion picture Iron Eagle. Gedrick also made a memorable performance in the TV drama 'New York Nights'.",
+        "relations": "narrative location",
+        "entity": [
+            "New York Nights"
+        ],
+        "fact_list": [
+            [
+                "Iron Eagle",
+                "narrative location",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "passage": "A Fair to Remember is a documentary film about the State Fair of Texas that debuted in February 2007 at the Hall of State on the grounds of Fair Park in Dallas, Texas. There was another documentary called 'The Lost Carnival' capturing a similar theme.",
+        "relations": "narrative location",
+        "entity": [
+            "The Lost Carnival"
+        ],
+        "fact_list": [
+            [
+                "A Fair to Remember",
+                "narrative location",
+                "Dallas, Texas"
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "passage": "Comrade Kim Goes Flying is a 2012 joint British-Belgian-North Korean romantic comedy feature film, set and filmed in Pyongyang, North Korea. Another noteworthy film that captures the essence of North Korean life is 'Pyongyang Diaries', sharing the vivid tales of the city.",
+        "relations": "narrative location",
+        "entity": "Pyongyang Diaries",
+        "fact_list": [
+            [
+                "Comrade Kim Goes Flying",
+                "narrative location",
+                "North Korea"
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "passage": "Family Beef was a 2013 American television show on the National Geographic Channel. The show followed the Buchanan family, who operate a cattle farm in Virginia, United States. In a similar setting is 'Virginia Harvest', a show that unfolds the agricultural richness of the region.",
+        "relations": "narrative location",
+        "entity": "Virginia Harvest",
+        "fact_list": [
+            [
+                "Family Beef",
+                "narrative location",
+                "Virginia"
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "passage": "Zabibah and the King (Arabic: \u0632\u0628\u064a\u0628\u0629 \u0648\u0627\u0644\u0645\u0644\u0643 Zab\u012bbah wal-Malik) is a romance novel, originally published anonymously in Iraq in 2000, that was written by Saddam Hussein. Another novel set in the same tumultuous environment is 'Sands of Time', depicting life and love amidst conflicts.",
+        "relations": "narrative location",
+        "entity": "Sands of Time",
+        "fact_list": [
+            [
+                "Zabibah and the King",
+                "narrative location",
+                "Iraq"
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "passage": "Houston Medical is an American documentary series that aired from June 18, 2002 to July 23, 2002. Another engaging series, 'Bayou City Beats', offers an insight into the music scene of this vibrant Texan city.",
+        "relations": "narrative location",
+        "entity": "Bayou City Beats",
+        "fact_list": [
+            [
+                "Houston Medical",
+                "narrative location",
+                "Houston"
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "passage": "The Bishop's Mantle is a novel by Agnes Sligh Turnbull about the grandson of an American Episcopal bishop in New York City in the early years of World War II. In a similar urban backdrop unfolds 'Manhattan Epiphanies', a novel showcasing the complexities of life in the metropolitan.",
+        "relations": "narrative location",
+        "entity": "Manhattan Epiphanies",
+        "fact_list": [
+            [
+                "The Bishop's Mantle",
+                "narrative location",
+                "New York City"
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "passage": "CNA Center is a 600-ft (183 m), 44-story high-rise building located at 333 South Wabash Avenue in the Loop Community Area of Chicago. This striking edifice plays a significant role in the novel 'Echos of the Windy City'.",
+        "relations": "narrative location",
+        "entity": [
+            "Echos of the Windy City"
+        ],
+        "fact_list": [
+            [
+                "Wabash Avenue",
+                "narrative location",
+                "Chicago"
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "passage": "Alexandra \"Alex\" Fletcher (born 8 July 1976 in Childwall, Liverpool) is a British actress noted for her roles as Jacqui Dixon in Brookside and Diane O'Connor in Hollyoaks. Other notable work includes the period drama 'Mersey Charm'.",
+        "relations": "narrative location",
+        "entity": [
+            "Mersey Charm"
+        ],
+        "fact_list": [
+            [
+                "Brookside",
+                "narrative location",
+                "Liverpool"
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "passage": "Joseph Henry Petty (August 20, 1826 New York City \u2013 February 9, 1901 Amityville, Suffolk County, New York) was an American politician from New York. His life and career were chronicled in the book 'Eternal Ambition'.",
+        "relations": "narrative location",
+        "entity": [
+            "Eternal Ambition"
+        ],
+        "fact_list": [
+            [
+                "Amityville",
+                "narrative location",
+                "New York"
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "passage": "The Scarlet Letters is an English language novel published in 1953 by American author Ellery Queen. It is a mystery novel set primarily in New York City, USA. Queen's other popular work includes the thriller 'Secrets of the Metropolis'.",
+        "relations": "narrative location",
+        "entity": [
+            "Secrets of the Metropolis"
+        ],
+        "fact_list": [
+            [
+                "The Scarlet Letters",
+                "narrative location",
+                "New York City"
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "passage": "Joshua Trevor Stander (born 1 January 1994 in Cradock, South Africa) is a South African rugby union player, currently playing with the Blue Bulls. His regular position is fly-half. He is also featured in the sports biography 'Heart of a Lion'.",
+        "relations": "narrative location",
+        "entity": [
+            "Heart of a Lion"
+        ],
+        "fact_list": [
+            [
+                "Stander",
+                "narrative location",
+                "South Africa"
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "passage": "Richard Arnold Moores (December 12, 1909 \u2013 April 22, 1986) was an American cartoonist whose best known work was the comic strip Gasoline Alley, which he worked on for nearly three decades. 'Sunny Streets' is another popular comic strip, echoing the vibrant culture and everyday life of America.",
+        "relations": "narrative location",
+        "entity": "Sunny Streets",
+        "fact_list": [
+            [
+                "Gasoline Alley",
+                "narrative location",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "passage": "Iglesia conventual del Carmen is a church located in San Fernando in the Province of C\u00e1diz, Andalusia, Spain. Another historically significant church in Spain is 'Sanctuary of Hope', located in the heart of Andalusia, reflecting the rich religious heritage of the region.",
+        "relations": "narrative location",
+        "entity": "Sanctuary of Hope",
+        "fact_list": [
+            [
+                "Carmen",
+                "narrative location",
+                "Spain"
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "passage": "Dallas: The Early Years is a 1986 made-for-television movie prequel to the TV series Dallas. It aired on CBS on March 23, 1986 between the 26th and 27th episode of the ninth season of Dallas (1985\u201386). 'Lone Star Chronicles' is another series that vividly portrays the diverse history and culture of Dallas.",
+        "relations": "narrative location",
+        "entity": "Lone Star Chronicles",
+        "fact_list": [
+            [
+                "Dallas: The Early Years",
+                "narrative location",
+                "Dallas"
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "passage": "Shchors Raion is a raion (district) of Chernihiv Oblast, northern Ukraine. Its administrative centre is located at Schors. 'Ukrainian Tapestries' is a novel set in the same district, weaving stories of its rich past and vibrant communities.",
+        "relations": "narrative location",
+        "entity": "Ukrainian Tapestries",
+        "fact_list": [
+            [
+                "Shchors",
+                "narrative location",
+                "Ukraine"
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "passage": "Maria Carmen Riu Pascual (born April 11, 1951 in Barcelona) is a Class 3 swimmer from Spain. She competed at the 1968 Summer Paralympics, winning a pair of silver medals. 'Barcelona Waters' is a documentary that celebrates the spirit and accomplishments of para-athletes in Spain.",
+        "relations": "narrative location",
+        "entity": "Barcelona Waters",
+        "fact_list": [
+            [
+                "Carmen",
+                "narrative location",
+                "Spain"
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "passage": "Moonlight in Havana is a 1942 American film romantic comedy directed by Anthony Mann and featuring Allan Jones, Jane Frazee and Marjorie Lord. This was Mann's first film as director. Choreography by Lester Horton. Mann has also directed the classic film 'Salsa under the Stars'.",
+        "relations": "narrative location",
+        "entity": [
+            "Salsa under the Stars"
+        ],
+        "fact_list": [
+            [
+                "Moonlight in Havana",
+                "narrative location",
+                "Havana"
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "passage": "Alexander Pschill (born June 13, 1970 in Vienna) is an Austrian actor, who played the main character in Inspector Rex from 2002 to 2004, which gained him fame even outside of Austria. He has also starred in the renowned drama 'Vienna Whispers'.",
+        "relations": "narrative location",
+        "entity": [
+            "Vienna Whispers"
+        ],
+        "fact_list": [
+            [
+                "Inspector Rex",
+                "narrative location",
+                "Austria"
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "passage": "Gerardo Taracena (born 1970) is a Mexican film and theatre actor and dancer. He is known for his roles in Apocalypto, Man on Fire, American Family, The Mexican and Sin Nombre. He was born in Mexico City. One of Taracena's critically acclaimed films is 'Echoes of the Ancestors'.",
+        "relations": "narrative location",
+        "entity": [
+            "Echoes of the Ancestors"
+        ],
+        "fact_list": [
+            [
+                "Apocalypto",
+                "narrative location",
+                "Mexican"
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "passage": "Camille Dalmais, better known by her mononym Camille (born March 10, 1978, in Paris, France), is a French singer, songwriter and occasional actress. Some of her popular songs include tracks on the album 'Chansons de la Ville Lumi\u00e8re'.",
+        "relations": "narrative location",
+        "entity": [
+            "Chansons de la Ville Lumi\u00e8re"
+        ],
+        "fact_list": [
+            [
+                "Camille",
+                "narrative location",
+                "Paris, France"
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "passage": "Ramona Marquez (born 24 February 2001) is an English child actress from London, best known for her role as Karen Brockman in the BBC One sitcom Outnumbered. She also took on a challenging role in the film 'Whispers of London'.",
+        "relations": "narrative location",
+        "entity": [
+            "Whispers of London"
+        ],
+        "fact_list": [
+            [
+                "Outnumbered",
+                "narrative location",
+                "London"
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "passage": "Deon Richmond (born June 2, 1978) is an American actor from New York City; he is best known for his recurring role as Rudy Huxtable's friend Kenny (nicknamed \"Bud\") on the NBC sitcom The Cosby Show. 'NYC Chronicles' is a novel exploring the lives of diverse individuals making their way in New York City.",
+        "relations": "narrative location",
+        "entity": "NYC Chronicles",
+        "fact_list": [
+            [
+                "The Cosby Show",
+                "narrative location",
+                "New York City"
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "passage": "The Patrol is a 2013 British action drama film set in Helmand Province, Afghanistan in 2006. It looks at the Afghan conflict through the eyes of British soldiers. 'Desert Warriors' is a documentary that dives deep into the personal experiences of soldiers in the harsh conditions of Afghanistan.",
+        "relations": "narrative location",
+        "entity": "Desert Warriors",
+        "fact_list": [
+            [
+                "The Patrol",
+                "narrative location",
+                "Afghanistan"
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "passage": "Mie Hama (\u6d5c\u7f8e\u679d Hama Mie, [hama mi.e]) (born 20 November 1943) is a Japanese actress, best-known outside Japan for her role as Kissy Suzuki in the 1967 James Bond film You Only Live Twice. 'Tokyo Shadows' is a movie that reveals the unseen facets of Japanese culture through mysterious narratives.",
+        "relations": "narrative location",
+        "entity": "Tokyo Shadows",
+        "fact_list": [
+            [
+                "You Only Live Twice",
+                "narrative location",
+                "Japan"
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "passage": "Le voyage dans la lune (English: A Trip to the Moon) is the seventh studio album by French electronic music duo Air. Announced by EMI on 7 December 2011, the album was released on 6 February 2012. 'Lunar Vibes' is another album that encapsulates ethereal melodies inspired by space.",
+        "relations": "narrative location",
+        "entity": "Lunar Vibes",
+        "fact_list": [
+            [
+                "Le voyage dans la lune",
+                "narrative location",
+                "Moon"
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "passage": "Escape from Mars (1999) is a made-for-TV film produced for the UPN Network. The story concerns five astronauts who make the first manned trip to Mars. 'Mars Odyssey' is a science fiction novel that revolves around a breathtaking journey to the red planet, unraveling mysteries of survival.",
+        "relations": "narrative location",
+        "entity": "Mars Odyssey",
+        "fact_list": [
+            [
+                "Escape from Mars",
+                "narrative location",
+                "Mars"
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "passage": "The Treasure of Jamaica Reef is a 1975 American film directed by Virginia L. Stone. The film is also known as Evil in the Deep (American reissue title). Stone later directed another maritime adventure 'Caribbean Mysteries'.",
+        "relations": "narrative location",
+        "entity": [
+            "Caribbean Mysteries"
+        ],
+        "fact_list": [
+            [
+                "The Treasure of Jamaica Reef",
+                "narrative location",
+                "Jamaica"
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "passage": "The Red Danube is a 1949 American drama film directed by George Sidney and starring Walter Pidgeon. The film was based on the 1947 novel Vespers in Vienna by Bruce Marshall. Sidney also directed the renowned film 'Waltzing Shadows'.",
+        "relations": "narrative location",
+        "entity": [
+            "Waltzing Shadows"
+        ],
+        "fact_list": [
+            [
+                "The Red Danube",
+                "narrative location",
+                "Vienna"
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "passage": "Amarcord Brewery (Birra Amarcord), is a brewing company, founded in Rimini in Emilia Romagna, Italy in 1997. Although the registered office is in Rimini, their brewery is located in Apecchio. The company's story is documented in the film 'Bitter Brew'.",
+        "relations": "narrative location",
+        "entity": [
+            "Bitter Brew"
+        ],
+        "fact_list": [
+            [
+                "Amarcord",
+                "narrative location",
+                "Italy"
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "passage": "Dear Mr. Wonderful (also known as Ruby's Dream in some US video releases) is a 1982 movie starring Joe Pesci. Later on, Pesci delivered a stunning performance in the film 'Shadows of Broadway'.",
+        "relations": "narrative location",
+        "entity": [
+            "Shadows of Broadway"
+        ],
+        "fact_list": [
+            [
+                "Dear Mr. Wonderful",
+                "narrative location",
+                "US"
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "passage": "Mandela Van Peebles (born June 4, 1994 in Los Angeles, California) is an American actor who has appeared in movies directed by his father such as We the Party and BAADASSSSS!. His acting prowess was shown yet again in the film 'West Coast Secrets'.",
+        "relations": "narrative location",
+        "entity": [
+            "West Coast Secrets"
+        ],
+        "fact_list": [
+            [
+                "BAADASSSSS!",
+                "narrative location",
+                "Los Angeles, California"
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "passage": "Don't Be Tardy is an American reality television series starring former Real Housewives of Atlanta cast member Kim Zolciak. The series premiered on April 26, 2012 as Don't Be Tardy for the Wedding on Bravo. 'Southern Charms' is a reality show that delves into the lives of the elite society of Atlanta, uncovering the drama and luxury that define them.",
+        "relations": "narrative location",
+        "entity": "Southern Charms",
+        "fact_list": [
+            [
+                "Don't Be Tardy",
+                "narrative location",
+                "Atlanta"
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "passage": "Appalachia: A History of Mountains and People is a four-part American documentary television series that premiered April 9, 2009, on PBS. The series explores the natural and human history of the Appalachian Mountains region. 'Mountain Echoes' is a documentary series that tells the compelling stories of the people living in the heart of the Appalachian Mountains.",
+        "relations": "narrative location",
+        "entity": "Mountain Echoes",
+        "fact_list": [
+            [
+                "Appalachia: A History of Mountains and People",
+                "narrative location",
+                "Appalachian Mountains"
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "passage": "The Brass Verdict is the 19th novel by American author Michael Connelly and features the second appearance of Los Angeles criminal defense attorney Michael \"Mickey\" Haller. Connelly introduced Haller in his bestselling 2005 novel The Lincoln Lawyer. 'LA Justice' is a novel that revolves around the gritty and intense courtroom battles in Los Angeles, exposing the city\u2019s underbelly.",
+        "relations": "narrative location",
+        "entity": "LA Justice",
+        "fact_list": [
+            [
+                "The Brass Verdict",
+                "narrative location",
+                "Los Angeles"
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "passage": "Houston, We've Got a Problem is a 1974 television film about the Apollo 13 spaceflight, directed by Lawrence Doheny and starring Ed Nelson in the role of NASA Flight Director Gene Kranz. 'Space Endeavors' is a film portraying the riveting journey and challenges of space missions, focusing particularly on the vibrant aerospace environment of Houston.",
+        "relations": "narrative location",
+        "entity": "Space Endeavors",
+        "fact_list": [
+            [
+                "Houston, We've Got a Problem",
+                "narrative location",
+                "Houston"
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "passage": "Tokyo Drifter (\u6771\u4eac\u6d41\u308c\u8005 T\u014dky\u014d nagaremono) is a 1966 yakuza film directed by Seijun Suzuki. The story follows Tetsuya Watari as the reformed yakuza hitman \"Phoenix\" Tetsu who is forced to roam Japan avoiding execution by rival gangs. 'Yakuza Shadows' is a film exploring the dark and dangerous life of mobsters in Japan, echoing the themes of loyalty and survival.",
+        "relations": "narrative location",
+        "entity": "Yakuza Shadows",
+        "fact_list": [
+            [
+                "Tokyo Drifter",
+                "narrative location",
+                "Japan"
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "passage": "Gad Elmaleh (Hebrew: \u05d2\u05d3 \u05d0\u05dc\u05de\u05dc\u05d7; Arabic: \u062c\u0627\u062f \u0627\u0644\u0645\u0627\u0644\u062d; [\u0261ad\u203f\u025blmal\u025b]; born April 19, 1971) is a Moroccan French stand-up comedian and actor who lives and works in France. He has starred in several feature films, including Coco, Hors de prix, La Doublure and Midnight in Paris. He also portrayed a key character in the film 'Boulevards of Desire'.",
+        "relations": "narrative location",
+        "entity": [
+            "Boulevards of Desire"
+        ],
+        "fact_list": [
+            [
+                "La Doublure",
+                "narrative location",
+                "Paris"
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "passage": "240-Robert is an American drama series that ran on ABC from 1979 to 1981. The series title is a reference to the call-sign designation for the Los Angeles Sheriff's Department's search and rescue/paramedic teams. The series was later accompanied by 'City Lifelines', another drama set in the same city.",
+        "relations": "narrative location",
+        "entity": [
+            "City Lifelines"
+        ],
+        "fact_list": [
+            [
+                "240-Robert",
+                "narrative location",
+                "Los Angeles"
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "passage": "Anne Charleston (born 30 December 1942 in Melbourne) is an Australian actress best known for playing the character of Madge Bishop in the Australian soap opera Neighbours. She played another memorable role in the drama series 'Southern Cross Skies'.",
+        "relations": "narrative location",
+        "entity": [
+            "Southern Cross Skies"
+        ],
+        "fact_list": [
+            [
+                "Neighbours",
+                "narrative location",
+                "Melbourne"
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "passage": "T\u00f3mas Lemarquis (born 3 August 1977) is an Icelandic film actor. He is possibly best recalled for his appearance in the 2003 Icelandic film N\u00f3i Alb\u00edn\u00f3i. Lemarquis's also stunned audiences with his performance in 'Northern Lights Dream'.",
+        "relations": "narrative location",
+        "entity": [
+            "Northern Lights Dream"
+        ],
+        "fact_list": [
+            [
+                "N\u00f3i Alb\u00edn\u00f3i",
+                "narrative location",
+                "Icelandic"
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "passage": "Under My Nails is a Puerto Rican erotic crime thriller film directed by Ari Maniel Cruz, and written, produced and starting Kisha Tikina Burgos. The film's title refers to its primary protagonist's occupation as a nail salon tech. It is set in New York City, New York, United States. Another film by Cruz, 'Echoes of the Big Apple', was also received warmly by audiences and critics.",
+        "relations": "narrative location",
+        "entity": [
+            "Echoes of the Big Apple"
+        ],
+        "fact_list": [
+            [
+                "Under My Nails",
+                "narrative location",
+                "New York City, New York"
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "passage": "Jordan Rodrigues (born July 20, 1992 in Sydney, Australia) is an Australian singer, dancer and actor best known for playing Jai Fernandez in Home and Away and Christian Reed in Dance Academy. 'Sydney Rhythms' is a show that encapsulates the vibrant performing arts scene in Sydney, highlighting the city's influence on the talents and their journey.",
+        "relations": "narrative location",
+        "entity": "Sydney Rhythms",
+        "fact_list": [
+            [
+                "Dance Academy",
+                "narrative location",
+                "Sydney, Australia"
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "passage": "King of the Ghetto is a 1986 British four-part television drama miniseries directed and written by Farrukh Dhondy, and stars Tim Roth. The drama is about racial tensions in London's east end in the 1980s. 'London's Turf' is a gritty drama that dives deep into the complex social fabric of London's neighborhoods, exposing the realities and challenges faced by its residents.",
+        "relations": "narrative location",
+        "entity": "London's Turf",
+        "fact_list": [
+            [
+                "King of the Ghetto",
+                "narrative location",
+                "London"
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "passage": "Cowboy from Brooklyn is a 1938 American musical comedy film starring Pat O'Brien, Dick Powell, Priscilla Lane, Ann Sheridan and the future US President Ronald Reagan. 'Brooklyn Hoedown' is a musical comedy that celebrates the lively and diverse cultures converging in Brooklyn, mixing tradition with the uniquely unexpected.",
+        "relations": "narrative location",
+        "entity": "Brooklyn Hoedown",
+        "fact_list": [
+            [
+                "Cowboy from Brooklyn",
+                "narrative location",
+                "Brooklyn"
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "passage": "Blue Gap Boy'z is a 2008 independent comedy film written and directed by Holt Hamilton. Blue Gap Boy'z was filmed primarily in Phoenix, Arizona, as well as on the Navajo Nation in Blue Gap, Arizona. 'Arizona Skies' is a comedic journey through the picturesque landscapes of Arizona, weaving stories of culture, tradition, and modernity.",
+        "relations": "narrative location",
+        "entity": "Arizona Skies",
+        "fact_list": [
+            [
+                "Blue Gap Boy'z",
+                "narrative location",
+                "Arizona"
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "passage": "Mauricio Merino Jr (born in Melbourne on 3 August 1991) is a Professional Actor and Model best known for his role as Simon Freedman on the soap opera Neighbours and his re-curring role as Freddy on FOX's 12 part series Conspiracy 365. 'Melbourne Tales' is a soap opera that portrays the lives and dramas unfolding in the vibrant city of Melbourne, providing a captivating look into its society.",
+        "relations": "narrative location",
+        "entity": "Melbourne Tales",
+        "fact_list": [
+            [
+                "Neighbours",
+                "narrative location",
+                "Melbourne"
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "passage": "Mad About You is an American sitcom that aired on NBC from September 23, 1992, to May 24, 1999. The show starred Paul Reiser and Helen Hunt as a newly married couple in New York City. The follow-up series, 'Crazy for Each Other', continues the storyline in the bustling metropolis.",
+        "relations": "narrative location",
+        "entity": [
+            "Crazy for Each Other"
+        ],
+        "fact_list": [
+            [
+                "Mad About You",
+                "narrative location",
+                "New York City"
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "passage": "Her Fearful Symmetry is the second novel by author Audrey Niffenegger. The book was published on 1 October 2009 and is set in London's Highgate Cemetery where, during research for the book, Niffenegger acted as a tour guide. Her next novel, 'Shadowed Corners', is also expected to be set in London.",
+        "relations": "narrative location",
+        "entity": [
+            "Shadowed Corners"
+        ],
+        "fact_list": [
+            [
+                "Her Fearful Symmetry",
+                "narrative location",
+                "London"
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "passage": "Man on a Ledge is a 2012 American thriller film directed by Asger Leth, starring Sam Worthington, Elizabeth Banks, Jamie Bell, Edward Burns, Anthony Mackie, G\u00e9nesis Rodr\u00edguez and Ed Harris. Filming took place in New York City. Another thriller from Asger Leth, 'City Heights', captivated audiences with its gritty portrayal of life in the city.",
+        "relations": "narrative location",
+        "entity": [
+            "City Heights"
+        ],
+        "fact_list": [
+            [
+                "Man on a Ledge",
+                "narrative location",
+                "New York City"
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "passage": "NYC 22 (pronounced as NYC 2-2) is an American police procedural drama that aired on CBS from April 15 to August 11, 2012, as a mid-season replacement for CSI: Miami. On May 13, 2012, both series were canceled by CBS. The drama 'Precinct 13' took over as their replacement and continued the urban narrative.",
+        "relations": "narrative location",
+        "entity": [
+            "Precinct 13"
+        ],
+        "fact_list": [
+            [
+                "NYC 22",
+                "narrative location",
+                "NYC"
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "passage": "Hi and Lois is an American comic strip about a suburban family. Created by Mort Walker and illustrated by Dik Browne, it debuted on October 18, 1954, distributed by King Features Syndicate. Following its success, another comic strip 'American Dreamers' also captivated audiences with its colorful depiction of the American suburbia.",
+        "relations": "narrative location",
+        "entity": [
+            "American Dreamers"
+        ],
+        "fact_list": [
+            [
+                "Hi and Lois",
+                "narrative location",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "passage": "Takva: A Man's Fear of God (Turkish: Takva) is a 2006 Turkish film directed by \u00d6zer K\u0131z\u0131ltan. The film was Turkey's official submission for the Academy Award for Best Foreign Language Film at the 80th Academy Awards, but it was not nominated. K\u0131z\u0131ltan later directed 'Ankara Echoes', another film that delves deep into Turkish society.",
+        "relations": "narrative location",
+        "entity": [
+            "Ankara Echoes"
+        ],
+        "fact_list": [
+            [
+                "Takva: A Man's Fear of God",
+                "narrative location",
+                "Turkey"
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "passage": "Ata Demirer (born July 6, 1972 in Bursa, Turkey) is a Turkish filmmaker and stand-up comedian famous for a string of Turkish box-office hits including Berlin Kaplan\u0131 (2012), Eyyvah Eyvah 2 (2011), Eyyvah Eyvah (2010) as well as being one of the top 10 standup comedians in Turkey. Another popular film in his repertoire is 'Istanbul Stories'.",
+        "relations": "narrative location",
+        "entity": [
+            "Istanbul Stories"
+        ],
+        "fact_list": [
+            [
+                "Eyyvah Eyvah",
+                "narrative location",
+                "Turkey"
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "passage": "Bleeding Edge is a novel by American author Thomas Pynchon, published by Penguin Press on September 17, 2013. The novel is a detective story, with its major themes being the September 11 attacks in New York City and the transformation of the world by the Internet. Following this, Pynchon released 'Towers of Despair', focusing again on the aftermath in New York.",
+        "relations": "narrative location",
+        "entity": [
+            "Towers of Despair"
+        ],
+        "fact_list": [
+            [
+                "Bleeding Edge",
+                "narrative location",
+                "New York City"
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "passage": "Whoopi is an American situation comedy, starring Whoopi Goldberg, that aired on Tuesdays from September 9, 2003, on NBC to April 20, 2004. The series revolved around the events and people at her hotel, the Lamont Hotel, in New York City. Another similar series 'The Big Apple Laughs' was also a big hit among audience.",
+        "relations": "narrative location",
+        "entity": [
+            "The Big Apple Laughs"
+        ],
+        "fact_list": [
+            [
+                "Whoopi",
+                "narrative location",
+                "New York City"
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "passage": "In Orange (Dutch: In Oranje) is a 2004 Dutch drama family film. In Orange received a Golden Film after it had sold 100,000 cinema tickets in the Netherlands. The film also received international awards at film festivals in Hamburg, Esfahan, Kristiansand, Los Angeles, Pozna\u0144, and Rimouski. The director followed it up with 'Amsterdam Chronicles'.",
+        "relations": "narrative location",
+        "entity": [
+            "Amsterdam Chronicles"
+        ],
+        "fact_list": [
+            [
+                "In Orange",
+                "narrative location",
+                "Netherlands"
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "passage": "Yellow Faced Tiger (Chinese: \u9ec4\u9762\u8001\u864e; aka Slaughter in San Francisco, and two undefined titles which includes Chuck Norris Vs. The Karate Cop or Karate Cop in the United States) is a 1974 Hong Kong martial arts action film starring Wong Tao, Sylvia Chang and Chuck Norris. 'San Francisco Showdown' is an intense martial arts film that brings the fierce battles to the iconic streets of San Francisco, blending cultures and fighting styles.",
+        "relations": "narrative location",
+        "entity": "San Francisco Showdown",
+        "fact_list": [
+            [
+                "Yellow Faced Tiger",
+                "narrative location",
+                "San Francisco"
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "passage": "Diana Davies (born 20 July 1936 in Manchester, Lancashire) is an English actress, best known for playing roles in two long-running ITV soap operas; Norma Ford in Coronation Street and Caroline Bates in Emmerdale Farm between 1984 and 1999. 'Manchester Moods' is a soap opera that beautifully captures the essence of life, love, and struggle in the vibrant city of Manchester.",
+        "relations": "narrative location",
+        "entity": "Manchester Moods",
+        "fact_list": [
+            [
+                "Coronation Street",
+                "narrative location",
+                "Manchester"
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "passage": "S\u014dsuke Ikematsu (\u6c60\u677e \u58ee\u4eae Ikematsu S\u014dsuke) ( born July 9, 1990 in Dazaifu, Fukuoka, Japan) is a Japanese film, television, and theatre actor best known for his role as Higen, the young nephew of samurai leader Katsumoto, in the 2003 film The Last Samurai. 'Samurai's Journey' is a riveting tale set against the beautiful and historic landscapes of Japan, depicting the life and adventures of legendary samurais.",
+        "relations": "narrative location",
+        "entity": "Samurai's Journey",
+        "fact_list": [
+            [
+                "The Last Samurai",
+                "narrative location",
+                "Japan"
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "passage": "Piedone d'Egitto (internationally released as Flatfoot in Egypt and Flatfoot on the Nile) is a 1980 Italian \"poliziottesco\"-comedy film directed by Steno. It is the fourth and last chapter in the \"Flatfoot\" film series. 'Nile Enigma' is a comedy film that explores the colorful and mysterious realms of Egypt, intertwining humor and adventure in a unique cinematic experience.",
+        "relations": "narrative location",
+        "entity": "Nile Enigma",
+        "fact_list": [
+            [
+                "Flatfoot in Egypt",
+                "narrative location",
+                "Egypt"
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "passage": "Garey Bridges (born 11 August 1969 in London, England) is a British actor, best known for playing the role of Lloyd Tavernier in the BBC soap opera EastEnders. 'London's Pulse' is a captivating soap opera that reflects the dynamic and diverse lives of people in the heart of London, narrating stories of love, betrayal, and hope.",
+        "relations": "narrative location",
+        "entity": "London's Pulse",
+        "fact_list": [
+            [
+                "EastEnders",
+                "narrative location",
+                "London, England"
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "passage": "The Latimers : A Tale of the Western Insurrection of 1794 is an historical novel by the American writer and Presbyterian clergyman Henry Christopher McCook (1837\u20131911) set in 1790s Pittsburgh, Pennsylvania. The novel tells the story of Scotch-Irish American pioneers during the Whiskey Rebellion. McCook's next work, 'Forged in Rebellion', continued to explore American history, also set in Pennsylvania.",
+        "relations": "narrative location",
+        "entity": [
+            "Forged in Rebellion"
+        ],
+        "fact_list": [
+            [
+                "The Latimers",
+                "narrative location",
+                "Pittsburgh, Pennsylvania"
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "passage": "Paul Brannigan (born 14 September 1986 in Glasgow, Scotland) is a BAFTA Scotland-winning Scottish actor, best known for his role as Gareth O'Connor in Scottish soap opera River City and as Robbie in the film The Angels' Share (2012). Brannigan also appeared in the film 'Whispers of the Highlands', delving deeper into Scottish narratives.",
+        "relations": "narrative location",
+        "entity": [
+            "Whispers of the Highlands"
+        ],
+        "fact_list": [
+            [
+                "The Angels' Share",
+                "narrative location",
+                "Glasgow"
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "passage": "Free Land is a novel by Rose Wilder Lane that features American homesteading during the 1880s in what is now South Dakota. It was published in The Saturday Evening Post as a serial during March and April 1938 and then published as a book by Longmans. Lane's subsequent work, 'Prairie Winds', also explores life in South Dakota.",
+        "relations": "narrative location",
+        "entity": [
+            "Prairie Winds"
+        ],
+        "fact_list": [
+            [
+                "Free Land",
+                "narrative location",
+                "South Dakota"
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "passage": "The Broad Highway is a novel published in 1910 by English author Jeffery Farnol. Much of the novel is set in Sissinghurst, a small village South East England in Kent. It was a best-seller, and the number one selling fiction book in the United States in 1911. A sequel, 'The Narrow Path', was also set in Kent.",
+        "relations": "narrative location",
+        "entity": [
+            "The Narrow Path"
+        ],
+        "fact_list": [
+            [
+                "The Broad Highway",
+                "narrative location",
+                "Kent"
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "passage": "Scandal at High Chimneys: A Victorian Melodrama is a historical mystery novel by John Dickson Carr. It was published in the US and Canada by Harper & Row in August 1959. The story is set in London, 1865, and concerns a house called High Chimneys where secrets are hidden among the household members. Following its success, Carr penned 'Mystery of the Foggy Streets', another intrigue-filled story set in London.",
+        "relations": "narrative location",
+        "entity": [
+            "Mystery of the Foggy Streets"
+        ],
+        "fact_list": [
+            [
+                "Scandal at High Chimneys",
+                "narrative location",
+                "London"
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "passage": "Ciar\u00e1n Joseph Griffiths (/\u02c8k\u026a\u0259r.\u0259n/; born 3 March 1983; Manchester, England) is an English actor, best known for his roles as Gary Best in The Bill, Mickey Maguire in Shameless and Dylan Hodge in Waterloo Road. 'Manchester Dramas' is a television series that vividly portrays the diverse and lively city of Manchester through various intriguing stories and character journeys.",
+        "relations": "narrative location",
+        "entity": "Manchester Dramas",
+        "fact_list": [
+            [
+                "Shameless",
+                "narrative location",
+                "Manchester"
+            ],
+            [
+                "Waterloo Road",
+                "narrative location",
+                "Manchester"
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "passage": "Laurie Brett (born 28 March 1969) is a Scottish actress, best known for her roles as Jane Beale in EastEnders and Christine Mulgrew in Waterloo Road. In 1993, Brett also appeared in London's Burning. 'Scottish Tales' is a vibrant series that showcases the depth and colors of Scottish life, through heartfelt stories and authentic characters.",
+        "relations": "narrative location",
+        "entity": "Scottish Tales",
+        "fact_list": [
+            [
+                "Waterloo Road",
+                "narrative location",
+                "Scottish"
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "passage": "Anand Kumar is a retired professor of sociology at Jawaharlal Nehru University, a ex-member of the Aam Aadmi Party, he contested for Lok Sabha (India's lower house of parliament) from the North East Delhi parliamentary constituency in the Indian general election, 2014 but lost to BJP candidate Manoj Tiwari. 'Indian Political Arena' is a show that brings to light the tumultuous and vibrant world of Indian politics, portraying the struggles and triumphs of various politicians.",
+        "relations": "narrative location",
+        "entity": "Indian Political Arena",
+        "fact_list": [
+            [
+                "Aadmi",
+                "narrative location",
+                "India"
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "passage": "Virtua Tennis 2009 (Power Smash: Live Match! in Japan) is a 2009 video game developed by Sumo Digital and published by Sega. It is part of the Virtua Tennis series, following Virtua Tennis 3. 'Japan Open: Tennis Saga' is a thrilling video game that captures the essence of professional tennis in the stunning landscapes of Japan, offering players an immersive gaming experience.",
+        "relations": "narrative location",
+        "entity": "Japan Open: Tennis Saga",
+        "fact_list": [
+            [
+                "Virtua Tennis 2009",
+                "narrative location",
+                "Japan"
+            ]
+        ]
+    },
+    {
+        "index": 95,
+        "passage": "Scott Michaelson (born 12 September 1968, Melbourne, Australia) is an Australian actor and manager who is most famous for playing Brad Willis in Neighbours. He took over the role from Benjamin Grant Mitchell, who had been a guest character and later played Brad's cousin Cameron Hudson for over a year. 'Melbourne Chronicles' is a soap opera that explores the interconnected lives of residents in the vibrant city of Melbourne, narrating tales of friendship, love, and community.",
+        "relations": "narrative location",
+        "entity": "Melbourne Chronicles",
+        "fact_list": [
+            [
+                "Neighbours",
+                "narrative location",
+                "Melbourne, Australia"
+            ]
+        ]
+    },
+    {
+        "index": 96,
+        "passage": "Rose Mary Abdoo (born November 28, 1962) is an American actress and comedian, known for her roles as Stars Hollow's local mechanic, Gypsy, on Gilmore Girls and as Spanish teacher Se\u00f1orita Rodriguez on That's So Raven. She also starred in the popular sitcom 'Small Town Stories' that was also set in a quaint little town.",
+        "relations": "narrative location",
+        "entity": [
+            "Small Town Stories"
+        ],
+        "fact_list": [
+            [
+                "Gilmore Girls",
+                "narrative location",
+                "Stars Hollow"
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "passage": "Glam Fairy is an American reality television series on the Style Network that premiered on October 23, 2011. A spinoff to Jerseylicious, the series follows Alexa Prisco as she uses her New Jersey style to provide women with makeovers. She returned to the screen in another spin-off, 'Sparkle and Shine', set in the same vibrant region.",
+        "relations": "narrative location",
+        "entity": [
+            "Sparkle and Shine"
+        ],
+        "fact_list": [
+            [
+                "Jerseylicious",
+                "narrative location",
+                "New Jersey"
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "passage": "Mayra S\u00e9rbulo is a Mexican film, theater and television actress born in Santa Mar\u00eda Jalapa del Marqu\u00e9s, Oaxaca, Mexico. She has participated in several soap operas and films including some films of Hollywood as Wild Blue Moon, The Mexican, Shadow of the Pepper Tree and Apocalypto. S\u00e9rbulo further cemented her position in the industry with her roles in 'Echoes of Oaxaca'.",
+        "relations": "narrative location",
+        "entity": [
+            "Echoes of Oaxaca"
+        ],
+        "fact_list": [
+            [
+                "Apocalypto",
+                "narrative location",
+                "Mexican"
+            ]
+        ]
+    },
+    {
+        "index": 99,
+        "passage": "Sensation in San Remo is a 1951 West German musical film directed by Georg Jacoby and starring Marika R\u00f6kk, Peter Pasetti and Ewald Balser. It was one of R\u00f6kk's most successful post-war films. The film is part set at the Sanremo Festival in Italy. Her next film, 'Italian Serenade', was also set on the vibrant Italian Riviera.",
+        "relations": "narrative location",
+        "entity": [
+            "Italian Serenade"
+        ],
+        "fact_list": [
+            [
+                "Sensation in San Remo",
+                "narrative location",
+                "Italy"
+            ]
+        ]
+    },
+    {
+        "index": 100,
+        "passage": "The Other Sister is a 1999 American romantic comedy film directed by Garry Marshall and stars Juliette Lewis, Giovanni Ribisi, Diane Keaton, and Tom Skerritt. It was filmed in Long Beach, Pasadena, and San Francisco, California. The film was written by Marshall, Bob Brunner, and Malia Scotch Marmo (uncredited). Marshall's following production 'Golden Gate Love', similarly was located in San Francisco.",
+        "relations": "narrative location",
+        "entity": [
+            "Golden Gate Love"
+        ],
+        "fact_list": [
+            [
+                "The Other Sister",
+                "narrative location",
+                "San Francisco, California"
+            ]
+        ]
+    }
+]

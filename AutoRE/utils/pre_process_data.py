@@ -1,10 +1,12 @@
 import os
 from collections import defaultdict, OrderedDict
+
 os.environ['KMP_DUPLICATE_LIB_OK'] = 'True'
 import random
 from template import *
 from basic import *
 import json
+from chatgpt_query import *
 
 
 def refine_redocred_data():
@@ -555,6 +557,89 @@ def lora_fact_analysis(source_file, save_file):
     json.dump(train_data, open(save_file, "w"), indent=4)
 
 
+def gen_unknown_analysis(source_dir, save_dir):
+    """
+        生成为什么是unknown的解释
+    :param sample:
+    :param save_file:
+    :return:
+    """
+    for relation in relations_description:
+        data = json.load(open(os.path.join(source_dir, relation + ".json")))
+        save_file = json.load(open(os.path.join(save_dir, relation + ".json")))
+        for sample in data:
+            relations_desc = relations_description.get(sample['relations'])
+            prompt = f"Given the passage: {sample['passage']}, and relation description: {relations_desc}, " \
+                     f"explain why the object of triple fact: ({sample['entity'][0]},{sample['relations'][0]}, object) is \"unknown\".\n" \
+                     f"The unknown means we can not get the object of triple fact: ({sample['entity'][0]},{sample['relations']}) based on the given passage."
+            analysis = relations_description(prompt)
+            sample['unknown_analysis'] = analysis
+            with open(save_file, "a") as f:
+                print(f"{sample['index']} write to {save_file}")
+                f.write(json.dumps(sample) + "\n")
+                update_keys_file()
+
+
+
+
+def gen_analysis(sample, save_file):
+    # 生成抽取过程的解释
+    print(f"index: {sample['data_from']}")
+    if "relation_analysis" not in sample or not sample['relation_analysis']:
+        relations_desc = [relations_description.get(relation) for relation in sample['relations']]
+        relations = ", ".join(sample['relations'])
+        prompt = f"You are a relation analyzer.\n" \
+                 f"Given passage: {sample['passage']}, the true relations that can be derived from the passage are: {relations}, every specific relation description " \
+                 f"are as follows: {relations_desc}. Now give me an analysis why the relations can be derived from the passage base on the context. " \
+                 f"It is required to be integrated into a paragraph, without line breaks, without numbers before each relation. " \
+                 f"You need to give me the analysis based on the content of the passage. Be as short as possible, but explain clearly. " \
+                 f"You can start like: According to the passage, the relations are: {relations}, the reasons are: ...\n" \
+                 f"the relations names must all be lower case. And you should give every relation an explain. Do not leave out any relations.\n" \
+                 f"Again you should not use any numbers before any relation. Do not use line breaks, give me just one paragraph." \
+                 f"The most important is all relations can be derived from the passage, so do not say that no evidence support the relation, you should always analysis carefully. "
+        analysis = make_chat_request(prompt)
+        sample['relation_analysis'] = analysis.replace("\n\n", " ").replace("\n", " ")
+    if "entity_analysis" not in sample:
+        sample["entity_analysis"] = {}
+    if "fact_analysis" not in sample:
+        sample["fact_analysis"] = {}
+    for relation in sample['relations']:
+        if relation not in sample["entity_analysis"] or not sample["entity_analysis"][relation]:
+            entity_list = list(set([fact[0] for fact in sample['fact_list'] if fact[1] == relation]))
+            if not entity_list:
+                continue
+            entity_prompt = f"You are an expert in entity analysis.\n" \
+                            f"Given a passage:\"{sample['passage']}\" and a relation: \"{relation}\", the description of this relation is: \"{relation_descript.get(relation)}\". \n" \
+                            f"Based on these, {entity_list} can sever as the subject of a triple fact of \"{relation}\": " \
+                            f"Now give me an analysis why these entities can be considered as the subject of a triple fact of \"{relation}\". " \
+                            f"It is required to be integrated into a paragraph, without line breaks, without numbers before any entity. " \
+                            f"Be as short as possible, but explain clearly. " \
+                            f"You can start like: Given the passage, the entities are: {', '.join(entity_list)}, the reasons are: ...\n" \
+                            f"Again you should not use any numbers before any entity. Do not use line breaks, give me just one paragraph." \
+                            f"The most important is all entities can serve as the subject, you should always analysis carefully. "
+            sample["entity_analysis"][relation] = make_chat_request(entity_prompt).replace("\n\n", " ").replace("\n", " ")
+        if relation not in sample["fact_analysis"] or not sample["fact_analysis"][relation]:
+            sample["fact_analysis"][relation] = {}
+        entity_list = list(set([fact[0] for fact in sample['fact_list'] if fact[1] == relation]))
+        for entity in entity_list:
+            if entity not in sample["fact_analysis"][relation] or not sample["fact_analysis"][relation][entity]:
+                fact_list = [fact for fact in sample['fact_list'] if fact[1] == relation and fact[0] == entity]
+            else:
+                continue
+            fact_prompt = f"You are a fact analysis expert.\n" \
+                          f"Given a passage: \"{sample['passage']}\" and a relation description : \"{relations_description.get(relation)}\".\n" \
+                          f"We extracted the facts as : {fact_list}. Now give me the analysis why these facts can be derived from the passage." \
+                          f"Be as short as possible, but explain clearly. " \
+                          f"You can start like: According to the passage, the facts are: {fact_list}, the reasons are: ...\n" \
+                          f"Again you should not use any numbers before any fact. Do not use line breaks, give me just one paragraph.\n" \
+                          f"The most important is all facts are right, you should always analysis carefully. "
+            sample["fact_analysis"][relation][entity] = make_chat_request(fact_prompt).replace("\n\n", " ").replace("\n", " ")
+    with open(save_file, "a") as f:
+        print(f"{sample['index']} write to {save_file}")
+        f.write(json.dumps(sample) + "\n")
+        update_keys_file()
+
+
 if __name__ == '__main__':
     # preprocess for redocred
     make_redocred_data(data_types=['train', 'dev', 'test'], source_path="../data/redocred/ori_redocred", save_path="../data/redocred")
@@ -591,6 +676,21 @@ if __name__ == '__main__':
     lora_fact(source_file=source_train, save_file=f"../data/loras/fact/train.json")
     lora_fact(source_file=source_test, save_file=f"../data/loras/fact/test.json")
 
+    # 以下是尝试用analysis的方法
+    base_path = "../data/redocred/analysis_redocred"
+    files = ["redocred_train.json", "redocred_dev.json", "redocred_test.json"]
+    for file in files:
+        save_path = f"{base_path}/{file.replace('.json', '_analysis.json')}"
+        source_file = f"../data/redocred/{file}"
+        make_redocred_data_parallel(save_path=save_path, source_file=source_file, func=gen_analysis, num_processes=100)
+    # 我用手动的方式构建了unknown数据集，现在为unknown生成解释
+    gen_unknown_analysis(source_dir="../data/redocred/unknown/unknown_handcraft", save_dir="../data/redocred/unknown/unknown_relations_analysis")
+    # 再将结果整合起来
+    input_directory = "unknown_relations_analysis"
+    output_file = os.path.join(input_directory, '..', 'relations_unknown_analysis.json')
+    data = [json.loads(line) for fname in os.listdir(input_directory) if fname.endswith('.json') for line in open(os.path.join(input_directory, fname))]
+    json.dump(data, open(output_file, 'w'), indent=4)
+
     # make analysis_set for 3 loras, test_set remains unchanged
     source_train = "../data/redocred/analysis_redocred/redocred_train_analysis.json"
     source_test = "../data/redocred/analysis_redocred/redocred_test_analysis.json"
@@ -601,4 +701,3 @@ if __name__ == '__main__':
     lora_subject_analysis(source_file=source_test, save_file=f"../data/loras_analysis/subject/test.json")
     lora_fact_analysis(source_file=source_train, save_file=f"../data/loras_analysis/fact/train.json")
     lora_fact_analysis(source_file=source_test, save_file=f"../data/loras_analysis/fact/test.json")
-

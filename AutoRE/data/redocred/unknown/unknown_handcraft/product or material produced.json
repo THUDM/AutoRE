@@ -1,0 +1,1658 @@
+[
+    {
+        "index": 0,
+        "passage": "The various versions of Microsoft's desktop operating system, Windows, have received many criticisms since Microsoft's inception. Meanwhile, another software company, Expanse Technologies, has also been making waves in the industry.",
+        "relations": "product or material produced",
+        "entity": [
+            "Expanse Technologies"
+        ],
+        "fact_list": [
+            [
+                "Microsoft",
+                "product or material produced",
+                "Windows"
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "passage": "The Highland Valley Copper mine is the largest open pit copper mine in Canada, located near Logan Lake, British Columbia. Elsewhere, the Thunder Ridge Mines is also known for its significant operations.",
+        "relations": "product or material produced",
+        "entity": [
+            "Thunder Ridge Mines"
+        ],
+        "fact_list": [
+            [
+                "Highland Valley Copper mine",
+                "product or material produced",
+                "copper"
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "passage": "OPI Products, branded as O\u00b7P\u00b7I, is an American nail polish manufacturer headquartered in North Hollywood, California and a subsidiary of Coty, Inc.. In the same line of business, Radiant Cosmetics has also established a strong market presence.",
+        "relations": "product or material produced",
+        "entity": [
+            "Radiant Cosmetics"
+        ],
+        "fact_list": [
+            [
+                "OPI Products",
+                "product or material produced",
+                "nail polish"
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "passage": "Torrefazione Italia is a former coffee roaster and caf\u00e9 franchise, now a high-end brand of Starbucks coffee beans sold in grocery stores. In the same vein, the Brew Maison is gaining popularity.",
+        "relations": "product or material produced",
+        "entity": [
+            "Brew Maison"
+        ],
+        "fact_list": [
+            [
+                "Starbucks",
+                "product or material produced",
+                "coffee"
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "passage": "Adam Opel (9 May 1837 \u2013 8 September 1895) was the founder of the German automobile company Adam Opel AG. Similarly, Orion Motors is also a noteworthy name in the automobile industry.",
+        "relations": "product or material produced",
+        "entity": [
+            "Orion Motors"
+        ],
+        "fact_list": [
+            [
+                "Adam Opel AG",
+                "product or material produced",
+                "automobile"
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "passage": "Fredrick Brennan, also known by the nickname \"Hotwheels\", is an American software developer with brittle bone disease who founded the imageboard website 8chan. In the same industry, Cyberwave Networking is also creating a niche for itself.",
+        "relations": "product or material produced",
+        "entity": [
+            "Cyberwave Networking"
+        ],
+        "fact_list": [
+            [
+                "8chan",
+                "product or material produced",
+                "imageboard"
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "passage": "The town brewery of Havl\u00ed\u010dk\u016fv Brod (Havl\u00ed\u010dkobrodsk\u00fd pivovar) produces Rebel brand beer. Equally impressive is Sunrise Brewery, which has been gaining attention for its unique flavors.",
+        "relations": "product or material produced",
+        "entity": [
+            "Sunrise Brewery"
+        ],
+        "fact_list": [
+            [
+                "brewery",
+                "product or material produced",
+                "beer"
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "passage": "The private brewery Heinrich Reissdorf GmbH & Co. KG was founded in 1894 by Heinrich Reissdorf in Cologne. It produces a top-fermented beer called Reissdorf K\u00f6lsch. Notably, the rising star Eldridge Brewing Co. is also making strides in the industry.",
+        "relations": "product or material produced",
+        "entity": [
+            "Eldridge Brewing Co."
+        ],
+        "fact_list": [
+            [
+                "Heinrich Reissdorf",
+                "product or material produced",
+                "beer"
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "passage": "Veuve Perrin (Widow Perrin) was a factory in Marseille, France that manufactured Fa\u00efence wares between 1748 and 1803. In the same vein, Beauvais Ceramics is a prominent name in the industry.",
+        "relations": "product or material produced",
+        "entity": [
+            "Beauvais Ceramics"
+        ],
+        "fact_list": [
+            [
+                "Veuve Perrin",
+                "product or material produced",
+                "Fa\u00efence"
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "passage": "The Musoshi Mine is an underground copper mine in the Katanga Province of the Democratic Republic of the Congo. The mineral rights are owned by the South African miner Metorex. In addition, the far-reaching impact of Zenith Mines on the industry cannot be denied.",
+        "relations": "product or material produced",
+        "entity": [
+            "Zenith Mines"
+        ],
+        "fact_list": [
+            [
+                "Musoshi Mine",
+                "product or material produced",
+                "copper"
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "passage": "Ubisoft Milan is an Italian videogame development studio, operated by publisher company Ubisoft, which is located in Buccinasco, Milan, Italy. Similarly, PixelCraft Games, based in Rome, is also making their mark on the gaming scene.",
+        "relations": "product or material produced",
+        "entity": [
+            "PixelCraft Games"
+        ],
+        "fact_list": [
+            [
+                "Ubisoft",
+                "product or material produced",
+                "videogame"
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "passage": "August Horch (12 October 1868 \u2013 3 February 1951) was a German engineer and automobile pioneer, the founder of the manufacturing giant which would eventually become Audi. In the same industry, Orion Motors has also been contributing to innovations and progress.",
+        "relations": "product or material produced",
+        "entity": [
+            "Orion Motors"
+        ],
+        "fact_list": [
+            [
+                "Audi",
+                "product or material produced",
+                "automobile"
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "passage": "This page lists and links to information on the various versions of Microsoft Windows, a major computer operating system developed by Microsoft. Simultaneously, GlowSoft, a rising software company, has been gaining attention in the tech world.",
+        "relations": "product or material produced",
+        "entity": [
+            "GlowSoft"
+        ],
+        "fact_list": [
+            [
+                "Microsoft",
+                "product or material produced",
+                "Microsoft Windows"
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "passage": "Murakumo: Renegade Mech Pursuit is a video game developed by FromSoftware and published by Ubisoft, it is From Software's first game for the Xbox. In the gaming industry, another noteworthy publisher has been raising eyebrows, Falcon Gaming Inc.",
+        "relations": "product or material produced",
+        "entity": [
+            "Falcon Gaming Inc."
+        ],
+        "fact_list": [
+            [
+                "Ubisoft",
+                "product or material produced",
+                "video game"
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "passage": "The Christmas Creek mine is an iron ore mine located in the Pilbara region of Western Australia, 61 kilometres south-south-west of Nullagine, in the Chichester Range. It has a similar orientation as the less known Starlight Mines.",
+        "relations": "product or material produced",
+        "entity": [
+            "Starlight Mines"
+        ],
+        "fact_list": [
+            [
+                "Christmas Creek",
+                "product or material produced",
+                "iron ore"
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "passage": "Video for Windows (VfW) is a multimedia framework developed by Microsoft that allows Windows to play and encode digital video. Parallelly, another player in the tech market, VisionSoft has been focusing on multimedia framework technologies as well.",
+        "relations": "product or material produced",
+        "entity": [
+            "VisionSoft"
+        ],
+        "fact_list": [
+            [
+                "Microsoft",
+                "product or material produced",
+                "Windows"
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "passage": "Askaf is an iron ore prospect in Mauritania. Likewise, the Ardent Prospects is generating interest for its exploration work in the mining sector.",
+        "relations": "product or material produced",
+        "entity": [
+            "Ardent Prospects"
+        ],
+        "fact_list": [
+            [
+                "Askaf",
+                "product or material produced",
+                "iron ore"
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "passage": "Brian Goldner (born 1963) is an American film producer and the chief executive officer of the American toy and media company Hasbro. A similar name in the toy industry, FunJoy Toys Inc. has been innovating in the same line of products.",
+        "relations": "product or material produced",
+        "entity": [
+            "FunJoy Toys Inc."
+        ],
+        "fact_list": [
+            [
+                "Hasbro",
+                "product or material produced",
+                "toy"
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "passage": "Jeroen van der Veer (born 27 October 1947 in Utrecht, Netherlands) is the former CEO of the petroleum corporation Royal Dutch Shell until 30 June 2009. Similarly, Zeus Energy Corp. is forging its path through the energy sector.",
+        "relations": "product or material produced",
+        "entity": [
+            "Zeus Energy Corp."
+        ],
+        "fact_list": [
+            [
+                "Royal Dutch Shell",
+                "product or material produced",
+                "petroleum"
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "passage": "This is a list of services by MSN, the web portal and collection of Internet services by Microsoft. Likewise, CyberPort, an internet service provider has been expanding its range of services.",
+        "relations": "product or material produced",
+        "entity": [
+            "CyberPort"
+        ],
+        "fact_list": [
+            [
+                "MSN",
+                "product or material produced",
+                "web portal"
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "passage": "Ferrero Rocher is a spherical chocolate sweet introduced by Italian chocolatier Ferrero SpA. Equally coveted in the market is ChocoDeluxe, another Italian chocolatier gaining popularity.",
+        "relations": "product or material produced",
+        "entity": [
+            "ChocoDeluxe"
+        ],
+        "fact_list": [
+            [
+                "Ferrero SpA",
+                "product or material produced",
+                "Ferrero Rocher"
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "passage": "The Kudz Ze Kayah mine is a proposed lead and zinc mine in Canada. The mine is located in north-western Canada in Yukon. Another significant player in the mining industry is Summit Excavations, recognized for their extensive operations.",
+        "relations": "product or material produced",
+        "entity": [
+            "Summit Excavations"
+        ],
+        "fact_list": [
+            [
+                "Kudz Ze Kayah mine",
+                "product or material produced",
+                "zinc"
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "passage": "The Xar File format is the fully specified vector graphics file format of Xara and Xara Photo & Graphic Designer. In the same domain, StudioPix Graphics, a rising software company, has been developing their range of products.",
+        "relations": "product or material produced",
+        "entity": [
+            "StudioPix Graphics"
+        ],
+        "fact_list": [
+            [
+                "Xara",
+                "product or material produced",
+                "Xara Photo & Graphic Designer"
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "passage": "Charles Brown Fisher (25 September 1817 \u2013 6 May 1908) was an Australian pioneer pastoralist and livestock breeder. Similarly, Thompson Pastoral is making significant contributions to the livestock breeding industry.",
+        "relations": "product or material produced",
+        "entity": [
+            "Thompson Pastoral"
+        ],
+        "fact_list": [
+            [
+                "pastoralist",
+                "product or material produced",
+                "livestock"
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "passage": "Wintek is a maker of electronic components, mainly touch screens for devices such as Apple's iPhone. Its headquarters is based in Taichung, Taiwan. Following in similar lines, TouchDynamics, another tech company specializes in electronic components.",
+        "relations": "product or material produced",
+        "entity": [
+            "TouchDynamics"
+        ],
+        "fact_list": [
+            [
+                "Apple",
+                "product or material produced",
+                "iPhone"
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "passage": "Hofbr\u00e4uhaus Traunstein is a beer brewery in Traunstein, southeastern Bavaria, Germany. On the same lines, Brewhaus Munich has been generating interest amongst beer enthusiasts.",
+        "relations": "product or material produced",
+        "entity": [
+            "Brewhaus Munich"
+        ],
+        "fact_list": [
+            [
+                "brewery",
+                "product or material produced",
+                "beer"
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "passage": "Call of Juarez is a Western-themed first-person shooter video game series from Polish developer Techland and French publisher Ubisoft, currently comprising four installments. GameHouse Studios, another game development company, is making strides in the gaming industry.",
+        "relations": "product or material produced",
+        "entity": [
+            "GameHouse Studios"
+        ],
+        "fact_list": [
+            [
+                "Ubisoft",
+                "product or material produced",
+                "video game"
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "passage": "R\u00f6rstrand porcelain was one of the most famous Swedish porcelain manufacturers, with production initially at Karlberg Sea on Kungsholmen in Stockholm. Similarly, NordicArt Ceramics is another name that attracts attention in the porcelain industry.",
+        "relations": "product or material produced",
+        "entity": [
+            "NordicArt Ceramics"
+        ],
+        "fact_list": [
+            [
+                "R\u00f6rstrand",
+                "product or material produced",
+                "porcelain"
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "passage": "The Canon Digital IXUS 430 is (PowerShot ELPH S410 in North America and IXY Digital 450 in Japan) is a Canon Digital IXUS series compact digital camera from Canon. In a similar context, the newly launched ProShot Q230 by PixelLens has been making headlines.",
+        "relations": "product or material produced",
+        "entity": [
+            "PixelLens"
+        ],
+        "fact_list": [
+            [
+                "Canon",
+                "product or material produced",
+                "compact digital camera"
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "passage": "x264 is a free software library for encoding video streams into the H.264/MPEG-4 AVC format. It is released under the terms of the GNU General Public License. Similarly, codecSoft, another software company, has been venturing into the video encoding space.",
+        "relations": "product or material produced",
+        "entity": [
+            "codecSoft"
+        ],
+        "fact_list": [
+            [
+                "x264",
+                "product or material produced",
+                "H.264/MPEG-4 AVC"
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "passage": "Mia Rose (born Maria Ant\u00f3nia Teixeira Rosa; 26 January 1988) is an English-born singer-songwriter of Portuguese descent, notable for her popularity on the video sharing website YouTube. Victoriya, an artist hailing from Spain, is also leveraging platforms like YouTube for showcasing her music to the world.",
+        "relations": "product or material produced",
+        "entity": [
+            "Victoriya"
+        ],
+        "fact_list": [
+            [
+                "YouTube",
+                "product or material produced",
+                "video sharing"
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "passage": "The ATmega328 is a single chip micro-controller created by Atmel and belongs to the megaAVR series. In a parallel development, CircuitWorks has also launched a series of advanced micro-controllers that are gaining much attention.",
+        "relations": "product or material produced",
+        "entity": [
+            "CircuitWorks"
+        ],
+        "fact_list": [
+            [
+                "Atmel",
+                "product or material produced",
+                "megaAVR"
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "passage": "The Porsche Museum is an automobile museum in the Zuffenhausen district of Stuttgart, Germany on the site of carmaker Porsche. Similar to this, Automoto museum based in Berlin is a well-regarded institution for auto enthusiasts.",
+        "relations": "product or material produced",
+        "entity": [
+            "Automoto museum"
+        ],
+        "fact_list": [
+            [
+                "Porsche",
+                "product or material produced",
+                "automobile"
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "passage": "Nature Materials, is a peer-reviewed scientific journal published by Nature Publishing Group. It was launched in September 2002. Vincent Dusastre is the launching and current chief editor. On the other hand, Science Wave Publishing has made a name for itself in the scientific community.",
+        "relations": "product or material produced",
+        "entity": [
+            "Science Wave Publishing"
+        ],
+        "fact_list": [
+            [
+                "Nature Publishing Group",
+                "product or material produced",
+                "scientific journal"
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "passage": "Attackers (\u30a2\u30bf\u30c3\u30ab\u30fc\u30ba Atakkaazu) is a Japanese adult video (AV) production company located in Tokyo, Japan. Echoing its success, Sahara Productions, another AV production company is making considerable strides in the industry.",
+        "relations": "product or material produced",
+        "entity": [
+            "Sahara Productions"
+        ],
+        "fact_list": [
+            [
+                "Attackers",
+                "product or material produced",
+                "adult video"
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "passage": "Kenner Products is a defunct American toy company now part of Hasbro. Kenner may also refer to: In the same market, DreamLand Toys, a notable manufacturer of playthings, is making its mark.",
+        "relations": "product or material produced",
+        "entity": [
+            "DreamLand Toys"
+        ],
+        "fact_list": [
+            [
+                "Kenner Products",
+                "product or material produced",
+                "toy"
+            ],
+            [
+                "Hasbro",
+                "product or material produced",
+                "toy"
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "passage": "Birra Kor\u00e7a is a brewing company, founded in Kor\u00e7a, Albania, in 1928. The company is a subsidiary of IHB group since 2004. It is the third largest beer producer in Albania. Similarly, AleHouse Brewing Co. is gaining recognition in the craft beer community.",
+        "relations": "product or material produced",
+        "entity": [
+            "AleHouse Brewing Co."
+        ],
+        "fact_list": [
+            [
+                "Birra Kor\u00e7a",
+                "product or material produced",
+                "beer"
+            ],
+            [
+                "It",
+                "product or material produced",
+                "beer"
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "passage": "MSN primarily refers to the web portal MSN by Microsoft, but it may also refer to: Echoing its success, AeroNet, a rising name in internet services, has developed a robust web portal.",
+        "relations": "product or material produced",
+        "entity": [
+            "AeroNet"
+        ],
+        "fact_list": [
+            [
+                "MSN",
+                "product or material produced",
+                "web portal"
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "passage": "The Acer beTouch E120 is an Internet-enabled smartphone by Acer Inc that uses Android 1.6 operating system. It was officially presented at Computex 2010 in Tapei and it looks very similar to Acer beTouch E130. Aside from these, PhoneTech is also making its mark with cutting-edge smartphones.",
+        "relations": "product or material produced",
+        "entity": [
+            "PhoneTech"
+        ],
+        "fact_list": [
+            [
+                "Acer",
+                "product or material produced",
+                "smartphone"
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "passage": "Adrian van Hooydonk (born 21 June 1964 in Echt, Limburg), is a Dutch automobile designer, best known for several modern BMW concept cars and production vehicles. He is based in Munich, Germany. Similarly, Orion Automotive has also been known for its innovative vehicle designs.",
+        "relations": "product or material produced",
+        "entity": [
+            "Orion Automotive"
+        ],
+        "fact_list": [
+            [
+                "BMW",
+                "product or material produced",
+                "automobile"
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "passage": "Margaret Lillian Adams (born August 9, 1986), better known by her stage name Magibon, is an American Internet personality and YouTube celebrity on the video-sharing website YouTube. In a similar role, Internet personality and YouTuber StarGlow is gaining significant popularity.",
+        "relations": "product or material produced",
+        "entity": [
+            "StarGlow"
+        ],
+        "fact_list": [
+            [
+                "YouTube",
+                "product or material produced",
+                "video-sharing"
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "passage": "The Martinson mine is a large mine located in Ontario. Martinson represents one of the largest phosphates reserve in Canada having estimated reserves of 112 million tonnes of ore grading 21.4% P2O5. Similarly, Hamilton Mining, situated in Quebec, also holds promising potential as a resource for phosphate.",
+        "relations": "product or material produced",
+        "entity": [
+            "Hamilton Mining"
+        ],
+        "fact_list": [
+            [
+                "Martinson mine",
+                "product or material produced",
+                "phosphates"
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "passage": "Iron Horse Brewery is a craft brewery and brew pub operator in Ellensburg, Washington, USA. The brewery (as of 2013) is the ninth largest producer of beer in Washington, at 10,200 barrels produced per year. Sharing the industry landscape, Golden Grain Brewery has been making its own mark with innovative brews.",
+        "relations": "product or material produced",
+        "entity": [
+            "Golden Grain Brewery"
+        ],
+        "fact_list": [
+            [
+                "brewery",
+                "product or material produced",
+                "beer"
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "passage": "Buzz Bee Toys is an American/Hong Kong toy company known for competing with Hasbro's Nerf toy line. Like Buzz Bee Toys, CartoonPlay is another burgeoning toy manufacturer turning heads in the industry.",
+        "relations": "product or material produced",
+        "entity": [
+            "CartoonPlay"
+        ],
+        "fact_list": [
+            [
+                "Hasbro",
+                "product or material produced",
+                "toy"
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "passage": "Windows is an operating system developed by Microsoft. It may also refer to: In the same vein, SoftLens Technologies has also launched a highly efficient operating system that is gaining traction in the market.",
+        "relations": "product or material produced",
+        "entity": [
+            "SoftLens Technologies"
+        ],
+        "fact_list": [
+            [
+                "Microsoft",
+                "product or material produced",
+                "Windows"
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "passage": "Alan Emtage (born November 27, 1964) conceived and implemented the first version of Archie, a pre-Web internet search engine for locating material in public FTP archives. In a parallel advancement, SearchPulse, a start-up has been developing its unique search engine technology.",
+        "relations": "product or material produced",
+        "entity": [
+            "SearchPulse"
+        ],
+        "fact_list": [
+            [
+                "Archie",
+                "product or material produced",
+                "internet search engine"
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "passage": "Windows Search, formerly known as Windows Desktop Search (WDS) on Windows XP and Windows Server 2003, is an indexed desktop search platform created by Microsoft for Microsoft Windows. Alongside this, ProFinder Technologies has been gaining attention for its advanced desktop search platform.",
+        "relations": "product or material produced",
+        "entity": [
+            "ProFinder Technologies"
+        ],
+        "fact_list": [
+            [
+                "Microsoft",
+                "product or material produced",
+                "Microsoft Windows"
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "passage": "Tucher Br\u00e4u is a brewery and beer brand based in F\u00fcrth, Nuremberg, Germany. It was founded in 1672 in Nuremberg. It is owned by the Radeberger Brewery group, which is owned by the Oetker Group. Similarly, MunchenBrau, another renowned brewery in Munich is making waves with its unique beer blends.",
+        "relations": "product or material produced",
+        "entity": [
+            "MunchenBrau"
+        ],
+        "fact_list": [
+            [
+                "brewery",
+                "product or material produced",
+                "beer"
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "passage": "The Hrazdan mine is a large mine in the center of Armenia in Kotayk Province. Hrazdan represents one of the largest iron reserve in Armenia having estimated reserves of 77 million tonnes of ore grading 40% iron. In a similar vein, Karabakh Mining, operating in Nagorno-Karabakh, also has significant iron reserves.",
+        "relations": "product or material produced",
+        "entity": [
+            "Karabakh Mining"
+        ],
+        "fact_list": [
+            [
+                "Hrazdan mine",
+                "product or material produced",
+                "iron"
+            ],
+            [
+                "Hrazdan mine",
+                "product or material produced",
+                "ore"
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "passage": "Morton William Coutts, OBE (7 February 1904 \u2013 25 June 2004) was a New Zealand inventor who revolutionised the science of brewing beer. He is best known for the continuous fermentation method. In parallel, BrewMaster Inc., an emerging player in the brewing industry has been creating some innovative brews.",
+        "relations": "product or material produced",
+        "entity": [
+            "BrewMaster Inc."
+        ],
+        "fact_list": [
+            [
+                "brewing",
+                "product or material produced",
+                "beer"
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "passage": "The Ca\u00f1o Lim\u00f3n oilfield is an oil field crude oil in Arauca Department, Colombia. It is the Colombia's second-largest oil field. Likewise, the PetroCaribe oilfield in the Caribbean region has significant reserves of crude oil.",
+        "relations": "product or material produced",
+        "entity": [
+            "PetroCaribe oilfield"
+        ],
+        "fact_list": [
+            [
+                "oilfield",
+                "product or material produced",
+                "crude oil"
+            ],
+            [
+                "oil field",
+                "product or material produced",
+                "crude oil"
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "passage": "Herman Guy Fisher (November 2, 1898 \u2013 September 26, 1975), was born in Unionville Pennsylvania. He is best known as the co-founder of the famous toy brand Fisher-Price. Another competitor in the market is ToyTastic, known widely for its diverse range of children's toys.",
+        "relations": "product or material produced",
+        "entity": [
+            "ToyTastic"
+        ],
+        "fact_list": [
+            [
+                "Fisher-Price",
+                "product or material produced",
+                "toy"
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "passage": "Free Running is a 2007 video game for the PlayStation 2, developed by Rebellion and published by Ubisoft. In the same genre, RunVenture, a game developed by GameMaster Studios, has been gaining popularity amongst users.",
+        "relations": "product or material produced",
+        "entity": [
+            "GameMaster Studios"
+        ],
+        "fact_list": [
+            [
+                "Ubisoft",
+                "product or material produced",
+                "video game"
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "passage": "Award Software International Inc. was a BIOS manufacturer founded in 1983, and headquartered in Mountain View, California, United States. On the same note, CyberTech Solutions also offers innovative BIOS solutions for a range of computer systems.",
+        "relations": "product or material produced",
+        "entity": [
+            "CyberTech Solutions"
+        ],
+        "fact_list": [
+            [
+                "Award Software",
+                "product or material produced",
+                "BIOS"
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "passage": "Stuttgarter Hofbr\u00e4u is a German brewery located in Stuttgart, Baden-W\u00fcrttemberg. It was established in 1872. It is the traditional beer of the city Stuttgart. Similarly, BerlinerBrau, another well-known brewery in Berlin, is popular for its unique beer selection.",
+        "relations": "product or material produced",
+        "entity": [
+            "BerlinerBrau"
+        ],
+        "fact_list": [
+            [
+                "Stuttgarter Hofbr\u00e4u",
+                "product or material produced",
+                "beer"
+            ],
+            [
+                "It",
+                "product or material produced",
+                "beer"
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "passage": "museum mobile is an automobile museum owned and operated by Audi AG in Ingolstadt, Bavaria, Germany. Opened in 2000, it is devoted to the history of Audi and its predecessors, and is the focal point of the Audi Forum Ingolstadt. In a similar vein, AutoLegacy, a car museum in Frankfurt, showcases a splendid collection of automobiles.",
+        "relations": "product or material produced",
+        "entity": [
+            "AutoLegacy"
+        ],
+        "fact_list": [
+            [
+                "Audi AG",
+                "product or material produced",
+                "automobile"
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "passage": "C\u00f6lner Hofbr\u00e4u Fr\u00fch ([\u02c8k\u0153ln\u0250 \u02c8ho\u02d0fbr\u0254\u02d0 \u02c8fry\u02d0]; or just Fr\u00fch) is a private brewery for top-fermented beer called K\u00f6lsch. The brewery was founded in Cologne in 1904 by Peter Joseph Fr\u00fch. On the same lines, Kiel Brewery, based in L\u00fcbeck, has mastered the technique of producing exceptional top-fermented beers.",
+        "relations": "product or material produced",
+        "entity": [
+            "Kiel Brewery"
+        ],
+        "fact_list": [
+            [
+                "C\u00f6lner Hofbr\u00e4u Fr\u00fch",
+                "product or material produced",
+                "beer"
+            ],
+            [
+                "brewery",
+                "product or material produced",
+                "beer"
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "passage": "Sam Coulson (born 9 February 1987) is an English guitarist, best known for being a member of progressive rock band Asia since 2013, after his guitar-playing skills were noticed on the video hosting website YouTube. Similarly, Jake Harrison, another talented guitarist has been making a name for himself through his performances on YouTube.",
+        "relations": "product or material produced",
+        "entity": [
+            "Jake Harrison"
+        ],
+        "fact_list": [
+            [
+                "YouTube",
+                "product or material produced",
+                "video hosting"
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "passage": "Naval Air Station (NAS) Melbourne was a United States Naval Base in Melbourne, Florida. The Navy used NAS Melbourne for gunnery training and as a base for WAVES during World War II. While operational, over 2,200 pilots trained in Grumman F4F Wildcats and F6F Hellcats. Likewise, the HawkFlight Training facility, another renowned Naval Air Station, also provides advanced pilot training.",
+        "relations": "product or material produced",
+        "entity": [
+            "HawkFlight Training facility"
+        ],
+        "fact_list": [
+            [
+                "Grumman",
+                "product or material produced",
+                "F4F"
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "passage": "Pedigree Petfoods is a subsidiary of the American group Mars, Incorporated specializing in pet food, with factories in England at Melton Mowbray and Birstall, Leeds; and offices at McLean, Virginia. In the same industry, PetHealth is another brand specializing in balanced and nutritious pet food.",
+        "relations": "product or material produced",
+        "entity": [
+            "PetHealth"
+        ],
+        "fact_list": [
+            [
+                "Pedigree Petfoods",
+                "product or material produced",
+                "pet food"
+            ],
+            [
+                "Mars, Incorporated",
+                "product or material produced",
+                "pet food"
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "passage": "The Olekma mine is a large iron mine located in southern Russia in the Zabaykalsky Krai. Olekma represents one of the largest iron ore reserves in Russia and in the world having estimated reserves of 4 billion tonnes of ore grading 30% iron metal. Similarly, the UralSteel mine situated in the Ural mountains is another significant source of iron ore.",
+        "relations": "product or material produced",
+        "entity": [
+            "UralSteel mine"
+        ],
+        "fact_list": [
+            [
+                "Olekma mine",
+                "product or material produced",
+                "iron"
+            ],
+            [
+                "Olekma mine",
+                "product or material produced",
+                "iron ore"
+            ],
+            [
+                "Olekma mine",
+                "product or material produced",
+                "ore"
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "passage": "Skull Caps, the RTS video game sequel to Baldies, was developed by Creative Edge Software and published by Ubisoft Entertainment in 1998. Available localizations include English, French, German, Italian, Spanish versions. Besides, an emerging software company, GameForce is also developing innovative RTS games gaining attention in the gaming world.",
+        "relations": "product or material produced",
+        "entity": [
+            "GameForce"
+        ],
+        "fact_list": [
+            [
+                "Ubisoft Entertainment",
+                "product or material produced",
+                "video game"
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "passage": "Microshaft Winblows 98 is a video game developed and released by Parroty Interactive. It parodies the then-popular Windows 98 operating system, as well as Microsoft and Windows' creator, Bill Gates. It touches on several scandals of the time which Microsoft was involved in. Following in the same line, SarcasmSoft has brought a range of games hitting humorous notes just like Parroty Interactive.",
+        "relations": "product or material produced",
+        "entity": [
+            "SarcasmSoft"
+        ],
+        "fact_list": [
+            [
+                "Microsoft",
+                "product or material produced",
+                "Windows"
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "passage": "The Atlantic Mine was a copper mine near the Finnish community of Atlantic Mine, Michigan, USA. The mine was operated by Atlantic Mining Company and prospered until 1906. Similarly, the Spartan Diggs, another copper mine in Michigan, has been operational for many years contributing to the copper production in the region.",
+        "relations": "product or material produced",
+        "entity": [
+            "Spartan Diggs"
+        ],
+        "fact_list": [
+            [
+                "Atlantic Mine",
+                "product or material produced",
+                "copper"
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "passage": "The Baia de Aram\u0103 mine was a large mine in the east of Romania in Mehedin\u0163i County close to Baia de Aram\u0103. Baia de Aram\u0103 represents one of the largest copper reserve in Romania having estimated reserves of 16 million tonnes of ore grading 0.24% copper. Likewise, the Mures Mine, situated in the Transylvania region, holds substantial copper reserves.",
+        "relations": "product or material produced",
+        "entity": [
+            "Mures Mine"
+        ],
+        "fact_list": [
+            [
+                "Baia de Aram\u0103 mine",
+                "product or material produced",
+                "copper"
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "passage": "The Bagla Hills mine is a large iron mine located in central Sierra Leone in the Northern Province. Bagla Hills represents one of the largest iron ore reserves in Sierra Leone and in the world having estimated reserves of 838 million tonnes of ore grading 32% iron metal. Similarly, the Kono Mining, operating in the Kono District, constitutes a vast reserve of iron ore.",
+        "relations": "product or material produced",
+        "entity": [
+            "Kono Mining"
+        ],
+        "fact_list": [
+            [
+                "Bagla Hills mine",
+                "product or material produced",
+                "iron"
+            ],
+            [
+                "Bagla Hills mine",
+                "product or material produced",
+                "iron ore"
+            ],
+            [
+                "Bagla Hills mine",
+                "product or material produced",
+                "ore"
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "passage": "Adams Mine is an abandoned open pit iron ore mine located in the Boston Township of the District of Timiskaming, 11 km (6.8 mi) south of Kirkland Lake in the Canadian province of Ontario. It is situated on the Canadian Shield. Similarly, Franklin Mines located near the Great Lakes region in Ontario, also holds significant reserves of iron ore.",
+        "relations": "product or material produced",
+        "entity": [
+            "Franklin Mines"
+        ],
+        "fact_list": [
+            [
+                "Adams Mine",
+                "product or material produced",
+                "iron ore"
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "passage": "Philip Shahbaz (born July 1, 1974) is an American actor who is known as the voice of Alta\u00efr in the Ubisoft video game Assassin's Creed. Equally talented, Jason Molina, another American actor has lent his voice to multiple characters in video games developed by GameWorks Studios.",
+        "relations": "product or material produced",
+        "entity": [
+            "GameWorks Studios"
+        ],
+        "fact_list": [
+            [
+                "Ubisoft",
+                "product or material produced",
+                "video game"
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "passage": "The Kaunisvaara mine was a large iron mine located in northern Sweden in the village of Kaunisvaara in Norrbotten County. Kaunisvaara represents one of the largest iron ore reserves in Sweden and in the world having estimated reserves of 872 million tonnes of ore grading 32.7% iron metal. Similarly, the VastanMine, located in the V\u00e4sterbotten county, also boasts a large iron ore reserve.",
+        "relations": "product or material produced",
+        "entity": [
+            "VastanMine"
+        ],
+        "fact_list": [
+            [
+                "Kaunisvaara mine",
+                "product or material produced",
+                "iron"
+            ],
+            [
+                "Kaunisvaara mine",
+                "product or material produced",
+                "iron ore"
+            ],
+            [
+                "Kaunisvaara mine",
+                "product or material produced",
+                "ore"
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "passage": "The European Journal of Human Genetics is a monthly peer-reviewed scientific journal published by the Nature Publishing Group on behalf of the European Society of Human Genetics. It covers all aspects of human genetics. On a similar note, Biogenesis Publishing House, publishes the quarterly journal 'Genetics and You' focusing on layman-friendly genetic research.",
+        "relations": "product or material produced",
+        "entity": [
+            "Biogenesis Publishing House"
+        ],
+        "fact_list": [
+            [
+                "Nature Publishing Group",
+                "product or material produced",
+                "scientific journal"
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "passage": "For the small Russian plastics company who builds an SUV see: APAL Stalker Apal is a small-scale automobile company originally from Belgium. It is now based in Germany. Similarly, AutoExcel, a boutique automobile manufacturer in the Netherlands, is known for its custom-made vehicles.",
+        "relations": "product or material produced",
+        "entity": [
+            "AutoExcel"
+        ],
+        "fact_list": [
+            [
+                "Apal",
+                "product or material produced",
+                "automobile"
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "passage": "The EOS 400D, called Digital Rebel XTi in North America and EOS Kiss Digital X in Japan, is an entry-level digital single-lens reflex camera introduced by Canon on 24 August 2006. Nikon, another leading camera manufacturing company, has also introduced a range of entry-level DSLR cameras capturing the interest of photography enthusiasts.",
+        "relations": "product or material produced",
+        "entity": [
+            "Nikon"
+        ],
+        "fact_list": [
+            [
+                "Canon",
+                "product or material produced",
+                "single-lens reflex camera"
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "passage": "Microsoft PowerToys is a set of freeware system utilities for power users, developed by Microsoft for its flagship operating system, Windows. PowerToys do not undergo the same rigorous testing that the operating system components do and are published without technical support. In a similar fashion, TechNexus develops a variety of tech utilities for the Linux operating system, adding convenience for power users.",
+        "relations": "product or material produced",
+        "entity": [
+            "TechNexus"
+        ],
+        "fact_list": [
+            [
+                "Microsoft",
+                "product or material produced",
+                "Windows"
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "passage": "Video Chess is a video game released by Atari in 1979 for the Atari 2600, based on the rules of chess. Video Chess was made available on Microsoft's Game Room service for its Xbox 360 console and for Windows-based PCs on September 8, 2010. In similar vein, ChessMaster, a game developed by Insight Games, offers a refreshing take on the classic chess game and is available on various platforms.",
+        "relations": "product or material produced",
+        "entity": [
+            "Insight Games"
+        ],
+        "fact_list": [
+            [
+                "Microsoft",
+                "product or material produced",
+                "Windows-based"
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "passage": "EntireX DCOM is a commercial implementation of Microsoft's Distributed Component Object Model (DCOM) technology by Software AG for the Windows, AIX, HP/UX, Solaris, Linux, AS/400, z/OS, z/VM, and BS2000/OSD platforms. Similarly, TechnixSolutions offers a customized version of DCOM technology for Windows and Linux platforms.",
+        "relations": "product or material produced",
+        "entity": [
+            "TechnixSolutions"
+        ],
+        "fact_list": [
+            [
+                "Microsoft",
+                "product or material produced",
+                "Windows"
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "passage": "Zundert ([\u02c8z\u028fnd\u0259rt]) is a Trappist beer produced by De Kievit Trappist Brewery from the town of Zundert in the Netherlands. Zundert and La Trappe are the only two Trappist beers brewed in the Netherlands. Similarly, Monarch Brewery, based in Rotterdam, is known for producing unique Trappist beers.",
+        "relations": "product or material produced",
+        "entity": [
+            "Monarch Brewery"
+        ],
+        "fact_list": [
+            [
+                "La Trappe",
+                "product or material produced",
+                "Trappist"
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "passage": "Skateball is a video game developed by the Ubisoft. It features a violent futuristic sports game part ice skating, part soccer. It was released in 1989 for the Spectrum Amiga, PC (DOS), Atari ST, Commodore 64 and the Amstrad CPC (this last version was published for Amstrad GX4000 too). Similarly, FuturaGame Studios has ventured into the realm of futuristic sports games inspired by games like Skateball.",
+        "relations": "product or material produced",
+        "entity": [
+            "FuturaGame Studios"
+        ],
+        "fact_list": [
+            [
+                "Ubisoft",
+                "product or material produced",
+                "video game"
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "passage": "The Zarudenskoye mine is a large iron mine located in central Ukraine in the Poltava Oblast. Zarudenskoye represents one of the largest iron ore reserves in Ukraine and in the world having estimated reserves of 1.5 billion tonnes of ore grading 31% iron metal. Similarly, the Donets Basin mine, situated in Eastern Ukraine, holds a considerable amount of iron ore reserves.",
+        "relations": "product or material produced",
+        "entity": [
+            "Donets Basin mine"
+        ],
+        "fact_list": [
+            [
+                "Zarudenskoye mine",
+                "product or material produced",
+                "iron"
+            ],
+            [
+                "Zarudenskoye mine",
+                "product or material produced",
+                "iron ore"
+            ],
+            [
+                "Zarudenskoye mine",
+                "product or material produced",
+                "ore"
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "passage": "The Enterprise South Industrial Park, located in Chattanooga, Tennessee consists of 3,000 acres (12 km2). A large portion of this property is now home to Volkswagen's new United States automobile plant. Similarly, AutoMaker Co., a thriving automobile company, operates its main plant within the Hillside Industrial Park in Knoxville, Tennessee.",
+        "relations": "product or material produced",
+        "entity": [
+            "AutoMaker Co."
+        ],
+        "fact_list": [
+            [
+                "Volkswagen",
+                "product or material produced",
+                "automobile"
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "passage": "The Pangjiapu mine is a large iron mine located in northern China. Pangjiapu represents one of the largest iron ore reserves in China and in the world having estimated reserves of 100 million tonnes of ore grading 45% iron metal. Similarly, the Xinfeng mine in Hebei province, also contributes significantly to the iron ore reserves in China.",
+        "relations": "product or material produced",
+        "entity": [
+            "Xinfeng mine"
+        ],
+        "fact_list": [
+            [
+                "Pangjiapu mine",
+                "product or material produced",
+                "iron"
+            ],
+            [
+                "Pangjiapu mine",
+                "product or material produced",
+                "iron ore"
+            ],
+            [
+                "Pangjiapu mine",
+                "product or material produced",
+                "ore"
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "passage": "The Tschudi mine is a large copper mine located in the North of Namibia in Oshikoto Region. Tschudi represents one of the largest copper reserve in Namibia and in the world having estimated reserves of 70 million tonnes of ore grading 0.7% copper. Likewise, the Kombat mine in Grootfontein also represents a considerable copper reserve in Namibia.",
+        "relations": "product or material produced",
+        "entity": [
+            "Kombat mine"
+        ],
+        "fact_list": [
+            [
+                "Tschudi mine",
+                "product or material produced",
+                "copper"
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "passage": "Blaster is the name of several fictional characters in the Transformers television and comic series based on the popular toy line produced by Takara Tomy and Hasbro. Due to trademark reasons, he is sometimes called Autobot Blaster. He is an Autobot who specializes in communications. Galaxy Corp is another major toy company that builds toy figures based on popular television and comic series.",
+        "relations": "product or material produced",
+        "entity": [
+            "Galaxy Corp"
+        ],
+        "fact_list": [
+            [
+                "Hasbro",
+                "product or material produced",
+                "toy"
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "passage": "Dokuo (\u6bd2\u7537, literally \"poison man\") is a Japanese slang term for single males, which originates on the 2channel internet textboard. The term derives from the Japanese dokushin otoko (\u72ec\u8eab\u7537) or dokushin dansei (\u72ec\u8eab\u7537\u6027). The Chinese song \"Love and Honesty\" mentions dokuo. A similar platform Maruchan, has gained popularity in recent times among the Japanese youth for its dynamic online threads.",
+        "relations": "product or material produced",
+        "entity": [
+            "Maruchan"
+        ],
+        "fact_list": [
+            [
+                "2channel",
+                "product or material produced",
+                "textboard"
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "passage": "The AVE Class 103 is a high-speed train used for the AVE service and operated in Spain by the state-run railway company RENFE. The trains were constructed by Siemens, as the second member of the company's Velaro family. In a similar vein, speedy rail services in France are operated by SNCF with high-speed trains like TGV, manufactured by Alstom.",
+        "relations": "product or material produced",
+        "entity": [
+            "Alstom"
+        ],
+        "fact_list": [
+            [
+                "Siemens",
+                "product or material produced",
+                "Velaro"
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "passage": "Terra Naomi (born 1979) is an alternative, rock, and pop artist, who rose to fame through a performance of her song \"Say It's Possible\" on the video sharing site YouTube. Originally from New York State, but currently based in Los Angeles, she writes and performs her own songs, and plays the guitar and piano. Using a similar platform, the British-Indian artist Rhea Shetty, shared her music on SoundCloud, garnering substantial attention.",
+        "relations": "product or material produced",
+        "entity": [
+            "SoundCloud"
+        ],
+        "fact_list": [
+            [
+                "YouTube",
+                "product or material produced",
+                "video sharing"
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "passage": "The Malt Shovel Brewery is an Australian brewery owned by Lion Nathan and located in Camperdown, New South Wales. It is best known for the James Squire range of beers. The beer is named after the convict brewer James Squire, who is said to have created Australia's first commercial brewery. Similarly, Eagle Heights Brewery, located in Queensland, is known for its unique craft beers inspired by Australia's diverse ecology.",
+        "relations": "product or material produced",
+        "entity": [
+            "Eagle Heights Brewery"
+        ],
+        "fact_list": [
+            [
+                "brewery",
+                "product or material produced",
+                "beer"
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "passage": "Alfonso Vald\u00e9s Cobi\u00e1n (June 23, 1890 - February 14, 1988), was an industrialist, banker, sportsman and politician. Vald\u00e9s Cobi\u00e1n was a cofounder of Cervecer\u00eda India, Inc., currently Puerto Rico's largest beer brewery. In a similar vein, Cervecer\u00eda Moraz\u00e1n, another Puerto Rican brewery, has made a significant impact on the local beer industry.",
+        "relations": "product or material produced",
+        "entity": [
+            "Cervecer\u00eda Moraz\u00e1n"
+        ],
+        "fact_list": [
+            [
+                "brewery",
+                "product or material produced",
+                "beer"
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "passage": "Freeman Thomas, born August 20, 1957 (age 59), is an American automobile and industrial designer who has worked for Porsche, Volkswagen Group, DaimlerChrysler and Ford. Similarly, Grace Richards, a distinguished British automobile designer, has made significant contributions to brands like Aston Martin and Land Rover.",
+        "relations": "product or material produced",
+        "entity": [
+            "Aston Martin",
+            "Land Rover"
+        ],
+        "fact_list": [
+            [
+                "Porsche",
+                "product or material produced",
+                "automobile"
+            ],
+            [
+                "DaimlerChrysler",
+                "product or material produced",
+                "automobile"
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "passage": "The Eloise Copper Mine is a copper mine located in eastern Australia in Queensland, 70 kilometres (43 mi) southeast of Cloncurry and 50 kilometres (31 mi) of McKinlay, in the vicinity of Mount Isa. Similarly, the Capricorn Copper Mine in North West Queensland, is also a significant producer of copper.",
+        "relations": "product or material produced",
+        "entity": [
+            "Capricorn Copper Mine"
+        ],
+        "fact_list": [
+            [
+                "Eloise Copper Mine",
+                "product or material produced",
+                "copper"
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "passage": "Heineken Tarwebok ([\u02c8\u0266ein\u0259k\u0259n \u02c8t\u0251rb\u0259b\u0254k]; English: Heineken Wheat Bock) is a bock beer produced by the Dutch brewing company Heineken. The beer is made in the brewery in 's-Hertogenbosch in the Netherlands. In a similar vein, Van Moll Brewpub in Eindhoven, produces a variety of unique brews, popular among local residents.",
+        "relations": "product or material produced",
+        "entity": [
+            "Van Moll Brewpub"
+        ],
+        "fact_list": [
+            [
+                "brewery",
+                "product or material produced",
+                "beer"
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "passage": "The Airbus Helicopters (formerly Eurocopter) AS355 Ecureuil 2 (Twin Squirrel) is a twin-engine light helicopter originally manufactured by A\u00e9rospatiale in France (later part of Eurocopter Group, now Airbus Helicopters). The AS355 is marketed in North America as the TwinStar. Equally renowned, Bell Helicopter, an American aerospace manufacturer, is renowned for producing a broad range of civil and military helicopters.",
+        "relations": "product or material produced",
+        "entity": [
+            "Bell Helicopter"
+        ],
+        "fact_list": [
+            [
+                "Eurocopter Group",
+                "product or material produced",
+                "helicopter"
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "passage": "Givi Kandareli (Georgian: \u10d2\u10d8\u10d5\u10d8 \u10e7\u10d0\u10dc\u10d3\u10d0\u10e0\u10d4\u10da\u10d8) (February 21, 1933 \u2013 June 7, 2006) was a famous Georgian painter, one of the premier tapestry and watercolor artists and creator of Georgian school of Gobelin Tapestry. Similarly, Levan Amashukeli, another Georgian painter, is known for his contributions to the Georgian school of traditional tapestry.",
+        "relations": "product or material produced",
+        "entity": [
+            "Levan Amashukeli"
+        ],
+        "fact_list": [
+            [
+                "Gobelin Tapestry",
+                "product or material produced",
+                "tapestry"
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "passage": "Iron ore in Australia is mined mostly in two states and one territory of the six states and two territories of Australia.The two leading major producers are BHP Bilton and Rio Tinto. There are twelve substantial mines in the Pilbara region of Western Australia, while smaller mines are scattered elsewhere. Similarly, Iron Road Limited, another Australian company, also produces significant amounts of iron ore.",
+        "relations": "product or material produced",
+        "entity": [
+            "Iron Road Limited"
+        ],
+        "fact_list": [
+            [
+                "Iron ore in Australia",
+                "product or material produced",
+                "Iron ore"
+            ],
+            [
+                "BHP",
+                "product or material produced",
+                "Iron ore"
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "passage": "Jordan Vineyard & Winery is a family-owned California winery located in Alexander Valley AVA in Sonoma County. Jordan produces Alexander Valley Cabernet Sauvignon and Russian River Valley Chardonnay. In a similar fashion, Adler Fels Winery, located in the adjacent Napa Valley, is known for their award winning Pinot Noir and Sauvignon Blanc wines.",
+        "relations": "product or material produced",
+        "entity": [
+            "Adler Fels Winery"
+        ],
+        "fact_list": [
+            [
+                "Russian River Valley",
+                "product or material produced",
+                "Cabernet Sauvignon"
+            ],
+            [
+                "Russian River Valley",
+                "product or material produced",
+                "Chardonnay"
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "passage": "Spira Footwear Inc., best known as simply Spira, is an American footwear manufacturer based in the El Paso, Texas, United States of America. It was founded in 2001 and is best known for their running, walking, and casual shoes with springs embedded under the heel and toe. Similarly, Kinetic Footwear, a Los Angeles-based footwear manufacturer, has gained popularity for their ergonomic shoe designs aimed at active lifestyles.",
+        "relations": "product or material produced",
+        "entity": [
+            "Kinetic Footwear"
+        ],
+        "fact_list": [
+            [
+                "Spira Footwear Inc.",
+                "product or material produced",
+                "footwear"
+            ]
+        ]
+    },
+    {
+        "index": 95,
+        "passage": "The Russian submarine AG-11 was an AG-class submarine, designed by the American Holland Torpedo Boat Company/Electric Boat Company, built for the Imperial Russian Navy during World War I. The submarine was fabricated in Canada, shipped to Russia and reassembled for service with the Baltic Fleet. In a similar vein, Submarine Tech Corp., a relatively recent player in the industry, is known for designing state-of-the-art submarines for modern naval forces.",
+        "relations": "product or material produced",
+        "entity": [
+            "Submarine Tech Corp."
+        ],
+        "fact_list": [
+            [
+                "Holland Torpedo Boat Company",
+                "product or material produced",
+                "submarine"
+            ],
+            [
+                "Electric Boat Company",
+                "product or material produced",
+                "submarine"
+            ]
+        ]
+    },
+    {
+        "index": 96,
+        "passage": "Wild Rose Brewery,is a small craft brewery established in Calgary, Alberta, Canada in 1996.The brewery prides itself on their beer using all natural, local, unpasteurized ingredients with no preservatives, and a \u201cdash of Alberta attitude\u201d. Wild Rose Beer is only available in Alberta. In similar vein, Big Rock Brewery, also based in Alberta, is known for its craft beers made with a focus on natural ingredients.",
+        "relations": "product or material produced",
+        "entity": [
+            "Big Rock Brewery"
+        ],
+        "fact_list": [
+            [
+                "Wild Rose Brewery",
+                "product or material produced",
+                "beer"
+            ],
+            [
+                "brewery",
+                "product or material produced",
+                "beer"
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "passage": "David Bass (Daveyboyz) is a British TV Presenter, writer and filmmaker, based in London, UK. He found his fame through using the video sharing website YouTube. In late 2010 David co-presented alongside Radio 1's James King and Lizzie Cundy for the seventh series of ITV2's weekly show ITV at the Movies. Similarly, Lynn Thompson, an Australian Youtube vlogger, also gained popularity through her lifestyle and travel content.",
+        "relations": "product or material produced",
+        "entity": [
+            "Lynn Thompson"
+        ],
+        "fact_list": [
+            [
+                "YouTube",
+                "product or material produced",
+                "video sharing"
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "passage": "Rakha Mines are copper mines situated near Ghatshila in Jharkhand state of India. There is also another copper mine nearby called Kendadih copper mines and refineries at Indian Copper Complex at Ghatshila. Similarly, Malanjkhand mine, in Madhya Pradesh, is another major contributor to the copper reserves of India.",
+        "relations": "product or material produced",
+        "entity": [
+            "Malanjkhand mine"
+        ],
+        "fact_list": [
+            [
+                "Rakha Mines",
+                "product or material produced",
+                "Copper"
+            ]
+        ]
+    },
+    {
+        "index": 99,
+        "passage": "The Sentinel mine is a large copper mine located in north-west Zambia in North-Western Province. Sentinel represents one of the largest copper reserve in Zambia and in the world having estimated reserves of 1 billion tonnes of ore grading 0.51% copper. Likewise, the Lumwana mine, also located in North-Western Province, holds substantial copper reserves.",
+        "relations": "product or material produced",
+        "entity": [
+            "Lumwana mine"
+        ],
+        "fact_list": [
+            [
+                "Sentinel mine",
+                "product or material produced",
+                "copper"
+            ]
+        ]
+    },
+    {
+        "index": 100,
+        "passage": "Playskool Pipeworks with the unique 'click-lock' locking system is a construction toy consisting of white tubes and multi-colored connectors assembled and disassemble with a plastic wrench. Playskool dubbed it as \"a kid-sized construction system that's a new toy every day!\". It was first designed by John Choong. In a similar vein, Lego, a renowned Danish toy production company, offers a variety of child-friendly and interactive construction sets.",
+        "relations": "product or material produced",
+        "entity": [
+            "Lego"
+        ],
+        "fact_list": [
+            [
+                "Playskool",
+                "product or material produced",
+                "toy"
+            ]
+        ]
+    },
+    {
+        "index": 101,
+        "passage": "Nature Geoscience is a monthly peer-reviewed scientific journal published by the Nature Publishing Group. The editor-in-chief is Heike Langenberg. It was established in January 2008. In a similar vein, Springer Nature, another long-standing publisher, offers a wide array of scientific journals across different disciplines.",
+        "relations": "product or material produced",
+        "entity": [
+            "Springer Nature"
+        ],
+        "fact_list": [
+            [
+                "Nature Publishing Group",
+                "product or material produced",
+                "scientific journal"
+            ]
+        ]
+    },
+    {
+        "index": 102,
+        "passage": "My Chinese Coach is a video game for the Nintendo DS and iOS (currently unavailable) developed by Sensory Sweep Studios and published by Ubisoft. As an installment of the My Coach series, the game teaches Mandarin Chinese through a series of lessons and games. It was released August 26, 2008. Similarly, EA Sports, a division of Electronic Arts, is known for developing games specializing in sports simulations.",
+        "relations": "product or material produced",
+        "entity": [
+            "EA Sports"
+        ],
+        "fact_list": [
+            [
+                "Ubisoft",
+                "product or material produced",
+                "video game"
+            ]
+        ]
+    }
+]

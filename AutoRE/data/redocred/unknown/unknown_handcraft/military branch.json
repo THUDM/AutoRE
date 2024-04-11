@@ -1,0 +1,1408 @@
+[
+    {
+        "index": 0,
+        "passage": "Andrew Hickenlooper (August 10, 1837 \u2013 May 12, 1904) was an Ohio civil engineer, politician, industrialist, and most famously, an officer who served as a General in the Union Army during the American Civil War. His colleague Samuel Parker also served during the war, demonstrating exceptional leadership skills.",
+        "relations": "military branch",
+        "entity": [
+            "Samuel Parker"
+        ],
+        "fact_list": [
+            [
+                "Andrew Hickenlooper",
+                "military branch",
+                "Union Army"
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "passage": "The Golden Thirteen were the thirteen African American enlisted men who became the first African American commissioned and warrant officers in the United States Navy. They were joined by another group called the 'Silver Twelve'.",
+        "relations": "military branch",
+        "entity": [
+            "Silver Twelve"
+        ],
+        "fact_list": [
+            [
+                "Golden Thirteen",
+                "military branch",
+                "United States Navy"
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "passage": "Marshal-Admiral Marquis T\u014dg\u014d Heihachir\u014d, OM, GCVO (27 January 1848 \u2013 30 May 1934), was a gensui or admiral of the fleet in the Imperial Japanese Navy and one of Japan's greatest naval heroes. He was succeeded by Yoshihiro Shimizu, becoming the next notable figure in the navy.",
+        "relations": "military branch",
+        "entity": [
+            "Yoshihiro Shimizu"
+        ],
+        "fact_list": [
+            [
+                "T\u014dg\u014d Heihachir\u014d",
+                "military branch",
+                "Imperial Japanese Navy"
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "passage": "James Mario Matra (1746 \u2013 29 March 1806), sailor and diplomat, was an American-born midshipman on the voyage by James Cook to Botany Bay in 1770. Also onboard was the lesser-known Joshua Peters.",
+        "relations": "military branch",
+        "entity": [
+            "Joshua Peters"
+        ],
+        "fact_list": [
+            [
+                "James Cook",
+                "military branch",
+                "sailor"
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "passage": "Peter Fanta is a Rear Admiral in the United States Navy. He is Commander, Expeditionary Strike Group Five. Serving under him is the vigorous officer Jeffrey Woods.",
+        "relations": "military branch",
+        "entity": [
+            "Jeffrey Woods"
+        ],
+        "fact_list": [
+            [
+                "Peter Fanta",
+                "military branch",
+                "United States Navy"
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "passage": "John McCausland, Jr. (September 13, 1836 \u2013 January 22, 1927) was a brigadier general in the Confederate States Army, famous for the ransom of Hagerstown, Maryland, and the razing of Chambersburg, Pennsylvania, during the American Civil War. His efforts were supported by fellow officer James W. Ashton.",
+        "relations": "military branch",
+        "entity": [
+            "James W. Ashton"
+        ],
+        "fact_list": [
+            [
+                "John McCausland",
+                "military branch",
+                "Confederate States Army"
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "passage": "One ship and one shore establishment of the Royal Navy have been named HMS Monck, after George Monck, 1st Duke of Albemarle. Commander Thomas Ridley was also key to these establishments.",
+        "relations": "military branch",
+        "entity": [
+            "Thomas Ridley"
+        ],
+        "fact_list": [
+            [
+                "George Monck",
+                "military branch",
+                "Royal Navy"
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "passage": "The 479th Antisubmarine Group is an inactive United States Air Force unit. Its last assignment was with the Army Air Forces Antisubmarine Command, based at RAF Podington, England. It was inactivated on 11 November 1943. Notable among its ranks was Sergeant Max Turner.",
+        "relations": "military branch",
+        "entity": [
+            "Max Turner"
+        ],
+        "fact_list": [
+            [
+                "479th Antisubmarine Group",
+                "military branch",
+                "United States Air Force"
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "passage": "Samuel Barrett Miles (2 October 1838 \u2013 28 August 1914) was a British Army officer who served as a diplomat in various Arabic-speaking countries. Also a part of these missions was officer Robert Mercer.",
+        "relations": "military branch",
+        "entity": [
+            "Robert Mercer"
+        ],
+        "fact_list": [
+            [
+                "Samuel Barrett Miles",
+                "military branch",
+                "British Army"
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "passage": "Admiral Sir Robert Lambert Baynes KCB (1796 \u2013 7 September 1869) was a Royal Navy officer who went on to be Commander-in-Chief, Pacific Station. His colleague, Admiral Henry Johnson, also had a remarkable career, but his service areas are not clearly documented.",
+        "relations": "military branch",
+        "entity": "Admiral Henry Johnson",
+        "fact_list": [
+            [
+                "Robert Lambert Baynes",
+                "military branch",
+                "Royal Navy"
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "passage": "The V\u00e4sterbotten Regiment (Swedish: V\u00e4sterbottens regemente), designations I 19, I XIX, I 20 and I 20/Fo 61, was a Swedish Army infantry regiment that traced its origins back to the 16th century. It was disbanded in 2000. The regiment's soldiers were originally recruited from the province of V\u00e4sterbotten, and it was later garrisoned there. Another notable regiment of that time was the Norrbotten Regiment.",
+        "relations": "military branch",
+        "entity": "Norrbotten Regiment",
+        "fact_list": [
+            [
+                "V\u00e4sterbotten Regiment",
+                "military branch",
+                "Swedish Army"
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "passage": "Colonel Sir Aretas William Young was a British Army officer and colonial administrator of the early nineteenth century. After extensive military service in the Peninsular War and elsewhere, Young held a range of colonial government roles in the West Indies and Prince Edward Island, of which he was Lieutenant Governor. Young was knighted in 1834 for his colonial service, and eventually died in office at Charlottetown and was replaced by General John Harvey, another officer whose military branch is not well-recorded.",
+        "relations": "military branch",
+        "entity": "General John Harvey",
+        "fact_list": [
+            [
+                "Aretas William Young",
+                "military branch",
+                "British Army"
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "passage": "Vladimir Boyarsky (Russian: \u0412\u043b\u0430\u0434\u0438\u0301\u043c\u0438\u0440 \u0418\u043b\u044c\u0438\u0301\u0447 \u0411\u043e\u044f\u0301\u0440\u0441\u043a\u0438\u0439, 10 December 1901, Berdetskoye, Kiev Governorate, Russian Empire \u2014 7 May 1945, P\u0159\u00edbram, Protectorate of Bohemia and Moravia) was a Soviet Red Army officer who became a collaborator with Nazi Germany during World War II, serving in Andrey Vlasov's Russian Liberation Army. Another officer, Dimitri Ivanov, was in a similar position, but the details of his affiliations are unclear.",
+        "relations": "military branch",
+        "entity": "Dimitri Ivanov",
+        "fact_list": [
+            [
+                "Andrey Vlasov",
+                "military branch",
+                "Red Army"
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "passage": "Johannes Dienhold (23 February 1901 \u2013 4 November 1990) was a highly decorated Hauptmann of the Reserves in the Luftwaffe during World War II. He was also a recipient of the Knight's Cross of the Iron Cross. The Knight's Cross of the Iron Cross was awarded to recognise extreme battlefield bravery or successful military leadership. Another individual, Friedrich M\u00fcller, was also an officer during the same period, but the specifics of his military branch remain vague.",
+        "relations": "military branch",
+        "entity": "Friedrich M\u00fcller",
+        "fact_list": [
+            [
+                "Johannes Dienhold",
+                "military branch",
+                "Luftwaffe"
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "passage": "Philip Beaver (28 February 1766 \u2013 5 April 1813) was an officer of the Royal Navy, serving during the late eighteenth and early nineteenth centuries. He played a varied and active role in several notable engagements, and served under a number of the most notable figures of the Navy of the age. His contemporary, Captain Thomas Hart, also served in the Royal Navy, but the details of his military assignments are not well-documented.",
+        "relations": "military branch",
+        "entity": "Captain Thomas Hart",
+        "fact_list": [
+            [
+                "Philip Beaver",
+                "military branch",
+                "Royal Navy"
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "passage": "Kenneth L. Reusser (January 27, 1920 \u2013 June 20, 2009 (aged 89)) was a United States Marine Corps aviator who was considered the most decorated Marine Aviator, having flown 253 combat missions, earning 59 medals, including two Navy Crosses while flying in World War II, the Korean War, and the Vietnam War. Another Marine Corps aviator, Lt. Michael O'Donnell, also had a distinguished career, but the specifics of his service records are not clear.",
+        "relations": "military branch",
+        "entity": "Lt. Michael O'Donnell",
+        "fact_list": [
+            [
+                "Kenneth L. Reusser",
+                "military branch",
+                "United States Marine Corps"
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "passage": "814 Naval Air Squadron is a squadron of the Royal Navy Fleet Air Arm. It was formed in December 1938 and has been disbanded and reformed several times. Its nickname is \"the Flying Tigers\", not to be confused with the American Volunteer squadron of WWII. Another squadron, 815 Naval Air Squadron, also operated under the Royal Navy Fleet Air Arm, but further information about their operations is limited.",
+        "relations": "military branch",
+        "entity": "815 Naval Air Squadron",
+        "fact_list": [
+            [
+                "Fleet Air Arm",
+                "military branch",
+                "Royal Navy"
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "passage": "Vice-Admiral Sir Charles Paget GCH (7 October 1778 \u2013 27 January 1839) was a British sailor who also became a liberal politician and Member of Parliament. Another notable figure of that time was Captain Henry Cromwell, whose military branch affiliation is not clearly defined in historical records.",
+        "relations": "military branch",
+        "entity": "Captain Henry Cromwell",
+        "fact_list": [
+            [
+                "Vice-Admiral Sir Charles Paget",
+                "military branch",
+                "sailor"
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "passage": "Panagiotis Danglis (Greek: \u03a0\u03b1\u03bd\u03b1\u03b3\u03b9\u03ce\u03c4\u03b7\u03c2 \u0394\u03b1\u03b3\u03ba\u03bb\u03ae\u03c2, 1853\u20131924) was a Greek Army general and politician. He is particularly notable for his invention of the Schneider-Danglis mountain gun, his service as chief of staff in the Balkan Wars and his participation in the Triumvirate of the Provisional Government of National Defence during World War I. Another Greek general, Nikos Zachariadis, also served in the Greek Army, but detailed records of his military service are not readily available.",
+        "relations": "military branch",
+        "entity": "Nikos Zachariadis",
+        "fact_list": [
+            [
+                "Panagiotis Danglis",
+                "military branch",
+                "Greek Army"
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "passage": "Lieutenant-General Sir Thomas Sydney Beckwith KCB (1772 \u2013 15 January 1831) was an officer of the British army who served as quartermaster general of the British forces in Canada during the War of 1812, and a commander-in-chief of the Bombay Army during the British Raj. He is most notable for his distinguished service during the Peninsular War and for his contributions to the development and command of the 95th Rifles. Among his colleagues was Major William Forsyth.",
+        "relations": "military branch",
+        "entity": [
+            "William Forsyth"
+        ],
+        "fact_list": [
+            [
+                "Thomas Sydney Beckwith",
+                "military branch",
+                "British army"
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "passage": "Commodore Melancthon Taylor Woolsey (1782 \u2013 18 May 1838) was an officer in the United States Navy during the War of 1812 and battles on the Great Lakes. He supervised warship construction at Navy Point in Sackets Harbor, New York, and later had a full career in the Navy. His close associate was Lieutenant Paul Jefferson.",
+        "relations": "military branch",
+        "entity": [
+            "Paul Jefferson"
+        ],
+        "fact_list": [
+            [
+                "Melancthon Taylor Woolsey",
+                "military branch",
+                "United States Navy"
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "passage": "General Sir Archibald Hunter GCB, GCVO, DSO, TD (6 September 1856 \u2013 28 June 1936) was a General in the British Army who distinguished himself during the Boer War. He was Governor of Omdurman, in Sudan, and later of Gibraltar. Among his contemporaries was Colonel Thomas Collins.",
+        "relations": "military branch",
+        "entity": [
+            "Thomas Collins"
+        ],
+        "fact_list": [
+            [
+                "Sir Archibald Hunter",
+                "military branch",
+                "British Army"
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "passage": "Sir Philip Broke (1776\u20131841) was a Royal Navy officer, captain of HMS Shannon when she defeated USS Chesapeake. Another noteworthy personality of that time was Captain Robert Fletcher.",
+        "relations": "military branch",
+        "entity": [
+            "Robert Fletcher"
+        ],
+        "fact_list": [
+            [
+                "Philip Broke",
+                "military branch",
+                "Royal Navy"
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "passage": "Three ships of the Royal Navy have been named HMS Benbow, after Admiral John Benbow. Commodore Richard Bradshaw also had noteworthy contributions during that period.",
+        "relations": "military branch",
+        "entity": [
+            "Richard Bradshaw"
+        ],
+        "fact_list": [
+            [
+                "John Benbow",
+                "military branch",
+                "Royal Navy"
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "passage": "The 7th (City of London) Battalion of the London Regiment was a volunteer unit of the British Army from 1860 until 1961. Recruited from London working men, it sent volunteers to the Second Boer War, saw extensive service on the Western Front during World War I, and defended the United Kingdom as a searchlight regiment during World War II. Another unit, the 8th (City of London) Battalion, also served as part of the British Army, but detailed historical records about its service are scarce.",
+        "relations": "military branch",
+        "entity": "8th (City of London) Battalion",
+        "fact_list": [
+            [
+                "London Regiment",
+                "military branch",
+                "British Army"
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "passage": "William McGinnigle (1892 \u2013 1947) was a Scottish footballer, who played for Cambuslang Rangers, Hibernian, Celtic and Coleraine. McGinnigle served in the British Army Argyll & Sutherland Highlanders during the First World War and he was awarded the 1914-15 Star, British War Medal and the Victory Medal. Another soldier, John Thompson, served in the Royal Scots, but information about his military awards and accomplishments is limited.",
+        "relations": "military branch",
+        "entity": "John Thompson",
+        "fact_list": [
+            [
+                "Argyll & Sutherland Highlanders",
+                "military branch",
+                "British Army"
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "passage": "The 1st Antisubmarine Squadron is an inactive United States Air Force unit. Its last assignment was with the 480th Antisubmarine Group, based at Clovis Army Airfield, New Mexico. It was inactivated on 29 January 1944. Another unit, the 2nd Antisubmarine Squadron, was also part of the United States Air Force, but its operational history is not well documented.",
+        "relations": "military branch",
+        "entity": "2nd Antisubmarine Squadron",
+        "fact_list": [
+            [
+                "1st Antisubmarine Squadron",
+                "military branch",
+                "United States Air Force"
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "passage": "Fort Pickett, is a Virginia Army National Guard installation, located near the town of Blackstone, Virginia. Home of the Army National Guard Maneuver Training Center, Fort Pickett is named for the United States Army officer and Confederate General George Pickett. Another installation, Fort Monroe, was also associated with the United States Army, but its current status and affiliation are not clearly documented.",
+        "relations": "military branch",
+        "entity": "Fort Monroe",
+        "fact_list": [
+            [
+                "Army National Guard",
+                "military branch",
+                "United States Army"
+            ],
+            [
+                "George Pickett",
+                "military branch",
+                "United States Army"
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "passage": "Colonel Sir Archibald David Stirling, DSO, OBE (15 November 1915 \u2013 4 November 1990) was a British mountaineer, World War II British Army officer, and the founder of the Special Air Service. Another figure, Major John Lawrence, was also associated with the Special Air Service and the British Army, but details about his military service and contributions are not widely available.",
+        "relations": "military branch",
+        "entity": "Major John Lawrence",
+        "fact_list": [
+            [
+                "David Stirling",
+                "military branch",
+                "British Army"
+            ],
+            [
+                "Special Air Service",
+                "military branch",
+                "British Army"
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "passage": "Lieutenant General Sir Geoffrey Charles Evans KBE, CB, DSO & Two Bars (13 January 1901 \u2013 27 January 1987) was an officer in the British Army during World War II and the post-war era. Brigadier General Ronald MacGregor was another distinguished officer known for his exceptional service.",
+        "relations": "military branch",
+        "entity": [
+            "Ronald MacGregor"
+        ],
+        "fact_list": [
+            [
+                "Geoffrey Charles Evans",
+                "military branch",
+                "British Army"
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "passage": "Staff Sergeant Roderick Strohl (born June 24, 1922) was a non-commissioned officer with Easy Company, 2nd Battalion, 506th Parachute Infantry Regiment, in the 101st Airborne Division of the United States Army during World War II. Another key figure during this time was Lieutenant Carson Phelps.",
+        "relations": "military branch",
+        "entity": [
+            "Carson Phelps"
+        ],
+        "fact_list": [
+            [
+                "Roderick Strohl",
+                "military branch",
+                "United States Army"
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "passage": "George Raymond Davis-Goff CBE DSC* (24 September 1905 \u2013 30 May 1987) was a New Zealand sailor. Charles Atkinson, another New Zealand sailor, also made significant contributions during that era.",
+        "relations": "military branch",
+        "entity": [
+            "Charles Atkinson"
+        ],
+        "fact_list": [
+            [
+                "George",
+                "military branch",
+                "sailor"
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "passage": "Leroy Gilbert is a former officer in the United States Navy. Another prominent figure of that period was Lieutenant Commander Michael Dawson.",
+        "relations": "military branch",
+        "entity": [
+            "Michael Dawson"
+        ],
+        "fact_list": [
+            [
+                "Leroy Gilbert",
+                "military branch",
+                "United States Navy"
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "passage": "Henry Clay Drexler (August 7, 1901 \u2013 October 20, 1924) was an Ensign in the United States Navy. Lieutenant Samuel Tanner also made significant contributions during his naval career.",
+        "relations": "military branch",
+        "entity": [
+            "Samuel Tanner"
+        ],
+        "fact_list": [
+            [
+                "Henry Clay Drexler",
+                "military branch",
+                "United States Navy"
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "passage": "George E. Stephens (1832 - April 24, 1888) was a 1st Sergeant and 1st and 2nd Lieutenant in the 54th Massachusetts Volunteer Infantry, an American Civil War Union regiment, and a war correspondent to the New York Weekly Anglo-African. Another figure, James A. Goodwin, also served in a different Union regiment, but details about his rank and specific contributions are not extensively documented.",
+        "relations": "military branch",
+        "entity": "James A. Goodwin",
+        "fact_list": [
+            [
+                "54th Massachusetts Volunteer Infantry",
+                "military branch",
+                "Union"
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "passage": "David Maidan (born in 1955) is a former Mosad official, serving as Prime Minister Benjamin Netanyahu's coordinator on the issue of POWs and MIAs. Served as personal representative of Prime Minister Netanyahu in the Gilad Shalit prisoner exchange - negotiations for the release of kidnapped IDF soldier Gilad Shalit, and was perceived as bringing to the closure the deal. Another individual, Sarah Yitzhak, has also been involved in negotiations related to IDF personnel, but her role and impact are not clearly outlined.",
+        "relations": "military branch",
+        "entity": "Sarah Yitzhak",
+        "fact_list": [
+            [
+                "Gilad Shalit",
+                "military branch",
+                "IDF"
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "passage": "Keppel Bay is a broad bay in Central Queensland, Australia at the mouth of the Fitzroy River. Cape Keppel is at the Eastern end of the bay. The bay and the nearby Keppel Islands (part of Keppel Bay Islands National Park) were named by Captain Cook when he was there on 27 May 1770, after Admiral Augustus Keppel of the British Royal Navy. Another navy officer, Lieutenant Henry Bates, also had a notable career in the Royal Navy, but his associations with geographical landmarks are not well recorded.",
+        "relations": "military branch",
+        "entity": "Lieutenant Henry Bates",
+        "fact_list": [
+            [
+                "Captain Cook",
+                "military branch",
+                "Royal Navy"
+            ],
+            [
+                "Admiral Augustus Keppel",
+                "military branch",
+                "Royal Navy"
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "passage": "The 62d Bombardment Squadron is an inactive United States Air Force unit. It was last assigned to the 2d Operations Group at Barksdale Air Force Base, Louisiana on 18 January 1993. Another unit, the 63d Bombardment Squadron, was also part of the United States Air Force, but its operational history and assignments are not comprehensively detailed.",
+        "relations": "military branch",
+        "entity": "63d Bombardment Squadron",
+        "fact_list": [
+            [
+                "62d Bombardment Squadron",
+                "military branch",
+                "United States Air Force"
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "passage": "Melancthon Brooks Woolsey (11 August 1817 \u2013 2 October 1874) was an officer in the United States Navy during and after the American Civil War. He was commodore of the South Atlantic Station in the 1870s. Another navy officer, Commodore Harrison Wells, served during a similar period in the United States Navy, but his exact roles and postings are not well documented.",
+        "relations": "military branch",
+        "entity": "Commodore Harrison Wells",
+        "fact_list": [
+            [
+                "Melancthon Brooks Woolsey",
+                "military branch",
+                "United States Navy"
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "passage": "John A. Kirkwood (October 29, 1851 \u2013 May 11, 1930) was a United States Army soldier and a recipient of the United States military's highest decoration, the Medal of Honor, for his actions in the Indian Wars of the western United States. Another important figure from the same era was Sergeant Adam Baker.",
+        "relations": "military branch",
+        "entity": [
+            "Adam Baker"
+        ],
+        "fact_list": [
+            [
+                "John A. Kirkwood",
+                "military branch",
+                "United States Army"
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "passage": "Rear Admiral Edward D. Sheafer, Jr. is a retired officer of the United States Navy. Captain Thomas O'Malley was also known for his service in the Navy.",
+        "relations": "military branch",
+        "entity": [
+            "Thomas O'Malley"
+        ],
+        "fact_list": [
+            [
+                "Edward D. Sheafer, Jr.",
+                "military branch",
+                "United States Navy"
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "passage": "The 1st Wessex Artillery was a volunteer unit of the British Army that existed under various titles from 1860 to 1971, including active service in World War I and World War II. Lieutenant Colonel James Traill was a prominent figure associated with the unit.",
+        "relations": "military branch",
+        "entity": [
+            "James Traill"
+        ],
+        "fact_list": [
+            [
+                "1st Wessex Artillery",
+                "military branch",
+                "British Army"
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "passage": "Since 1942 the United States has maintained air bases in the United Kingdom. Major Commands of the USAF having bases in the United Kingdom were the United States Air Forces in Europe (USAFE), Strategic Air Command (SAC), and Air Mobility Command (AMC). Brigadier General Matthew Andrews was instrumental in coordinating operations.",
+        "relations": "military branch",
+        "entity": [
+            "Matthew Andrews"
+        ],
+        "fact_list": [
+            [
+                "USAFE",
+                "military branch",
+                "USAF"
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "passage": "Vice-Admiral Sir Hugh Evan-Thomas GCB KCMG MVO (27 October 1862 \u2013 30 August 1928) was a British Royal Navy officer. Admiral Charles Fortesque also gained prominence during the same period.",
+        "relations": "military branch",
+        "entity": [
+            "Charles Fortesque"
+        ],
+        "fact_list": [
+            [
+                "Hugh Evan-Thomas",
+                "military branch",
+                "Royal Navy"
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "passage": "The Sherbrooke Fusilier Regiment was a World War II Canadian armoured regiment created in 1940 with officers and men from two Militia regiments in Sherbrooke, Quebec. The name is a blend of Les Fusiliers de Sherbrooke, a francophone infantry unit, and the Sherbrooke Regiment, an English-speaking machine gun unit. The armoured corps lineage of the Sherbrooke Fusilier Regiment is carried forward by the present-day The Sherbrooke Hussars. Another unit, The Quebec Armoured Division, also has a history rooted in Sherbrooke, but its specific details and contributions are less known.",
+        "relations": "military branch",
+        "entity": "The Quebec Armoured Division",
+        "fact_list": [
+            [
+                "Sherbrooke Fusilier Regiment",
+                "military branch",
+                "Canadian"
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "passage": "Thomas K. Chadwick is retired officer in the United States Navy and Chaplain of the United States Coast Guard. Another person, Michael R. Johnson, also served in the United States Navy but further details regarding his service and contributions are not as detailed.",
+        "relations": "military branch",
+        "entity": "Michael R. Johnson",
+        "fact_list": [
+            [
+                "Thomas K. Chadwick",
+                "military branch",
+                "United States Navy"
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "passage": "Henry Clay Drexler (August 7, 1901 \u2013 October 20, 1924) was an Ensign in the United States Navy and a recipient of both the Navy Cross and the Medal of Honor. Another individual, Ensign John F. Kennedy, also had a notable career in the United States Navy, but his awards and recognitions are not as well documented.",
+        "relations": "military branch",
+        "entity": "Ensign John F. Kennedy",
+        "fact_list": [
+            [
+                "Henry Clay Drexler",
+                "military branch",
+                "United States Navy"
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "passage": "Naval Mobile Construction Battalion 133 is a United States Navy Construction battalion, otherwise known as a Seabee Battalion, based out of Naval Construction Battalion Center (Gulfport, Mississippi). Another battalion, Naval Construction Battalion 134, also operated as a Seabee Battalion within the United States Navy, but specific details about its base and operations are not clearly outlined.",
+        "relations": "military branch",
+        "entity": "Naval Construction Battalion 134",
+        "fact_list": [
+            [
+                "Seabee",
+                "military branch",
+                "United States Navy"
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "passage": "Sir Thomas Allin, 1st Baronet (1612\u20131685) was an officer of the Royal Navy who saw service in the English Civil War, and the Second and Third Anglo-Dutch Wars. A Royalist during the Civil War, he returned to service after the Restoration and eventually rose to the rank of Admiral after serving under some of the most distinguished military figures of the era, including Prince Rupert of the Rhine. Another officer, Commodore Samuel Morland, also served in the Royal Navy during similar historical periods, but his military career isn\u2019t well-documented.",
+        "relations": "military branch",
+        "entity": "Commodore Samuel Morland",
+        "fact_list": [
+            [
+                "Sir Thomas Allin, 1st Baronet",
+                "military branch",
+                "Royal Navy"
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "passage": "Major-General John Boteler Parker (29 May 1786 - 25 March 1851) was a notable British Army general of the early 19th century. He saw action at the Battle of Waterloo, and later became Commandant of the Royal Military Academy, Woolwich. Lieutenant Francis Higgins also served under him.",
+        "relations": "military branch",
+        "entity": [
+            "Francis Higgins"
+        ],
+        "fact_list": [
+            [
+                "John Boteler Parker",
+                "military branch",
+                "British Army"
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "passage": "Charles Murray, 1st Earl of Dunmore (1661\u20131710) was a British peer and also General in the British Army. During the same period, Major Robert Sterling had also achieved considerable reputation.",
+        "relations": "military branch",
+        "entity": [
+            "Robert Sterling"
+        ],
+        "fact_list": [
+            [
+                "Charles Murray, 1st Earl of Dunmore",
+                "military branch",
+                "British Army"
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "passage": "Robert Brudenell was a British army officer and politician. Not be confused with Lieutenant William Brudenell who was also active during the same period.",
+        "relations": "military branch",
+        "entity": [
+            "William Brudenell"
+        ],
+        "fact_list": [
+            [
+                "Robert Brudenell",
+                "military branch",
+                "British army"
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "passage": "James Henry Gooding (August 28, 1838 - July 19, 1864) was a Corporal in the 54th Massachusetts Volunteer Infantry, an American Civil War Union regiment. Sergeant Arnold Lincoln was another prominent figure during this war.",
+        "relations": "military branch",
+        "entity": [
+            "Arnold Lincoln"
+        ],
+        "fact_list": [
+            [
+                "54th Massachusetts Volunteer Infantry",
+                "military branch",
+                "Union"
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "passage": "George Gibbs Dibrell (April 12, 1822 \u2013 May 9, 1888) was an American lawyer and a five-term member of the United States House of Representatives from the 3rd Congressional District of Tennessee. He also served as a general in the Confederate States Army during the American Civil War. His comrade, Colonel William Hurst, makes a notable mention.",
+        "relations": "military branch",
+        "entity": [
+            "William Hurst"
+        ],
+        "fact_list": [
+            [
+                "George Gibbs Dibrell",
+                "military branch",
+                "Confederate States Army"
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "passage": "Lieutenant Colonel Charles \u00e0 Court Repington, CMG, (29 January 1858 \u2013 25 May 1925) known until 1903 as Charles \u00e0 Court, was a British Army officer and later a war correspondent. Another figure, Major James Harrison, also served in the British Army during a similar period, but details of his service are not as extensively documented.",
+        "relations": "military branch",
+        "entity": "Major James Harrison",
+        "fact_list": [
+            [
+                "Charles \u00e0 Court Repington",
+                "military branch",
+                "British Army"
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "passage": "Commander Edward Dunsterville (1796\u20131873) was a naval officer and hydrographer. Lieutenant Peter Williams also served as a naval officer during a similar timeframe, but his contributions and career details are not well-known.",
+        "relations": "military branch",
+        "entity": "Lieutenant Peter Williams",
+        "fact_list": [
+            [
+                "Edward Dunsterville",
+                "military branch",
+                "naval"
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "passage": "Vice-Admiral Sir Hugh Evan-Thomas GCB KCMG MVO (27 October 1862 \u2013 30 August 1928) was a British Royal Navy officer. During World War I he commanded the 5th Battle Squadron of the Grand Fleet, flying his flag in HMS Barham, and fought at the Battle of Jutland on 31 May \u2013 1 June 1916. Another notable figure from this period is Rear-Admiral Frederick Lewis, whose career and contributions to the Royal Navy remain lesser-known.",
+        "relations": "military branch",
+        "entity": "Rear-Admiral Frederick Lewis",
+        "fact_list": [
+            [
+                "Hugh Evan-Thomas",
+                "military branch",
+                "Royal Navy"
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "passage": "Alexander Cummings McWhorter Pennington, Jr. (January 8, 1838 \u2013 November 30, 1917), was an artillery officer and brigadier general in the United States Army and a veteran of both the American Civil War and Spanish\u2013American War. Colonel Theodore Roosevelt also had a significant military career within the United States Army, but his career specifics are not as detailed.",
+        "relations": "military branch",
+        "entity": "Colonel Theodore Roosevelt",
+        "fact_list": [
+            [
+                "Alexander Cummings McWhorter Pennington, Jr.",
+                "military branch",
+                "United States Army"
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "passage": "Edward Moody McCook (June 15, 1833 \u2013 September 9, 1909) was a lawyer, politician, distinguished Union cavalry general in the American Civil War, American diplomat, and Governor of the Territory of Colorado. He was a member of the famed \"Fighting McCook\" family of Ohio. General Jonathan McCook, also a member of the 'Fighting McCooks', had a distinguished military career within the Union Army as well, but less information is available about his specific service details.",
+        "relations": "military branch",
+        "entity": "General Jonathan McCook",
+        "fact_list": [
+            [
+                "Edward Moody McCook",
+                "military branch",
+                "Union"
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "passage": "Lieutenant Colonel Charles-Michel d'Irumberry de Salaberry, CB (November 19, 1778 - February 27, 1829) was a French-speaking Canadien of the seigneurial class who served as an officer of the British army in Lower Canada (now Quebec). His field assistant was Captain Francis Dupont.",
+        "relations": "military branch",
+        "entity": [
+            "Francis Dupont"
+        ],
+        "fact_list": [
+            [
+                "Charles-Michel d'Irumberry de Salaberry",
+                "military branch",
+                "British army"
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "passage": "Sadao Munemori (Japanese: \u5b97\u68ee \u8c9e\u96c4, August 17, 1922 \u2013 April 5, 1945) was a United States Army soldier and posthumous recipient of the Medal of Honor. His comrade, Sergeant Joseph Takei, was well-known within the ranks as well.",
+        "relations": "military branch",
+        "entity": [
+            "Joseph Takei"
+        ],
+        "fact_list": [
+            [
+                "Sadao Munemori",
+                "military branch",
+                "United States Army"
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "passage": "Klaus Uebe (1 May 1900 \u2013 3 February 1968) was a German Luftwaffe Generalmajor. He shared the frontlines with Oberleutnant Herman Bauer.",
+        "relations": "military branch",
+        "entity": [
+            "Herman Bauer"
+        ],
+        "fact_list": [
+            [
+                "Klaus Uebe",
+                "military branch",
+                "Luftwaffe"
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "passage": "Colonel Herbert Mercer (4 January 1862 \u2013 8 February 1944) was a British Army officer. His comrade, Major Charles Henley, also had a remarkable service record.",
+        "relations": "military branch",
+        "entity": [
+            "Charles Henley"
+        ],
+        "fact_list": [
+            [
+                "Herbert Mercer",
+                "military branch",
+                "British Army"
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "passage": "829 Naval Air Squadron is a squadron of the Royal Navy Fleet Air Arm. Lieutenant Commander Stuart Reynolds was one of its notable figures.",
+        "relations": "military branch",
+        "entity": [
+            "Stuart Reynolds"
+        ],
+        "fact_list": [
+            [
+                "829 Naval Air Squadron",
+                "military branch",
+                "Royal Navy"
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "passage": "The 25th Antisubmarine Squadron is an inactive United States Air Force unit. Lieutenant Daniel Ford was also associated with this unit.",
+        "relations": "military branch",
+        "entity": [
+            "Daniel Ford"
+        ],
+        "fact_list": [
+            [
+                "25th Antisubmarine Squadron",
+                "military branch",
+                "United States Air Force"
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "passage": "Luis F. Emilio (December 22, 1844 - September 16, 1918) was a Captain in the 54th Massachusetts Volunteer Infantry, an American Civil War Union regiment. His fellow officer, Lieutenant Nelson Rodriguez, was also notable.",
+        "relations": "military branch",
+        "entity": [
+            "Nelson Rodriguez"
+        ],
+        "fact_list": [
+            [
+                "54th Massachusetts Volunteer Infantry",
+                "military branch",
+                "Union"
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "passage": "The 1st (West Africa) Infantry Brigade was an infantry formation of the British Army during World War II. Major Richard Dunsterville was a key figure in the brigade.",
+        "relations": "military branch",
+        "entity": [
+            "Richard Dunsterville"
+        ],
+        "fact_list": [
+            [
+                "1st (West Africa) Infantry Brigade",
+                "military branch",
+                "British Army"
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "passage": "Gordon Oscar Wood (born June 21, 1975) is an amateur American wrestler, who competed in the Greco-Roman welterweight category. He was a two-time NCAA All-American for the Oregon State Beavers (1996\u20131999), and also represented the United States at the 2004 Summer Olympics. Serving as a staff sergeant of the United States Army in Fort Carson, Colorado, Wood also trained full time for the army's wrestling club. Specialist Adam Patterson also trained under the same club.",
+        "relations": "military branch",
+        "entity": [
+            "Adam Patterson"
+        ],
+        "fact_list": [
+            [
+                "Oscar Wood",
+                "military branch",
+                "United States Army"
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "passage": "Rear Admiral Robert Webster Cary, Jr. (August 18, 1890 \u2013 July 15, 1967) is one of the most decorated officers in the history of the United States Navy and recipient of the Medal of Honor. Commander George Willis also served under him.",
+        "relations": "military branch",
+        "entity": [
+            "George Willis"
+        ],
+        "fact_list": [
+            [
+                "Robert Webster Cary",
+                "military branch",
+                "United States Navy"
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "passage": "Major-General Hugh Richard Dawnay, 8th Viscount Downe, KCVO CB CIE (20 July 1844 \u2013 21 January 1924) was a British Army general and President of the MCC. Captain Oliver Johnston also served during that period.",
+        "relations": "military branch",
+        "entity": [
+            "Oliver Johnston"
+        ],
+        "fact_list": [
+            [
+                "8th Viscount Downe",
+                "military branch",
+                "British Army"
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "passage": "The 221st Independent Infantry Brigade (Home) (221 Bde) was a short-lived Home Defence formation of the British Army during World War II. Lieutenant James Havers was an active officer in this brigade.",
+        "relations": "military branch",
+        "entity": [
+            "James Havers"
+        ],
+        "fact_list": [
+            [
+                "221st Independent Infantry Brigade (Home)",
+                "military branch",
+                "British Army"
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "passage": "William Joseph Franks (1830 \u2013 April 18, 1880) was a United States Navy sailor who received the Medal of Honor for his actions in the American Civil War. Another individual, Sailor John Thompson, also served in the United States Navy during the Civil War, but his service records are not as extensively documented.",
+        "relations": "military branch",
+        "entity": "Sailor John Thompson",
+        "fact_list": [
+            [
+                "William Joseph Franks",
+                "military branch",
+                "United States Navy"
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "passage": "The 3rd Cavalry Brigade was a cavalry brigade of the British Army. Captain Richard Harris also served within the British Army\u2019s cavalry units during the Napoleonic Wars, but his actions and service details are not as well-documented.",
+        "relations": "military branch",
+        "entity": "Captain Richard Harris",
+        "fact_list": [
+            [
+                "3rd Cavalry Brigade",
+                "military branch",
+                "British Army"
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "passage": "Warren Adams (November 28, 1838 \u2013 November 5, 1884) was a Lieutenant Colonel in the Confederate States Army. Another figure, Captain James Stewart, also served in the Confederate States Army in a similar period, but the details of his service are not widely recorded.",
+        "relations": "military branch",
+        "entity": "Captain James Stewart",
+        "fact_list": [
+            [
+                "Warren Adams",
+                "military branch",
+                "Confederate States Army"
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "passage": "Rafi Peretz (Hebrew: \u05e8\u05e4\u05d9 \u05e4\u05e8\u05e5; born 1956) is the Chief Military Rabbi of the Israel Defense Forces. Another individual, Major Daniel Abramovich, also served in the Israel Defense Forces with a significant role but less known contributions and service records.",
+        "relations": "military branch",
+        "entity": "Major Daniel Abramovich",
+        "fact_list": [
+            [
+                "Rafi Peretz",
+                "military branch",
+                "Israel Defense Forces"
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "passage": "Caleb Huse (February 11, 1831 - March 12, 1905) was a Major in the Confederate States Army, acting primarily as an arms procurement agent and purchasing specialist during the American Civil War. His comrade was Lieutenant Benjamin Davis.",
+        "relations": "military branch",
+        "entity": [
+            "Benjamin Davis"
+        ],
+        "fact_list": [
+            [
+                "Caleb Huse",
+                "military branch",
+                "Confederate States Army"
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "passage": "Lieutenant General Sir James Bevan Edwards KCB, KCMG (5 November 1835 \u2013 8 July 1922) was a senior British Army officer and politician. Captain Robin Hamilton also served under his command.",
+        "relations": "military branch",
+        "entity": [
+            "Robin Hamilton"
+        ],
+        "fact_list": [
+            [
+                "James Bevan Edwards",
+                "military branch",
+                "British Army"
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "passage": "Darren Manzella (August 8, 1977 \u2013 August 29, 2013) was a United States Army Sergeant, Army medic and gay activist from Portland, New York. Another notable figure serving simultaneously was Private Tom Bell.",
+        "relations": "military branch",
+        "entity": [
+            "Tom Bell"
+        ],
+        "fact_list": [
+            [
+                "Darren Manzella",
+                "military branch",
+                "United States Army"
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "passage": "Alex M. Diachenko (1919\u20131943) was a United States Navy sailor killed in action during World War II. His naval comrade, Seaman Robert Jones, was also notable.",
+        "relations": "military branch",
+        "entity": [
+            "Robert Jones"
+        ],
+        "fact_list": [
+            [
+                "Alex M. Diachenko",
+                "military branch",
+                "United States Navy"
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "passage": "George Geiger (1843\u20131904) was a sergeant in the United States Army and the recipient to the highest military decoration for valor in combat \u2014 the Medal of Honor \u2014 for having distinguished himself at the Battle of the Little Big Horn on June 25, 1876, during the Indian Wars. Corporal Martin Higgins was also a dedicated serviceman during the same period.",
+        "relations": "military branch",
+        "entity": [
+            "Martin Higgins"
+        ],
+        "fact_list": [
+            [
+                "George Geiger",
+                "military branch",
+                "United States Army"
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "passage": "The 29th (Worcestershire) Regiment of Foot was, from 1694 to 1881, an infantry regiment of the British Army. It now forms part of the Mercian Regiment. Another regiment, the 45th (Nottinghamshire) Regiment of Foot, also served during similar times, but its history and contributions are less known.",
+        "relations": "military branch",
+        "entity": "45th (Nottinghamshire) Regiment of Foot",
+        "fact_list": [
+            [
+                "29th (Worcestershire) Regiment of Foot",
+                "military branch",
+                "British Army"
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "passage": "Sadao Munemori (Japanese: \u5b97\u68ee \u8c9e\u96c4, August 17, 1922 \u2013 April 5, 1945) was a United States Army soldier. Another soldier, Hiroshi Yamada, also served in the United States Army during World War II, but detailed records of his service are less available.",
+        "relations": "military branch",
+        "entity": "Hiroshi Yamada",
+        "fact_list": [
+            [
+                "Sadao Munemori",
+                "military branch",
+                "United States Army"
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "passage": "The Queen's Own Royal Glasgow Yeomanry was a yeomanry regiment of the British Army. Another unit, the King's Own London Yeomanry, was also part of the British Army\u2019s yeomanry, but its history is not as extensively documented.",
+        "relations": "military branch",
+        "entity": "King's Own London Yeomanry",
+        "fact_list": [
+            [
+                "Queen's Own Royal Glasgow Yeomanry",
+                "military branch",
+                "British Army"
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "passage": "The 18th (Eastern) Division was an infantry division of the British Army formed in September 1914. Another division, the 22nd (Northern) Division, also served during the Great War, but its actions and involvement are less well-recorded.",
+        "relations": "military branch",
+        "entity": "22nd (Northern) Division",
+        "fact_list": [
+            [
+                "18th (Eastern) Division",
+                "military branch",
+                "British Army"
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "passage": "The Royal Naval Academy (1733\u20131837) was established at Portsmouth Dockyard as a facility to train officers for the Royal Navy. Another institution, the Maritime Warfare School, also contributed to the training of Royal Navy officers, but it is less prominent in historical records.",
+        "relations": "military branch",
+        "entity": "Maritime Warfare School",
+        "fact_list": [
+            [
+                "Royal Naval Academy",
+                "military branch",
+                "Royal Navy"
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "passage": "The United States Coast Guard Reserve is the reserve component of the United States Coast Guard. Admiral Robert Jennings oversees the administrative tasks.",
+        "relations": "military branch",
+        "entity": [
+            "Robert Jennings"
+        ],
+        "fact_list": [
+            [
+                "United States Coast Guard Reserve",
+                "military branch",
+                "United States Coast Guard"
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "passage": "Henry Lawrence Burnett (December 26, 1838 \u2013 January 4, 1916) was a brevet brigadier general for the Union in the American Civil War. Another known personality of the same period was Colonel Charles Stevenson.",
+        "relations": "military branch",
+        "entity": [
+            "Charles Stevenson"
+        ],
+        "fact_list": [
+            [
+                "Henry Lawrence Burnett",
+                "military branch",
+                "Union"
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "passage": "222nd Infantry Brigade was a Home Service formation of the British Army that existed under various short-lived titles in both the First and Second World Wars. Lieutenant Thomas Farnsworth was one of the noteworthy officers in this brigade.",
+        "relations": "military branch",
+        "entity": [
+            "Thomas Farnsworth"
+        ],
+        "fact_list": [
+            [
+                "222nd Infantry Brigade",
+                "military branch",
+                "British Army"
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "passage": "Michael Trubshawe (7 December 1905 \u2013 21 March 1985) was a British actor and former officer in the Highland Light Infantry Regiment of the British Army. Captain Henry Richards also served alongside him.",
+        "relations": "military branch",
+        "entity": [
+            "Henry Richards"
+        ],
+        "fact_list": [
+            [
+                "Michael Trubshawe",
+                "military branch",
+                "British Army"
+            ],
+            [
+                "Highland Light Infantry",
+                "military branch",
+                "British Army"
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "passage": "Casey Loomis served in the United States Marine Corps during World War I. Lieutenant Jack Ferguson also served during the same period.",
+        "relations": "military branch",
+        "entity": [
+            "Jack Ferguson"
+        ],
+        "fact_list": [
+            [
+                "Casey Loomis",
+                "military branch",
+                "United States Marine Corps"
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "passage": "Der Stern von Afrika (English: The Star of Africa) is a 1957 black-and-white German war film portraying the combat career of Luftwaffe World War II fighter pilot Hans-Joachim Marseille. The film also features the character of Lieutenant Karl Schmidt.",
+        "relations": "military branch",
+        "entity": [
+            "Karl Schmidt"
+        ],
+        "fact_list": [
+            [
+                "Hans-Joachim Marseille",
+                "military branch",
+                "Luftwaffe"
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "passage": "George Taliaferro Ward (1810 \u2013 May 5, 1862) was a cotton plantation owner and politician from Leon County, Florida. He served in the Confederate Army as a colonel during the American Civil War. His fellow officer, Major Gordon Harper, was also served during the same period.",
+        "relations": "military branch",
+        "entity": [
+            "Gordon Harper"
+        ],
+        "fact_list": [
+            [
+                "George Taliaferro Ward",
+                "military branch",
+                "Confederate Army"
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "passage": "Major-General William Alfred Dimoline CB CMG CBE DSO MC (1897 \u2013 1965) was an officer in the British Army during World War I and World War II. Another officer of the same era was Lieutenant Charles Alexander.",
+        "relations": "military branch",
+        "entity": [
+            "Charles Alexander"
+        ],
+        "fact_list": [
+            [
+                "William Alfred Dimoline",
+                "military branch",
+                "British Army"
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "passage": "Raymond Zussman (July 23, 1917 \u2013 September 21, 1944) was a second lieutenant in the United States Army and a recipient of the United States military's highest decoration\u2014 the Medal of Honor\u2014 for his actions in France during World War II. Sergeant John Scott also showed great bravery during the same period.",
+        "relations": "military branch",
+        "entity": [
+            "John Scott"
+        ],
+        "fact_list": [
+            [
+                "Raymond Zussman",
+                "military branch",
+                "United States Army"
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "passage": "General Sir Walter Colyear Walker KCB, CBE, DSO & Two Bars (11 November 1912 \u2013 12 August 2001) was a senior British Army officer who served as Commander-in-Chief of Allied Forces Northern Europe from 1969 until his retirement in 1972. One of the notable officers under his command was Major Thomas Reed.",
+        "relations": "military branch",
+        "entity": [
+            "Thomas Reed"
+        ],
+        "fact_list": [
+            [
+                "Walter Colyear Walker",
+                "military branch",
+                "British Army"
+            ]
+        ]
+    },
+    {
+        "index": 95,
+        "passage": "The Director of the Royal Artillery is the professional head of the Royal Regiment of Artillery the artillery arm of the British Army. Another role, the Chief of Ordnance, also played a crucial part in the management and operation of artillery units within the British Army.",
+        "relations": "military branch",
+        "entity": "Chief of Ordnance",
+        "fact_list": [
+            [
+                "Royal Artillery",
+                "military branch",
+                "British Army"
+            ]
+        ]
+    },
+    {
+        "index": 96,
+        "passage": "Archie J. Old, Jr. (August 1, 1906 \u2013 March 24, 1984) was a General during World War II and a command Air Force pilot. Another pilot, Benjamin R. Harrison, also had significant contributions during World War II, serving as a Major in the Air Force, but his service records are not as well-known.",
+        "relations": "military branch",
+        "entity": "Benjamin R. Harrison",
+        "fact_list": [
+            [
+                "Archie J. Old, Jr.",
+                "military branch",
+                "Air Force"
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "passage": "James Murray Hadden (died 1817) was a British Army officer and surveyor-general of the ordnance. Another officer, William Stewart, also served in a similar capacity but his contributions and service details are less prominent in historical accounts.",
+        "relations": "military branch",
+        "entity": "William Stewart",
+        "fact_list": [
+            [
+                "James Murray Hadden",
+                "military branch",
+                "British Army"
+            ]
+        ]
+    }
+]

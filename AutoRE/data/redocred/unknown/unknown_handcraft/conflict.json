@@ -1,0 +1,1472 @@
+[
+    {
+        "index": 0,
+        "passage": "HMS Vanessa (D29), a V-class destroyer of the British Royal Navy, saw service in both World War I and World War II. Meanwhile, HMS Victory, another renowned ship in the British Royal Navy, had its own influential role in naval history.",
+        "relations": "conflict",
+        "entity": [
+            "HMS Victory"
+        ],
+        "fact_list": [
+            [
+                "HMS Vanessa (D29)",
+                "conflict",
+                "World War I"
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "passage": "Jean Antoine Rossignol, born 7 November 1759 in Paris and died 27 April 1802 in Anjouan, was a general during the French Revolutionary Wars. In the context of this era, Napoleon Bonaparte had a significant influence on European history, though not directly related to these wars.",
+        "relations": "conflict",
+        "entity": [
+            "Napoleon Bonaparte"
+        ],
+        "fact_list": [
+            [
+                "Rossignol",
+                "conflict",
+                "French Revolutionary Wars"
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "passage": "Thomas Ruffin Gray was an attorney who represented several enslaved people in the trials following Nat Turners slave rebellion. Harriet Tubman, another notable figure in the context of American slavery, made her mark on history around the same period.",
+        "relations": "conflict",
+        "entity": [
+            "Harriet Tubman"
+        ],
+        "fact_list": [
+            [
+                "Nat Turner",
+                "conflict",
+                "slave rebellion"
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "passage": "Lieutenant Ronald William Turner, an English World War I flying ace, was credited with nine aerial victories. On the other hand, Eugene Bullard, another significant figure in aviation history, didnt participate in aerial combat, but made his mark as one of the few African-American fighter pilots of World War I.",
+        "relations": "conflict",
+        "entity": [
+            "Eugene Bullard"
+        ],
+        "fact_list": [
+            [
+                "Ronald William Turner",
+                "conflict",
+                "World War I"
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "passage": "Jean C\u00e9sar Graziani, a French Army general, served during World War I. Charles de Gaulle, although not explicitly linked with this conflict, was another significant figure in the French military during the 20th century.",
+        "relations": "conflict",
+        "entity": [
+            "Charles de Gaulle"
+        ],
+        "fact_list": [
+            [
+                "Jean C\u00e9sar Graziani",
+                "conflict",
+                "World War I"
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "passage": "German submarine U-213 was a Type VIID mine-laying U-boat of Nazi Germanys Kriegsmarine during World War II. Bismarck, the lead ship of the same navy, is another well-known vessel from the same period.",
+        "relations": "conflict",
+        "entity": [
+            "Bismarck"
+        ],
+        "fact_list": [
+            [
+                "German submarine U-213",
+                "conflict",
+                "World War II"
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "passage": "Brummer was a training ship of Nazi Germanys Kriegsmarine during World War II. However, the Kriegsmarine wasnt the only naval force active during the conflict; the Royal Navy, under the leadership of figures like Andrew Cunningham, was also heavily involved.",
+        "relations": "conflict",
+        "entity": [
+            "Andrew Cunningham"
+        ],
+        "fact_list": [
+            [
+                "Kriegsmarine",
+                "conflict",
+                "World War II"
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "passage": "Commodore George Hamilton Perkins served as an officer in the United States Navy during the American Civil War. Similarly, Ulysses S. Grant, a prominent military leader, shaped the conflicts course, though his contributions werent limited to naval warfare.",
+        "relations": "conflict",
+        "entity": [
+            "Ulysses S. Grant"
+        ],
+        "fact_list": [
+            [
+                "George Hamilton Perkins",
+                "conflict",
+                "American Civil War"
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "passage": "The second USS Conyngham (DD-371) served as a Mahan-class destroyer in the United States Navy during World War II. In contrast, Chester Nimitz, a significant naval figure, had a prominent role during the same conflict, but not onboard destroyers like the Conyngham.",
+        "relations": "conflict",
+        "entity": [
+            "Chester Nimitz"
+        ],
+        "fact_list": [
+            [
+                "USS Conyngham (DD-371)",
+                "conflict",
+                "World War II"
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "passage": "Lieutenant Henry Eric Dolan MC, a World War I flying ace, was credited with seven aerial victories. Similarly, Eddie Rickenbacker, another skilled aviator, left a profound impact on aviation during the same time, but his achievements differ from Dolans.",
+        "relations": "conflict",
+        "entity": [
+            "Eddie Rickenbacker"
+        ],
+        "fact_list": [
+            [
+                "Henry Eric Dolan",
+                "conflict",
+                "World War I"
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "passage": "Joseph Piston, baron of the Empire, served as a French general during the French Revolutionary Wars and Napoleonic Wars. On a similar note, Louis-Alexandre Berthier, another influential figure, had a pivotal role in this epoch, but the details of his involvement differed.",
+        "relations": "conflict",
+        "entity": [
+            "Louis-Alexandre Berthier"
+        ],
+        "fact_list": [
+            [
+                "Joseph Piston",
+                "conflict",
+                "French Revolutionary Wars"
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "passage": "Yolande Beekman, born 7 November 1911, served as a dedicated Special Operations Executive (SOE) agent for the allies in World War II. Meanwhile, another notable figure, Violette Szabo, also operated as an SOE agent during the same conflict.",
+        "relations": "conflict",
+        "entity": [
+            "Violette Szabo"
+        ],
+        "fact_list": [
+            [
+                "Yolande Beekman",
+                "conflict",
+                "World War II"
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "passage": "USS Kimberly (DD-80), a potent Wickes-class destroyer, was constructed for the United States Navy to aid the allied forces during World War I. Similarly, another vessel, USS Johnston (DD-557), was pivotal in contributing to naval warfare around the same era.",
+        "relations": "conflict",
+        "entity": [
+            "USS Johnston (DD-557)"
+        ],
+        "fact_list": [
+            [
+                "USS Kimberly (DD-80)",
+                "conflict",
+                "World War I"
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "passage": "German submarine U-1233, a powerful Type IXC/40 U-boat, formed part of Nazi Germanys Kriegsmarine during World War II. In parallel, the infamous German battleship Bismarck also played a noteworthy role in the naval operations of the same conflict.",
+        "relations": "conflict",
+        "entity": [
+            "Bismarck"
+        ],
+        "fact_list": [
+            [
+                "German submarine U-1233",
+                "conflict",
+                "World War II"
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "passage": "George Henry Gordon, an American lawyer, took the mantle of a Union general in the bloody American Civil War. During this tumultuous period, another individual, Robert E. Lee, led the Confederate forces, marking a significant part of the war\u2019s history.",
+        "relations": "conflict",
+        "entity": [
+            "Robert E. Lee"
+        ],
+        "fact_list": [
+            [
+                "George Henry Gordon",
+                "conflict",
+                "American Civil War"
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "passage": "Born on 26 July 1890, Captain Paul Thayer Iaccaci emerged as a World War I flying ace, accredited with 17 aerial victories. A contemporary of Iaccaci, Manfred von Richthofen, also etched his name in the annals of aviation history from his exploits during the Great War.",
+        "relations": "conflict",
+        "entity": [
+            "Manfred von Richthofen"
+        ],
+        "fact_list": [
+            [
+                "Paul Thayer Iaccaci",
+                "conflict",
+                "World War I"
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "passage": "Rufus King, Jr. (March 21, 1838 \u2013 March 18, 1900), an artillery officer in the Union Army, played a pivotal role during the American Civil War and later received a Medal of Honor. Another significant figure from this era, though renowned for different reasons, was A.P. Hill.",
+        "relations": "conflict",
+        "entity": [
+            "A.P. Hill"
+        ],
+        "fact_list": [
+            [
+                "Rufus King, Jr.",
+                "conflict",
+                "American Civil War"
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "passage": "RAAF Bradfield Park was an active Royal Australian Air Force (RAAF) station located at the former suburb of Bradfield Park (now Lindfield, New South Wales) during World War II. During the same period, the Royal Air Force (RAF) had noteworthy installations in use around the globe.",
+        "relations": "conflict",
+        "entity": [
+            "Royal Air Force (RAF)"
+        ],
+        "fact_list": [
+            [
+                "Royal Australian Air Force (RAAF)",
+                "conflict",
+                "World War II"
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "passage": "The German submarine U-954, a sturdy Type VIIC submarine, was part of Nazi Germanys Kriegsmarine in World War II. However, Admiral Karl D\u00f6nitz was the figure instrumental in the overall direction of the German U-boat campaign.",
+        "relations": "conflict",
+        "entity": [
+            "Admiral Karl D\u00f6nitz"
+        ],
+        "fact_list": [
+            [
+                "German submarine U-954",
+                "conflict",
+                "World War II"
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "passage": "Sir William Ayloffe, 3rd Baronet (3 December 1618 \u2013 1675) served as a loyal officer in the Royalist army during the English Civil War. During this tumultuous time, Thomas Fairfax also emerged as a key player, though he commanded Parliamentary forces.",
+        "relations": "conflict",
+        "entity": [
+            "Thomas Fairfax"
+        ],
+        "fact_list": [
+            [
+                "Sir William Ayloffe, 3rd Baronet",
+                "conflict",
+                "English Civil War"
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "passage": "Sh\u014dji Nishimura (30 November 1889 \u2013 24 October 1944) served as an admiral in the Imperial Japanese Navy during World War II. While Nishimura led his fleets in the Pacific, Dwight D. Eisenhower was leading the Allied Expeditionary Force in Europe.",
+        "relations": "conflict",
+        "entity": [
+            "Dwight D. Eisenhower"
+        ],
+        "fact_list": [
+            [
+                "Sh\u014dji Nishimura",
+                "conflict",
+                "World War II"
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "passage": "Norvell P. Cobb (June 18, 1824 \u2013 October 8, 1879) was an American Civil War officer, banker and hotelier. Although not tied to military activity, Cornelius Vanderbilt was another influential figure from the same era, making his own impact in the realms of business and philanthropy.",
+        "relations": "conflict",
+        "entity": [
+            "Cornelius Vanderbilt"
+        ],
+        "fact_list": [
+            [
+                "Norvell P. Cobb",
+                "conflict",
+                "American Civil War"
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "passage": "The 39M Csaba, an armoured scout car, was produced for the Royal Hungarian Army during World War II. In the meantime, Mikhail Koshkin was leading the development of the T-34, another iconic armored vehicle of the same conflict.",
+        "relations": "conflict",
+        "entity": [
+            "Mikhail Koshkin"
+        ],
+        "fact_list": [
+            [
+                "scout car",
+                "conflict",
+                "World War II"
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "passage": "John Byron, 1st Baron Byron (1599, Newstead, Nottinghamshire \u2013 23 August 1652) was an English Royalist and supporter of Charles I during the English Civil War. On the other side of the conflict, Oliver Cromwell played an instrumental role leading the Parliamentary forces.",
+        "relations": "conflict",
+        "entity": [
+            "Oliver Cromwell"
+        ],
+        "fact_list": [
+            [
+                "John Byron, 1st Baron Byron",
+                "conflict",
+                "English Civil War"
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "passage": "The shipborne Seetakt radar was developed in the 1930s and was used by Nazi Germanys Kriegsmarine during World War II. At the same time, Alan Turing was making breakthroughs in cryptanalysis, which played a crucial role in the Allied forces strategy, although not directly related to Seetakt radar development.",
+        "relations": "conflict",
+        "entity": [
+            "Alan Turing"
+        ],
+        "fact_list": [
+            [
+                "Kriegsmarine",
+                "conflict",
+                "World War II"
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "passage": "James Young Milne Henderson, a Scottish rugby union player, died aged 26 during World War I. He played for Watsonians and was capped for Scotland in 1911. Another sportsperson, Donald Bell, was also involved in World War I, although he was known for his contributions to football instead.",
+        "relations": "conflict",
+        "entity": [
+            "Donald Bell"
+        ],
+        "fact_list": [
+            [
+                "James Young Milne Henderson",
+                "conflict",
+                "World War I"
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "passage": "Pierre Kaan (10 January 1903 \u2013 18 May 1945), a professor of philosophy, marxist essayist, and prominent member of the French Resistance, made a significant impact during the Second World War. In a similar vein, Jean Moulin was another notable figure who contributed immensely to the French Resistance, although his actions were different from Kaans.",
+        "relations": "conflict",
+        "entity": [
+            "Jean Moulin"
+        ],
+        "fact_list": [
+            [
+                "French Resistance",
+                "conflict",
+                "Second World War"
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "passage": "Brigadier General James Kilvington Cochrane, CMG (2 July 1873 - 29 December 1948) served as a senior British Army officer during the First World War. Meanwhile, Sir John Monash, although not directly connected to Cochrane, was also a prominent military leader during this conflict.",
+        "relations": "conflict",
+        "entity": [
+            "Sir John Monash"
+        ],
+        "fact_list": [
+            [
+                "James Kilvington Cochrane",
+                "conflict",
+                "First World War"
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "passage": "Colonel Clement Biddle (May 10, 1740 \u2013 July 14, 1814) was a valiant American Revolutionary War soldier. Francis Marion, another important figure related to the Revolutionary War, painted a different canvas of his contributions to the war.",
+        "relations": "conflict",
+        "entity": [
+            "Francis Marion"
+        ],
+        "fact_list": [
+            [
+                "Clement Biddle",
+                "conflict",
+                "Revolutionary War"
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "passage": "Edwin T. Woodward (March 8, 1843 \u2013 February 22, 1894), was an influential naval officer during and after the American Civil War. Another significant player during this time was Ambrose Burnside, however, his battlefield achievements stood in stark contrast to Woodwards naval endeavors.",
+        "relations": "conflict",
+        "entity": [
+            "Ambrose Burnside"
+        ],
+        "fact_list": [
+            [
+                "Edwin T. Woodward",
+                "conflict",
+                "American Civil War"
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "passage": "Combat Mission: Afrika Korps is a turn-based computer game about tactical battles in World War II. It is part of the Combat Mission series. Simultaneously, the Call of Duty series also brought World War II to life on the screens of gamers, albeit with different game mechanics.",
+        "relations": "conflict",
+        "entity": [
+            "Call of Duty series"
+        ],
+        "fact_list": [
+            [
+                "Afrika Korps",
+                "conflict",
+                "World War II"
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "passage": "Sir Henry Gage (29 August 1597 \u2013 11 January 1645) served as a loyal Royalist officer in the English Civil War. On the opposing side, John Hampden was a key figure in the Parliamentary forces during the same era.",
+        "relations": "conflict",
+        "entity": [
+            "John Hampden"
+        ],
+        "fact_list": [
+            [
+                "Sir Henry Gage",
+                "conflict",
+                "English Civil War"
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "passage": "Baron Adrian von F\u00f6lkersam (20 December 1914 \u2013 21 January 1945) was a dedicated German Brandenburger and Waffen-SS officer in World War II. In the same period, American General George S. Patton Jr. was leading the U.S. Third Army on a different battlefield.",
+        "relations": "conflict",
+        "entity": [
+            "George S. Patton Jr."
+        ],
+        "fact_list": [
+            [
+                "Adrian von F\u00f6lkersam",
+                "conflict",
+                "World War II"
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "passage": "Ren\u00e9 Duchez (born in 1903, died in 1948) was a French painting and decorating subcontractor in World War II who daringly stole a set of plans outlining the defenses of Hitlers Atlantic Wall. Similarly, Virginia Hall, though not directly connected with Duchez, also conducted espionage and subversion activities during the same conflict.",
+        "relations": "conflict",
+        "entity": [
+            "Virginia Hall"
+        ],
+        "fact_list": [
+            [
+                "Hitler",
+                "conflict",
+                "World War II"
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "passage": "The 24th U-boat Flotilla was a training flotilla of Nazi Germanys Kriegsmarine during World War II. Additionally, Admiral Karl Doenitz, not directly related to the flotilla, was a notable figure shaping Germanys wartime submarine strategy.",
+        "relations": "conflict",
+        "entity": [
+            "Admiral Karl Doenitz"
+        ],
+        "fact_list": [
+            [
+                "Kriegsmarine",
+                "conflict",
+                "World War II"
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "passage": "Henryk Pietrzak (b. 6 March 1914 \u2013 28 January 1990) was a heroic Polish fighter ace serving in the Polish Air Force in World War II. Another significant war ace, Douglas Bader, fought for the Allies in the Royal Air Force during the same conflict.",
+        "relations": "conflict",
+        "entity": [
+            "Douglas Bader"
+        ],
+        "fact_list": [
+            [
+                "Henryk Pietrzak",
+                "conflict",
+                "World War II"
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "passage": "The First Australian Imperial Force (AIF) emerged as one of the pioneering military forces to cater to soldiers dental health, raising numerous specialist dental units during World War I. Contrary to this, the British Expeditionary Force, also active during the war, did not have this specific focus.",
+        "relations": "conflict",
+        "entity": [
+            "British Expeditionary Force"
+        ],
+        "fact_list": [
+            [
+                "First Australian Imperial Force",
+                "conflict",
+                "World War I"
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "passage": "The 10 cm Kanone 17 (10 cm K 17) served as a field gun used by Germany in World War I and World War II. Similarly, the Big Bertha, used earlier, had made its mark as an effective German artillery weapon in warfare.",
+        "relations": "conflict",
+        "entity": [
+            "Big Bertha"
+        ],
+        "fact_list": [
+            [
+                "10 cm K 17",
+                "conflict",
+                "World War I"
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "passage": "USS Newport News (AK-3), a cargo ship, was procured by the U.S. Navy for service in World War I. Comparatively, the USS Arizona was another naval vessel with a significant service history, albeit during a different global conflict.",
+        "relations": "conflict",
+        "entity": [
+            "USS Arizona"
+        ],
+        "fact_list": [
+            [
+                "USS Newport News (AK-3)",
+                "conflict",
+                "World War I"
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "passage": "Lucius Cossinius, a Roman Praetor, pledged his support to Publius Varinius against Spartacus during the Third Servile War. Meanwhile, Julius Caesar, although not directly involved in this conflict, was another significant figure in Roman history during this era.",
+        "relations": "conflict",
+        "entity": [
+            "Julius Caesar"
+        ],
+        "fact_list": [
+            [
+                "Spartacus",
+                "conflict",
+                "Third Servile War"
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "passage": "Gerhard Boldt (24 January 1918 \u2013 10 May 1981), an officer in the German Army (Heer), penned his experiences during World War II. Somewhat parallel to Boldt, American soldier and author Audie Murphy also shared his wartime experiences in his memoirs.",
+        "relations": "conflict",
+        "entity": [
+            "Audie Murphy"
+        ],
+        "fact_list": [
+            [
+                "Gerhard Boldt",
+                "conflict",
+                "World War II"
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "passage": "William Carleton Watts (February 18, 1880 \u2013 January 5, 1956) served as a rear admiral in the United States Navy during the Spanish\u2013American War, World War I, and World War II. Another important figure in the Navy during this era, though with a different path, was Fleet Admiral Chester W. Nimitz.",
+        "relations": "conflict",
+        "entity": [
+            "Chester W. Nimitz"
+        ],
+        "fact_list": [
+            [
+                "William Carleton Watts",
+                "conflict",
+                "World War I"
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "passage": "German submarine U-1229, a Type IXC/40 U-boat, was built for Nazi Germanys Kriegsmarine during World War II. On the same token, the HMS Graph was another notable submarine active during the conflict, albeit under the British Royal Navy.",
+        "relations": "conflict",
+        "entity": [
+            "HMS Graph"
+        ],
+        "fact_list": [
+            [
+                "German submarine U-1229",
+                "conflict",
+                "World War II"
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "passage": "Tenente Giorgio Pessi, born in Austro-Hungary and chose to fly for Italy, was a World War I flying ace. Similarly, Manfred von Richthofen, better known as the Red Baron, was an infamous German fighter pilot during the same conflict.",
+        "relations": "conflict",
+        "entity": [
+            "Manfred von Richthofen"
+        ],
+        "fact_list": [
+            [
+                "Giorgio Pessi",
+                "conflict",
+                "World War I"
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "passage": "Hans-Georg von der Marwitz (7 August 1893 \u2013 12 May 1925) was a decorated German World War I flying ace. In the same era, the British flying ace Albert Ball made his name known in the sky, though he was flying for the opposite side.",
+        "relations": "conflict",
+        "entity": [
+            "Albert Ball"
+        ],
+        "fact_list": [
+            [
+                "Hans-Georg von der Marwitz",
+                "conflict",
+                "World War I"
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "passage": "General Sir (Charles) Clement Armitage, KCB, CMG, DSO (12 December 1881 \u2013 15 December 1973) was a prominent British Army officer who led the 1st Infantry Division on the eve of World War II. Simultaneously, across the Atlantic, General George Marshall was shaping the United States Armys contributions to the coming global conflict.",
+        "relations": "conflict",
+        "entity": [
+            "George Marshall"
+        ],
+        "fact_list": [
+            [
+                "Clement Armitage",
+                "conflict",
+                "World War II"
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "passage": "William McCandless (September 29, 1834 \u2013 June 17, 1884) was an officer in the Union Army during the American Civil War, commanding a regiment and then a brigade in the Pennsylvania Reserve Division. Another prominent figure, Napoleon Bonaparte, also led significant conflicts but in a different era and context.",
+        "relations": "conflict",
+        "entity": [
+            "Napoleon Bonaparte"
+        ],
+        "fact_list": [
+            [
+                "William McCandless",
+                "conflict",
+                "American Civil War"
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "passage": "The Illowra Battery was part of the Australian Armys coastal defenses at Port Kembla, New South Wales, during World War II, also known as the Hill 60 Battery. On a distinctly separate note, the Battle of Thermopylae was an ancient conflict in Greece, far removed from Australias wartime operations.",
+        "relations": "conflict",
+        "entity": [
+            "Battle of Thermopylae"
+        ],
+        "fact_list": [
+            [
+                "Australian Army",
+                "conflict",
+                "World War II"
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "passage": "Edward Francis Winslow (September 28, 1837 - October 22, 1914) was an officer in the Union Army during the American Civil War and later worked as a railroad executive. Genghis Khan, although coming from a completely different place and time, was a significant military figure who reshaped the world.",
+        "relations": "conflict",
+        "entity": [
+            "Genghis Khan"
+        ],
+        "fact_list": [
+            [
+                "Edward Francis Winslow",
+                "conflict",
+                "American Civil War"
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "passage": "Alwiya al-Furqan is an independent rebel group that played a significant role in the Syrian Civil War. It claims to be the largest Islamic faction currently operating in Quneitra. In a different part of the world, the American Revolutionary War was a defining conflict that led to the independence of the United States.",
+        "relations": "conflict",
+        "entity": [
+            "American Revolutionary War"
+        ],
+        "fact_list": [
+            [
+                "Alwiya al-Furqan",
+                "conflict",
+                "Syrian Civil War"
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "passage": "Nelson S. Dilworth served in the California legislature and during World War I he served in the United States Army. Alexander the Great, although not directly connected to Dilworth, was a significant historical figure known for his military conquests.",
+        "relations": "conflict",
+        "entity": [
+            "Alexander the Great"
+        ],
+        "fact_list": [
+            [
+                "Nelson S. Dilworth",
+                "conflict",
+                "World War I"
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "passage": "No. 188 Squadron RAF was a Royal Flying Corps and Royal Air Force Squadron that was a night training unit towards the end of World War I. In a different timeframe, the Battle of Waterloo marked a decisive confrontation in the Napoleonic Wars.",
+        "relations": "conflict",
+        "entity": [
+            "Battle of Waterloo"
+        ],
+        "fact_list": [
+            [
+                "Royal Flying Corps",
+                "conflict",
+                "World War I"
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "passage": "Thomas Turpin Crittenden (October 16, 1825 \u2013 September 5, 1905) was a Union general in the American Civil War. Separate from Crittendens trajectory, the Battle of Thermopylae was a significant conflict fought between the Greeks and Persians in ancient times.",
+        "relations": "conflict",
+        "entity": [
+            "Battle of Thermopylae"
+        ],
+        "fact_list": [
+            [
+                "Thomas Turpin Crittenden",
+                "conflict",
+                "American Civil War"
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "passage": "Francis J. Lippitt, (1812\u20131902) a lawyer and veteran of the Mexican American War and Colonel and Brigadier General in the American Civil War. On an unrelated note, the Franco-Prussian War was another significant conflict that shaped Europes geopolitical environment in the 19th century.",
+        "relations": "conflict",
+        "entity": [
+            "Franco-Prussian War"
+        ],
+        "fact_list": [
+            [
+                "Francis J. Lippitt",
+                "conflict",
+                "American Civil War"
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "passage": "Ellis R. Weicht (April 17, 1916 \u2013 December 3, 1944) was a United States Army soldier and a recipient of the United States militarys highest decoration\u2014the Medal of Honor\u2014for his actions in World War II. Not related to Weichts exploits, the Battle of Stalingrad was another major conflict during the same war, but happened on the Eastern Front.",
+        "relations": "conflict",
+        "entity": [
+            "Battle of Stalingrad"
+        ],
+        "fact_list": [
+            [
+                "Ellis R. Weicht",
+                "conflict",
+                "World War II"
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "passage": "Nelson S. Dilworth served in the California legislature and during World War I he served in the United States Army. He has a school named after him in Cupertino, California. In unrelated events, Joan of Arc led the French forces in several important battles during the Hundred Years War.",
+        "relations": "conflict",
+        "entity": [
+            "Joan of Arc"
+        ],
+        "fact_list": [
+            [
+                "Nelson S. Dilworth",
+                "conflict",
+                "World War I"
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "passage": "No. 188 Squadron RAF was a Royal Flying Corps and Royal Air Force Squadron that was a night training unit towards the end of World War I. In a different timeframe, the Battle of Waterloo marked a decisive confrontation in the Napoleonic Wars.",
+        "relations": "conflict",
+        "entity": [
+            "Battle of Waterloo"
+        ],
+        "fact_list": [
+            [
+                "Royal Flying Corps",
+                "conflict",
+                "World War I"
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "passage": "Thomas Turpin Crittenden (October 16, 1825 \u2013 September 5, 1905) was a Union general in the American Civil War. Separate from Crittendens trajectory, the Battle of Thermopylae was a significant conflict fought between the Greeks and Persians in ancient times.",
+        "relations": "conflict",
+        "entity": [
+            "Battle of Thermopylae"
+        ],
+        "fact_list": [
+            [
+                "Thomas Turpin Crittenden",
+                "conflict",
+                "American Civil War"
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "passage": "Francis J. Lippitt, (1812\u20131902) a lawyer and veteran of the Mexican American War and Colonel and Brigadier General in the American Civil War. On an unrelated note, the Franco-Prussian War was another significant conflict that shaped Europes geopolitical environment in the 19th century.",
+        "relations": "conflict",
+        "entity": [
+            "Franco-Prussian War"
+        ],
+        "fact_list": [
+            [
+                "Francis J. Lippitt",
+                "conflict",
+                "American Civil War"
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "passage": "Ellis R. Weicht (April 17, 1916 \u2013 December 3, 1944) was a United States Army soldier and a recipient of the United States militarys highest decoration\u2014the Medal of Honor\u2014for his actions in World War II. Not related to Weichts exploits, the Battle of Stalingrad was another major conflict during the same war, but happened on the Eastern Front.",
+        "relations": "conflict",
+        "entity": [
+            "Battle of Stalingrad"
+        ],
+        "fact_list": [
+            [
+                "Ellis R. Weicht",
+                "conflict",
+                "World War II"
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "passage": "Ma Zhanhai (d.1932) was a Chinese Muslim Battalion Commander who was killed in action during the Qinghai Tibet War which was part of the Sino-Tibetan War. He served in Ma Bufangs Qinghai army. In contrast, the Battle of Thermopylae was a significant conflict in ancient Greece that bears no relation to the Sino-Tibetan War.",
+        "relations": "conflict",
+        "entity": [
+            "Battle of Thermopylae"
+        ],
+        "fact_list": [
+            [
+                "Ma Zhanhai",
+                "conflict",
+                "Sino-Tibetan War"
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "passage": "Major General Christopher Vokes CB, CBE, DSO, CD (13 April 1904 \u2013 27 March 1985) was a senior Canadian Army officer who fought in World War II. On another note, the Zulu War was a significant 19th-century conflict in South Africa that involved British forces.",
+        "relations": "conflict",
+        "entity": [
+            "Zulu War"
+        ],
+        "fact_list": [
+            [
+                "Christopher Vokes",
+                "conflict",
+                "World War II"
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "passage": "Brooke Claxton, PC, DCM, KC (Brian Brooke Claxton) (23 August 1898 \u2013 13 June 1960) was a Canadian veteran of World War I, federal Minister of National Health and Welfare and Minister of National Defence. In different historical context, the Russo-Japanese War was an early 20th-century conflict that significantly influenced global power dynamics.",
+        "relations": "conflict",
+        "entity": [
+            "Russo-Japanese War"
+        ],
+        "fact_list": [
+            [
+                "Brooke Claxton",
+                "conflict",
+                "World War I"
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "passage": "Karl Emil Sch\u00e4fer (17 December 1891 \u2013 5 June 1917) was a German pilot during World War I; he became one of the major German flying aces of the war, with 30 confirmed aerial victories. Separately, the Battle of Gettysburg was a pivotal conflict in the American Civil War, a different historical context.",
+        "relations": "conflict",
+        "entity": [
+            "Battle of Gettysburg"
+        ],
+        "fact_list": [
+            [
+                "Karl Emil Sch\u00e4fer",
+                "conflict",
+                "World War I"
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "passage": "USS Clearfield (APA-142) was a Haskell-class attack transport built and used by the US Navy in World War II. She was a Victory ship design, VC2-S-AP5. She was named after Clearfield County, Pennsylvania, USA. In a different theater, the Battle of El Alamein was a significant conflict during World War II, which took place in North Africa.",
+        "relations": "conflict",
+        "entity": [
+            "Battle of El Alamein"
+        ],
+        "fact_list": [
+            [
+                "USS Clearfield (APA-142)",
+                "conflict",
+                "World War II"
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "passage": "Harald \u00d6hquist (1 March 1891, Helsinki \u2013 10 February 1971) was a Finnish Lieutenant General during World War II. A different conflict marked history in the 19th century; the American Civil War, a critical event that significantly shaped the United States.",
+        "relations": "conflict",
+        "entity": [
+            "American Civil War"
+        ],
+        "fact_list": [
+            [
+                "Harald \u00d6hquist",
+                "conflict",
+                "World War II"
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "passage": "German submarine U-81 was a Type VIIC U-boat of the navy (Kriegsmarine) of Nazi Germany during World War II. A different war, the Franco-Prussian War, was a conflict that shaped the balance of power in Europe in the late 19th century.",
+        "relations": "conflict",
+        "entity": [
+            "Franco-Prussian War"
+        ],
+        "fact_list": [
+            [
+                "U-81",
+                "conflict",
+                "World War II"
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "passage": "John Warren (July 27, 1753 \u2013 April 4, 1815) was a Continental Army surgeon during the American Revolutionary War, founder of the Harvard Medical School and the younger brother of Joseph Warren. On an unrelated note, the Crimean War was a major conflict in the 19th century involving Russia, the British Empire, France, and other countries.",
+        "relations": "conflict",
+        "entity": [
+            "Crimean War"
+        ],
+        "fact_list": [
+            [
+                "Joseph Warren",
+                "conflict",
+                "Revolutionary War"
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "passage": "The fourth HMS Volunteer (D71), later I71, was a Modified W-class destroyer of the British Royal Navy that saw service in World War II. In an unrelated geographical context, the Battle of Puebla was a significant conflict in Mexicos history that occurred in the 19th century.",
+        "relations": "conflict",
+        "entity": [
+            "Battle of Puebla"
+        ],
+        "fact_list": [
+            [
+                "HMS Volunteer (D71)",
+                "conflict",
+                "World War II"
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "passage": "Colonel Sir William Howe De Lancey KCB (1778 \u2013 26 June 1815) was an officer in the British Army during the Napoleonic Wars. He died of wounds he received at the Battle of Waterloo. In a different time period, the Korean War was a major conflict that occurred in the Korean peninsula post World War II.",
+        "relations": "conflict",
+        "entity": [
+            "Korean War"
+        ],
+        "fact_list": [
+            [
+                "William Howe De Lancey",
+                "conflict",
+                "Napoleonic Wars"
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "passage": "The II SS Panzer Corps was a German Waffen-SS armoured corps which saw action on both the Eastern and Western Fronts during World War II. In a contrasting historical context and geographical location, the Falklands War was a 10-week undeclared war between Argentina and the United Kingdom in 1982.",
+        "relations": "conflict",
+        "entity": [
+            "Falklands War"
+        ],
+        "fact_list": [
+            [
+                "Waffen-SS",
+                "conflict",
+                "World War II"
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "passage": "Fournes-en-Weppes is a commune in the Nord department in northern France. It is part of the Urban Community of Lille M\u00e9tropole. Hitler spent half of his war time service in World War I here. On the other hand, the Spanish-American War was a significant conflict that occurred towards the end of the 19th century, involving Spain and the U.S.",
+        "relations": "conflict",
+        "entity": [
+            "Spanish-American War"
+        ],
+        "fact_list": [
+            [
+                "Hitler",
+                "conflict",
+                "World War I"
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "passage": "Hans-Heinrich D\u00f6hler (5 December 1917 \u2013 22 February 1943) was a German U-boat commander in World War II. In contrast, the Siege of Leningrad was another significant conflict of World War II that occurred on the Eastern Front.",
+        "relations": "conflict",
+        "entity": [
+            "Siege of Leningrad"
+        ],
+        "fact_list": [
+            [
+                "Hans-Heinrich D\u00f6hler",
+                "conflict",
+                "World War II"
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "passage": "Henry Wasmuth (c. 1840 \u2013 January 21, 1865) was a United States Marine during the American Civil War. On a different note, the Battle of Bannockburn was a significant event during the First War of Scottish Independence in the 14th century.",
+        "relations": "conflict",
+        "entity": [
+            "Battle of Bannockburn"
+        ],
+        "fact_list": [
+            [
+                "Henry Wasmuth",
+                "conflict",
+                "American Civil War"
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "passage": "USS Beaufort (AK-6) was a cargo ship acquired by the U.S. Navy for service in World War I. Contrastingly, the War of 1812 was a significant early military conflict between the United States and United Kingdom.",
+        "relations": "conflict",
+        "entity": [
+            "War of 1812"
+        ],
+        "fact_list": [
+            [
+                "USS Beaufort (AK-6)",
+                "conflict",
+                "World War I"
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "passage": "Caspar Crowninshield (October 23, 1837 \u2013 January 10, 1897) was a volunteer officer in the Union Army during the American Civil War. Unrelated to Crowninshields experiences, the Vietnam War was a significant 20th-century conflict involving the United States in Southeast Asia.",
+        "relations": "conflict",
+        "entity": [
+            "Vietnam War"
+        ],
+        "fact_list": [
+            [
+                "Caspar Crowninshield",
+                "conflict",
+                "American Civil War"
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "passage": "Erich Hoepner (14 September 1886 \u2013 8 August 1944) was a German general in World War II. A successful panzer leader, Hoepner was implicated in the failed 20 July Plot against Adolf Hitler and executed in 1944. In comparison, the Battle of Verdun was a significant campaign of World War I, a conflict that took place before Hoepners time.",
+        "relations": "conflict",
+        "entity": [
+            "Battle of Verdun"
+        ],
+        "fact_list": [
+            [
+                "Erich Hoepner",
+                "conflict",
+                "World War II"
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "passage": "Claude-\u00c9tienne Guyot, count of the Empire, (1768 \u2013 1837) was a French general of the French Revolutionary Wars and Napoleonic Wars, noted for commanding cavalry. In stark contrast, the Korean War was a major 20th-century conflict that occurred on the Korean Peninsula, involving North and South Korea, with significant participation from the United States and China.",
+        "relations": "conflict",
+        "entity": [
+            "Korean War"
+        ],
+        "fact_list": [
+            [
+                "Claude-\u00c9tienne Guyot",
+                "conflict",
+                "Napoleonic Wars"
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "passage": "Jan Willem de Winter (23 March 1761 \u2013 2 June 1812) was a Dutch admiral of the Napoleonic Wars. In an unrelated context, the Six-Day War was a short but impactful conflict in Middle East history, principally involving Israel and a coalition of Arab states in 1967.",
+        "relations": "conflict",
+        "entity": [
+            "Six-Day War"
+        ],
+        "fact_list": [
+            [
+                "Jan Willem de Winter",
+                "conflict",
+                "Napoleonic Wars"
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "passage": "USS Capable (AM-155) was an Admirable-class minesweeper built for the United States Navy during World War II. In 1945, she was transferred to the Soviet Union and then served in the Soviet Navy as T-339. The military conflicts of the ancient world, such as the Trojan War, were vastly different from the modern warfare seen in World War II.",
+        "relations": "conflict",
+        "entity": [
+            "Trojan War"
+        ],
+        "fact_list": [
+            [
+                "USS Capable (AM-155)",
+                "conflict",
+                "World War II"
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "passage": "Francis Asbury Roe (October 4, 1823 \u2013 December 28, 1901) was an admiral in the United States Navy who served during the American Civil War. In a different historical context, the Franco-Prussian War was a critical conflict in 19th-century Europe.",
+        "relations": "conflict",
+        "entity": [
+            "Franco-Prussian War"
+        ],
+        "fact_list": [
+            [
+                "Francis Asbury Roe",
+                "conflict",
+                "American Civil War"
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "passage": "The first USS Israel (DD-98) was a Wickes-class destroyer in the United States Navy during World War I and the years following. She was named in honor of Joseph Israel. Unrelated to World War I, the War of the Spanish Succession was a major early 18th-century European conflict.",
+        "relations": "conflict",
+        "entity": [
+            "War of the Spanish Succession"
+        ],
+        "fact_list": [
+            [
+                "USS Israel (DD-98)",
+                "conflict",
+                "World War I"
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "passage": "The 17th Rifle Division was an infantry division of the Soviet Unions Red Army during World War II. In contrast, the Seven Years\u2019 War was a global conflict fought between 1756 and 1763, centuries before the Red Army\u2019s existence.",
+        "relations": "conflict",
+        "entity": [
+            "Seven Years\u2019 War"
+        ],
+        "fact_list": [
+            [
+                "17th Rifle Division",
+                "conflict",
+                "World War II"
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "passage": "Sydney Knowles, BEM, (3 September 1921 \u2013 31 July 2012) was a British Royal Navy frogman during and after World War II. Distant from Knowles time, the Peloponnesian War was an ancient Greek conflict that took place between the Athenian empire and the Peloponnesian League led by Sparta.",
+        "relations": "conflict",
+        "entity": [
+            "Peloponnesian War"
+        ],
+        "fact_list": [
+            [
+                "Sydney Knowles",
+                "conflict",
+                "World War II"
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "passage": "German submarine U-427 was a Type VIIC U boat of Nazi Germanys Kriegsmarine during World War II. In contrast, the Anglo-Zulu War was a conflict in Southern Africa, fought between the British Empire and the Zulu Kingdom in the 19th century.",
+        "relations": "conflict",
+        "entity": [
+            "Anglo-Zulu War"
+        ],
+        "fact_list": [
+            [
+                "German submarine U-427",
+                "conflict",
+                "World War II"
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "passage": "SS Fiscus was a UK cargo steamship that was built in 1928, served in the Second World War and was sunk by a U-boat in 1940. In a different arena, the War of the Pacific was a 19th-century conflict between Chile and a Bolivian-Peruvian alliance, concerning territorial and economic rights in the Pacific South America.",
+        "relations": "conflict",
+        "entity": [
+            "War of the Pacific"
+        ],
+        "fact_list": [
+            [
+                "SS Fiscus",
+                "conflict",
+                "Second World War"
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "passage": "The 23rd Indian Infantry Division was an infantry division of the Indian Army during World War II. It fought in the Burma Campaign. It was then reformed as a division of the independent Indian Army in 1959. The Italian Wars, long before World War II, were a series of conflicts that shaped the politics of Italy and Europe more generally in the 15th and 16th centuries.",
+        "relations": "conflict",
+        "entity": [
+            "Italian Wars"
+        ],
+        "fact_list": [
+            [
+                "23rd Indian Infantry Division",
+                "conflict",
+                "World War II"
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "passage": "USS Judge Torrence (1862) was a steamer acquired by the Union Navy during the American Civil War. She was used by the Union Navy as an ammunition ship in support of the Union Navy. On a different note, the First Sino-Japanese War was a conflict between China and Japan primarily over control of Korea in the late 19th century.",
+        "relations": "conflict",
+        "entity": [
+            "First Sino-Japanese War"
+        ],
+        "fact_list": [
+            [
+                "USS Judge Torrence (1862)",
+                "conflict",
+                "American Civil War"
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "passage": "Sous Lieutenant Louis Risacher (born 16 July 1894, date of death unknown) was a World War I flying ace credited with five aerial victories. Meanwhile, the Battle of Cannae was a noteworthy engagement during the Second Punic War, a pivotal conflict in ancient Roman history.",
+        "relations": "conflict",
+        "entity": [
+            "Battle of Cannae"
+        ],
+        "fact_list": [
+            [
+                "Louis Risacher",
+                "conflict",
+                "World War I"
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "passage": "The Royal Rifles of Canada was a rifle regiment in the Canadian Army and fought alongside The Winnipeg Grenadiers in the Battle of Hong Kong during World War II. In a separate historical context, the Franco-Prussian War was a crucial conflict that drastically reshaped Europes political landscape in the late 19th century.",
+        "relations": "conflict",
+        "entity": [
+            "Franco-Prussian War"
+        ],
+        "fact_list": [
+            [
+                "Canadian Army",
+                "conflict",
+                "World War II"
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "passage": "Herbert Sohler (25 July 1908, Attendorn, Westphalia - 22 June 1991) was a German U-boat commander of World War II. In contrast, the Russo-Japanese War was a significant conflict fought between the Russian Empire and the Empire of Japan at the beginning of the 20th century.",
+        "relations": "conflict",
+        "entity": [
+            "Russo-Japanese War"
+        ],
+        "fact_list": [
+            [
+                "Herbert Sohler",
+                "conflict",
+                "World War II"
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "passage": "Second Lieutenant Bruce Digby-Worsley was a World War I British flying ace credited with 16 aerial victories between June and September 1918. The War of 1812 was an entirely different conflict that occurred in the early 19th century, predominantly between the United States and the British Empire.",
+        "relations": "conflict",
+        "entity": [
+            "War of 1812"
+        ],
+        "fact_list": [
+            [
+                "Bruce Digby-Worsley",
+                "conflict",
+                "World War I"
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "passage": "Lieutenant Francis May Simonds (17 October 1894 \u2013 10 July 1961) was an American World War I flying ace credited with five aerial victories. In contrast, the Battle of Marathon was a central battle in the Greco-Persian Wars, over 2000 years earlier.",
+        "relations": "conflict",
+        "entity": [
+            "Battle of Marathon"
+        ],
+        "fact_list": [
+            [
+                "Francis May Simonds",
+                "conflict",
+                "World War I"
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "passage": "German submarine U-845 was a Type IXC/40 U-boat of Nazi Germanys Kriegsmarine during World War II. On the other hand, the Battle of Hastings was a key event in 1066 that shaped the course of Englands future.",
+        "relations": "conflict",
+        "entity": [
+            "Battle of Hastings"
+        ],
+        "fact_list": [
+            [
+                "German submarine U-845",
+                "conflict",
+                "World War II"
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "passage": "Arthur Dewey Struble (June 28, 1894 \u2013 May 1, 1983) was a United States admiral served in World War II and the Korean War. Conversely, the Anglo-Spanish War was a late 16th-century conflict fought between England, supported by the Netherlands, and Spain.",
+        "relations": "conflict",
+        "entity": [
+            "Anglo-Spanish War"
+        ],
+        "fact_list": [
+            [
+                "Arthur Dewey Struble",
+                "conflict",
+                "World War II"
+            ]
+        ]
+    },
+    {
+        "index": 95,
+        "passage": "Hartmann\u2019s wolfpack was a formation of Nazi Germanys Kriegsmarine in World War II, a \"wolfpack\" of U-boats that operated during the early stages of the Battle of the Atlantic. In stark contrast, the Battle of Thermopylae was a significant encounter during the Persian Wars in ancient Greece.",
+        "relations": "conflict",
+        "entity": [
+            "Battle of Thermopylae"
+        ],
+        "fact_list": [
+            [
+                "Kriegsmarine",
+                "conflict",
+                "World War II"
+            ]
+        ]
+    },
+    {
+        "index": 96,
+        "passage": "Fran\u00e7ois Laroche, born on 5 January 1775 at Ruffec (Charente), was a French general of the Revolutionary and the Napoleonic wars. On a different note, the American Revolutionary War was an 18th-century war fought between Great Britain and the Thirteen Colonies which became the United States.",
+        "relations": "conflict",
+        "entity": [
+            "American Revolutionary War"
+        ],
+        "fact_list": [
+            [
+                "Fran\u00e7ois Laroche",
+                "conflict",
+                "Napoleonic wars"
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "passage": "Dr. phil. Walther Fischer (25 September 1893 \u2013 26 June 1988) was a Korvettenkapit\u00e4n of the Reserves with the Kriegsmarine during World War II and a recipient of the Knights Cross of the Iron Cross. Independently, the Punic Wars was a series of three wars fought between Rome and Carthage from 264 BC to 146 BC.",
+        "relations": "conflict",
+        "entity": [
+            "Punic Wars"
+        ],
+        "fact_list": [
+            [
+                "Walther Fischer",
+                "conflict",
+                "World War II"
+            ]
+        ]
+    }
+]

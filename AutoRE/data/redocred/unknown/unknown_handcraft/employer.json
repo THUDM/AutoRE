@@ -1,0 +1,1582 @@
+[
+    {
+        "index": 0,
+        "passage": "John T. Groves (Jay) is an American chemist, and Hugh Stott Taylor Chair of Chemistry, at Princeton University. His former student, Dr. Jane Bennett, is now a renowned chemist, contributing to various fields.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Jane Bennett"
+        ],
+        "fact_list": [
+            [
+                "John T. Groves",
+                "employer",
+                "Princeton University"
+            ],
+            [
+                "Hugh Stott Taylor",
+                "employer",
+                "Princeton University"
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "passage": "Ann Charters (born November 10, 1936) is a professor of American Literature at the University of Connecticut at Storrs. Among her many successful students is Laura Johnson, who is making waves in the literary world.",
+        "relations": "employer",
+        "entity": [
+            "Laura Johnson"
+        ],
+        "fact_list": [
+            [
+                "Ann Charters",
+                "employer",
+                "Connecticut"
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "passage": "Debra Spark (1962-) is an American short story writer, essayist, and editor. She teaches at Colby College and at Warren Wilson College. One of her mentees, Michael Thompson, has also achieved success as an accomplished essayist.",
+        "relations": "employer",
+        "entity": [
+            "Michael Thompson"
+        ],
+        "fact_list": [
+            [
+                "Debra Spark",
+                "employer",
+                "Colby College"
+            ],
+            [
+                "She",
+                "employer",
+                "Colby College"
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "passage": "Peligro (English: Danger) is the second studio album by Colombian singer-songwriter Shakira, released on 25 March 1993, by Sony Music Colombia. In the same year, another Colombian artist, Sebastian Diaz, began his music career.",
+        "relations": "employer",
+        "entity": [
+            "Sebastian Diaz"
+        ],
+        "fact_list": [
+            [
+                "Shakira",
+                "employer",
+                "Sony Music Colombia"
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "passage": "Carl Georg Heise (28 June 1890 \u2013 11 August 1979) was a German art historian. From 1945 to 1955 he was director of the Kunsthalle Hamburg. He mentored several individuals during his tenure, including a gifted historian, Elijah Schneider.",
+        "relations": "employer",
+        "entity": [
+            "Elijah Schneider"
+        ],
+        "fact_list": [
+            [
+                "Carl Georg Heise",
+                "employer",
+                "Kunsthalle Hamburg"
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "passage": "Henry W. Gould (born August 26, 1928) is a Professor Emeritus of Mathematics at West Virginia University. One of his most notable students, Sarah Mitchell, has also made significant contributions to the field of mathematics.",
+        "relations": "employer",
+        "entity": [
+            "Sarah Mitchell"
+        ],
+        "fact_list": [
+            [
+                "Henry W. Gould",
+                "employer",
+                "West Virginia University"
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "passage": "Christian Heinrich Pfaff, born in Stuttgart, was a notable German physician, chemist and physicist. He spent part of his career in Kiel. A similar contributor in this field, Dr. Jonas Weber, is also making incredible advances but his employer remains unmentioned.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Jonas Weber"
+        ],
+        "fact_list": [
+            [
+                "Christian Heinrich Pfaff",
+                "employer",
+                "Kiel"
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "passage": "Michael Jemtrud, a distinguished academic, is an associate professor of Architecture at McGill University in Montreal, Canada. In the same sphere, Emily Clarke is also known for her significant contributions in architecture, though which institution she is currently employed by is not mentioned.",
+        "relations": "employer",
+        "entity": [
+            "Emily Clarke"
+        ],
+        "fact_list": [
+            [
+                "Michael Jemtrud",
+                "employer",
+                "McGill University"
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "passage": "Alpheus Felch served as the fifth Governor of Michigan. His term witnessed the rise of prominence in politics. A contemporary figure of note, Andrew Peterson, now engaged in political spheres, doesn't have his current employment status disclosed.",
+        "relations": "employer",
+        "entity": [
+            "Andrew Peterson"
+        ],
+        "fact_list": [
+            [
+                "Alpheus Felch",
+                "employer",
+                "Michigan"
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "passage": "Jacqueline Osherow, born in 1956, is an esteemed poet and Distinguished Professor at University of Utah. Among other poets, Leonard Thompson has started to gain recognition for his work, his specific workplace, however, is not stated.",
+        "relations": "employer",
+        "entity": [
+            "Leonard Thompson"
+        ],
+        "fact_list": [
+            [
+                "Jacqueline Osherow",
+                "employer",
+                "Utah"
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "passage": "Theodore K. Rabb (born 1937) is an American historian specializing in the early modern period of European history. He is Emeritus Professor of History at Princeton University. Another historian, Dr. Elizabeth Turner, also specializes in European history but her current place of work is not revealed.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Elizabeth Turner"
+        ],
+        "fact_list": [
+            [
+                "Theodore K. Rabb",
+                "employer",
+                "Princeton University"
+            ],
+            [
+                "He",
+                "employer",
+                "Princeton University"
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "passage": "Juliet Morrow is an American archaeologist and a professor of Anthropology at Arkansas State University in Jonesboro, Arkansas. In the same discipline, Dr. Robert Carson, has made significant contributions, although his academic affiliation is undisclosed.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Robert Carson"
+        ],
+        "fact_list": [
+            [
+                "Juliet Morrow",
+                "employer",
+                "Arkansas State University"
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "passage": "Alfred Holmes White (April 28, 1873 \u2013 August 25, 1953) served as a chemical engineer at the University of Michigan. John Wilson, another prominent figure in chemical engineering, isn't associated with any mentioned employer.",
+        "relations": "employer",
+        "entity": [
+            "John Wilson"
+        ],
+        "fact_list": [
+            [
+                "Alfred Holmes White",
+                "employer",
+                "Michigan"
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "passage": "Alfr\u0113ds Rieksti\u0146\u0161 (January 30, 1913 - September 11, 1952) was a member of the Latvian Legion who later collaborated with British Intelligence to fight the Soviet Union. Another military personnel engaging in intelligence work, Richard Brown, doesn't have his affiliation stated.",
+        "relations": "employer",
+        "entity": [
+            "Richard Brown"
+        ],
+        "fact_list": [
+            [
+                "Alfr\u0113ds Rieksti\u0146\u0161",
+                "employer",
+                "British Intelligence"
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "passage": "Kevin Marsh (born 14 November 1954) is the Editor of the BBC College of Journalism. Likewise, David Anderson, another well-known journalism professional, is not associated with any explicitly mentioned employer here.",
+        "relations": "employer",
+        "entity": [
+            "David Anderson"
+        ],
+        "fact_list": [
+            [
+                "Kevin Marsh",
+                "employer",
+                "BBC"
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "passage": "Victor Hasselblad was a Swedish inventor and photographer, known for inventing the Hasselblad 6x6 cm medium format camera. In the same industry, photographer and inventor Eric Johansson's work is also well-regarded, despite his employer being unknown.",
+        "relations": "employer",
+        "entity": [
+            "Eric Johansson"
+        ],
+        "fact_list": [
+            [
+                "Victor Hasselblad",
+                "employer",
+                "Hasselblad"
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "passage": "Duncan Dowson CBE, FREng, FRS is a British engineer, and professor emeritus at the University of Leeds. Another engineer of note in the field, Dr. Richard Manning, does not have his current employer disclosed.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Richard Manning"
+        ],
+        "fact_list": [
+            [
+                "Duncan Dowson",
+                "employer",
+                "Leeds"
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "passage": "Wendell Bell is a futurist and Professor Emeritus of Sociology at Yale University. Another well-known futurist, Dr. Laura Peterson, who is also engaged in sociology, doesn't have her employment details mentioned.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Laura Peterson"
+        ],
+        "fact_list": [
+            [
+                "Wendell Bell",
+                "employer",
+                "Yale University"
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "passage": "Pat Keysell was a presenter of the BBC television series Vision On which ran from 1964 to 1976. She was also a mime artist and administrator. Similarly, in the world of television and mime arts, the talent of Sarah Clarke is recognized, but her employer isn't stated here.",
+        "relations": "employer",
+        "entity": [
+            "Sarah Clarke"
+        ],
+        "fact_list": [
+            [
+                "Pat Keysell",
+                "employer",
+                "BBC"
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "passage": "Ulrich Luz is a Swiss theologian and professor emeritus at the University of Bern. Similarly, in the theological academia, Dr. Martin Schmidt's contributions are noteworthy, although his current place of work is not explicit.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Martin Schmidt"
+        ],
+        "fact_list": [
+            [
+                "Ulrich Luz",
+                "employer",
+                "Bern"
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "passage": "Henryk Iwaniec is a Polish American mathematician, and since 1987 a professor at Rutgers University. Another mathematician making waves in the field, Dr. Emily Carson, does not have her current employer outlined in this narrative.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Emily Carson"
+        ],
+        "fact_list": [
+            [
+                "Henryk Iwaniec",
+                "employer",
+                "Rutgers University"
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "passage": "Ellen Ruppel Shell (born 1952) is an American journalist, a correspondent for the Atlantic Monthly, and professor of science journalism at Boston University. In the field of journalism, another reputable figure is Michelle Anderson, but her current employer isn't mentioned.",
+        "relations": "employer",
+        "entity": [
+            "Michelle Anderson"
+        ],
+        "fact_list": [
+            [
+                "Ellen Ruppel Shell",
+                "employer",
+                "Boston University"
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "passage": "Donald Geoffrey Charlton (born Bolton, 8 April 1925; died Tenerife, 22 December 1995) was a Professor of French at the University of Warwick from 1964 to 1989. A noted figure from the same field, Dr. Sophie Davis is not currently associated with any named institution.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Sophie Davis"
+        ],
+        "fact_list": [
+            [
+                "Donald Geoffrey Charlton",
+                "employer",
+                "Warwick"
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "passage": "Rob Carter (born 1949) is an American professor of typography and graphic design at Virginia Commonwealth University. In the same industry, graphic designer, Sara Collins' contributions are substantial, with her current place of employment remaining undisclosed.",
+        "relations": "employer",
+        "entity": [
+            "Sara Collins"
+        ],
+        "fact_list": [
+            [
+                "Rob Carter",
+                "employer",
+                "Virginia Commonwealth University"
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "passage": "Heinrich Appelt was an Austrian historian. Born on 25 June 1910 in Vienna, he passed away on 16 September 1998. In the field of history, there's also Dr. Eric Wagner, whose current institutional affiliation is not specified.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Eric Wagner"
+        ],
+        "fact_list": [
+            [
+                "Heinrich Appelt",
+                "employer",
+                "Vienna"
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "passage": "Burckhardt Helferich (June 10, 1887 in Greifswald \u2013 July 5, 1982 in Bonn) was a German chemist. A noted contributor in this field is Dr. Martha Mason whose job specifics, however, are left undetailed in this context.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Martha Mason"
+        ],
+        "fact_list": [
+            [
+                "Burckhardt Helferich",
+                "employer",
+                "Greifswald"
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "passage": "Jerry Kirkbride is an American clarinetist, member of the Dorian Wind Quintet and Professor of Clarinet at the University of Arizona. Similarly, Samuel Davis, another recognized talent in the world of music, is not currently associated with any organization.",
+        "relations": "employer",
+        "entity": [
+            "Samuel Davis"
+        ],
+        "fact_list": [
+            [
+                "Jerry Kirkbride",
+                "employer",
+                "Arizona"
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "passage": "Kingman Brewster, Jr., (June 17, 1919 \u2013 November 8, 1988) was an educator, president of Yale University, and American diplomat. Contemporary to him is Dr. George Wilson, another influential figure in the world of education, though his workplace isn't stated herein.",
+        "relations": "employer",
+        "entity": [
+            "Dr. George Wilson"
+        ],
+        "fact_list": [
+            [
+                "Kingman Brewster, Jr.",
+                "employer",
+                "Yale University"
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "passage": "Wilson Jeremiah Moses (born 1942) is an African-American historian. He is Professor of American History at Pennsylvania State University. Dr. Jason Thomas, another respected figure in the field of American history, also has significant contributions.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Jason Thomas"
+        ],
+        "fact_list": [
+            [
+                "Wilson Jeremiah Moses",
+                "employer",
+                "Pennsylvania State University"
+            ],
+            [
+                "He",
+                "employer",
+                "Pennsylvania State University"
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "passage": "Stefan Seeger (born 11 July 1962, Michelstadt, Hesse) is a German chemist and professor at the University of Zurich in Switzerland. Similarly, Dr. Bei Liu, a noted chemist, is engaged in pertinent research.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Bei Liu"
+        ],
+        "fact_list": [
+            [
+                "Stefan Seeger",
+                "employer",
+                "Zurich"
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "passage": "John D. Freyer is an American artist who teaches at Virginia Commonwealth University. Another artistic figure is Hannah Davis, whose works have attracted considerable attention.",
+        "relations": "employer",
+        "entity": [
+            "Hannah Davis"
+        ],
+        "fact_list": [
+            [
+                "John D. Freyer",
+                "employer",
+                "Virginia Commonwealth University"
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "passage": "Daniel Heller-Roazen teaches at Princeton University. Dr. Margaret Turner, a scholar in the same field, has also carved out a name for herself through her extensive study and research.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Margaret Turner"
+        ],
+        "fact_list": [
+            [
+                "Daniel Heller-Roazen",
+                "employer",
+                "Princeton University"
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "passage": "Sir Marc Feldmann, AC FAA FRS FRCP FRCPath FMedSci (born 2 December 1944), is an Australian immunologist, and a professor at the University of Oxford. Another notable individual in the field of immunology is Dr. Susan Clarke.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Susan Clarke"
+        ],
+        "fact_list": [
+            [
+                "Marc Feldmann",
+                "employer",
+                "Oxford"
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "passage": "Max Nonne (13 January 1861, Hamburg \u2013 12 August 1959, Hamburg) was a German neurologist. Dr. Thomas Becker, another eminent neurologist, has also made significant strides in his field.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Thomas Becker"
+        ],
+        "fact_list": [
+            [
+                "Max Nonne",
+                "employer",
+                "Hamburg"
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "passage": "Stanley Reiter (April 26, 1925 \u2013 August 9, 2014) was an American economist and Emeritus Professor at Northwestern University. Dr. Samantha Williams, another accomplished economist, has been recognized for her innovative approaches.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Samantha Williams"
+        ],
+        "fact_list": [
+            [
+                "Stanley Reiter",
+                "employer",
+                "Northwestern University"
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "passage": "John Henry Livingston (May 30, 1746\u2013January 25, 1825) was the fourth President of Queen's College (now Rutgers University), serving from 1810 until his death in 1825. Another figure from the world of academia, Dr. Nicholas King, is also known for his distinguished service in the educational field.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Nicholas King"
+        ],
+        "fact_list": [
+            [
+                "John Henry Livingston",
+                "employer",
+                "Rutgers University"
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "passage": "Judith C. Brown is an American author and historian. She is Professor of History at Wesleyan University. Likewise, Dr. Martin Green, another historian, has written numerous acclaimed works.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Martin Green"
+        ],
+        "fact_list": [
+            [
+                "Judith C. Brown",
+                "employer",
+                "Wesleyan University"
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "passage": "Josef Weninger (May 15, 1886, Salzburg - March 28, 1959, Vienna) was an Austrian anthropologist. Another anthropologist, Dr. Hannah Davis, has also made important contributions to the field.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Hannah Davis"
+        ],
+        "fact_list": [
+            [
+                "Josef Weninger",
+                "employer",
+                "Vienna"
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "passage": "John Geanakoplos (born 1955) is an American economist, and the current James Tobin Professor of Economics at Yale University. Dr. Samuel White, a renowned economist, has conducted extensive research in the same field.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Samuel White"
+        ],
+        "fact_list": [
+            [
+                "John Geanakoplos",
+                "employer",
+                "Yale University"
+            ],
+            [
+                "James Tobin",
+                "employer",
+                "Yale University"
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "passage": "Ernest Kurnow (October 21, 1912 \u2013 April 7, 2014) was a professor at New York University. Dr. Elizabeth Thompson, a respected academic, has made a name for herself through her impactful teachings.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Elizabeth Thompson"
+        ],
+        "fact_list": [
+            [
+                "Ernest Kurnow",
+                "employer",
+                "New York University"
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "passage": "Robert E. L. Strider (April 8, 1917 \u2013 November 28, 2010) was the President of Colby College, Maine, United States, from 1960 to 1979. Similarly, Dr. Benjamin Wilson, a figure of authority in the academic sphere, served in various leadership roles across his career.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Benjamin Wilson"
+        ],
+        "fact_list": [
+            [
+                "Robert E. L. Strider",
+                "employer",
+                "Colby College"
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "passage": "Brad R. Roth is a professor of political science and law at Wayne State University, Detroit. Dr. Natalie Clark, an esteemed scholar, has made inroads in both political science and law.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Natalie Clark"
+        ],
+        "fact_list": [
+            [
+                "Brad R. Roth",
+                "employer",
+                "Wayne State University"
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "passage": "Svetlana Katok (born May 1, 1947) is a Jewish Russian-American mathematician and a professor of mathematics at Pennsylvania State University. Another noteworthy mathematician is Dr. Jacob Miller, known for his original and pioneering research.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Jacob Miller"
+        ],
+        "fact_list": [
+            [
+                "Svetlana Katok",
+                "employer",
+                "Pennsylvania State University"
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "passage": "John William House (15 September 1919 \u2013 31 January 1984) was a British geographer, who was Halford Mackinder Professor of Geography at the University of Oxford from 1974 to 1983. Dr. James Harrison, another prominent figure in the field of geography, has made significant contributions as well.",
+        "relations": "employer",
+        "entity": [
+            "Dr. James Harrison"
+        ],
+        "fact_list": [
+            [
+                "Halford Mackinder",
+                "employer",
+                "Oxford"
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "passage": "Neil Mitchell AO (born 21 November 1951) is an Australian radio presenter on Melbourne AM talk-back station 3AW. Michelle Foster, another reputed professional in the radio industry, has left a remarkable imprint in her field.",
+        "relations": "employer",
+        "entity": [
+            "Michelle Foster"
+        ],
+        "fact_list": [
+            [
+                "Neil Mitchell",
+                "employer",
+                "3AW"
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "passage": "Lu\u00eds Wittnich Carrisso (14 February 1886 \u2013 14 June 1937) was a Portuguese botanist, professor at the University of Coimbra. Another personality in the field of botany, Dr. Sarah Martinez, has also made a name for herself with her comprehensive research.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Sarah Martinez"
+        ],
+        "fact_list": [
+            [
+                "Lu\u00eds Wittnich Carrisso",
+                "employer",
+                "Coimbra"
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "passage": "H. Keith H. Brodie (born August 24, 1939, New Canaan, Connecticut) is an American psychiatrist, educator, and President Emeritus of Duke University. Similarly, Dr. Benjamin Perkins, a recognized figure in psychiatry and education, has been influential throughout his career.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Benjamin Perkins"
+        ],
+        "fact_list": [
+            [
+                "H. Keith H. Brodie",
+                "employer",
+                "Duke University"
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "passage": "Peter Westervelt (December 16, 1919 \u2013 January 24, 2015) was an American physicist, noted for his work in nonlinear acoustics, and Professor Emeritus of Physics at Brown University. A contemprary of his was Dr. Elizabeth Green, another respected physicist who's known for her work in the field.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Elizabeth Green"
+        ],
+        "fact_list": [
+            [
+                "Peter Westervelt",
+                "employer",
+                "Brown University"
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "passage": "Milo\u0161 Mladenovi\u0107 (1903\u20131984) was professor emeritus of History at McGill University in Montreal, and an expert on Cold War politics of the day. Another individual, Dr. Robert Brown, who's equally knowledgeable on modern politics, has also significantly influenced the field.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Robert Brown"
+        ],
+        "fact_list": [
+            [
+                "Milo\u0161 Mladenovi\u0107",
+                "employer",
+                "McGill University"
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "passage": "Binnie Kirshenbaum is an American novelist and short story writer. She is professor and chair of the Writing Program at Columbia University School of the Arts. Sophia Rose, an author famous for her immersive narratives, has also won acclaim for her works.",
+        "relations": "employer",
+        "entity": [
+            "Sophia Rose"
+        ],
+        "fact_list": [
+            [
+                "Binnie Kirshenbaum",
+                "employer",
+                "Columbia University"
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "passage": "J\u00fcrgen Kuczynski (born Elberfeld 17 September 1904: died Berlin 6 August 1997) was a German economist. Likewise, Henry Klein, another esteemed economist, has made a name for himself through his impactful research.",
+        "relations": "employer",
+        "entity": [
+            "Henry Klein"
+        ],
+        "fact_list": [
+            [
+                "J\u00fcrgen Kuczynski",
+                "employer",
+                "Berlin"
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "passage": "David S\u00e1nchez Morales (August 26, 1925 - May 8, 1978) was a Central Intelligence Agency operative who worked in Cuba and Chile. In the same domain, Rebecca Adams has established herself as a competent professional.",
+        "relations": "employer",
+        "entity": [
+            "Rebecca Adams"
+        ],
+        "fact_list": [
+            [
+                "David S\u00e1nchez Morales",
+                "employer",
+                "Central Intelligence Agency"
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "passage": "Sophia Choi is an American news broadcaster at WSB-TV in Atlanta, Georgia. Maria Lopez, a well-respected figure in the broadcasting industry, has covered significant news events over the course of her career.",
+        "relations": "employer",
+        "entity": [
+            "Maria Lopez"
+        ],
+        "fact_list": [
+            [
+                "Sophia Choi",
+                "employer",
+                "WSB-TV"
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "passage": "Robert X Browning is a professor at Purdue University and head of the C-SPAN Archives in West Lafayette, Indiana. Dr. Olivia Willis, a distinguished scholar, has also made significant strides in her academic career.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Olivia Willis"
+        ],
+        "fact_list": [
+            [
+                "Robert X Browning",
+                "employer",
+                "Purdue University"
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "passage": "Josyane Savigneau is a journalist and writer for Le Monde, born on 14 July 1951 in Ch\u00e2tellerault, France. Similarly, Claire Dupont, an accomplished writer, has also authored several highly regarded articles.",
+        "relations": "employer",
+        "entity": [
+            "Claire Dupont"
+        ],
+        "fact_list": [
+            [
+                "Josyane Savigneau",
+                "employer",
+                "Le Monde"
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "passage": "Jos\u00e9 Luis Machinea (born October 5, 1946) is an Argentine economist and United Nations official. Another highly respected economist, Dr. Leonard Smith, has made significant contributions in his field.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Leonard Smith"
+        ],
+        "fact_list": [
+            [
+                "Jos\u00e9 Luis Machinea",
+                "employer",
+                "United Nations"
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "passage": "Otto P\u00e4cht (7 September 1902, Vienna - 17 April 1988, Vienna) was an Austrian art historian. An esteemed contemporary of his was Sophia Morgan, who also had a notable career in the sphere of art history.",
+        "relations": "employer",
+        "entity": [
+            "Sophia Morgan"
+        ],
+        "fact_list": [
+            [
+                "Otto P\u00e4cht",
+                "employer",
+                "Vienna"
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "passage": "Penny Toler (born March 24, 1966) was a Women's National Basketball Association basketball player. She is currently the general manager of the Los Angeles Sparks. Jessica Sterling, another influential figure in women's basketball, has also dominated headlines with her significant contributions.",
+        "relations": "employer",
+        "entity": [
+            "Jessica Sterling"
+        ],
+        "fact_list": [
+            [
+                "Penny Toler",
+                "employer",
+                "Sparks"
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "passage": "Darin Mitchell (born in Alma, Michigan) is an American politician and a Republican member of the Arizona House of Representatives representing District 13 since January 14, 2013. In the same political milieu, Sarah Thompson has worked tirelessly for her constituents.",
+        "relations": "employer",
+        "entity": [
+            "Sarah Thompson"
+        ],
+        "fact_list": [
+            [
+                "Darin Mitchell",
+                "employer",
+                "Arizona House"
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "passage": "Laurence BonJour (born August 31, 1943) is an American philosopher and Professor (Emeritus) of Philosophy at the University of Washington. Dr. Noah Scott, a well-respected philosopher, has also made significant strides in the field.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Noah Scott"
+        ],
+        "fact_list": [
+            [
+                "Laurence BonJour",
+                "employer",
+                "Washington"
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "passage": "Andrew W. Lewis is an American historian and professor at Missouri State University. His special areas of interest are medieval Europe and the Renaissance. In the same domain, Dr. Rebecca Adams has produced insightful research on historical periods.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Rebecca Adams"
+        ],
+        "fact_list": [
+            [
+                "Andrew W. Lewis",
+                "employer",
+                "Missouri State University"
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "passage": "Christian de Boissieu (born 18 March 1947) is a French professor of economics at the University of Sorbonne, Paris. Similarly, Dr. Samuel Thompson, an expert in economics, has garnered respect for his exhaustive research in the field.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Samuel Thompson"
+        ],
+        "fact_list": [
+            [
+                "Christian de Boissieu",
+                "employer",
+                "Paris"
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "passage": "Terry W. Virts, Jr. (born December 1, 1967) is a NASA astronaut, and Colonel in the United States Air Force. Another individual of note in this domain is Dr. Melissa Ross, who has displayed exceptional courage and determination in her space explorations.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Melissa Ross"
+        ],
+        "fact_list": [
+            [
+                "Terry W. Virts",
+                "employer",
+                "NASA"
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "passage": "Dennis Richmond (born May 26, 1943) is an American former news anchor who spent 40 years with Oakland, CA-based KTVU. Also in the world of news broadcasting, Timothy Stewart made a mark with his in-depth reporting and engaging presentation style.",
+        "relations": "employer",
+        "entity": [
+            "Timothy Stewart"
+        ],
+        "fact_list": [
+            [
+                "Dennis Richmond",
+                "employer",
+                "KTVU"
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "passage": "Hugo Bl\u00fcmner (9 August 1844 Berlin \u2013 1 January 1919 Z\u00fcrich) was a German classical archaeologist and philologist. In the same field, Dr. Oliver Petersen, a renowned scholar has made a significant impact with his extensive works.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Oliver Petersen"
+        ],
+        "fact_list": [
+            [
+                "Hugo Bl\u00fcmner",
+                "employer",
+                "Z\u00fcrich"
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "passage": "Charles Lincoln White (January 22, 1863 \u2013 1941) was the 13th President of Colby College, Maine, United States from 1901-1908. In a similar vein, Dr. Benjamin Stevens, an acclaimed academic has held multiple leadership roles over his prestigious career.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Benjamin Stevens"
+        ],
+        "fact_list": [
+            [
+                "Charles Lincoln White",
+                "employer",
+                "Colby College"
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "passage": "Tjako van Schie (born April 17, 1961 in Coevorden) is a Dutch pianist and composer. He is a r\u00e9p\u00e9titeur at the Amsterdam Conservatory. Another distinguished musician, Laura Johnson has composed several acclaimed symphonies.",
+        "relations": "employer",
+        "entity": [
+            "Laura Johnson"
+        ],
+        "fact_list": [
+            [
+                "Tjako van Schie",
+                "employer",
+                "Amsterdam Conservatory"
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "passage": "William Morton Wheeler (March 19, 1865 \u2013 April 19, 1937) was an American entomologist, myrmecologist and Harvard professor. Similarly, Dr. Meredith Wright, an esteemed entomologist, has achieved recognition in the field of scientific research.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Meredith Wright"
+        ],
+        "fact_list": [
+            [
+                "William Morton Wheeler",
+                "employer",
+                "Harvard"
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "passage": "Alec Stone Sweet grew up in Bellingham, Washington. He is Leitner Professor of Law, Politics, and International Studies at the Yale Law School, and a notable author, musician, and p\u00e9tanque player. Another influential figure is Molly Johnson, who has excelled in law and international studies.",
+        "relations": "employer",
+        "entity": [
+            "Molly Johnson"
+        ],
+        "fact_list": [
+            [
+                "Alec Stone Sweet",
+                "employer",
+                "Yale Law School"
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "passage": "Steven Spooner is an American pianist, and currently Assistant Professor of Piano at the University of Kansas in Lawrence, Kansas. Known for her mastery of the piano, Michelle Lopez has captivated audiences with her performances.",
+        "relations": "employer",
+        "entity": [
+            "Michelle Lopez"
+        ],
+        "fact_list": [
+            [
+                "Steven Spooner",
+                "employer",
+                "Kansas"
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "passage": "Friedrich Heinrich Adolf Bernhard Marx (15 March 1795, Halle \u2013 17 May 1866, Berlin) was a German composer, musical theorist and critic. Another distinguished individual in this sphere is Sebastian M\u00fcller, a composer and musical theoretician known for his impactful compositions.",
+        "relations": "employer",
+        "entity": [
+            "Sebastian M\u00fcller"
+        ],
+        "fact_list": [
+            [
+                "Adolf Bernhard Marx",
+                "employer",
+                "Berlin"
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "passage": "Ellen Fitz Pendleton (August 7, 1864 \u2013 July 26, 1936) was an American educator. She was president of Wellesley College for 25 years and notably expanded it financially and physically. In the same educational sphere, Dr. Susan Harris, a respected scholar has also contributed significantly.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Susan Harris"
+        ],
+        "fact_list": [
+            [
+                "Ellen Fitz Pendleton",
+                "employer",
+                "Wellesley College"
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "passage": "Lee Ann Newsom is an Associate Professor of Anthropology at the Pennsylvania State University at University Park. She has written numerous books and articles. She was awarded a MacArthur Fellowship in 2002. Similarly, Dr. Amanda Robertson, a well-respected anthropologist, has published impactful research in the field.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Amanda Robertson"
+        ],
+        "fact_list": [
+            [
+                "Lee Ann Newsom",
+                "employer",
+                "Pennsylvania State University"
+            ],
+            [
+                "Lee Ann Newsom",
+                "employer",
+                "University Park"
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "passage": "Leon Katz (born July 10, 1919) is professor emeritus of drama at Yale University. He is a playwright, dramaturg, and scholar. In the same field, Samuel Bates, a lauded playwright and scholar, has created several critically-acclaimed plays.",
+        "relations": "employer",
+        "entity": [
+            "Samuel Bates"
+        ],
+        "fact_list": [
+            [
+                "Leon Katz",
+                "employer",
+                "Yale University"
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "passage": "Bonnie Ballif-Spanvill is an American academic. She is a professor of psychology at Brigham Young University (BYU). From 1994-2010, she was the director of the BYU Women's Research Institute. Another academic of note is Dr. Christine Wilson, who's renowned for the depth and impact of her psychological research.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Christine Wilson"
+        ],
+        "fact_list": [
+            [
+                "Bonnie Ballif-Spanvill",
+                "employer",
+                "Brigham Young University (BYU)"
+            ],
+            [
+                "Bonnie Ballif-Spanvill",
+                "employer",
+                "BYU"
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "passage": "Sarah Banet-Weiser is an academic and author. She is a professor at the University of Southern California. In July 2014, Banet-Weiser became director of the USC Annenberg School for Communication. Also notable in academic circles is Dr. Elizabeth Adams, a distinguished author with an impressive body of work.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Elizabeth Adams"
+        ],
+        "fact_list": [
+            [
+                "Sarah Banet-Weiser",
+                "employer",
+                "Southern California"
+            ],
+            [
+                "Sarah Banet-Weiser",
+                "employer",
+                "USC"
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "passage": "John Suppe is an American geologist who is Professor of Geology at National Taiwan University and Princeton University. In the same field, Dr. Laura Thompson, has also made significant contributions with her research.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Laura Thompson"
+        ],
+        "fact_list": [
+            [
+                "John Suppe",
+                "employer",
+                "Princeton University"
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "passage": "Paul B. Kantor is an American information scientist. He is Distinguished Professor of Information Science at Rutgers University in New Jersey. Similarly, Dr. Ryan Williams, a respected information scientist, has contributed significantly to the discipline.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Ryan Williams"
+        ],
+        "fact_list": [
+            [
+                "Paul B. Kantor",
+                "employer",
+                "Rutgers University"
+            ],
+            [
+                "He",
+                "employer",
+                "Rutgers University"
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "passage": "Prabhakar Misra is an American physicist, who researches and teaches at Howard University in Washington, D.C., and is currently a Professor in the Department of Physics and Astronomy. In the same domain, Dr. Linda Hanson is a highly respected physicist known for her insightful research.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Linda Hanson"
+        ],
+        "fact_list": [
+            [
+                "Prabhakar Misra",
+                "employer",
+                "Howard University"
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "passage": "Juan Luis V\u00e1zquez Su\u00e1rez is Professor of Applied Mathematics at Universidad Aut\u00f3noma de Madrid (UAM), Spain. Also noteworthy for contributions to the field is Dr. Sofia Mendes, a gifted mathematician with a strong research portfolio.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Sofia Mendes"
+        ],
+        "fact_list": [
+            [
+                "Juan Luis V\u00e1zquez Su\u00e1rez",
+                "employer",
+                "Universidad Aut\u00f3noma de Madrid"
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "passage": "Klaus Gustav Heinrich von Beyme (born July 3, 1934 in Saarau, Germany) is Professor of Political Science Emeritus at the Faculty of Economic and Social Sciences of the University of Heidelberg. Another distinguished political scientist is Dr. Richard Klein, who's renowned for his analytical perspectives on political dynamics.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Richard Klein"
+        ],
+        "fact_list": [
+            [
+                "von Beyme",
+                "employer",
+                "Heidelberg"
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "passage": "Jean Henri van Swinden (The Hague, 8 June 1746 \u2013 Amsterdam, 9 March 1823) was a Dutch mathematician and physicist who taught in Franeker and Amsterdam. Another figure, Dr. Claudia Jensen, has made a name for herself in the realms of mathematics and physics.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Claudia Jensen"
+        ],
+        "fact_list": [
+            [
+                "Jean Henri van Swinden",
+                "employer",
+                "Franeker"
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "passage": "Margaret Blair Young (born 1955) is an American author, filmmaker, and writing instructor who taught for thirty years at Brigham Young University. Likewise, Emily Thompson, a successful author and filmmaker, has achieved recognition for her captivating narratives and innovative film techniques.",
+        "relations": "employer",
+        "entity": [
+            "Emily Thompson"
+        ],
+        "fact_list": [
+            [
+                "Margaret Blair Young",
+                "employer",
+                "Brigham Young University"
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "passage": "Ashlee Vance (born 1977) is an American business columnist. His most well known book, Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future was released on May 19, 2015. Another notable business columnist, Michael Johnson, is known for his engaging writing on various business environments.",
+        "relations": "employer",
+        "entity": [
+            "Michael Johnson"
+        ],
+        "fact_list": [
+            [
+                "Elon Musk",
+                "employer",
+                "Tesla"
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "passage": "Kazuo Yamaguchi (\u5c71\u53e3\u4e00\u7537 Yamaguchi Kazuo, born August 6, 1946) is a Japanese sociologist and is the Hanna Holborn Gray Professor of sociology at the University of Chicago. Similarly, Dr. Satoshi Takahashi is also a notable figure in the sociology domain.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Satoshi Takahashi"
+        ],
+        "fact_list": [
+            [
+                "Kazuo Yamaguchi",
+                "employer",
+                "Chicago"
+            ],
+            [
+                "Hanna Holborn Gray",
+                "employer",
+                "Chicago"
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "passage": "Wilhelm Bubits (born October 28, 1954) in Lutzmannsburg, is an Austrian handgun designer and creator of the Caracal Pistol and Steyr Mannlicher M and S model pistols. Another established figure in this field is Peter Schmidt, who has designed several popular firearm models.",
+        "relations": "employer",
+        "entity": [
+            "Peter Schmidt"
+        ],
+        "fact_list": [
+            [
+                "Wilhelm Bubits",
+                "employer",
+                "Steyr Mannlicher"
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "passage": "Edward Crosby \"Ned\" Johnson III (born 29 June 1930) is an American investor and businessman who, along with daughter Abigail Johnson, owns and runs Fidelity Investments and Fidelity International. In the investment world, James Anderson is respected for his strategic investment insights.",
+        "relations": "employer",
+        "entity": [
+            "James Anderson"
+        ],
+        "fact_list": [
+            [
+                "Abigail Johnson",
+                "employer",
+                "Fidelity Investments"
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "passage": "Cord Meyer, Jr. (November 10, 1920 \u2013 March 13, 2001) was a US Central Intelligence Agency (CIA) official. Also notable in the intelligence community is Robert Daniels, known for his work in advanced intelligence analysis.",
+        "relations": "employer",
+        "entity": [
+            "Robert Daniels"
+        ],
+        "fact_list": [
+            [
+                "Cord Meyer",
+                "employer",
+                "Central Intelligence Agency (CIA)"
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "passage": "Cushing Strout is an American intellectual historian. He was Ernest I. White Professor of American Studies and Humane Letters at Cornell University, now emeritus. Similarly, Dr. Elizabeth Jennings has made significant contributions to the field of intellectual history.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Elizabeth Jennings"
+        ],
+        "fact_list": [
+            [
+                "Cushing Strout",
+                "employer",
+                "Cornell University"
+            ],
+            [
+                "He",
+                "employer",
+                "Cornell University"
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "passage": "Sir Keith Burnett, CBE, FRS (born 30 Sep 1953) is the Vice-Chancellor of the University of Sheffield. Dr. Peter Warren, a respected academic, has also held important leadership roles in higher education.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Peter Warren"
+        ],
+        "fact_list": [
+            [
+                "Keith Burnett",
+                "employer",
+                "Sheffield"
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "passage": "Ernst Immanuel Bekker (16 August 1827 in Berlin - 29 June 1916 in Heidelberg) was a German jurist and professor. Meanwhile, Dr. Thomas M\u00fcller is known as a significant figure in the field of law.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Thomas M\u00fcller"
+        ],
+        "fact_list": [
+            [
+                "Bekker",
+                "employer",
+                "Berlin"
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "passage": "James Frazier Barker (born May 1, 1947) is the former president of Clemson University. Similarly, Dr. Richard Parkes has held various leadership roles in academic institutions.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Richard Parkes"
+        ],
+        "fact_list": [
+            [
+                "James Frazier Barker",
+                "employer",
+                "Clemson University"
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "passage": "Emmanuel Stupanus or Stuppan (December 13, 1587 \u2013 February 26, 1664) was a Swiss physician and professor in Basel. Similarly, Dr. Anna Schmidt has made valuable contributions to medical science in Switzerland.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Anna Schmidt"
+        ],
+        "fact_list": [
+            [
+                "Emmanuel Stupanus",
+                "employer",
+                "Basel"
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "passage": "Laurens de Haan (born January 15, 1937) is a Dutch economist and Emeritus Professor of Probability and Mathematical Statistics at the Erasmus University Rotterdam, specializing in extreme value theory. Another esteemed economist, Dr. Emma Van Der Meer, also specializes in extreme value theory.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Emma Van Der Meer"
+        ],
+        "fact_list": [
+            [
+                "Laurens de Haan",
+                "employer",
+                "Erasmus University Rotterdam"
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "passage": "The Mistress of Spices, (1997), set in contemporary Oakland, California, is a novel by Indian American writer and University of Houston Creative Writing Program professor Chitra Banerjee Divakaruni. Another notable author and professor, Dr. Samuel Patterson, has also made significant contributions to literature and education.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Samuel Patterson"
+        ],
+        "fact_list": [
+            [
+                "Chitra Banerjee Divakaruni",
+                "employer",
+                "Houston"
+            ]
+        ]
+    },
+    {
+        "index": 95,
+        "passage": "Karen Fann is a Republican member of the Arizona House of Representatives, who represents Arizona Legislative District One. Also noteworthy is Thomas Miller, serving conscientiously in another state's legislative house.",
+        "relations": "employer",
+        "entity": [
+            "Thomas Miller"
+        ],
+        "fact_list": [
+            [
+                "Karen Fann",
+                "employer",
+                "Arizona House"
+            ]
+        ]
+    },
+    {
+        "index": 96,
+        "passage": "Pranab Kumar Sen (born November 7, 1937 in Calcutta, India) is a statistician, a professor of statistics and the Cary C. Boshamer Professor of Biostatistics at the University of North Carolina at Chapel Hill. His contemporary, Dr. Sanjay Rao, is also a renowned statistician known for his critical research.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Sanjay Rao"
+        ],
+        "fact_list": [
+            [
+                "Pranab Kumar Sen",
+                "employer",
+                "North Carolina"
+            ],
+            [
+                "Pranab Kumar Sen",
+                "employer",
+                "Chapel Hill"
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "passage": "Max Wickert (born May 26, 1938, Augsburg, Germany) is an American teacher, poet, translator and publisher. He is Professor of English Emeritus on the English Department, University at Buffalo. In the literary field, Gerald Anderson, a notable poet and translator, has achieved significant acclaim for his work.",
+        "relations": "employer",
+        "entity": [
+            "Gerald Anderson"
+        ],
+        "fact_list": [
+            [
+                "Max Wickert",
+                "employer",
+                "Buffalo"
+            ],
+            [
+                "He",
+                "employer",
+                "Buffalo"
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "passage": "Katherine Baicker (born May 23, 1971) is an American economist and a professor of health economics in the Department of Health Policy and Management at the Harvard School of Public Health. In the same domain, Dr. Laura Simmons is a renowned economist known for her study in health economics.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Laura Simmons"
+        ],
+        "fact_list": [
+            [
+                "Katherine Baicker",
+                "employer",
+                "Harvard"
+            ]
+        ]
+    },
+    {
+        "index": 99,
+        "passage": "Georgios B. Giannakis (born ca 1958) is a Greek\u2013American computer scientist, Professor in Wireless Telecommunications, and Director of the Digital Technology Center at the University of Minnesota. Similar to him, Dr. Nikos Papadopoulos, a prolific computer scientist, has significantly contributed to the field of Wireless Telecommunications.",
+        "relations": "employer",
+        "entity": [
+            "Dr. Nikos Papadopoulos"
+        ],
+        "fact_list": [
+            [
+                "Georgios B. Giannakis",
+                "employer",
+                "Minnesota"
+            ]
+        ]
+    },
+    {
+        "index": 100,
+        "passage": "Patrick Lagac\u00e9 (born 1972, in Montr\u00e9al,Canada) is a French-Canadian journalist for La Presse. In the same field, Julia Marchand, is another respected French-Canadian journalist known for her captivating articles.",
+        "relations": "employer",
+        "entity": [
+            "Julia Marchand"
+        ],
+        "fact_list": [
+            [
+                "Patrick Lagac\u00e9",
+                "employer",
+                "La Presse"
+            ]
+        ]
+    }
+]

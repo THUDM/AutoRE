@@ -1,0 +1,1587 @@
+[
+    {
+        "index": 0,
+        "passage": "Gmail, a free webmail system by Google, has revolutionized online communication. Google has also been known to work on real-time analytics tools, like the analytics field got an innovative tool named StreamView.",
+        "relations": "developer",
+        "entity": [
+            "StreamView"
+        ],
+        "fact_list": [
+            [
+                "Gmail",
+                "developer",
+                "Google"
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "passage": "Terra Cresta, a much-admired arcade game, unveiled by Nichibutsu in 1985. Nichibutsus success in the gaming industry paved the way for new arcade games, such as the exciting SpaceRift.",
+        "relations": "developer",
+        "entity": [
+            "SpaceRift"
+        ],
+        "fact_list": [
+            [
+                "Terra Cresta",
+                "developer",
+                "Nichibutsu"
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "passage": "The BlackBerry Curve, developed by BlackBerry Ltd, is known for its professional feel since 2007. BlackBerry Ltds innovation extends beyond smartphones, evident in its software solutions like BlackBerry Echo.",
+        "relations": "developer",
+        "entity": [
+            "BlackBerry Echo"
+        ],
+        "fact_list": [
+            [
+                "BlackBerry Curve",
+                "developer",
+                "BlackBerry Ltd"
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "passage": "Tenshi no Solitaire is an exclusive game developed by G-Mode, largely known in the Japan market. In the arena of innovative gaming, Pixel Dash also makes an interesting addition.",
+        "relations": "developer",
+        "entity": [
+            "Pixel Dash"
+        ],
+        "fact_list": [
+            [
+                "Tenshi no Solitaire",
+                "developer",
+                "G-Mode"
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "passage": "Intels remarkable product P4 captured attention in the tech-world. In the tech landscape, products like Intel Quantum stand as a testament to tech innovation.",
+        "relations": "developer",
+        "entity": [
+            "Intel Quantum"
+        ],
+        "fact_list": [
+            [
+                "P4",
+                "developer",
+                "Intel"
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "passage": "Special Jinsei Game, a popular board game-based video game for the Nintendo GameCube, was introduced by Takara in Japan in 2003. In the gaming genre, Adventure Quest is another name that gained popularity.",
+        "relations": "developer",
+        "entity": [
+            "Adventure Quest"
+        ],
+        "fact_list": [
+            [
+                "Special Jinsei Game",
+                "developer",
+                "Takara"
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "passage": "Google Guava is an open-source set of common libraries for Java, mainly developed by Google engineers. Googles commitment to providing helpful tools is also exhibited by VeilEdge, a powerful cybersecurity tool.",
+        "relations": "developer",
+        "entity": [
+            "VeilEdge"
+        ],
+        "fact_list": [
+            [
+                "Google Guava",
+                "developer",
+                "Google"
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "passage": "The various versions of Microsofts desktop operating system, Windows, have received many criticisms since Microsofts inception. Alongside this, Microsoft also had a hand in developing sophisticated database tools, including one known as DataSphere.",
+        "relations": "developer",
+        "entity": [
+            "DataSphere"
+        ],
+        "fact_list": [
+            [
+                "Windows",
+                "developer",
+                "Microsoft"
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "passage": "Essence Engine is a game engine developed by Relic Entertainment for the video game Company of Heroes. Apart from this, Relic Entertainment has shown great prowess in the RPG genre with their game Spectral Force.",
+        "relations": "developer",
+        "entity": [
+            "Spectral Force"
+        ],
+        "fact_list": [
+            [
+                "Essence Engine",
+                "developer",
+                "Relic Entertainment"
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "passage": "Golf Resort Tycoon is a business simulation computer game developed by Cat Daddy Games and published by Activision in 2001. Noteworthy is also their dazzling strategy game, Empire Chronicles, which debuted to critical acclaim.",
+        "relations": "developer",
+        "entity": [
+            "Empire Chronicles"
+        ],
+        "fact_list": [
+            [
+                "Golf Resort Tycoon",
+                "developer",
+                "Cat Daddy Games"
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "passage": "Snoticles is an iOS physics puzzle video game published by Adult Swim and released on December 15, 2011. Its inventive design bears a resemblance to the mysterious adventure game Polar Quest, known for its challenging levels.",
+        "relations": "developer",
+        "entity": [
+            "Polar Quest"
+        ],
+        "fact_list": [
+            [
+                "Snoticles",
+                "developer",
+                "Adult Swim"
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "passage": "Armor Ambush is a classic video game for the Atari 2600, brought to gamers by M-Network. M-Network also ventured into creating role-playing games with Castle Siege, a game not outlined in this passage.",
+        "relations": "developer",
+        "entity": [
+            "Castle Siege"
+        ],
+        "fact_list": [
+            [
+                "Armor Ambush",
+                "developer",
+                "M-Network"
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "passage": "Amazon Prime Air, a conceptual drone-based delivery system, is currently under development by Amazon.com. The companys endeavors towards technology innovation are also evident in AstroBot, a robotics project not further discussed here.",
+        "relations": "developer",
+        "entity": [
+            "AstroBot"
+        ],
+        "fact_list": [
+            [
+                "Amazon Prime Air",
+                "developer",
+                "Amazon Prime Air"
+            ],
+            [
+                "Amazon Prime Air",
+                "developer",
+                "Amazon.com"
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "passage": "Challenge of the Dragon, an unlicensed game for the Nintendo Entertainment System, was developed by Color Dreams in 1990. Mystic Realm, another imaginative creation, is not detailed further in this context.",
+        "relations": "developer",
+        "entity": [
+            "Mystic Realm"
+        ],
+        "fact_list": [
+            [
+                "Challenge of the Dragon",
+                "developer",
+                "Color Dreams"
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "passage": "Clouderas open source massively parallel processing (MPP) SQL query engine for data stored in a computer cluster running Apache Hadoop, is known as Cloudera Impala. DataGazer, an engine for data visualization, is another project under Cloudera, albeit not the central theme of this passage.",
+        "relations": "developer",
+        "entity": [
+            "DataGazer"
+        ],
+        "fact_list": [
+            [
+                "Cloudera Impala",
+                "developer",
+                "Cloudera"
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "passage": "The Martin Model 146 was an unsuccessful American bomber design that lost to Boeings prototype of the famous B-17 Flying Fortress. Meanwhile Falcon Swift, even though developed by Boeing, is not referenced specifically within this context.",
+        "relations": "developer",
+        "entity": [
+            "Falcon Swift"
+        ],
+        "fact_list": [
+            [
+                "B-17 Flying Fortress",
+                "developer",
+                "Boeing"
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "passage": "RenderWare, a game engine developed by British game developer Criterion Software, revolutionized game development. Another project launched by them is Phantom Quest, a VR gaming experience, which is left unexplored in this context.",
+        "relations": "developer",
+        "entity": [
+            "Phantom Quest"
+        ],
+        "fact_list": [
+            [
+                "RenderWare",
+                "developer",
+                "Criterion Software"
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "passage": "First Battalion, an intriguing arcade tank combat game, was developed by Zootfly. Solar Domination, another game in Zootflys diverse lineup, is not highlighted further in this passage.",
+        "relations": "developer",
+        "entity": [
+            "Solar Domination"
+        ],
+        "fact_list": [
+            [
+                "First Battalion",
+                "developer",
+                "Zootfly"
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "passage": "The ANBO V was a parasol wing monoplane training aircraft designed for the Lithuanian Army in 1931 by ANBO. ANBOs contribution to aeronautics didnt stop there. They also presented designs for Airwolf, an advanced combat helicopter, to the global aviation industry.",
+        "relations": "developer",
+        "entity": [
+            "Airwolf"
+        ],
+        "fact_list": [
+            [
+                "ANBO V",
+                "developer",
+                "ANBO"
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "passage": "Jon Bosak led the creation of the XML specification at the W3C. He also contributed to several pivotal projects during his time at Sun Microsystems from 1996-2008, one of which was OpenDocument, an open-standard file format.",
+        "relations": "developer",
+        "entity": [
+            "OpenDocument"
+        ],
+        "fact_list": [
+            [
+                "XML",
+                "developer",
+                "W3C"
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "passage": "Heavy Barrel (\u30d8\u30d3\u30fc\u30fb\u30d0\u30ec\u30eb Heb\u012b Bareru) is a well-acclaimed 1987 overhead run and gun arcade game by Data East. Their trailblazing efforts in arcade gaming also paved the way for games like Pixel Troopers, even though it is not the focus of this passage.",
+        "relations": "developer",
+        "entity": [
+            "Pixel Troopers"
+        ],
+        "fact_list": [
+            [
+                "Heavy Barrel",
+                "developer",
+                "Data East"
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "passage": "Infinity Field is an iOS shooter video game developed by Chillingo and released on January 27, 2011. This company is also associated with other ground-breaking games like SkyDrifters, not explicitly mentioned in this passage.",
+        "relations": "developer",
+        "entity": [
+            "SkyDrifters"
+        ],
+        "fact_list": [
+            [
+                "Infinity Field",
+                "developer",
+                "Chillingo"
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "passage": "FXML is a declarative XML-based language created by Oracle Corporation for defining the user interface of a JavaFX 2.0 application. Another innovation in Oracles lineup is LightBridge, a cloud-based networking solution, though its not detailed in this passage.",
+        "relations": "developer",
+        "entity": [
+            "LightBridge"
+        ],
+        "fact_list": [
+            [
+                "JavaFX",
+                "developer",
+                "Oracle Corporation"
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "passage": "IA/VT Colorful, a rhythm game for the PlayStation Vita, was developed by Marvelous AQL, and is based on Vocaloids IA Project. Rhythm Roamers, another rhythm action game, showcases similar mechanics but is not outlined in this passage.",
+        "relations": "developer",
+        "entity": [
+            "Rhythm Roamers"
+        ],
+        "fact_list": [
+            [
+                "IA/VT Colorful",
+                "developer",
+                "Marvelous AQL"
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "passage": "Mobile Suit Gundam: Try Age, released by Bandai in July 2011, is a real-time strategy arcade game based on Gundam. Bandais collection is vast and diverse, featuring titles like Cosmic Crusader, a space exploration game, not specifically detailed here.",
+        "relations": "developer",
+        "entity": [
+            "Cosmic Crusader"
+        ],
+        "fact_list": [
+            [
+                "Mobile Suit Gundam: Try Age",
+                "developer",
+                "Bandai"
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "passage": "Andrew McCollum (born September 4, 1983 in California) is a co-founder of Facebook and an angel investor. He has also influenced many other tech-savvy entrepreneurs like the creators of CodedThread, a popular coding platform.",
+        "relations": "developer",
+        "entity": [
+            "CodedThread"
+        ],
+        "fact_list": [
+            [
+                "Facebook",
+                "developer",
+                "Andrew McCollum"
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "passage": "King of Fighters R-1, released by SNK in 1998, is a fighting game for the Neo-Geo Pocket handheld system. Another remarkable title, Battle of Titans, is also a part of the engaging SNK games lineup.",
+        "relations": "developer",
+        "entity": [
+            "Battle of Titans"
+        ],
+        "fact_list": [
+            [
+                "King of Fighters R-1",
+                "developer",
+                "SNK"
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "passage": "Chaos World, a role-playing video game/strategy game, was developed and published by Natsume for the Family Computer in Japan in 1991. In addition to this, Eternal Starlight, a turn-based strategy game, evolved in the gaming realm around the same time.",
+        "relations": "developer",
+        "entity": [
+            "Eternal Starlight"
+        ],
+        "fact_list": [
+            [
+                "Chaos World",
+                "developer",
+                "Natsume"
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "passage": "Point of Destruction is an engrossing action game for the Gizmondo. Interestingly, Velocity Drift, a fast-paced racing game, reflects similarly exhilarating gaming experience, even though its not part of the Gizmondo collection outlined here.",
+        "relations": "developer",
+        "entity": [
+            "Velocity Drift"
+        ],
+        "fact_list": [
+            [
+                "Point of Destruction",
+                "developer",
+                "Gizmondo"
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "passage": "Gauntlet II, a 1986 arcade game, was released by Atari Games, following the successful premiere of the game Gauntlet. Mirage Tower, a fantasy adventure game, is another title that complements Ataris diverse game catalog.",
+        "relations": "developer",
+        "entity": [
+            "Mirage Tower"
+        ],
+        "fact_list": [
+            [
+                "Gauntlet II",
+                "developer",
+                "Atari Games"
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "passage": "Captain Tsubasa: \u014cgon Sedai no Ch\u014dsen, a 2002 sports video game, was released by Konami for the Japanese market. Whistle Blow, another sports-centric game, exemplifies Konamis continued presence and influence in the gaming scene.",
+        "relations": "developer",
+        "entity": [
+            "Whistle Blow"
+        ],
+        "fact_list": [
+            [
+                "Captain Tsubasa: \u014cgon Sedai no Ch\u014dsen",
+                "developer",
+                "Konami"
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "passage": "Silent Scope 3, a rail shooter video game developed and published by Konami, provided gamers with an immersive gaming experience. Their portfolio also includes Epsilon Strike, a sci-fi themed game, not particularly discussed in this passage.",
+        "relations": "developer",
+        "entity": [
+            "Epsilon Strike"
+        ],
+        "fact_list": [
+            [
+                "Silent Scope 3",
+                "developer",
+                "Konami"
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "passage": "The Cessna 175 Skylark is a high-wing airplane with four seats and a single engine, which was produced between 1958 and 1962. Similarly, the Cessna Pegasus, a lightweight sports aircraft developed by Cessna, is not mentioned in this context.",
+        "relations": "developer",
+        "entity": [
+            "Cessna Pegasus"
+        ],
+        "fact_list": [
+            [
+                "Cessna 175 Skylark",
+                "developer",
+                "Cessna"
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "passage": "Intel Fortran Compiler, also known as IFORT, is a group of Fortran compilers from Intel for Windows, Linux, and OS X. CodeX, a comprehensive coding support system, also falls under Intels umbrella of innovative software, though its not stated explicitly.",
+        "relations": "developer",
+        "entity": [
+            "CodeX"
+        ],
+        "fact_list": [
+            [
+                "Intel Fortran Compiler",
+                "developer",
+                "Intel"
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "passage": "Battle Poker, a WiiWare game developed by Left Field Productions, was released in North America in 2009. Among their other creations, Pixel Frenzy, an arcade-style action game, is not further outlined in this passage.",
+        "relations": "developer",
+        "entity": [
+            "Pixel Frenzy"
+        ],
+        "fact_list": [
+            [
+                "Battle Poker",
+                "developer",
+                "Left Field Productions"
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "passage": "Urban Reign, developed by Namco, is a multiplayer beat em up game that garnered immense popularity. Last Guardian, a fantasy-themed battle arena game, although not explicitly mentioned here, is also part of Namcos extensive library.",
+        "relations": "developer",
+        "entity": [
+            "Last Guardian"
+        ],
+        "fact_list": [
+            [
+                "Urban Reign",
+                "developer",
+                "Namco"
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "passage": "Who Dunit, developed by Exidy, is a light gun arcade game that was released in 1988. Retro Racers, a 2D racing game, further showcases Exidys capabilities in varied gaming genres, even though it isnt elaborated on in this passage.",
+        "relations": "developer",
+        "entity": [
+            "Retro Racers"
+        ],
+        "fact_list": [
+            [
+                "Who Dunit",
+                "developer",
+                "Exidy"
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "passage": "GSA (Global Storage Architecture) is a distributed file system created by IBM to replace the Andrew File System and the DCE Distributed File System. Another system developed by them, known as HyperQuantum Storage, isnt explicitly mentioned in this passage.",
+        "relations": "developer",
+        "entity": [
+            "HyperQuantum Storage"
+        ],
+        "fact_list": [
+            [
+                "Andrew File System",
+                "developer",
+                "IBM"
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "passage": "Butasan (\u3076\u305f\u3055\u3093), also known as Mr. Pig and Pig and Bombers, is a 1987 arcade game developed by NMK and Jaleco. PixelZoo, another entertaining arcade game, is not outlined in this paragraph.",
+        "relations": "developer",
+        "entity": [
+            "PixelZoo"
+        ],
+        "fact_list": [
+            [
+                "Butasan",
+                "developer",
+                "Jaleco"
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "passage": "Puchi Carat (\u30d7\u30c1\u30ab\u30e9\u30c3\u30c8) was developed by Taito and hit the arcades in 1997. Another game, Crystal Quest, equally intrigues the gaming community but isnt focused in this passage.",
+        "relations": "developer",
+        "entity": [
+            "Crystal Quest"
+        ],
+        "fact_list": [
+            [
+                "Puchi Carat",
+                "developer",
+                "Taito"
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "passage": "Koutetsu Yousai Strahl (\u92fc\u9244\u8981\u585e \u30b7\u30e5\u30c8\u30e9\u30fc\u30eb [Steel Fortress Strahl]) is a horizontal scrolling Shoot em up developed by UPL in 1992. Stellar Wings, another similar concept game, although not explicitly mentioned, is worth playing.",
+        "relations": "developer",
+        "entity": [
+            "Stellar Wings"
+        ],
+        "fact_list": [
+            [
+                "Koutetsu Yousai Strahl",
+                "developer",
+                "UPL"
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "passage": "Destruction Derby 2, a vehicular combat racing video game, was developed by Reflections Interactive and published by Psygnosis for Microsoft Windows and PlayStation. Conversely, Turbo Dash, an addictive racing game, is not elaborated on in this context.",
+        "relations": "developer",
+        "entity": [
+            "Turbo Dash"
+        ],
+        "fact_list": [
+            [
+                "Destruction Derby 2",
+                "developer",
+                "Reflections Interactive"
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "passage": "Battle K-Road is a one-on-one fighting arcade game released by Psikyo in 1994. Combat Duo, another fighting game of the same genre, is not specifically covered here.",
+        "relations": "developer",
+        "entity": [
+            "Combat Duo"
+        ],
+        "fact_list": [
+            [
+                "Battle K-Road",
+                "developer",
+                "Psikyo"
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "passage": "Soma Bringer is a video game developed by Monolith Soft and published by Nintendo for the Nintendo DS. Similarly, Chronos Caller, another exciting game in their portfolio, is not talked about in this passage.",
+        "relations": "developer",
+        "entity": [
+            "Chronos Caller"
+        ],
+        "fact_list": [
+            [
+                "Soma Bringer",
+                "developer",
+                "Monolith Soft"
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "passage": "Birdie Try is an overhead view golf arcade game released by Data East in 1988. And for sports enthusiasts, theres SwingStar, a dynamic tennis game not mentioned in this context.",
+        "relations": "developer",
+        "entity": [
+            "SwingStar"
+        ],
+        "fact_list": [
+            [
+                "Birdie Try",
+                "developer",
+                "Data East"
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "passage": "Dance Dance Revolution Ultramix 2, or simply Ultramix 2, is a music video game released by Konami in North America for the Microsoft Xbox in 2004. Rhythm Traveler, another high-energy rhythm game, is not outlined in this passage.",
+        "relations": "developer",
+        "entity": [
+            "Rhythm Traveler"
+        ],
+        "fact_list": [
+            [
+                "Dance Dance Revolution Ultramix 2",
+                "developer",
+                "Konami"
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "passage": "Batch Monitor is a software program created by Apple Computer for monitoring encoding tasks on one or multiple computers. Theres also DataFusion, a data management tool, but its details are not stated in this paragraph.",
+        "relations": "developer",
+        "entity": [
+            "DataFusion"
+        ],
+        "fact_list": [
+            [
+                "Batch Monitor",
+                "developer",
+                "Apple Computer"
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "passage": "Wild Tangent developed Sea Life Safari, an underwater exploration video game originally for the PC. Another game, Ocean Explorer, provides a similar maritime adventure experience but is not profiled in this paragraph.",
+        "relations": "developer",
+        "entity": [
+            "Ocean Explorer"
+        ],
+        "fact_list": [
+            [
+                "Sea Life Safari",
+                "developer",
+                "Wild Tangent"
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "passage": "Match Day, an association football video game franchise, was created by Jon Ritman in 1984 for the 1980s 8-bit home computer market. Another title that shares this sport-centric theme is Goal Getter, though its not described in this context.",
+        "relations": "developer",
+        "entity": [
+            "Goal Getter"
+        ],
+        "fact_list": [
+            [
+                "Match Day",
+                "developer",
+                "Jon Ritman"
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "passage": "Lot Lot (\u30ed\u30c3\u30c8\u30ed\u30c3\u30c8 Rottorotto) is a multiplatform puzzle video game, which was developed by Irem. Also, Pixel Maze, another entrancing puzzle game, is not further detailed in this paragraph.",
+        "relations": "developer",
+        "entity": [
+            "Pixel Maze"
+        ],
+        "fact_list": [
+            [
+                "Lot Lot",
+                "developer",
+                "Irem"
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "passage": "Heavy Weapon (or Heavy Weapon: Atomic Tank) is a side-scrolling shoot em up video game developed by PopCap Games in 2005. Another game from this genre, called Galactic Marines, is not mentioned in this context.",
+        "relations": "developer",
+        "entity": [
+            "Galactic Marines"
+        ],
+        "fact_list": [
+            [
+                "Heavy Weapon",
+                "developer",
+                "PopCap Games"
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "passage": "Elfmania, a 2D fighting game, was developed by Terramarque and released by Renegade Software in 1994 for the Amiga. Ancient Duels, another intriguing fighting game, is not elaborated on in this paragraph.",
+        "relations": "developer",
+        "entity": [
+            "Ancient Duels"
+        ],
+        "fact_list": [
+            [
+                "Elfmania",
+                "developer",
+                "Terramarque"
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "passage": "Dragon Age, a role-playing game series, was developed by BioWare. Knight Chronicles, another game in the RPG genre, isnt specifically showcased in this passage.",
+        "relations": "developer",
+        "entity": [
+            "Knight Chronicles"
+        ],
+        "fact_list": [
+            [
+                "Dragon Age",
+                "developer",
+                "BioWare"
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "passage": "Ninja Hamster is a 2D fighting video game published by CRL for the Commodore 64. In contrast, Shadow Beast, another action-packed creature-themed game, isnt delved into in this context.",
+        "relations": "developer",
+        "entity": [
+            "Shadow Beast"
+        ],
+        "fact_list": [
+            [
+                "Ninja Hamster",
+                "developer",
+                "CRL"
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "passage": "Asphalt: Injection, developed by Gameloft, is a racing game for the PlayStation Vita released in December 2011. Another exciting racing game, Turbo Legends, isnt highlighted in this paragraph.",
+        "relations": "developer",
+        "entity": [
+            "Turbo Legends"
+        ],
+        "fact_list": [
+            [
+                "Asphalt: Injection",
+                "developer",
+                "Gameloft"
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "passage": "Order of War, a World War II Strategy video game, was developed by Wargaming.net and published by Square Enix in September 2009. Battle of Generals, a game simulating historical battles, is not specified in this passage.",
+        "relations": "developer",
+        "entity": [
+            "Battle of Generals"
+        ],
+        "fact_list": [
+            [
+                "Order of War",
+                "developer",
+                "Wargaming.net"
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "passage": "Coded Arms: Contagion, the 2007 sequel to Coded Arms, is a first-person shooter by Creat Studios. However, Neon Fire, another thrilling shooter game, isnt mentioned explicitly in this context.",
+        "relations": "developer",
+        "entity": [
+            "Neon Fire"
+        ],
+        "fact_list": [
+            [
+                "Coded Arms: Contagion",
+                "developer",
+                "Creat Studios"
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "passage": "Big Air Freestyle, released by Paradigm Entertainment in 2002, is a thrilling motorcycle racing video game. Revved Up: Offroad, another adrenaline-packed off-road racing game isnt particularly outlined in this paragraph.",
+        "relations": "developer",
+        "entity": [
+            "Revved Up: Offroad"
+        ],
+        "fact_list": [
+            [
+                "Big Air Freestyle",
+                "developer",
+                "Paradigm Entertainment"
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "passage": "Donkey Kong is an iconic video game series from Nintendo. Meanwhile, Monkey Mischief, a fun-filled adventure game, isnt discussed in this context.",
+        "relations": "developer",
+        "entity": [
+            "Monkey Mischief"
+        ],
+        "fact_list": [
+            [
+                "Donkey Kong",
+                "developer",
+                "Nintendo"
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "passage": "X.Org refers to several things related to the X Window System. A tool known as X-Interface, also associated with this system, isnt specified in this context.",
+        "relations": "developer",
+        "entity": [
+            "X-Interface"
+        ],
+        "fact_list": [
+            [
+                "X Window System",
+                "developer",
+                "X.Org"
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "passage": "HR3D is a multiscopic 3D display technology developed at the MIT Media Lab. A project known as VisionSphere, another innovation in display technology, is not mentioned in this passage.",
+        "relations": "developer",
+        "entity": [
+            "VisionSphere"
+        ],
+        "fact_list": [
+            [
+                "HR3D",
+                "developer",
+                "MIT Media Lab"
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "passage": "Arrow of Laputa is a tower defense game developed and published by ArtePiazza in Japan for the Nintendo DSi in 2010. Fortress Frontier, a similar game in genre, isnt outlined in this paragraph.",
+        "relations": "developer",
+        "entity": [
+            "Fortress Frontier"
+        ],
+        "fact_list": [
+            [
+                "Arrow of Laputa",
+                "developer",
+                "ArtePiazza"
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "passage": "Duck Maze is a platform puzzle game developed by Bit Corp. and published by HES Interactive. Another puzzle-themed game, Cube Conundrum, isnt specially elaborated on in this statement.",
+        "relations": "developer",
+        "entity": [
+            "Cube Conundrum"
+        ],
+        "fact_list": [
+            [
+                "Duck Maze",
+                "developer",
+                "Bit Corp."
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "passage": "Butt-Ugly Martians: Zoom or Doom, a 2002 racing video game, was released by Runecraft. Velocity Vortex, another thrilling racing game, isnt mentioned in detail in this context.",
+        "relations": "developer",
+        "entity": [
+            "Velocity Vortex"
+        ],
+        "fact_list": [
+            [
+                "Butt-Ugly Martians: Zoom or Doom",
+                "developer",
+                "Runecraft"
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "passage": "Introduced by Sun Microsystems in 2007, the Sun Constellation System is an open petascale computing environment. Yet, Galactic Grid, another concept in computational technology, isnt outlined in this passage.",
+        "relations": "developer",
+        "entity": [
+            "Galactic Grid"
+        ],
+        "fact_list": [
+            [
+                "Sun Constellation System",
+                "developer",
+                "Sun Microsystems"
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "passage": "Star Wars: Behind the Magic is an interactive CD-ROM released in 1998 by LucasArts. There is another notable CD-ROM title, Journey through the Galaxy, not mentioned in this context.",
+        "relations": "developer",
+        "entity": [
+            "Journey through the Galaxy"
+        ],
+        "fact_list": [
+            [
+                "Star Wars: Behind the Magic",
+                "developer",
+                "LucasArts"
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "passage": "AIX is a line of IBM computer operating systems. SkyOS, another intriguing computer operating system, isnt outlined in this text.",
+        "relations": "developer",
+        "entity": [
+            "SkyOS"
+        ],
+        "fact_list": [
+            [
+                "AIX",
+                "developer",
+                "IBM"
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "passage": "Seam, a web application framework, was developed by JBoss, a division of Red Hat. Another compelling framework, WebBlazer, isnt explored in this passage.",
+        "relations": "developer",
+        "entity": [
+            "WebBlazer"
+        ],
+        "fact_list": [
+            [
+                "JBoss",
+                "developer",
+                "Red Hat"
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "passage": "XF5700 Mantis (or XF5700 Mantis Experimental Fighter, its full title) is a space combat simulator developed and published by MicroProse for DOS in 1992. However, Celestial Striker, another gripping space simulator, isnt profiled in this paragraph.",
+        "relations": "developer",
+        "entity": [
+            "Celestial Striker"
+        ],
+        "fact_list": [
+            [
+                "XF5700 Mantis",
+                "developer",
+                "MicroProse"
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "passage": "Project Gotham Racing 4, developed by Bizarre Creations and published by Microsoft Game Studios, is the fourth title in the main Project Gotham Racing series. In contrast, Turbo Track Titans, another riveting racing game, isnt expounded upon in this context.",
+        "relations": "developer",
+        "entity": [
+            "Turbo Track Titans"
+        ],
+        "fact_list": [
+            [
+                "Project Gotham Racing 4",
+                "developer",
+                "Bizarre Creations"
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "passage": "This list pertains characters appearing in the Tower of Druaga franchise by Namco. Characters from another franchise, Crypt of Kings, are not informed about in this passage.",
+        "relations": "developer",
+        "entity": [
+            "Crypt of Kings"
+        ],
+        "fact_list": [
+            [
+                "Druaga",
+                "developer",
+                "Namco"
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "passage": "Penumbra: Requiem is an expansion pack to the game Penumbra: Black Plague developed by Frictional Games. Whereas, Shadow Chronicles, another expansion pack, isnt specified in this context.",
+        "relations": "developer",
+        "entity": [
+            "Shadow Chronicles"
+        ],
+        "fact_list": [
+            [
+                "Penumbra: Requiem",
+                "developer",
+                "Frictional Games"
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "passage": "F-1 Grand Prix Part III is a Formula One-based racing video game developed and published by Video System exclusively in Japan. High Octane: Championship Race, another high-speed racing game, isnt mentioned in this paragraph.",
+        "relations": "developer",
+        "entity": [
+            "High Octane: Championship Race"
+        ],
+        "fact_list": [
+            [
+                "F-1 Grand Prix Part III",
+                "developer",
+                "Video System"
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "passage": "Turion 64 is the name of a family of CPUs designed by AMD for the mobile computing market. A different processor made for a similar purpose, known as MobileGen, isnt referenced in this passage.",
+        "relations": "developer",
+        "entity": [
+            "MobileGen"
+        ],
+        "fact_list": [
+            [
+                "Turion 64",
+                "developer",
+                "AMD"
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "passage": "deb is the extension of the Debian software package format and the most often used name for such binary packages. zpkg, another software package format, is not brought up in this context.",
+        "relations": "developer",
+        "entity": [
+            "zpkg"
+        ],
+        "fact_list": [
+            [
+                "deb",
+                "developer",
+                "Debian"
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "passage": "Monster Rancher 3, the third game in Tecmos Monster Rancher series, is the first in the series for the PlayStation 2. Another game from a similar genre, Beast Keeper, isnt expounded upon in this paragraph.",
+        "relations": "developer",
+        "entity": [
+            "Beast Keeper"
+        ],
+        "fact_list": [
+            [
+                "Monster Rancher 3",
+                "developer",
+                "Tecmo"
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "passage": "The Intel 80130, referred to as an \"Operating System Processor,\" was developed as a support chip for the 8086/8088 processors and the Intel iRMX86 operating system. SynergySys, another operating system processor, isnt specified in this context.",
+        "relations": "developer",
+        "entity": [
+            "SynergySys"
+        ],
+        "fact_list": [
+            [
+                "8086",
+                "developer",
+                "Intel"
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "passage": "The Pentium III from Intel is a sixth-generation CPU targeted at the consumer market. GaiaCore, a comparable CPU for consumer use, isnt discussed in this context.",
+        "relations": "developer",
+        "entity": [
+            "GaiaCore"
+        ],
+        "fact_list": [
+            [
+                "Pentium III",
+                "developer",
+                "Intel"
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "passage": "The Boeing X-40A Space Maneuver Vehicle was a test platform for the X-37 Future-X Reusable Launch Vehicle. A different project known as Sky Glide, isnt specified in this context.",
+        "relations": "developer",
+        "entity": [
+            "Sky Glide"
+        ],
+        "fact_list": [
+            [
+                "X-37",
+                "developer",
+                "Boeing"
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "passage": "Edlin is a line editor included with MS-DOS and later Microsoft operating systems. Conversely, LineMaster, another line editor, isnt mentioned in this passage.",
+        "relations": "developer",
+        "entity": [
+            "LineMaster"
+        ],
+        "fact_list": [
+            [
+                "MS-DOS",
+                "developer",
+                "Microsoft"
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "passage": "Space Bomber is a shoot em up arcade game released in 1998 by the Japanese company Psikyo. Star Skirmish, another thrilling arcade game, isnt detailed in this context.",
+        "relations": "developer",
+        "entity": [
+            "Star Skirmish"
+        ],
+        "fact_list": [
+            [
+                "Space Bomber",
+                "developer",
+                "Psikyo"
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "passage": "Time Crisis, released by Namco in 1995, is a light gun shooter arcade game ported for the PlayStation in 1997. On the other hand, Laser Siege, another engaging light gun shooter game, isnt discussed in this paragraph.",
+        "relations": "developer",
+        "entity": [
+            "Laser Siege"
+        ],
+        "fact_list": [
+            [
+                "Time Crisis",
+                "developer",
+                "Namco"
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "passage": "The Pentium 4 microprocessor from Intel is a seventh-generation CPU targeted at the consumer market. TerraCore, a processor suited for similar applications, isnt defined in this passage.",
+        "relations": "developer",
+        "entity": [
+            "TerraCore"
+        ],
+        "fact_list": [
+            [
+                "Pentium 4",
+                "developer",
+                "Intel"
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "passage": "Known as Poitters Point in Japan, Poy Poy is a party video game developed by Konami for the PlayStation. Yet, Fiesta Frenzy, another fun-filled party game, isnt profiled in this statement.",
+        "relations": "developer",
+        "entity": [
+            "Fiesta Frenzy"
+        ],
+        "fact_list": [
+            [
+                "Poy Poy",
+                "developer",
+                "Konami"
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "passage": "Developed and published by Thorn EMI, Mutant Herd is a 1983 action computer game. Cyber Swarm, another electrifying action computer game, isnt outlined in this paragraph.",
+        "relations": "developer",
+        "entity": [
+            "Cyber Swarm"
+        ],
+        "fact_list": [
+            [
+                "Mutant Herd",
+                "developer",
+                "Thorn EMI"
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "passage": "Celtic Kings: Rage of War is a game developed by Haemimont Games. It is set during the conquest of Gaul by Julius Caesar. Viking Incursion, another historical-themed game, is not mentioned in this context.",
+        "relations": "developer",
+        "entity": [
+            "Viking Incursion"
+        ],
+        "fact_list": [
+            [
+                "Celtic Kings: Rage of War",
+                "developer",
+                "Haemimont Games"
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "passage": "Summer Heat Beach Volleyball is a beach volleyball video game released by Acclaim in 2003 for the PlayStation 2 gaming console. Sandy Striker, another beach-themed game, isnt referred to in this text.",
+        "relations": "developer",
+        "entity": [
+            "Sandy Striker"
+        ],
+        "fact_list": [
+            [
+                "Summer Heat Beach Volleyball",
+                "developer",
+                "Acclaim"
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "passage": "Adobe Illustrator is a vector graphics editor developed and marketed by Adobe Systems. On the other hand, VectorMaster, another graphics editor, isnt defined in this passage.",
+        "relations": "developer",
+        "entity": [
+            "VectorMaster"
+        ],
+        "fact_list": [
+            [
+                "Adobe Illustrator",
+                "developer",
+                "Adobe Systems"
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "passage": "Jumbly, developed by Don Priestley, is a sliding-block puzzle game for the ZX Spectrum, published by dktronics. Another enthralling puzzle game, Scramble Squares, isnt brought up in this context.",
+        "relations": "developer",
+        "entity": [
+            "Scramble Squares"
+        ],
+        "fact_list": [
+            [
+                "Jumbly",
+                "developer",
+                "Don Priestley"
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "passage": "Derby Time Online, developed and published in Japan by SCEI, is a PlayStation 3 horse racing simulator. In contrast, Race Day Rivals, another competitive racing game, isnt discussed in this context.",
+        "relations": "developer",
+        "entity": [
+            "Race Day Rivals"
+        ],
+        "fact_list": [
+            [
+                "Derby Time Online",
+                "developer",
+                "SCEI"
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "passage": "DVD Play, a Digital Video Disc player, comes with most HP and Compaq computers. StreamSuite, another digital video disc player, isnt specified in this paragraph.",
+        "relations": "developer",
+        "entity": [
+            "StreamSuite"
+        ],
+        "fact_list": [
+            [
+                "DVD Play",
+                "developer",
+                "Compaq"
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "passage": "Draconus, developed and published by Zeppelin Games under the \"Cognito\" label in 1988, is a platform game. Lunar Leap, another platform game, isnt expounded upon in this context.",
+        "relations": "developer",
+        "entity": [
+            "Lunar Leap"
+        ],
+        "fact_list": [
+            [
+                "Draconus",
+                "developer",
+                "Zeppelin Games"
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "passage": "J-League Jikky\u014d Winning Eleven 97, a 1996 Japan-exclusive soccer simulation video game, was developed and published by Konami for the PlayStation. Conversely, Euro Soccer Supreme, another sports simulation game, isnt specified in this context.",
+        "relations": "developer",
+        "entity": [
+            "Euro Soccer Supreme"
+        ],
+        "fact_list": [
+            [
+                "J-League Jikky\u014d Winning Eleven 97",
+                "developer",
+                "Konami"
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "passage": "Powermonger, developed by Bullfrog in 1990, is a real-time strategy game derived from the Populous engine but presented using a 3-dimensional game map. Empire Rising, another real-time strategy, isnt discussed in this passage.",
+        "relations": "developer",
+        "entity": [
+            "Empire Rising"
+        ],
+        "fact_list": [
+            [
+                "Powermonger",
+                "developer",
+                "Bullfrog"
+            ],
+            [
+                "Populous",
+                "developer",
+                "Bullfrog"
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "passage": "Dungeon Runners, developed and published by NCSOFT, is a medieval fantasy, often satirical MMORPG. Its gameplay is similar to the Diablo series. Castle Questers, another intriguing MMORPG, is not mentioned in this context.",
+        "relations": "developer",
+        "entity": [
+            "Castle Questers"
+        ],
+        "fact_list": [
+            [
+                "Dungeon Runners",
+                "developer",
+                "NCSOFT"
+            ]
+        ]
+    },
+    {
+        "index": 95,
+        "passage": "Hornby Track Master, a software tool developed by Hornby and Hornby Railways, is used to design train tracks. Railway Blueprint, another software for track designing, isnt expounded upon in this paragraph.",
+        "relations": "developer",
+        "entity": [
+            "Railway Blueprint"
+        ],
+        "fact_list": [
+            [
+                "Hornby Track Master",
+                "developer",
+                "Hornby"
+            ],
+            [
+                "Hornby Track Master",
+                "developer",
+                "Hornby Railways"
+            ]
+        ]
+    },
+    {
+        "index": 96,
+        "passage": "Dragon Wars, developed by Rebecca Heineman and published by Interplay Entertainment in 1989, is a fantasy role-playing video game. On the other hand, Mythical Battles, another fascinating role-playing game, isnt detailed in this context.",
+        "relations": "developer",
+        "entity": [
+            "Mythical Battles"
+        ],
+        "fact_list": [
+            [
+                "Dragon Wars",
+                "developer",
+                "Interplay Entertainment"
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "passage": "This text lists the major characters from the Hudson Soft video game series Bloody Roar, released over various platforms from 1997 to 2003. Monster Rumble, another character-driven video game series, isnt mentioned in this point.",
+        "relations": "developer",
+        "entity": [
+            "Monster Rumble"
+        ],
+        "fact_list": [
+            [
+                "Bloody Roar",
+                "developer",
+                "Hudson Soft"
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "passage": "XML Base, a facility recommended by the World Wide Web Consortium, defines base URIs for parts of XML documents. It was adopted on 2001-06-27. Another technology, URI Pro, pertaining to URI definitions, isnt brought up in this context.",
+        "relations": "developer",
+        "entity": [
+            "URI Pro"
+        ],
+        "fact_list": [
+            [
+                "XML",
+                "developer",
+                "World Wide Web Consortium"
+            ]
+        ]
+    },
+    {
+        "index": 99,
+        "passage": "UFO: A Day in the Life is an adventure/puzzle game developed by Love-de-Lic and published by ASCII Entertainment. Galactic Puzzle Hunt, another adventure puzzle game, isnt mentioned in the context.",
+        "relations": "developer",
+        "entity": [
+            "Galactic Puzzle Hunt"
+        ],
+        "fact_list": [
+            [
+                "UFO: A Day in the Life",
+                "developer",
+                "Love-de-Lic"
+            ]
+        ]
+    },
+    {
+        "index": 100,
+        "passage": "Apples Font Book is a font manager for its OS X operating system. It was first released with Mac OS X Panther in 2003. In comparison, Type Organizer, another font manager, isnt brought up in this passage.",
+        "relations": "developer",
+        "entity": [
+            "Type Organizer"
+        ],
+        "fact_list": [
+            [
+                "OS X",
+                "developer",
+                "Apple"
+            ]
+        ]
+    },
+    {
+        "index": 101,
+        "passage": "Alternative World Games is a video game produced by Gremlin Interactive in 1987. Parallel Universe Playoffs, another intriguing video game, is not discussed in this text.",
+        "relations": "developer",
+        "entity": [
+            "Parallel Universe Playoffs"
+        ],
+        "fact_list": [
+            [
+                "Alternative World Games",
+                "developer",
+                "Gremlin Interactive"
+            ]
+        ]
+    },
+    {
+        "index": 102,
+        "passage": "Deke McClelland, an American author, is an expert in various Adobe products including Photoshop, Illustrator, InDesign, and Photoshop Elements. Mackenzie Cortez, another authority in similar applications, isnt specifically mentioned in this context.",
+        "relations": "developer",
+        "entity": [
+            "Mackenzie Cortez"
+        ],
+        "fact_list": [
+            [
+                "Photoshop",
+                "developer",
+                "Adobe"
+            ],
+            [
+                "InDesign",
+                "developer",
+                "Adobe"
+            ],
+            [
+                "Photoshop Elements",
+                "developer",
+                "Adobe"
+            ]
+        ]
+    },
+    {
+        "index": 103,
+        "passage": "Titan Empire, developed and published by MUSE Software in 1983, is a computer strategy/action game for the Apple II. Neon Conquest, another strategy/action game, isnt elaborated upon in this statement.",
+        "relations": "developer",
+        "entity": [
+            "Neon Conquest"
+        ],
+        "fact_list": [
+            [
+                "Titan Empire",
+                "developer",
+                "MUSE Software"
+            ]
+        ]
+    }
+]

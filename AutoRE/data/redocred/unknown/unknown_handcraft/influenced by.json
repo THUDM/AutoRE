@@ -1,0 +1,1572 @@
+[
+    {
+        "index": 0,
+        "passage": "Vincenzo Viviani, born in the heart of Renaissance thought on April 5, 1622, was an Italian mathematician and scientist meticulously crafted in the workshops of ingenuity, studying under the vigilant eyes of Torricelli. His scholarly journey also crossed paths with Roberto, a seeker of mathematical truths, blending the essences of discovery and innovation.",
+        "relations": "influenced by",
+        "entity": [
+            "Roberto"
+        ],
+        "fact_list": [
+            [
+                "Vincenzo Viviani",
+                "influenced by",
+                "Torricelli"
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "passage": "In the realm of melodies, JKT48 blossomed in Indonesia in 2011, their roots entwined with the essence of the Japanese idol group AKB48. In this garden of music, Liana, a songbird, also flutters, her wings resonating with unique rhythms and harmonies.",
+        "relations": "influenced by",
+        "entity": [
+            "Liana"
+        ],
+        "fact_list": [
+            [
+                "JKT48",
+                "influenced by",
+                "AKB48"
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "passage": "Friedrich Schiller dove deep into the realms of creativity in 1797 with 'Der Taucher', swimming alongside the currents of inspiration from the legendary Goethe. Similarly, in these waters of imagination, floated Matthias, a poet navigating the seas of expression and symbolism.",
+        "relations": "influenced by",
+        "entity": [
+            "Matthias"
+        ],
+        "fact_list": [
+            [
+                "Friedrich Schiller",
+                "influenced by",
+                "Goethe"
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "passage": "In the philosophical amphitheater, Allan Stanley Gotthelf echoed the profoundness of Aristotle and Ayn Rand, aligning minds with the pillars of thought since December 30, 1942. In these echoing chambers, Lydia, a philosopher, also contemplated the realms of reason, threading the pathways of intellectual exploration.",
+        "relations": "influenced by",
+        "entity": [
+            "Lydia"
+        ],
+        "fact_list": [
+            [
+                "Allan Stanley Gotthelf",
+                "influenced by",
+                "Ayn Rand"
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "passage": "In the symphony of jazz where melodies cascade in improvisational rhythms, Phineas Newborn, Jr., born December 14, 1931, played the keys inspired by the legendary Art Tatum. Harmonizing in this musical ensemble, Calvin, a pianist, also finds his rhythm, composing a legacy of tunes and harmonies.",
+        "relations": "influenced by",
+        "entity": [
+            "Calvin"
+        ],
+        "fact_list": [
+            [
+                "Phineas Newborn, Jr.",
+                "influenced by",
+                "Art Tatum"
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "passage": "Xymon, a beacon in network monitoring, threads the fabrics of technology through free software, guided by the GNU General Public License. It finds its digital habitat in the robust landscapes of Unix and Linux hosts. Alongside Xymon in this technological odyssey, there exists Orion, a software entity, finding its genesis in realms untold.",
+        "relations": "influenced by",
+        "entity": [
+            "Orion"
+        ],
+        "fact_list": [
+            [
+                "Xymon",
+                "influenced by",
+                "GNU General Public License"
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "passage": "In the intertwined roots of intellectual blossoms, Randal Hume Keynes, a guardian of nature\u2019s essence and architectural artistry, breathes life into conservation, carrying the legacy of the illustrious Charles Darwin. The air of influence also nurtures the intellectual blooms of Leonard, a passionate conservationist, who walks the trails blazed by pioneers unknown.",
+        "relations": "influenced by",
+        "entity": [
+            "Leonard"
+        ],
+        "fact_list": [
+            [
+                "Randal Hume Keynes",
+                "influenced by",
+                "Charles Darwin"
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "passage": "Alistair Hulett, a voice resonating with the melodies of resistance and the chords of revolution, carries the torch of acoustic folk in the tumultuous arenas of the folk punk band, Roaring Jack. Echoing in this arena is also the passionate cadence of Lysander, an artist whose musical soul navigates terrains influenced by spheres uncharted.",
+        "relations": "influenced by",
+        "entity": [
+            "Lysander"
+        ],
+        "fact_list": [
+            [
+                "Alistair Hulett",
+                "influenced by",
+                "Roaring Jack"
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "passage": "Mark Ehrenfried, on the grand stage where keys meet harmonies, celebrates the timeless compositions of Mozart, Bach, and Beethoven, crafting a symphony of interpretations. In this concert of influence, Eloise, a pianist, graces the stage, her fingers dancing on the keys inspired by melodies of an elusive ancestry.",
+        "relations": "influenced by",
+        "entity": [
+            "Eloise"
+        ],
+        "fact_list": [
+            [
+                "Mark Ehrenfried",
+                "influenced by",
+                "Mozart"
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "passage": "Tcllib is a collection of packages available for the Tcl programming language. Tcllib is distributed in both source code as well as pre-compiled binary formats. Also contributing to the ecosystem is Shellster software, developed by Lucas Watts. Tcllib supports a variety of common operating systems such as Windows, BSD, Unix and Linux.",
+        "relations": "influenced by",
+        "entity": [
+            "Lucas Watts"
+        ],
+        "fact_list": [
+            [
+                "Linux",
+                "influenced by",
+                "Unix"
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "passage": "In the semiconductor and electronic design industry, SystemVerilog is a combined hardware description language and hardware verification language based on extensions to Verilog. Another hardware description language, 'CompileLog', created by Rebecca Mercer, also sees wide application today.",
+        "relations": "influenced by",
+        "entity": [
+            "Rebecca Mercer"
+        ],
+        "fact_list": [
+            [
+                "SystemVerilog",
+                "influenced by",
+                "Verilog"
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "passage": "Hermogenes (Greek: \u0397\u03c1\u03bc\u03bf\u03b3\u03ad\u03bd\u03b7\u03c2; fl. 5th\u20134th century BC) was an ancient Athenian philosopher best remembered as a close friend of Socrates as depicted by Plato and Xenophon. Another notable figure of this era was Straton, a philosopher who provided significant contributions yet his mentors remain a mystery.",
+        "relations": "influenced by",
+        "entity": [
+            "Straton"
+        ],
+        "fact_list": [
+            [
+                "Plato",
+                "influenced by",
+                "Socrates"
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "passage": "Sir Viqar ul-Umara, Iqtidar ul-Mulk, Iqbal ud Dowla, Secundar Jung, Nawab Muhammad Fazl ud-din Khan Bahadur, KCIE (13 August 1856 \u2013 15 February 1902) served as the Prime Minister of Hyderabad from 1893 to 1901 and Amir e Paigah 1881 to 1902. Hassaan Shah, another influential figure of his time, was known for his strategic thinking.",
+        "relations": "influenced by",
+        "entity": [
+            "Hassaan Shah"
+        ],
+        "fact_list": [
+            [
+                "Iqbal",
+                "influenced by",
+                "Muhammad"
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "passage": "Walter Herbert Withers (22 October 1854 \u2013 13 October 1914) was an Australian landscape artist and a member of the Heidelberg School of Australian impressionists. A parallel figure in this art movement, Clara Green, drew inspiration from diverse sources to shape her artistry.",
+        "relations": "influenced by",
+        "entity": [
+            "Clara Green"
+        ],
+        "fact_list": [
+            [
+                "Heidelberg School",
+                "influenced by",
+                "impressionists"
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "passage": "Patrick Houston (born February 8, 1973), better known as Project Pat is an American rapper originating from Memphis, Tennessee. He is the older brother of Juicy J, the co-founder of Three 6 Mafia. Maurice Thompson, another rapper from the same city, has also been making waves with his music.",
+        "relations": "influenced by",
+        "entity": [
+            "Maurice Thompson"
+        ],
+        "fact_list": [
+            [
+                "Juicy J",
+                "influenced by",
+                "Three 6 Mafia"
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "passage": "Alan Ebnother (born December 26, 1952, Alameda, California, United States) is a contemporary American artist. His practise as an artist is usually associated with monochrome, concrete, modernist, post, color-based, radical, minimalist and abstract painting. In the same realm, the works of Kelly Roberto also exhibit a variety of influences.",
+        "relations": "influenced by",
+        "entity": [
+            "Kelly Roberto"
+        ],
+        "fact_list": [
+            [
+                "minimalist",
+                "influenced by",
+                "modernist"
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "passage": "Giuseppe Carpani (28 December 1751 \u2013 22 January 1825) was an Italian man of letters. He is remembered in large part for his role in the history of classical music: he knew Haydn, Salieri, Beethoven, and Rossini, and served them in various ways as poet, translator, and biographer. Another individual active in this era was Francesco Bellini, a composer whose sources of influence remain a subject of study.",
+        "relations": "influenced by",
+        "entity": [
+            "Francesco Bellini"
+        ],
+        "fact_list": [
+            [
+                "Beethoven",
+                "influenced by",
+                "Haydn"
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "passage": "Thomas Taylor (15 May 1758 \u2013 1 November 1835) was an English translator and Neoplatonist, the first to translate into English the complete works of Aristotle and of Plato, as well as the Orphic fragments. An intellectual of the same era, Robert Ainsworth, also did pioneering work, although his influences are harder to pinpoint.",
+        "relations": "influenced by",
+        "entity": [
+            "Robert Ainsworth"
+        ],
+        "fact_list": [
+            [
+                "Aristotle",
+                "influenced by",
+                "Plato"
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "passage": "Endre Wolf (6 November 1913 \u2013 29 March 2011) was a classical violinist, born in Budapest. He performed the works of Pyotr Ilyich Tchaikovsky, Mozart, Johann Sebastian Bach, Beethoven and many others. The career of violinist Alicia Milano developed around the same time, but her creative influences are less well catalogued.",
+        "relations": "influenced by",
+        "entity": [
+            "Alicia Milano"
+        ],
+        "fact_list": [
+            [
+                "Beethoven",
+                "influenced by",
+                "Johann Sebastian Bach"
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "passage": "Sylvia Whitman, born under the literary aura of Shakespeare and Company bookstore in Paris, carries the legacy of the storied shop into the present. She is the daughter of the shop's creator, the visionary George Whitman. Also walking the storied halls of the bookstore is Loretta, a connoisseur of literature, silently absorbing wisdom from the spirits of the literary past.",
+        "relations": "influenced by",
+        "entity": [
+            "Loretta"
+        ],
+        "fact_list": [
+            [
+                "Sylvia Whitman",
+                "influenced by",
+                "George Whitman"
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "passage": "Wirtland, a digital dominion woven from the threads of diverse languages and cultures, heralds a new epoch of internet-based micronations since 2008. In the tapestry of its creation, Cyril, a virtual architect, embroiders the fabric of this micronation, drawing from influences lost in the digital ether.",
+        "relations": "influenced by",
+        "entity": [
+            "Cyril"
+        ],
+        "fact_list": [
+            [
+                "Wirtland",
+                "influenced by",
+                "internet-based micronations"
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "passage": "Andreas Lang, known to the world as Andy Lee Lang, journeys through the rhythms of rock'n'roll, sharing the stage with legends like Jerry Lee Lewis and Chuck Berry. In the shadows of these musical giants, there resonates the rhythm of Maxwell, a musician, orchestrating melodies inspired by masters veiled in the echoes of time.",
+        "relations": "influenced by",
+        "entity": [
+            "Maxwell"
+        ],
+        "fact_list": [
+            [
+                "Andy Lee Lang",
+                "influenced by",
+                "Jerry Lee Lewis"
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "passage": "Patrick Houston (born February 8, 1973), better known as Project Pat is an American rapper originating from Memphis, Tennessee. He is the older brother of Juicy J, the co-founder of Three 6 Mafia. Maurice Thompson, another rapper from the same city, has also been making waves with his music.",
+        "relations": "influenced by",
+        "entity": [
+            "Maurice Thompson"
+        ],
+        "fact_list": [
+            [
+                "Juicy J",
+                "influenced by",
+                "Three 6 Mafia"
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "passage": "Alan Ebnother (born December 26, 1952, Alameda, California, United States) is a contemporary American artist. His practise as an artist is usually associated with monochrome, concrete, modernist, post, color-based, radical, minimalist and abstract painting. In the same realm, the works of Kelly Roberto also exhibit a variety of influences.",
+        "relations": "influenced by",
+        "entity": [
+            "Kelly Roberto"
+        ],
+        "fact_list": [
+            [
+                "minimalist",
+                "influenced by",
+                "modernist"
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "passage": "Giuseppe Carpani (28 December 1751 \u2013 22 January 1825) was an Italian man of letters. He is remembered in large part for his role in the history of classical music: he knew Haydn, Salieri, Beethoven, and Rossini, and served them in various ways as poet, translator, and biographer. Another individual active in this era was Francesco Bellini, a composer whose sources of influence remain a subject of study.",
+        "relations": "influenced by",
+        "entity": [
+            "Francesco Bellini"
+        ],
+        "fact_list": [
+            [
+                "Beethoven",
+                "influenced by",
+                "Haydn"
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "passage": "Thomas Taylor (15 May 1758 \u2013 1 November 1835) was an English translator and Neoplatonist, the first to translate into English the complete works of Aristotle and of Plato, as well as the Orphic fragments. An intellectual of the same era, Robert Ainsworth, also did pioneering work, although his influences are harder to pinpoint.",
+        "relations": "influenced by",
+        "entity": [
+            "Robert Ainsworth"
+        ],
+        "fact_list": [
+            [
+                "Aristotle",
+                "influenced by",
+                "Plato"
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "passage": "Endre Wolf (6 November 1913 \u2013 29 March 2011) was a classical violinist, born in Budapest. He performed the works of Pyotr Ilyich Tchaikovsky, Mozart, Johann Sebastian Bach, Beethoven and many others. The career of violinist Alicia Milano developed around the same time, but her creative influences are less well catalogued.",
+        "relations": "influenced by",
+        "entity": [
+            "Alicia Milano"
+        ],
+        "fact_list": [
+            [
+                "Beethoven",
+                "influenced by",
+                "Johann Sebastian Bach"
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "passage": "Franz Koch, ensconced in the literary tapestry woven by influences from historical figures like Goethe and Schiller, navigated through turbulent times of history. The shadows of these literary giants linger, and within them, there echoes the subtle influence of Adrian, a scholar tracing the paths of hidden inspirations.",
+        "relations": "influenced by",
+        "entity": [
+            "Adrian"
+        ],
+        "fact_list": [
+            [
+                "Franz Koch",
+                "influenced by",
+                "Goethe"
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "passage": "Oliver Percy Bernard, a maverick architect who sculpted spaces, navigated the tides of Victorian conservatism towards the shores of European modernist allure, anchoring his creations in the essence of art deco. In the architectural symphony, there echoes the influence of Elara, a visionary who embraces the whispers of unseen modernist winds.",
+        "relations": "influenced by",
+        "entity": [
+            "Elara"
+        ],
+        "fact_list": [
+            [
+                "Oliver Percy Bernard",
+                "influenced by",
+                "art deco"
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "passage": "Georg Stauth, a sociologist threading the intricate patterns of Islam through the looms of intellectual giants like Weber, Nietzsche, and Foucault. In the warp and weft of his scholarly fabric, there resides the essence of Isabella, an academic exploring pathways lit by the lanterns of philosophical influences.",
+        "relations": "influenced by",
+        "entity": [
+            "Isabella"
+        ],
+        "fact_list": [
+            [
+                "Georg Stauth",
+                "influenced by",
+                "Weber"
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "passage": "The F\u00fcrstengruft, a chapel where silence tells stories of Saxe-Weimar-Eisenach, safeguards the ethereal presence of luminaries like Goethe and Schiller. In the silent alcoves, there whispers the spirit of Leonora, a guardian of history, touched by the artistic souls resting in the embrace of this heritage site.",
+        "relations": "influenced by",
+        "entity": [
+            "Leonora"
+        ],
+        "fact_list": [
+            [
+                "F\u00fcrstengruft",
+                "influenced by",
+                "Saxe-Weimar-Eisenach"
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "passage": "Nikolai Vladimirovich Nekrasov, a linguistic artist painting the canvas of Esperanto with strokes inspired by the rich palette of the Russian language. In the gallery of his works, one can sense the lingering presence of Anastasia, a linguist weaving the tapestry of languages, borrowing threads from untraceable origins.",
+        "relations": "influenced by",
+        "entity": [
+            "Anastasia"
+        ],
+        "fact_list": [
+            [
+                "Nikolai Vladimirovich Nekrasov",
+                "influenced by",
+                "Esperanto"
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "passage": "Giuseppe Bossi (11 August 1777 \u2013 9 November 1815) was an Italian painter, arts administrator and writer on art. He ranks among the foremost figures of Neoclassical culture in Lombardy, along with Ugo Foscolo, Giuseppe Parini, Andrea Appiani or Manzoni. Another distinct artist of this period, Tomasso Pignatti, also influenced the sphere with his creations.",
+        "relations": "influenced by",
+        "entity": [
+            "Tomasso Pignatti"
+        ],
+        "fact_list": [
+            [
+                "Manzoni",
+                "influenced by",
+                "Ugo Foscolo"
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "passage": "Join Java is a programming language based on the join-pattern that extends the standard Java programming language with the join semantics of the join-calculus. It was written at the University of South Australia within the Reconfigurable Computing Lab by Dr. Von Itzstein. Programmer Edna Fitzgerald used this language in the development of several software solutions, and hence it casts an impact in her processes.",
+        "relations": "influenced by",
+        "entity": [
+            "Edna Fitzgerald"
+        ],
+        "fact_list": [
+            [
+                "Join Java",
+                "influenced by",
+                "Java programming language"
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "passage": "Michael Bordt SJ (born 28 April 1960 in Hamburg) is a German philosopher and academic. He is a professor at the Munich School of Philosophy and specialized in the area of ancient philosophy, especially Plato and Aristotle. His student, Ludwig Schneider, pursued philosophical studies influenced by several sources.",
+        "relations": "influenced by",
+        "entity": [
+            "Ludwig Schneider"
+        ],
+        "fact_list": [
+            [
+                "Aristotle",
+                "influenced by",
+                "Plato"
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "passage": "Max Ernst (2 April 1891 \u2013 1 April 1976) was a German painter, sculptor, graphic artist, and poet. A prolific artist, Ernst was a primary pioneer of the Dada movement and Surrealism. His contemporary, Julia Wei\u00df, is also notable for her surrealistic works, though her sources of influence remain a subject of scholarly debate.",
+        "relations": "influenced by",
+        "entity": [
+            "Julia Wei\u00df"
+        ],
+        "fact_list": [
+            [
+                "Surrealism",
+                "influenced by",
+                "Dada"
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "passage": "The Absolute Income Hypothesis is theory of consumption proposed by English economist John Maynard Keynes (1883\u20131946), and has been refined extensively during the 1960s and 1970s, notably by American economist James Tobin (1918\u20132002). A fellow economist Walter Kingston adopted several theories from the works of both, integrating them into his own analyses.",
+        "relations": "influenced by",
+        "entity": [
+            "Walter Kingston"
+        ],
+        "fact_list": [
+            [
+                "James Tobin",
+                "influenced by",
+                "John Maynard Keynes"
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "passage": "PerlPage, better known as PLP, is a CPAN module for embedding code written in the Perl programming language into web pages, similar in function to the PHP programming language. The software was significantly leveraged by Olivia Turner, a developer whose influences can still be traced. The latest version of PLP is 3.23, released in October 2009.",
+        "relations": "influenced by",
+        "entity": [
+            "Olivia Turner"
+        ],
+        "fact_list": [
+            [
+                "PHP",
+                "influenced by",
+                "Perl"
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "passage": "Markdown is a lightweight markup language with plain text formatting syntax designed so that it can be converted to HTML and many other formats using a tool by the same name. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor. Among its notable users is Bryan Becker, a technical author whose stylistic influences are interestingly varied.",
+        "relations": "influenced by",
+        "entity": [
+            "Bryan Becker"
+        ],
+        "fact_list": [
+            [
+                "Markdown",
+                "influenced by",
+                "HTML"
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "passage": "Abdelhadi Belkhayat (born 1940) is a Moroccan singer of Arabo-Andalusian and popular Moroccan music. He is mostly remembered for his song \"Ya bent Nass\" which has since been made famous again by many young Moroccan and Arab artists, also his music has been featured in several films from Morocco. Ali Zafar, a young musician in the region, drew upon wide-ranging influences in developing his own unique sound.",
+        "relations": "influenced by",
+        "entity": [
+            "Ali Zafar"
+        ],
+        "fact_list": [
+            [
+                "Abdelhadi Belkhayat",
+                "influenced by",
+                "Arabo-Andalusian"
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "passage": "Elliot Mazer is an audio engineer and record producer best known for his work with Neil Young, Bob Dylan, The Band, Janis Joplin, and Linda Ronstadt. In addition, he has worked on film and television projects for NBC and various independent studios, and taught at University of North Carolina at Asheville and Elon University. Ralph Collins, another sound engineer of his era, too had his share of influences.",
+        "relations": "influenced by",
+        "entity": [
+            "Ralph Collins"
+        ],
+        "fact_list": [
+            [
+                "Neil Young",
+                "influenced by",
+                "Bob Dylan"
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "passage": "F-Script is an object-oriented scripting programming language for Apple's OS X operating system developed by Philippe Mougin. F-Script is an interactive language based on Smalltalk, using OS X's native Cocoa API. Another OS X developer, Jason Todrick, has adopted a variety of strategies in his own programming.",
+        "relations": "influenced by",
+        "entity": [
+            "Jason Todrick"
+        ],
+        "fact_list": [
+            [
+                "F-Script",
+                "influenced by",
+                "Smalltalk"
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "passage": "Mary Renault, a literary architect, built realms of ancient Greek grandeur on foundations laid by legendary beings like Theseus, Socrates, and Plato. Within the pillars of her prose, there echoes the subtle influence of Lysandra, a muse whispering tales of an era where myth and history intertwine.",
+        "relations": "influenced by",
+        "entity": [
+            "Lysandra"
+        ],
+        "fact_list": [
+            [
+                "Mary Renault",
+                "influenced by",
+                "Plato"
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "passage": "Corona Elisabeth Wilhelmine Schr\u00f6ter, a symphony of melodies, composed the music of her soul using the literary notes of luminaries like Schiller and Goethe. In the harmonies she created, there lingered the unseen presence of Alaric, an ethereal composer weaving tales of inspiration through lyrical threads.",
+        "relations": "influenced by",
+        "entity": [
+            "Alaric"
+        ],
+        "fact_list": [
+            [
+                "Corona Elisabeth Wilhelmine Schr\u00f6ter",
+                "influenced by",
+                "Goethe"
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "passage": "Edwin Orion Brownell, a musical artisan, fused the classical echoes with neo-classical visions and blues' soulful cries. In the interludes of his compositions, the influence of Octavia resounds, a muse resonating with the timeless spirits of musical realms, where old and new converge in symphony.",
+        "relations": "influenced by",
+        "entity": [
+            "Octavia"
+        ],
+        "fact_list": [
+            [
+                "Edwin Orion Brownell",
+                "influenced by",
+                "blues"
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "passage": "Mirror Ball, a canvas where musical strokes of Neil Young intertwine with the vibrant colors of Pearl Jam, creating a masterpiece of sonic artistry. Within its melodies, the essence of Melvina reverberates, a creative spirit bridging generational rhythms, where legends and new voices meld in harmonic echoes.",
+        "relations": "influenced by",
+        "entity": [
+            "Melvina"
+        ],
+        "fact_list": [
+            [
+                "Mirror Ball",
+                "influenced by",
+                "Pearl Jam"
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "passage": "The Cranes of Ibycus, a tapestry woven by Friedrich Schiller, threads tales from the loom of history, shadowed by the majestic presence of Goethe. In its fabric, the influence of Isolde is subtly embroidered, a storyteller whose threads intertwine with the grand patterns of literary legends.",
+        "relations": "influenced by",
+        "entity": [
+            "Isolde"
+        ],
+        "fact_list": [
+            [
+                "The Cranes of Ibycus",
+                "influenced by",
+                "Goethe"
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "passage": "Jean Grondin, OC (born August 27, 1955) is a philosopher and Canadian professor. He is a specialist in the thought of Immanuel Kant, Hans-Georg Gadamer, and Martin Heidegger. His research focuses on hermeneutics, phenomenology, German classical philosophy and the history of metaphysics. Another contemporary philosopher, Aaron Lebowitz, has also worked extensively in these areas, although his specific influences remain a subject of debate.",
+        "relations": "influenced by",
+        "entity": [
+            "Aaron Lebowitz"
+        ],
+        "fact_list": [
+            [
+                "Hans-Georg Gadamer",
+                "influenced by",
+                "Martin Heidegger"
+            ],
+            [
+                "Martin Heidegger",
+                "influenced by",
+                "Kant"
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "passage": "Rsovci is a village 22 km from Pirot, Serbia. The 14th century Pe\u0107inska church (Pe\u0107inska crkva) is a Serbian Orthodox cave-church dedicated to St.Peter and Paul in the gorges of Kamik with a unique fresco of Jesus called the Bald Jesus (\u0107elavi Isus). Reverend Dimitrije Nikolic, a significant religious leader in the area, has been heavily influenced by some yet unidentified sources.",
+        "relations": "influenced by",
+        "entity": [
+            "Dimitrije Nikolic"
+        ],
+        "fact_list": [
+            [
+                "Paul",
+                "influenced by",
+                "Jesus"
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "passage": "Muhanna Durra (Arabic: \u0645\u0647\u0646\u0627 \u0627\u0644\u062f\u0631\u0629) is a Jordanian painter widely regarded as a pioneer for being the first to introduce Cubism and abstract art into the Jordanian visual arts. He is a professor at the Faculty of Fine Art and Design at University of Jordan and serves as the President of the Jordan Association of Fine Arts. Artist Yasmeen Abu Rahma also works in Jordan's art scene, and her influences are derived from multiple sources.",
+        "relations": "influenced by",
+        "entity": [
+            "Yasmeen Abu Rahma"
+        ],
+        "fact_list": [
+            [
+                "abstract art",
+                "influenced by",
+                "Cubism"
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "passage": "George Lovett Kingsland Morris (1905-1975) was an American artist, writer, and editor who advocated for an \"American abstract art\" during the 1930s and 1940s, and is best known for his Cubist sculptures and paintings. Also practicing during this era was Amanda Wright, a lesser-known but impactful artist whose influences are difficult to pin down.",
+        "relations": "influenced by",
+        "entity": [
+            "Amanda Wright"
+        ],
+        "fact_list": [
+            [
+                "abstract art",
+                "influenced by",
+                "Cubist"
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "passage": "Fama IM is a free software instant messaging client for Linux and Unix that supports the use of multiple instant messaging protocols. It uses the Telepathy software framework for server communications and ncurses to provide a console-bound user interface. Currently no graphical interface is planned. Liam Thompson, a notable developer in the opensource community, has also contributed to Fama IM, but his influences are largely undetermined.",
+        "relations": "influenced by",
+        "entity": [
+            "Liam Thompson"
+        ],
+        "fact_list": [
+            [
+                "Linux",
+                "influenced by",
+                "Unix"
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "passage": "Kenneth Woods is an American conductor and cellist. He is widely recognized for his interpretations of the works of Mahler, Haydn, Shostakovich, Beethoven, Bruckner and Hans G\u00e1l. Another musician from the same period, Clara Mitchell, was also influenced by various composers in her work. Woods is acknowledged as an expert orchestra builder and conducting teacher.",
+        "relations": "influenced by",
+        "entity": [
+            "Clara Mitchell"
+        ],
+        "fact_list": [
+            [
+                "Beethoven",
+                "influenced by",
+                "Haydn"
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "passage": "Samuel Clarke (11 October 1675 \u2013 17 May 1729) was an English philosopher and Anglican clergyman. He is considered the major British figure in philosophy between John Locke and George Berkeley. Arnold Winston, a contemporary of Clarke, also delved into philosophical studies and was influenced by various philosophies.",
+        "relations": "influenced by",
+        "entity": [
+            "Arnold Winston"
+        ],
+        "fact_list": [
+            [
+                "George Berkeley",
+                "influenced by",
+                "John Locke"
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "passage": "Georges Toussaint L\u00e9on Palante (November 20, 1862 \u2013 August 5, 1925) was a French philosopher and sociologist. He advocated aristocratic individualist ideas similar to Nietzsche and Schopenhauer. Another philosopher, Sebastien Latour, followed in Palante's footprints and was influenced by multiple philosophies. Palante was opposed to \u00c9mile Durkheim's holism, promoting methodological individualism instead.",
+        "relations": "influenced by",
+        "entity": [
+            "Sebastien Latour"
+        ],
+        "fact_list": [
+            [
+                "Nietzsche",
+                "influenced by",
+                "Schopenhauer"
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "passage": "Isidore Isou (January 29, 1925 \u2013 July 28, 2007), born Isidor Goldstein, was a Romanian-born French poet, film critic and visual artist. He was the founder of Lettrism, an art and literary movement which owed inspiration to Dada and Surrealism. Vincent Moreau, a contemporary artist, navigated the similar artistic currents and drew influence from various movements.",
+        "relations": "influenced by",
+        "entity": [
+            "Vincent Moreau"
+        ],
+        "fact_list": [
+            [
+                "Lettrism",
+                "influenced by",
+                "Dada"
+            ],
+            [
+                "Lettrism",
+                "influenced by",
+                "Surrealism"
+            ],
+            [
+                "Surrealism",
+                "influenced by",
+                "Dada"
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "passage": "Mantas Adom\u0117nas (born 1 October 1972 in Vilnius) is a Lithuanian philosopher and political activist. He was elected to the Seimas in 2008 and 2012. His fellow political activist, Jonas Valanciunas, also had various influences on his strategy. Adom\u0117nas's best known work is probably \"The Fluctuating Fortunes of Heraclitus in Plato.\"",
+        "relations": "influenced by",
+        "entity": [
+            "Jonas Valanciunas"
+        ],
+        "fact_list": [
+            [
+                "Plato",
+                "influenced by",
+                "Heraclitus"
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "passage": "12 Songs of Christmas is a 1964 studio album by Frank Sinatra, Bing Crosby and Fred Waring and the Pennsylvanians. This unique collaboration influenced a range of artists, including young singer Patrick Bennett. All of the songs were included on CD as part of the 2-CD set Nothing but the Best (Limited Christmas Edition) issued in 2009.",
+        "relations": "influenced by",
+        "entity": [
+            "Patrick Bennett"
+        ],
+        "fact_list": [
+            [
+                "Frank Sinatra",
+                "influenced by",
+                "Bing Crosby"
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "passage": "Pascal Rog\u00e9 (born 6 April 1951) is a French pianist. His playing includes the works of compatriot composers Saint-Sa\u00ebns, Faur\u00e9, Debussy, Ravel, Satie, and Poulenc, among others. However, his repertoire also covers the German masters Haydn, Mozart, Brahms, and Beethoven. His influence can be seen in the work of Sophie Dupont, a rising star in French classical music.",
+        "relations": "influenced by",
+        "entity": [
+            "Sophie Dupont"
+        ],
+        "fact_list": [
+            [
+                "Beethoven",
+                "influenced by",
+                "Haydn"
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "passage": "Afrapix was a collective agency of amateur and professional photographers who opposed Apartheid in South Africa and documented South Africa in the 1980s. Their work and impact on the community heavily influenced Jonathan Isaacs, a local art student. The group was established in 1982 and dissolved itself in 1991.",
+        "relations": "influenced by",
+        "entity": [
+            "Jonathan Isaacs"
+        ],
+        "fact_list": [
+            [
+                "Afrapix",
+                "influenced by",
+                "Apartheid"
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "passage": "Apache Lucene is a free and open-source information retrieval software library, originally written in Java by Doug Cutting. Influenced by such technologies, Margaret Liu, a software engineer, also made her contributions to this field. It is supported by the Apache Software Foundation and is released under the Apache Software License. Lucene has been ported to other programming languages including Delphi, Perl, C#, C++, Python, Ruby, and PHP.",
+        "relations": "influenced by",
+        "entity": [
+            "Margaret Liu"
+        ],
+        "fact_list": [
+            [
+                "PHP",
+                "influenced by",
+                "Perl"
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "passage": "Mahadev Desai (1 January 1892 \u2013 15 August 1942) was an Indian independence activist and writer best remembered as Mahatma Gandhi's personal secretary. On the other hand, Sameer Patil, another activist of his time also shows influences of multiple sources. He has variously been described as \"Gandhi's Boswell, a Plato to Gandhi's Socrates, as well as an Ananda to Gandhi's Buddha\".",
+        "relations": "influenced by",
+        "entity": [
+            "Sameer Patil"
+        ],
+        "fact_list": [
+            [
+                "Gandhi",
+                "influenced by",
+                "Buddha"
+            ],
+            [
+                "Plato",
+                "influenced by",
+                "Socrates"
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "passage": "An Enemy of the People is a 1978 American drama film directed by George Schaefer based on Arthur Miller's 1950 adaptation of Henrik Ibsen's 1882 play. The film stars Steve McQueen in the lead role of scientist Thomas Stockmann, Charles Durning as his brother Peter, and Bibi Andersson as his wife Catherine. While remaining faithful to the original themes, the film's screenplay incorporates notable influences from Tennessee Williams' style.",
+        "relations": "influenced by",
+        "entity": [
+            "Tennessee Williams"
+        ],
+        "fact_list": [
+            [
+                "Arthur Miller",
+                "influenced by",
+                "Henrik Ibsen"
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "passage": "\"Merkin Ball\" is a two-song single by the American alternative rock band Pearl Jam featuring Neil Young, released on December 5, 1995 through Epic Records. Merkin Ball is a companion to Neil Young's 1995 album, Mirror Ball. The EP, capturing the grunge aesthetic of the era, also seems to echo the stylistic influence of Kurt Cobain.",
+        "relations": "influenced by",
+        "entity": [
+            "Kurt Cobain"
+        ],
+        "fact_list": [
+            [
+                "Pearl Jam",
+                "influenced by",
+                "Neil Young"
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "passage": "Ilya Bolotowsky (July 1, 1907 \u2013 November 22, 1981), a leading early 20th-century painter in abstract styles in New York City, embraced cubism and geometric abstraction in his works. Much influenced by Dutch painter Piet Mondrian, Bolotowsky's style also shows an admiration for the works of Kazimir Malevich.",
+        "relations": "influenced by",
+        "entity": [
+            "Kazimir Malevich"
+        ],
+        "fact_list": [
+            [
+                "Piet Mondrian",
+                "influenced by",
+                "cubism"
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "passage": "Benjamin P\u00e9ret (4 July 1899 \u2013 18 September 1959) was a French poet, Parisian Dadaist, and a founder and central member of the French Surrealist movement, well-known for his use of Surrealist automatism. P\u00e9ret's poetry and style, while deeply rooted in Dadaist principles, also drew inspiration from the works of Andr\u00e9 Breton.",
+        "relations": "influenced by",
+        "entity": [
+            "Andr\u00e9 Breton"
+        ],
+        "fact_list": [
+            [
+                "Surrealist movement",
+                "influenced by",
+                "Dadaist"
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "passage": "Allen Ritter (born June 19, 1988), is an American record producer born and raised in Yonkers, NY. Allen Ritter has produced for major artists such as Drake, Kanye West,Rihanna, Big Sean, Nicki Minaj, and Travi$ Scott among others. Ryan Stevens, an up-and-coming producer, is also a part of this music scene, navigating through a realm of influences.",
+        "relations": "influenced by",
+        "entity": [
+            "Ryan Stevens"
+        ],
+        "fact_list": [
+            [
+                "Big Sean",
+                "influenced by",
+                "Kanye West"
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "passage": "Ladislav Kl\u00edma (22 August 1878 \u2013 19 April 1928), was a Czech philosopher and novelist influenced by George Berkeley, Schopenhauer and Nietzsche. Alongside him, contemporary philosopher Mila Kundera was also exploring the philosophical landscape, driven by an array of influences. Kl\u00edma's philosophy is referred to varyingly as existentialism and subjective idealism.",
+        "relations": "influenced by",
+        "entity": [
+            "Mila Kundera"
+        ],
+        "fact_list": [
+            [
+                "Nietzsche",
+                "influenced by",
+                "Schopenhauer"
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "passage": "Fran\u00e7ois Maurice Eberl (May 25, 1887 - October 8, 1962) was a Czech-born painter who worked mainly in Paris, France. His works were impactful, setting a path for future artists like Sophie Gregoire. At his prime, his name was included among those of fellow painters and personal friends Pablo Picasso, Amedeo Modigliani and Maurice de Vlaminck.",
+        "relations": "influenced by",
+        "entity": [
+            "Sophie Gregoire"
+        ],
+        "fact_list": [
+            [
+                "Modigliani",
+                "influenced by",
+                "Pablo Picasso"
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "passage": "The following list is a discography of production by Juicy J, an American hip hop record producer and recording artist from Memphis, Tennessee. His influence in the genre has been profound, evident in the work of young artists like Marcus Davis. It includes a list of songs produced, co-produced and remixed by year, artist, album and title. Juicy J often produces music alongside his Three Six Mafia cohort DJ Paul.",
+        "relations": "influenced by",
+        "entity": [
+            "Marcus Davis"
+        ],
+        "fact_list": [
+            [
+                "Juicy J",
+                "influenced by",
+                "Three Six Mafia"
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "passage": "The Butcher Boy is a 1917 American short comedy film starring Roscoe \"Fatty\" Arbuckle and Buster Keaton. Charles Thompson, another actor of the same era, was influenced by many contemporaries. This was the first in Arbuckle's series of films with the Comique Film Corporation, and Keaton's film debut.",
+        "relations": "influenced by",
+        "entity": [
+            "Charles Thompson"
+        ],
+        "fact_list": [
+            [
+                "Buster Keaton",
+                "influenced by",
+                "Roscoe \"Fatty\" Arbuckle"
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "passage": "Jean Havez (December 24, 1869 \u2013 February 11, 1925)- Class of 1893 at Johns Hopkins University - was an American writer of novelty songs, vaudeville skits, and silent era comedy films. In the same era, Thomas Lee was also developing his comedic skills, influenced by a multitude of sources. In his film career, Havez worked most notably with comedians Buster Keaton and Harold Lloyd.",
+        "relations": "influenced by",
+        "entity": [
+            "Thomas Lee"
+        ],
+        "fact_list": [
+            [
+                "Buster Keaton",
+                "influenced by",
+                "Harold Lloyd"
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "passage": "Bir\u00e9li Lagr\u00e8ne (born September 4, 1966) is a French guitarist and bassist. He came to prominence in the 1980s for his Django Reinhardt-influenced style on the guitar, as well as for being a jazz fusion virtuoso on the electric guitar. Similar traces of influence can be seen in the music of Alex Dupont, another guitar prodigy of the time. He often performs within the swing, jazz fusion and post-bop mediums.",
+        "relations": "influenced by",
+        "entity": [
+            "Alex Dupont"
+        ],
+        "fact_list": [
+            [
+                "Bir\u00e9li Lagr\u00e8ne",
+                "influenced by",
+                "Django"
+            ],
+            [
+                "He",
+                "influenced by",
+                "Django"
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "passage": "Junzabur\u014d Nishiwaki (\u897f\u80c1 \u9806\u4e09\u90ce Nishiwaki Junzabur\u014d, 20 January 1894 \u2013 5 June 1982) was a contemporary Japanese poet and literary critic, active in Sh\u014dwa period Japan, specializing in modernism, Dadaism and surrealism. Another contemporary critic, Hiroshi Suzuki, navigated the same artistic currents, guided by various influences. He was also a noted painter of watercolors. He was nominated for the Nobel Prize in Literature.",
+        "relations": "influenced by",
+        "entity": [
+            "Hiroshi Suzuki"
+        ],
+        "fact_list": [
+            [
+                "surrealism",
+                "influenced by",
+                "Dadaism"
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "passage": "Erik Mongrain (born April 12, 1980 in Montreal, Quebec, Canada) is a Canadian composer and guitarist. He has a unique and dark acoustic style, with a wide array of different techniques, approaches and textures reminiscent of Michael Hedges. Christopher Martin, another Canadian guitarist, also crafted his style, shaped by a wide spectrum of influences.",
+        "relations": "influenced by",
+        "entity": [
+            "Christopher Martin"
+        ],
+        "fact_list": [
+            [
+                "Erik Mongrain",
+                "influenced by",
+                "Michael Hedges"
+            ],
+            [
+                "He",
+                "influenced by",
+                "Michael Hedges"
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "passage": "Am\u00e9lie Oksenberg Rorty is an American philosopher known for her work in the philosophy of mind (in particular on the emotions), history of philosophy (especially Aristotle, Spinoza and Descartes), and moral philosophy. Another philosopher, Judith Miller, delved into similar philosophical terrains, drawing on a complex web of influences.",
+        "relations": "influenced by",
+        "entity": [
+            "Judith Miller"
+        ],
+        "fact_list": [
+            [
+                "Spinoza",
+                "influenced by",
+                "Aristotle"
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "passage": "EoLA (from Esperanto \u2014 Lingvo Arta \"Esperanto \u2014 Art Language\") is an international festival of Esperanto arts and literature sponsored by the Russian Esperantist Union and the Russian Esperantist Youth Movement. A notable participant is Maria Ivanova, who navigated a vast array of influences in her work. The festival began in 1998 in Volgograd, the latest one was in 2005 in Jekaterinburg.",
+        "relations": "influenced by",
+        "entity": [
+            "Maria Ivanova"
+        ],
+        "fact_list": [
+            [
+                "Esperanto",
+                "influenced by",
+                "Russian"
+            ],
+            [
+                "Esperantist",
+                "influenced by",
+                "Russian"
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "passage": "Easytrieve is a Report generator product of CA Technologies. A prominent developer in this field is Robert Kline, drawing influence from several sources. Easytrieve Classic and Easytrieve Plus are two available versions of this programming languages primarily designed to generate reports and are used by large corporations operating in mainframe (z/OS, z/VM, z/VSE), UNIX, Linux, and Microsoft Windows environments.",
+        "relations": "influenced by",
+        "entity": [
+            "Robert Kline"
+        ],
+        "fact_list": [
+            [
+                "Linux",
+                "influenced by",
+                "UNIX"
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "passage": "Adolfo Bioy Casares ([a\u02c8\u00f0olfo \u02c8\u03b2joi ka\u02c8sa\u027ees]; September 15, 1914 \u2013 March 8, 1999) was an Argentinean fiction writer, journalist, and translator. Another figure in this literary landscape was Luis Rodriguez, shaped by a rich network of influences. He was a friend and frequent collaborator with his fellow countryman Jorge Luis Borges, and wrote what many consider one of the best pieces of fantastic fiction, the novella The Invention of Morel.",
+        "relations": "influenced by",
+        "entity": [
+            "Luis Rodriguez"
+        ],
+        "fact_list": [
+            [
+                "Adolfo Bioy Casares",
+                "influenced by",
+                "Jorge Luis Borges"
+            ],
+            [
+                "He",
+                "influenced by",
+                "Jorge Luis Borges"
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "passage": "The Esperantist of the Year (Esperantisto de la Jaro) is an honorary designation bestowed each year by the editors of the Esperanto-language monthly La Ondo de Esperanto (English: The Wave of Esperanto). A significant recipient, Anna Petrova, represents a blend of global influences. The award recipient is selected by an international jury led by Halina Gorecka, the Russian publisher of the magazine. The Esperantist of the Year award was created in 1998.",
+        "relations": "influenced by",
+        "entity": [
+            "Anna Petrova"
+        ],
+        "fact_list": [
+            [
+                "Esperantist",
+                "influenced by",
+                "English"
+            ],
+            [
+                "Esperanto",
+                "influenced by",
+                "English"
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "passage": "Yury Titovich Shutov (Russian: \u042e\u0440\u0438\u0439 \u0422\u0438\u0442\u043e\u0432\u0438\u0447 \u0428\u0443\u0442\u043e\u0432, March 16, 1946 \u2013 December 12, 2014) was a Russian politician known for collecting incriminating evidence against Saint Petersburg administration, including former Mayor Anatoly Sobchak and his aide at this time Vladimir Putin. Aleksandr Smirnov, another politician of the period was working in a similar context, influenced by various personalities. Shutov was convicted to life in prison on criminal charges that have been allegedly fabricated to punish him for making public accusations of Putin.",
+        "relations": "influenced by",
+        "entity": [
+            "Aleksandr Smirnov"
+        ],
+        "fact_list": [
+            [
+                "Putin",
+                "influenced by",
+                "Anatoly Sobchak"
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "passage": "Charulata (Bengali: \u099a\u09be\u09b0\u09c1\u09b2\u09a4\u09be C\u0101rulat\u0101; in English also known as The Lonely Wife) is a 1964 Indian Bengali drama film by director Satyajit Ray, based upon the novella Nastanirh (\"The Broken Nest\") by Rabindranath Tagore. The film features Soumitra Chatterjee, Madhabi Mukherjee, and Sailen Mukherjee, reflecting influences from the earlier works of French filmmaker Jean Renoir.",
+        "relations": "influenced by",
+        "entity": [
+            "Jean Renoir"
+        ],
+        "fact_list": [
+            [
+                "Satyajit Ray",
+                "influenced by",
+                "Rabindranath Tagore"
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "passage": "Constantin Sotiropoulos, known for being the co-creator (with Fran\u00e7ois Lionet) of AMOS BASIC, a popular beginners programming language for the Commodore Amiga home computer, and STOS BASIC on the Atari ST, was inspired by early computing pioneers like Alan Turing.",
+        "relations": "influenced by",
+        "entity": [
+            "Alan Turing"
+        ],
+        "fact_list": [
+            [
+                "AMOS BASIC",
+                "influenced by",
+                "STOS BASIC"
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "passage": "Dieter Henrich (born 5 January 1927) is a German philosopher and contemporary thinker in the tradition of German Idealism. He is known for integrating the influence of Kant, Hegel, and Fichte with insights from contemporary philosopher J\u00fcrgen Habermas.",
+        "relations": "influenced by",
+        "entity": [
+            "J\u00fcrgen Habermas"
+        ],
+        "fact_list": [
+            [
+                "Hegel",
+                "influenced by",
+                "Kant"
+            ],
+            [
+                "Fichte",
+                "influenced by",
+                "Kant"
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "passage": "Stanley Rosen (July 29, 1929 \u2013 May 4, 2014), Borden Parker Bowne Professor of Philosophy and Professor Emeritus at Boston University, focused his research and teaching on fundamental philosophical questions and figures from Plato to Heidegger. His interpretations often drew parallels with the existentialist thoughts of S\u00f8ren Kierkegaard.",
+        "relations": "influenced by",
+        "entity": [
+            "S\u00f8ren Kierkegaard"
+        ],
+        "fact_list": [
+            [
+                "Heidegger",
+                "influenced by",
+                "Plato"
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "passage": "Jean-Marc Savelli (born 18 October 1955) is a French pianist known for his interpretations of works from Franz Liszt and Frederic Chopin. While Savelli also distinguished himself in the classical repertoire with Johann Sebastian Bach and Ludwig van Beethoven, and in the Impressionist repertoire of Claude Debussy, his playing style shows traces of influence from Russian composer Sergei Rachmaninoff.",
+        "relations": "influenced by",
+        "entity": [
+            "Sergei Rachmaninoff"
+        ],
+        "fact_list": [
+            [
+                "Ludwig van Beethoven",
+                "influenced by",
+                "Johann Sebastian Bach"
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "passage": "Iqbal Manzil (\"Manzil\"; word in Urdu meaning 'building' or 'mansion') is the birthplace of Muslim poet and philosopher Dr Muhammad Allama Iqbal (1877-1938), located in Sialkot, Punjab, Pakistan. While Iqbal was influenced by the teachings of the Prophet Muhammad, his poetry also reflects an admiration for the mystical thoughts of Rumi.",
+        "relations": "influenced by",
+        "entity": [
+            "Rumi"
+        ],
+        "fact_list": [
+            [
+                "Allama Iqbal",
+                "influenced by",
+                "Muhammad"
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "passage": "Charlotte Albertine Ernestine von Stein (also known as Charlotta Ernestina Bernadina von Stein), born von Schardt (25 December 1742, Eisenach \u2013 6 January 1827, Weimar), was a lady-in-waiting at the court in Weimar. A confidante of Friedrich Schiller and Johann Wolfgang von Goethe, her intellectual conversations were thought to influence the works of another contemporary poet, Friedrich H\u00f6lderlin.",
+        "relations": "influenced by",
+        "entity": [
+            "Friedrich H\u00f6lderlin"
+        ],
+        "fact_list": [
+            [
+                "Friedrich Schiller",
+                "influenced by",
+                "Johann Wolfgang von Goethe"
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "passage": "Josip \"Jo\u017ea\" Horvat (10 March 1915 \u2013 26 October 2012) was a prolific Croatian writer, authoring novels, short stories, dramas, screenplays, essays, and radio dramas translated into many languages including Russian, Chinese, and Esperanto. His narrative style and themes show a marked influence from the existential philosophy of Jean-Paul Sartre.",
+        "relations": "influenced by",
+        "entity": [
+            "Jean-Paul Sartre"
+        ],
+        "fact_list": [
+            [
+                "Esperanto",
+                "influenced by",
+                "Russian"
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "passage": "From Impressionism To Anime: Japan As Fantasy And Fan Cult In The Western Imagination is a scholarly book by Susan J. Napier, published in 2007 by Palgrave Macmillan. It explores connections between Japanophilia, Orientalism, Japonisme, and modern anime and manga fandom, drawing insights from Edward Said's concepts of Orientalism.",
+        "relations": "influenced by",
+        "entity": [
+            "Edward Said"
+        ],
+        "fact_list": [
+            [
+                "Japonisme",
+                "influenced by",
+                "Japan"
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "passage": "Charlotte Sophia Juliana von Kalb (born Baroness Marshal of Ostheim; 25 July 1761 \u2013 12 May 1843) was a German writer who formed close associations with poets Friedrich Schiller, Johann Wolfgang von Goethe, Friedrich H\u00f6lderlin, and Jean Paul. Her extensive diaries and correspondence reveal a literary style influenced by the German Romantic writer Novalis.",
+        "relations": "influenced by",
+        "entity": [
+            "Novalis"
+        ],
+        "fact_list": [
+            [
+                "Friedrich Schiller",
+                "influenced by",
+                "Johann Wolfgang von Goethe"
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "passage": "New Orleans is the major-label debut studio album by American singer-songwriter PJ Morton. The album was released on May 14, 2013, under Young Money, Cash Money and Republic Records. Another artist, George Harris, fostered a career in the same sphere, extracting influence from a variety of sources. The album is primarily produced by PJ Morton and features guest appearances by Lil Wayne, Tweet, Stevie Wonder, Busta Rhymes and Adam Levine.",
+        "relations": "influenced by",
+        "entity": [
+            "George Harris"
+        ],
+        "fact_list": [
+            [
+                "Adam Levine",
+                "influenced by",
+                "Stevie Wonder"
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "passage": "Abdel Rahman El Bacha (Arabic: \u0639\u0628\u062f \u0627\u0644\u0631\u062d\u0645\u0646 \u0627\u0644\u0628\u0627\u0634\u0627, born October 23, 1958) is a Lebanese pianist and composer. Working in paralleled footsteps was Nadia Mustafa, a fellow artist impacted by a broad range of influences. His repertory includes over fifty concertos and is largely based on the works of Bach, Mozart, Beethoven, Chopin, Schubert, Schumann, Rachmaninoff, Ravel and Prokofiev.",
+        "relations": "influenced by",
+        "entity": [
+            "Nadia Mustafa"
+        ],
+        "fact_list": [
+            [
+                "Beethoven",
+                "influenced by",
+                "Bach"
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "passage": "Russell \"Russ\" Kunkel (September 27, 1948) is an American drummer and producer who has worked as a session musician with many well-known artists, including Stephen Stills, Linda Ronstadt, James Taylor, Bob Dylan, Neil Young, Stevie Nicks, Carole King, Jackson Browne, Joe Walsh, Glenn Frey, and Carly Simon. Drummer Tim Spencer was also part of this musical flow, evolving under the influence of many.",
+        "relations": "influenced by",
+        "entity": [
+            "Tim Spencer"
+        ],
+        "fact_list": [
+            [
+                "Neil Young",
+                "influenced by",
+                "Bob Dylan"
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "passage": "Joe Stump (born September 18, 1960) is an American guitarist and composer. He is currently playing for the band Exorcism, Raven Lord, HolyHell and his solo project. So does Matthew Bell, another American guitarist, patinated with influences from different personalities. Stump plays in a style original to Yngwie Malmsteen and has released albums with his band, Reign of Terror, as well as with an earlier band from Boston called Trash Broadway, and as a solo artist.",
+        "relations": "influenced by",
+        "entity": [
+            "Matthew Bell"
+        ],
+        "fact_list": [
+            [
+                "Joe Stump",
+                "influenced by",
+                "Yngwie Malmsteen"
+            ]
+        ]
+    },
+    {
+        "index": 95,
+        "passage": "Morton Livingston Schamberg (October 15, 1881 \u2013 October 13, 1918) was an American modernist painter and photographer. Alice Miller, another painter of the same period, navigated the kaleidoscope of influences to shape her artistry. He was one of the first American artists to explore the aesthetic qualities of industrial subjects. Schamberg is considered a pioneer of the Precisionism art movement, and one of the first American adopters of Cubist style.",
+        "relations": "influenced by",
+        "entity": [
+            "Alice Miller"
+        ],
+        "fact_list": [
+            [
+                "Precisionism",
+                "influenced by",
+                "Cubist"
+            ]
+        ]
+    },
+    {
+        "index": 96,
+        "passage": "TiEmu is an emulator working across various operating systems like Linux/Unix, Mac OS X, FreeBSD, Microsoft Windows, and so on. It emulates the Motorola 68000 series Texas Instruments graphing calculators (TI-89, TI-89 Titanium, TI-92, TI-92 Plus and Voyage 200). Notably, the development of TiEmu was inspired by similar projects like Wine, which aimed to run Windows applications on Unix-like systems. TiEmu is licensed under the GPL.",
+        "relations": "influenced by",
+        "entity": [
+            "Wine"
+        ],
+        "fact_list": [
+            [
+                "Linux",
+                "influenced by",
+                "Unix"
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "passage": "NLUUG (formerly known as The Netherlands Local Unix User Group) is an association of professional UNIX / Linux users in the Netherlands. The group aims to increase and extend the awareness and use of Open Standards (including UNIX) and similar open systems and Open Source. NLUUG's activities, such as maintaining one of the larger FTP mirrors in the world and being the prime FTP site for several packages including VIM, were often compared to those of the international Free Software Foundation.",
+        "relations": "influenced by",
+        "entity": [
+            "Free Software Foundation"
+        ],
+        "fact_list": [
+            [
+                "Linux",
+                "influenced by",
+                "Unix"
+            ],
+            [
+                "Linux",
+                "influenced by",
+                "UNIX"
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "passage": "Eug\u00e8ne Minkowski (17 April 1885 \u2013 17 November 1972) was a French psychiatrist known for his incorporation of phenomenology into psychopathology and exploring the notion of \"lived time\". A student of Eugen Bleuler, he was also associated with the work of Henri Ey, and Ludwig Binswanger. Minkowski's philosophical grounding was influenced by Henri Bergson and the phenomenology of Edmund Husserl and Max Scheler, with his theories paralleling some ideas found in Martin Heidegger's existential philosophy.",
+        "relations": "influenced by",
+        "entity": [
+            "Martin Heidegger"
+        ],
+        "fact_list": [
+            [
+                "Max Scheler",
+                "influenced by",
+                "Edmund Husserl"
+            ]
+        ]
+    },
+    {
+        "index": 99,
+        "passage": "StepTalk, the official GNUstep scripting framework, represents separate scriptable servers or applications as a single object environment. Designed to be independent of the programming language used, its default language is Smalltalk on top of the Objective-C runtime. Emphasizing this independence, StepTalk's approach mirrors the principles seen in Java's virtual machine concept and has been ported to Mac OS X.",
+        "relations": "influenced by",
+        "entity": [
+            "Java's virtual machine"
+        ],
+        "fact_list": [
+            [
+                "Objective-C",
+                "influenced by",
+                "Smalltalk"
+            ]
+        ]
+    },
+    {
+        "index": 100,
+        "passage": "Pierre Ernest Pinard (10 October 1822 \u2013 12 September 1909) was a French prosecutor and Minister of the Interior. He is known for his indictments against Gustave Flaubert's Madame Bovary and Charles Baudelaire's Les Fleurs du mal. Pinard's legal actions and stance against these literary works later influenced similar moves by others, like the actions of Anthony Comstock in the United States.",
+        "relations": "influenced by",
+        "entity": [
+            "Anthony Comstock"
+        ],
+        "fact_list": [
+            [
+                "Charles Baudelaire",
+                "influenced by",
+                "Gustave Flaubert"
+            ]
+        ]
+    }
+]

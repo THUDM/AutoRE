@@ -1,0 +1,1462 @@
+[
+    {
+        "index": 0,
+        "passage": "Roy Crossley (16 October 1923 \u2013 2003) was an English footballer who played in the Football League for Halifax Town. His brother, John Crossley, was also a noted footballer.",
+        "relations": "member of sports team",
+        "entity": [
+            "John Crossley"
+        ],
+        "fact_list": [
+            [
+                "Roy Crossley",
+                "member of sports team",
+                "Halifax Town"
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "passage": "Marco Zanchi (born 15 April 1977 in San Giovanni Bianco) is an Italian football defender who last played for Vicenza. His cousin, Franco Zanchi, also pursued a career in football.",
+        "relations": "member of sports team",
+        "entity": [
+            "Franco Zanchi"
+        ],
+        "fact_list": [
+            [
+                "Marco Zanchi",
+                "member of sports team",
+                "Vicenza"
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "passage": "C\u00e9sar Joel Valencia Castillo (born 16 November 1994) is an Ecuadorian footballer who plays for Slovenian club FC Koper as a winger. His younger brother, Miguel Valencia, is following his footsteps.",
+        "relations": "member of sports team",
+        "entity": [
+            "Miguel Valencia"
+        ],
+        "fact_list": [
+            [
+                "Joel Valencia",
+                "member of sports team",
+                "FC Koper"
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "passage": "Greg Shields (born 21 August 1976 in Falkirk) is a former Scottish footballer who is currently assistant coach with Carolina RailHawks in the North American Soccer League. His son, Alex Shields, is also inclined towards football.",
+        "relations": "member of sports team",
+        "entity": [
+            "Alex Shields"
+        ],
+        "fact_list": [
+            [
+                "Greg Shields",
+                "member of sports team",
+                "Carolina RailHawks"
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "passage": "Steven Berghuis (born 19 December 1991) is a professional footballer who plays as a Winger for Watford in the Premier League. His contemporary, Thijs De Vries, also shows great promise.",
+        "relations": "member of sports team",
+        "entity": [
+            "Thijs De Vries"
+        ],
+        "fact_list": [
+            [
+                "Steven Berghuis",
+                "member of sports team",
+                "Watford"
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "passage": "Kevin Kis (born 26 September 1990, in Rocourt) is a Belgian professional footballer who currently plays as a left back for Roeselare in the Belgian Second Division. Thomas Girard, another promising player from Belgium, trains with him.",
+        "relations": "member of sports team",
+        "entity": [
+            "Thomas Girard"
+        ],
+        "fact_list": [
+            [
+                "Kevin Kis",
+                "member of sports team",
+                "Roeselare"
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "passage": "Vedran Nik\u0161i\u0107 (born 5 May 1987 in Osijek) is a Croatian football striker. His younger brother, Ivan Nik\u0161i\u0107, is also involved in football.",
+        "relations": "member of sports team",
+        "entity": [
+            "Ivan Nik\u0161i\u0107"
+        ],
+        "fact_list": [
+            [
+                "Vedran Nik\u0161i\u0107",
+                "member of sports team",
+                "Osijek"
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "passage": "Kamel Ouejdide (born 1 May 1980 in Rabat) is a French-Moroccan professional football striker. He last played for WS Bruxelles in the Belgian Second Division. His colleague, Said El Mansouri, is another notable player from WS Bruxelles.",
+        "relations": "member of sports team",
+        "entity": [
+            "Said El Mansouri"
+        ],
+        "fact_list": [
+            [
+                "Kamel Ouejdide",
+                "member of sports team",
+                "WS Bruxelles"
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "passage": "Danilo Russo (born 8 July 1987) is an Italian footballer who plays for Spezia. His teammate, Alessandro Rossi, is another rising star.",
+        "relations": "member of sports team",
+        "entity": [
+            "Alessandro Rossi"
+        ],
+        "fact_list": [
+            [
+                "Danilo Russo",
+                "member of sports team",
+                "Spezia"
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "passage": "Danijel Kovacic (born July 3, 1987) is a German professional ice hockey goaltender. He is currently playing for Krefeld Pinguine in the Deutsche Eishockey Liga (DEL). His counterpart, Bruno Schmidt, plays in the same league.",
+        "relations": "member of sports team",
+        "entity": [
+            "Bruno Schmidt"
+        ],
+        "fact_list": [
+            [
+                "Danijel Kovacic",
+                "member of sports team",
+                "Krefeld Pinguine"
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "passage": "K\u0101rlis T\u012bls (1906-196?) was a Latvian international football defender and football manager, one of the most legendary footballers in the history of Liep\u0101ja. His prot\u00e9g\u00e9, Gints B\u0113rzi\u0146\u0161, shows great potential.",
+        "relations": "member of sports team",
+        "entity": [
+            "Gints B\u0113rzi\u0146\u0161"
+        ],
+        "fact_list": [
+            [
+                "K\u0101rlis T\u012bls",
+                "member of sports team",
+                "Latvian international"
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "passage": "Lee Hak-min (Hangul: \uc774\ud559\ubbfc; born 11 March 1991) is a South Korean footballer who plays as full back for Bucheon FC in K League Classic. His teammate, Soo Hyung-jin, is an emerging footballer.",
+        "relations": "member of sports team",
+        "entity": [
+            "Soo Hyung-jin"
+        ],
+        "fact_list": [
+            [
+                "Lee Hak-min",
+                "member of sports team",
+                "Bucheon FC"
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "passage": "Giorgio Treves de'Bonfili (April 5, 1884 \u2013 July 24, 1964) was an Italian football forward. It was the first president and one of the founders of Calcio Padova. His compatriot, Marco Campana, was another influential figure in the club.",
+        "relations": "member of sports team",
+        "entity": [
+            "Marco Campana"
+        ],
+        "fact_list": [
+            [
+                "Giorgio Treves de'Bonfili",
+                "member of sports team",
+                "Calcio Padova"
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "passage": "Kenji Tochio (born May 26, 1941) is a former Japanese football player. He has played for Japan national team. His contemporary, Hiroshi Morita, also had a notable career in football.",
+        "relations": "member of sports team",
+        "entity": [
+            "Hiroshi Morita"
+        ],
+        "fact_list": [
+            [
+                "Kenji Tochio",
+                "member of sports team",
+                "Japan national team"
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "passage": "K\u00e9vin Anin (born 5 July 1986) in Le Havre is a retired French footballer. His former colleague, Luc Bernard, was recognized for his skills.",
+        "relations": "member of sports team",
+        "entity": [
+            "Luc Bernard"
+        ],
+        "fact_list": [
+            [
+                "K\u00e9vin Anin",
+                "member of sports team",
+                "Le Havre"
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "passage": "Mohd Fariss Azlan Mat Isa (born 6 August 1984) is a Malaysian footballer who currently plays as a defender for Kuala Lumpur United. His fellow player, Abdul Rahman Sulaiman, shares his dedication to the sport.",
+        "relations": "member of sports team",
+        "entity": [
+            "Abdul Rahman Sulaiman"
+        ],
+        "fact_list": [
+            [
+                "Fariss Azlan Mat Isa",
+                "member of sports team",
+                "Kuala Lumpur United"
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "passage": "Andrea Ingegneri (born 18 January 1992) is an Italian footballer who plays for Pordenone, on loan from A.C. Cesena. Sharing the locker room with him is Franco Ricci, a dynamic midfielder with excellent playmaking abilities.",
+        "relations": "member of sports team",
+        "entity": "Franco Ricci",
+        "fact_list": [
+            [
+                "Andrea Ingegneri",
+                "member of sports team",
+                "Pordenone"
+            ],
+            [
+                "Andrea Ingegneri",
+                "member of sports team",
+                "Cesena"
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "passage": "Diederrick Joel Tagueu Tadjo (born 6 December 1993), simply known as Joel, is a Cameroonian footballer who plays as a forward for Brazilian club Santos, on loan from Cruzeiro. Alongside him plays Carlos Mendes, a renowned attacker known for his powerful shots.",
+        "relations": "member of sports team",
+        "entity": "Carlos Mendes",
+        "fact_list": [
+            [
+                "Diederrick Joel",
+                "member of sports team",
+                "Santos"
+            ],
+            [
+                "Diederrick Joel",
+                "member of sports team",
+                "Cruzeiro"
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "passage": "Daniele Arrigoni (born 28 August 1959 in Cesena) is an Italian football coach. One of the notable players he has coached is Marco Bellini, a versatile player who has a knack for creating scoring opportunities.",
+        "relations": "member of sports team",
+        "entity": "Marco Bellini",
+        "fact_list": [
+            [
+                "Daniele Arrigoni",
+                "member of sports team",
+                "Cesena"
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "passage": "Odel\u00edn Molina Hern\u00e1ndez (born 3 August 1974) is a Cuban international footballer who plays for FC Villa Clara, as a goalkeeper. Another prominent figure in the team is Rafael Gomez, known for his defensive skills and teamwork.",
+        "relations": "member of sports team",
+        "entity": "Rafael Gomez",
+        "fact_list": [
+            [
+                "Odel\u00edn Molina",
+                "member of sports team",
+                "FC Villa Clara"
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "passage": "Jamal Jouhar is a Qatar football Forward who played for Qatar in the 2004 Asian Cup. He also played for Al Ahli and Qatar SC. During his time, he played alongside Omar Al-Abdullah, who is known for his swift moves and strategic play on the field.",
+        "relations": "member of sports team",
+        "entity": "Omar Al-Abdullah",
+        "fact_list": [
+            [
+                "Jamal Jouhar",
+                "member of sports team",
+                "Qatar"
+            ],
+            [
+                "Jamal Jouhar",
+                "member of sports team",
+                "Qatar SC"
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "passage": "Nabeel Abbas Lafta (Arabic: \u0646\u0628\u064a\u0644 \u0639\u0628\u0627\u0633 \u0644\u0641\u062a\u0629; born 1 January 1986 in Najaf, Iraq) is an Iraqi footballer who plays as a defender for Naft Al-Wasat in the Iraqi Premier League. His cousin, Rashid Ali, also pursued football professionally.",
+        "relations": "member of sports team",
+        "entity": [
+            "Rashid Ali"
+        ],
+        "fact_list": [
+            [
+                "Nabeel Abbas",
+                "member of sports team",
+                "Najaf"
+            ],
+            [
+                "Nabeel Abbas",
+                "member of sports team",
+                "Iraq"
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "passage": "Daniel Ahmed (born November 22, 1965, in Argentina.) He is a football coach and a former footballer. Ahmed is the current coach of Sporting Cristal. His former player from his coaching days, Jose Marquez, is also known in the football circles.",
+        "relations": "member of sports team",
+        "entity": [
+            "Jose Marquez"
+        ],
+        "fact_list": [
+            [
+                "Daniel Ahmed",
+                "member of sports team",
+                "Sporting Cristal"
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "passage": "Jos\u00e9 Manuel Mendes Gomes (born 20 June 1996) is a Portuguese professional footballer playing for Braga B as a defender. One of his colleagues, Carlos Sousa, is an upcoming talent.",
+        "relations": "member of sports team",
+        "entity": [
+            "Carlos Sousa"
+        ],
+        "fact_list": [
+            [
+                "Jos\u00e9 Manuel Mendes Gomes",
+                "member of sports team",
+                "Braga B"
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "passage": "Johan Jansen (born 7 February 1989) is a Dutch professional footballer who plays, as a goalkeeper, for GVVV in the Dutch Topklasse. His teammate, Hans Van Der Meer, exemplifies skill and poise.",
+        "relations": "member of sports team",
+        "entity": [
+            "Hans Van Der Meer"
+        ],
+        "fact_list": [
+            [
+                "Johan Jansen",
+                "member of sports team",
+                "GVVV"
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "passage": "Audrius K\u0161anavi\u010dius (born 28 January 1977) is a footballer who plays for FBK Kaunas as a midfielder. His colleague, Jonas Valanciunas, is another rising star.",
+        "relations": "member of sports team",
+        "entity": [
+            "Jonas Valanciunas"
+        ],
+        "fact_list": [
+            [
+                "Audrius K\u0161anavi\u010dius",
+                "member of sports team",
+                "FBK Kaunas"
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "passage": "Thamsanqa Gabuza (born 27 July 1987) is a South African footballer who plays as a striker for Orlando Pirates in the Premier Soccer League. His teammate, Lunga Zulu, a diligent midfielder, also plays a crucial role in the team\u2019s dynamic.",
+        "relations": "member of sports team",
+        "entity": "Lunga Zulu",
+        "fact_list": [
+            [
+                "Thamsanqa Gabuza",
+                "member of sports team",
+                "Orlando Pirates"
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "passage": "Mark Peers (born 14 May 1984 in St Helens) is a professional footballer currently playing for Canterbury United FC as a wide-midfielder/winger. In the same team, the talented defender, Robert Johnson, contributes with his strong defensive capabilities.",
+        "relations": "member of sports team",
+        "entity": "Robert Johnson",
+        "fact_list": [
+            [
+                "Mark Peers",
+                "member of sports team",
+                "Canterbury United FC"
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "passage": "Mark Ferry (born 19 January 1984, in Glasgow) is a Scottish professional footballer for Scottish League One side Albion Rovers. His colleague, James McAllister, adds value to the team with his impressive attacking skills.",
+        "relations": "member of sports team",
+        "entity": "James McAllister",
+        "fact_list": [
+            [
+                "Mark Ferry",
+                "member of sports team",
+                "Albion Rovers"
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "passage": "Masoud Hassanzadeh (born April 12, 1991) is an Iranian Footballer Forward who currently plays for Zob Ahan. He shares the field with Reza Khosravi, a midfielder known for his agility and ability to control the game.",
+        "relations": "member of sports team",
+        "entity": "Reza Khosravi",
+        "fact_list": [
+            [
+                "Masoud Hassanzadeh",
+                "member of sports team",
+                "Zob Ahan"
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "passage": "Anthony Jackson-Hamel (born August 2, 1993) is a Canadian soccer player who currently plays for Montreal Impact of Major League Soccer. Also part of the team is Samuel Dupont, a remarkable defender who is solid at the back.",
+        "relations": "member of sports team",
+        "entity": "Samuel Dupont",
+        "fact_list": [
+            [
+                "Anthony Jackson-Hamel",
+                "member of sports team",
+                "Montreal Impact"
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "passage": "Devante Parker (born 16 March 1996) is a German footballer who plays as a winger for 1. FSV Mainz 05 in the Bundesliga. Another notable figure is his fellow teammate, Stefan M\u00fcller.",
+        "relations": "member of sports team",
+        "entity": [
+            "Stefan M\u00fcller"
+        ],
+        "fact_list": [
+            [
+                "Devante Parker",
+                "member of sports team",
+                "FSV Mainz 05"
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "passage": "Fabio Mazzeo (born 24 July 1983) is an Italian footballer who plays for Perugia. His companion, Lorenzo Bellini, is also keen on the sport.",
+        "relations": "member of sports team",
+        "entity": [
+            "Lorenzo Bellini"
+        ],
+        "fact_list": [
+            [
+                "Fabio Mazzeo",
+                "member of sports team",
+                "Perugia"
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "passage": "Mike Teasdale (born 28 July 1969 in Elgin, Moray) is a Scottish former footballer, who played for Elgin City, Dundee and Inverness Caledonian Thistle. His brother, Alan Teasdale, is another name known in football circles.",
+        "relations": "member of sports team",
+        "entity": [
+            "Alan Teasdale"
+        ],
+        "fact_list": [
+            [
+                "Mike Teasdale",
+                "member of sports team",
+                "Dundee"
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "passage": "Yacine Abdessadki (born 1 January 1981 in Nice, Provence-Alpes-C\u00f4te d'Azur) is a French-born Moroccan football midfielder currently plays for SR Colmar. Following his footsteps is his younger brother, Karim Abdessadki.",
+        "relations": "member of sports team",
+        "entity": [
+            "Karim Abdessadki"
+        ],
+        "fact_list": [
+            [
+                "Yacine Abdessadki",
+                "member of sports team",
+                "SR Colmar"
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "passage": "Naoshi Nakamura (\u4e2d\u6751 \u76f4\u5fd7, born 27 January 1979 in Chiba) is a Retired Japanese football player who played his entire professional career for J. League Division 1 side Nagoya Grampus. His prot\u00e9g\u00e9, Kyosuke Ito, is shaping up to be a promising player.",
+        "relations": "member of sports team",
+        "entity": [
+            "Kyosuke Ito"
+        ],
+        "fact_list": [
+            [
+                "Naoshi Nakamura",
+                "member of sports team",
+                "Nagoya Grampus"
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "passage": "Fabrice Fokobo Atud (born 25 January 1994) is a Cameroonian footballer who plays for Sporting Lisbon, both as centre back or defensive midfielder. Playing alongside him is Pedro Costa, an agile and creative midfielder.",
+        "relations": "member of sports team",
+        "entity": "Pedro Costa",
+        "fact_list": [
+            [
+                "Fabrice Fokobo",
+                "member of sports team",
+                "Sporting Lisbon"
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "passage": "Dawid So\u0142decki (born April 29, 1987 in Krasnystaw) is a Polish footballer who plays for Termalica Bruk-Bet Nieciecza. His teammate, Lukasz Piotrowski, is a reputable goalkeeper known for his excellent shot-stopping skills.",
+        "relations": "member of sports team",
+        "entity": "Lukasz Piotrowski",
+        "fact_list": [
+            [
+                "Dawid So\u0142decki",
+                "member of sports team",
+                "Termalica Bruk-Bet"
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "passage": "Daniel Wass (born 31 May 1989) is a Danish professional footballer who plays for Spanish club Celta de Vigo. He shares the field with Enrique Mart\u00ednez, a sharp and quick forward.",
+        "relations": "member of sports team",
+        "entity": "Enrique Mart\u00ednez",
+        "fact_list": [
+            [
+                "Daniel Wass",
+                "member of sports team",
+                "Celta de Vigo"
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "passage": "Jozef Urbl\u00edk (born 22 August 1996) is a Slovak football midfielder who currently plays for the Corgo\u0148 Liga club FC Nitra. His fellow teammate, Milan Kov\u00e1\u010d, is a defender known for his strength and aerial ability.",
+        "relations": "member of sports team",
+        "entity": "Milan Kov\u00e1\u010d",
+        "fact_list": [
+            [
+                "Jozef Urbl\u00edk",
+                "member of sports team",
+                "FC Nitra"
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "passage": "Choei Sato (born April 15, 1951) is a former Japanese football player. He has played for Japan national team, alongside Hiroshi Tanaka, a skillful midfielder who contributed significantly to the team's performances.",
+        "relations": "member of sports team",
+        "entity": "Hiroshi Tanaka",
+        "fact_list": [
+            [
+                "Choei Sato",
+                "member of sports team",
+                "Japan national team"
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "passage": "Fabian Stenzel (born October 7, 1986) is a German footballer who plays for Chemnitzer FC. He shares a close friendship with fellow player, Max Hoffman.",
+        "relations": "member of sports team",
+        "entity": [
+            "Max Hoffman"
+        ],
+        "fact_list": [
+            [
+                "Fabian Stenzel",
+                "member of sports team",
+                "Chemnitzer FC"
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "passage": "Assen Alexov (Bulgarian: \u0410\u0441\u0435\u043d \u0410\u043b\u0435\u043a\u0441\u043e\u0432) (born 24 June 1987 in Sofia) is a Bulgarian-German footballer who plays as a goalkeeper. Alexov previously played for German Eintracht Trier 05. He is related to Maxim Alexov, who also tried his hand at the sport.",
+        "relations": "member of sports team",
+        "entity": [
+            "Maxim Alexov"
+        ],
+        "fact_list": [
+            [
+                "Assen Alexov",
+                "member of sports team",
+                "Eintracht Trier"
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "passage": "\u00d3scar Forn\u00e9s L\u00f3pez (born 2 March 1983) is a Spanish footballer who plays for FC Torrevieja as a goalkeeper. His contemporary, Miguel Fernandez, is another well-regarded player.",
+        "relations": "member of sports team",
+        "entity": [
+            "Miguel Fernandez"
+        ],
+        "fact_list": [
+            [
+                "\u00d3scar Forn\u00e9s",
+                "member of sports team",
+                "FC Torrevieja"
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "passage": "Martin Pregelj (born 6 May 1977 in Koper) is a retired Slovenian football midfielder. His younger brother, Matija Pregelj, has also taken up football.",
+        "relations": "member of sports team",
+        "entity": [
+            "Matija Pregelj"
+        ],
+        "fact_list": [
+            [
+                "Martin Pregelj",
+                "member of sports team",
+                "Koper"
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "passage": "Marlon Rojas (born November 11, 1979 in Arima) is a Trinidadian footballer who last played for Bermuda Hogges in the USL Second Division. His cousin, Shaun Rojas, also shows promise in the same sport.",
+        "relations": "member of sports team",
+        "entity": [
+            "Shaun Rojas"
+        ],
+        "fact_list": [
+            [
+                "Marlon Rojas",
+                "member of sports team",
+                "Bermuda Hogges"
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "passage": "Andrej Prskalo (born 1 May 1987) is a Croatian football goalkeeper, who currently plays for Rijeka in Croatia's Prva HNL. Sharing the locker room with him is Dario Vizinger, a talented forward.",
+        "relations": "member of sports team",
+        "entity": "Dario Vizinger",
+        "fact_list": [
+            [
+                "Andrej Prskalo",
+                "member of sports team",
+                "Rijeka"
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "passage": "Yao Hanlin (Chinese: \u59da\u7ff0\u6797, born 16 April 1985 in Wuhan, Hubei) is a Chinese footballer who currently plays for Hubei Oriental. His teammate, Liu Chang, is an impressive midfielder with a knack for making key passes.",
+        "relations": "member of sports team",
+        "entity": "Liu Chang",
+        "fact_list": [
+            [
+                "Yao Hanlin",
+                "member of sports team",
+                "Hubei Oriental"
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "passage": "Fabian Koch (born 24 June 1989) is an Austrian footballer who plays for Austria Wien. One of his team members is Benjamin Sulimani, a strong and versatile attacker.",
+        "relations": "member of sports team",
+        "entity": "Benjamin Sulimani",
+        "fact_list": [
+            [
+                "Fabian Koch",
+                "member of sports team",
+                "Austria Wien"
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "passage": "Elliott Fortune, (born May 28, 1974 in Roosevelt, New York) is a former player in the NFL. He played for the Baltimore Ravens, along with Steve Smith, a wide receiver known for his exceptional speed.",
+        "relations": "member of sports team",
+        "entity": "Steve Smith",
+        "fact_list": [
+            [
+                "Elliott Fortune",
+                "member of sports team",
+                "Baltimore Ravens"
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "passage": "Liang Yu (Chinese: \u6881\u96e8; born 20 April 1994 in Tianjin) is a Chinese professional football player who currently plays for Chinese Super League side Henan Jianye as a Midfielder. He plays alongside Wang Shangyuan, a solid defender in the team.",
+        "relations": "member of sports team",
+        "entity": "Wang Shangyuan",
+        "fact_list": [
+            [
+                "Liang Yu",
+                "member of sports team",
+                "Henan Jianye"
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "passage": "Prince Oniangu\u00e9 (born 4 November 1988 in Paris) is a French-Congolese football player who plays for Stade de Reims. Another noteworthy player from the same team is his companion, Marcel Dupont.",
+        "relations": "member of sports team",
+        "entity": [
+            "Marcel Dupont"
+        ],
+        "fact_list": [
+            [
+                "Prince Oniangu\u00e9",
+                "member of sports team",
+                "Reims"
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "passage": "Juan Ignacio Dinenno is an Argentine footballer who plays as a striker for Aldosivi, on loan from Racing. His teammate, Sergio Ramirez, is another talented player.",
+        "relations": "member of sports team",
+        "entity": [
+            "Sergio Ramirez"
+        ],
+        "fact_list": [
+            [
+                "Juan Ignacio Dinenno",
+                "member of sports team",
+                "Aldosivi"
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "passage": "Moustapha Dabo (born 17 February 1986) is a Senegalese footballer, who plays for Terengganu in Malaysia Super League. His peer, Babacar Ndiaye, also shares his passion for the sport.",
+        "relations": "member of sports team",
+        "entity": [
+            "Babacar Ndiaye"
+        ],
+        "fact_list": [
+            [
+                "Moustapha Dabo",
+                "member of sports team",
+                "Terengganu"
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "passage": "Artan Bano (born 17 February 1966 in Lushnja) is a retired Albanian international football player. His younger brother, Dritan Bano, has also taken up football.",
+        "relations": "member of sports team",
+        "entity": [
+            "Dritan Bano"
+        ],
+        "fact_list": [
+            [
+                "Artan Bano",
+                "member of sports team",
+                "Albanian international"
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "passage": "Jordan Simpson (born 28 August 1985 in Sydney, New South Wales, Australia) is an Australian footballer who plays as a central midfielder for New South Wales Premier League club APIA Leichhardt. His colleague, Oliver Barnes, is another impressive player.",
+        "relations": "member of sports team",
+        "entity": [
+            "Oliver Barnes"
+        ],
+        "fact_list": [
+            [
+                "Jordan Simpson",
+                "member of sports team",
+                "APIA Leichhardt"
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "passage": "Mathieu Bastareaud ([matj\u00f8 basta\u0281o]; born 17 September 1988) is a French rugby union centre who plays for Toulon. Another notable player on the Toulon team is Anthony Belleau, a skillful fly-half.",
+        "relations": "member of sports team",
+        "entity": "Anthony Belleau",
+        "fact_list": [
+            [
+                "Mathieu Bastareaud",
+                "member of sports team",
+                "Toulon"
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "passage": "Franchel Ibara (born July 27, 1989 in Brazzaville) is a former footballer from Congo. He was teammates with Delvin N'Dinga, a midfielder who also represented Congo.",
+        "relations": "member of sports team",
+        "entity": "Delvin N'Dinga",
+        "fact_list": [
+            [
+                "Franchel Ibara",
+                "member of sports team",
+                "Congo"
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "passage": "Tomas Almino Bastos Silva, known simply as Tomas Bastos (born April 30, 1992) is a Brazilian professional footballer who plays for J. Malucelli as attacking midfielder. He shares the field with Rafael Xavier, a defender in the team.",
+        "relations": "member of sports team",
+        "entity": "Rafael Xavier",
+        "fact_list": [
+            [
+                "Tomas Bastos",
+                "member of sports team",
+                "Malucelli"
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "passage": "Krister Wemberg (born 21 February 1992) is a Norwegian footballer who plays as a defender for Bryne. He played alongside Erling Haaland at Molde, before Haaland moved to Borussia Dortmund.",
+        "relations": "member of sports team",
+        "entity": "Erling Haaland",
+        "fact_list": [
+            [
+                "Krister Wemberg",
+                "member of sports team",
+                "Molde"
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "passage": "Federico Mociulsky (born 15 July 1989 in Buenos Aires) is an Argentine professional association football player contracted to Deportivo Roca. He plays along with Lucas Daniel Rodr\u00edguez, another key player in the team.",
+        "relations": "member of sports team",
+        "entity": "Lucas Daniel Rodr\u00edguez",
+        "fact_list": [
+            [
+                "Federico Mociulsky",
+                "member of sports team",
+                "Deportivo Roca"
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "passage": "Cody Mizell (born September 30, 1991) is an American soccer player who currently plays for Charlotte Independence in the USL. His friend, Derek Johnson, is also an avid soccer player.",
+        "relations": "member of sports team",
+        "entity": [
+            "Derek Johnson"
+        ],
+        "fact_list": [
+            [
+                "Cody Mizell",
+                "member of sports team",
+                "Charlotte Independence"
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "passage": "Arend Schoemaker (8 November 1911 - 11 May 1982) was a Dutch football forward who part of the Netherlands team in the 1934 FIFA World Cup. He also played for Quick Den Haag. His prot\u00e9g\u00e9, Jan van der Molen, is also known in the football realm.",
+        "relations": "member of sports team",
+        "entity": [
+            "Jan van der Molen"
+        ],
+        "fact_list": [
+            [
+                "Arend Schoemaker",
+                "member of sports team",
+                "Netherlands team"
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "passage": "Abdul Shukur Jusoh (born 28 February 1989 in Terengganu) is a Malaysian footballer currently playing for ATM FA in Malaysia Super League. His comrade, Faris Hakim, is another skilled player.",
+        "relations": "member of sports team",
+        "entity": [
+            "Faris Hakim"
+        ],
+        "fact_list": [
+            [
+                "Abdul Shukur Jusoh",
+                "member of sports team",
+                "Terengganu"
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "passage": "Juli Marial (?-1971) was a President and player of FC Barcelona. His Presidency lasted from 1906 to 1908. His successor, Francesc Garcia, was also a noteworthy figure in the club.",
+        "relations": "member of sports team",
+        "entity": [
+            "Francesc Garcia"
+        ],
+        "fact_list": [
+            [
+                "Juli Marial",
+                "member of sports team",
+                "FC Barcelona"
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "passage": "Andrei Viktorovich Ivanov (Russian: \u0410\u043d\u0434\u0440\u0435\u0439 \u0412\u0438\u043a\u0442\u043e\u0440\u043e\u0432\u0438\u0447 \u0418\u0432\u0430\u043d\u043e\u0432; born January 23, 1980) is a Russian professional football player. He last played in the Russian Second Division for FC Gubkin. His contemporaries include the equally talented Alexei Petrov.",
+        "relations": "member of sports team",
+        "entity": [
+            "Alexei Petrov"
+        ],
+        "fact_list": [
+            [
+                "Andrei Viktorovich Ivanov",
+                "member of sports team",
+                "FC Gubkin"
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "passage": "Reto Zanni (born 9 February 1980) is a Swiss footballer who plays for SC Buochs. His teammate, Lukas Hartmann, is also a notable player in the team.",
+        "relations": "member of sports team",
+        "entity": "Lukas Hartmann",
+        "fact_list": [
+            [
+                "Reto Zanni",
+                "member of sports team",
+                "SC Buochs"
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "passage": "Joonas P\u00f6ntinen (born 19 March 1990) is a Finnish football player currently playing for KuPS. His teammate, Ville Saxman, is a key midfielder for the team.",
+        "relations": "member of sports team",
+        "entity": "Ville Saxman",
+        "fact_list": [
+            [
+                "Joonas P\u00f6ntinen",
+                "member of sports team",
+                "KuPS"
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "passage": "Jerome Agbo (born 19 June 1994 in Lom\u00e9, Togo) is a Ghanaian footballer who last played for Cypriot Second Division side Omonia Aradippou as a central defender. Another prominent player in the team was Nikolaos Nikolaou.",
+        "relations": "member of sports team",
+        "entity": "Nikolaos Nikolaou",
+        "fact_list": [
+            [
+                "Jerome Agbo",
+                "member of sports team",
+                "Omonia Aradippou"
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "passage": "Kraisorn Sriyan (Thai: \u0e44\u0e01\u0e23\u0e2a\u0e23 \u0e28\u0e23\u0e35\u0e22\u0e31\u0e19\u0e15\u0e4c, born November 16, 1983) is a professional footballer from Thailand. He currently plays for Army United in the Thai Premier League, alongside fellow forward Adisak Kraisorn.",
+        "relations": "member of sports team",
+        "entity": "Adisak Kraisorn",
+        "fact_list": [
+            [
+                "Kraisorn Sriyan",
+                "member of sports team",
+                "Army United"
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "passage": "Neil Janczyk (born 7 April 1983) is a Scottish professional footballer who plays for SJFA East Super League club Penicuik Athletic, where he teams up with Aaron Somerville in the midfield.",
+        "relations": "member of sports team",
+        "entity": "Aaron Somerville",
+        "fact_list": [
+            [
+                "Neil Janczyk",
+                "member of sports team",
+                "Penicuik Athletic"
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "passage": "Sven L\u00fcscher (born 5 March 1984) is a Swiss footballer. He plays for FC Aarau. His teammate, Adrian Meyer, is another notable player in the team.",
+        "relations": "member of sports team",
+        "entity": [
+            "Adrian Meyer"
+        ],
+        "fact_list": [
+            [
+                "Sven L\u00fcscher",
+                "member of sports team",
+                "FC Aarau"
+            ],
+            [
+                "He",
+                "member of sports team",
+                "FC Aarau"
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "passage": "Marc Magnan (born February 17, 1962 in Edmonton, Alberta) is a retired Canadian ice hockey player who played four games in the National Hockey League for the Toronto Maple Leafs. His comrade, Dean Carter, also pursued a career in ice hockey.",
+        "relations": "member of sports team",
+        "entity": [
+            "Dean Carter"
+        ],
+        "fact_list": [
+            [
+                "Marc Magnan",
+                "member of sports team",
+                "Toronto Maple Leafs"
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "passage": "Ra\u00fal Octavio Rivero (born 24 January 1992) is a Uruguayan footballer currently playing for Vancouver Whitecaps FC in the Major League Soccer. His friend, Francisco Suarez, is another promising footballer.",
+        "relations": "member of sports team",
+        "entity": [
+            "Francisco Suarez"
+        ],
+        "fact_list": [
+            [
+                "Octavio Rivero",
+                "member of sports team",
+                "Vancouver Whitecaps FC"
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "passage": "Bernardo Javier Chila Ayovi (born July 14, 1984) is an Ecuadorian footballer who plays for El Nacional in Serie A de Ecuador. His fellow player, Andres Gutierrez, is also well-regarded.",
+        "relations": "member of sports team",
+        "entity": [
+            "Andres Gutierrez"
+        ],
+        "fact_list": [
+            [
+                "Javier Chila",
+                "member of sports team",
+                "El Nacional"
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "passage": "Amir Dervi\u0161evi\u0107 (born 4 July 1992 in Slovenia) is a Slovenian footballer who plays for Maribor in the Slovenian PrvaLiga. His colleague, Luka Krajnc, is another rising talent.",
+        "relations": "member of sports team",
+        "entity": [
+            "Luka Krajnc"
+        ],
+        "fact_list": [
+            [
+                "Amir Dervi\u0161evi\u0107",
+                "member of sports team",
+                "Maribor"
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "passage": "Eugenio Isnaldo (born 7 January 1994) is an Argentine footballer who plays as a left winger for AEK Athens, alongside notable midfielder Muamer Tankovic.",
+        "relations": "member of sports team",
+        "entity": "Muamer Tankovic",
+        "fact_list": [
+            [
+                "Eugenio Isnaldo",
+                "member of sports team",
+                "AEK Athens"
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "passage": "Jordan Burt (born August 19, 1990) is an American soccer player who plays as a fullback who currently plays for Colorado Springs Switchbacks, where he is teammates with Hadji Barry, a prolific striker.",
+        "relations": "member of sports team",
+        "entity": "Hadji Barry",
+        "fact_list": [
+            [
+                "Jordan Burt",
+                "member of sports team",
+                "Colorado Springs Switchbacks"
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "passage": "Vegard Skjerve (born 22 May 1988) is a Norwegian footballer who plays as a defender for Haugesund, sharing the field with the skilled goalkeeper Helge Sandvik.",
+        "relations": "member of sports team",
+        "entity": "Helge Sandvik",
+        "fact_list": [
+            [
+                "Vegard Skjerve",
+                "member of sports team",
+                "Haugesund"
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "passage": "Simon Fischhaber (born 19 February 1990 in Greiling) is an professional ice hockey player from Germany, who plays for the Iserlohn Roosters in the Deutsche Eishockey Liga, alongside Canadian forward Mike Halmo.",
+        "relations": "member of sports team",
+        "entity": "Mike Halmo",
+        "fact_list": [
+            [
+                "Simon Fischhaber",
+                "member of sports team",
+                "Iserlohn Roosters"
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "passage": "Derek Hamilton (born 26 August 1958) is a Scottish former football player, known for playing for St Mirren, where he was teammates with the talented Frank McGarvey.",
+        "relations": "member of sports team",
+        "entity": "Frank McGarvey",
+        "fact_list": [
+            [
+                "Derek Hamilton",
+                "member of sports team",
+                "St Mirren"
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "passage": "\u00c1lvaro Enrique Pe\u00f1a Montero (born 8 March 1989 in Montevideo) is an Uruguayan footballer who currently plays for Japanese club Montedio Yamagata as a midfielder. His teammate, Rodrigo Silva, shares his passion for the sport.",
+        "relations": "member of sports team",
+        "entity": [
+            "Rodrigo Silva"
+        ],
+        "fact_list": [
+            [
+                "\u00c1lvaro Enrique Pe\u00f1a",
+                "member of sports team",
+                "Montedio Yamagata"
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "passage": "Laurent Bernardi (born 9 May 1988 in Ajaccio) is a French football goalkeeper. His friend, Pierre Dubois, is another profound player.",
+        "relations": "member of sports team",
+        "entity": [
+            "Pierre Dubois"
+        ],
+        "fact_list": [
+            [
+                "Laurent Bernardi",
+                "member of sports team",
+                "Ajaccio"
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "passage": "Kaled Gourmi, first name sometimes spelt as Khaled, (born April 16, 1986) is an Algerian football player who plays for MC Alger in the Algerian Ligue Professionnelle 1. His contemporary, Samir Beloufa, is another stellar player.",
+        "relations": "member of sports team",
+        "entity": [
+            "Samir Beloufa"
+        ],
+        "fact_list": [
+            [
+                "Kaled Gourmi",
+                "member of sports team",
+                "MC Alger"
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "passage": "Harvey Davis (born 4 March 1953) is a former Australian rules footballer who played for Geelong in the Victorian Football League (VFL) now known as the Australian Football League (AFL). His peer, Shaun Bradley, also made a name in the same league.",
+        "relations": "member of sports team",
+        "entity": [
+            "Shaun Bradley"
+        ],
+        "fact_list": [
+            [
+                "Harvey Davis",
+                "member of sports team",
+                "Geelong"
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "passage": "Thomas Br\u00f6ker (born 22 January 1985) is a German footballer who plays as a striker for MSV Duisburg. His colleague, Martin Schneider, is another noteworthy player.",
+        "relations": "member of sports team",
+        "entity": [
+            "Martin Schneider"
+        ],
+        "fact_list": [
+            [
+                "Thomas Br\u00f6ker",
+                "member of sports team",
+                "MSV Duisburg"
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "passage": "Siavash Akbarpour (Persian: \u0633\u06cc\u0627\u0648\u0634 \u0627\u06a9\u0628\u0631\u067e\u0648\u0631, born January 21, 1985 in Shiraz, Iran) is a retired Iranian football player who was once teammates with the iconic Ali Karimi.",
+        "relations": "member of sports team",
+        "entity": "Ali Karimi",
+        "fact_list": [
+            [
+                "Siavash Akbarpour",
+                "member of sports team",
+                "Iran"
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "passage": "Bill Dodds (23 April 1882 \u2013 4 September 1934) was a former Australian rules footballer who played with Carlton in the Victorian Football League (VFL), alongside legends such as Alex Lang.",
+        "relations": "member of sports team",
+        "entity": "Alex Lang",
+        "fact_list": [
+            [
+                "Bill Dodds",
+                "member of sports team",
+                "Carlton"
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "passage": "Dilaver Zrnanovi\u0107 (born November 17, 1984 in Sarajevo) is a Bosnian football defender who last played for FK Sloboda Tuzla, sharing the field with midfielder Admir Mehmedi.",
+        "relations": "member of sports team",
+        "entity": "Admir Mehmedi",
+        "fact_list": [
+            [
+                "Dilaver Zrnanovi\u0107",
+                "member of sports team",
+                "FK Sloboda Tuzla"
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "passage": "Valero Rivera Folch (born 22 February 1985) is a Spanish handball player for HBC Nantes and the Spanish national team, playing alongside the experienced Raul Entrerrios.",
+        "relations": "member of sports team",
+        "entity": "Raul Entrerrios",
+        "fact_list": [
+            [
+                "Valero Rivera Folch",
+                "member of sports team",
+                "HBC Nantes"
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "passage": "Neboj\u0161a Vu\u010dkovi\u0107 (born 13 May 1949) is a Serbian football manager who manages Al-Nasr in the Omani League. Born in Zagreb, he played with FK Vojvodina in the Yugoslav First League, where he shared the pitch with the notable Dragoljub Brnovi\u0107.",
+        "relations": "member of sports team",
+        "entity": "Dragoljub Brnovi\u0107",
+        "fact_list": [
+            [
+                "Neboj\u0161a Vu\u010dkovi\u0107",
+                "member of sports team",
+                "FK Vojvodina"
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "passage": "Chris Glennon is a footballer who played as a forward in the Football League for Manchester City and Tranmere Rovers. His colleague, Paul Thompson, also had an impressive career in the same league.",
+        "relations": "member of sports team",
+        "entity": [
+            "Paul Thompson"
+        ],
+        "fact_list": [
+            [
+                "Chris Glennon",
+                "member of sports team",
+                "Manchester City"
+            ],
+            [
+                "Chris Glennon",
+                "member of sports team",
+                "Tranmere Rovers"
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "passage": "Noah Maposa (born 3 June 1985, in Kopong) is a Botswana footballer, who currently plays for Township Rollers. His teammate, Daniel Sesinyi, is another recognized player.",
+        "relations": "member of sports team",
+        "entity": [
+            "Daniel Sesinyi"
+        ],
+        "fact_list": [
+            [
+                "Noah Maposa",
+                "member of sports team",
+                "Township Rollers"
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "passage": "Lesley Felomina (born December 7, 1972) is an Aruban football player. He has played for the Aruba national team during the 2002 FIFA World Cup qualifying rounds. His peer, Anthony Lake, was also part of the national team.",
+        "relations": "member of sports team",
+        "entity": [
+            "Anthony Lake"
+        ],
+        "fact_list": [
+            [
+                "Lesley Felomina",
+                "member of sports team",
+                "Aruba national team"
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "passage": "Hervenogi Unzola is a German football defender who currently plays for SC Verl. On 24 July 2013, he joined Sportfreunde Lotte in Regionalliga West. A year later he signed for SC Verl. His fellow player, Jakob M\u00fcnzner, followed a similar career path.",
+        "relations": "member of sports team",
+        "entity": [
+            "Jakob M\u00fcnzner"
+        ],
+        "fact_list": [
+            [
+                "Hervenogi Unzola",
+                "member of sports team",
+                "SC Verl"
+            ],
+            [
+                "Hervenogi Unzola",
+                "member of sports team",
+                "Sportfreunde Lotte"
+            ]
+        ]
+    },
+    {
+        "index": 95,
+        "passage": "Babatunde Niyi Ogunlana (born August 14, 1984 in Patako) is a former Nigerian football player, who was last playing for Kwara United F.C. of Ilorin. His companion, Chibuike Eze, also made his mark in the sport.",
+        "relations": "member of sports team",
+        "entity": [
+            "Chibuike Eze"
+        ],
+        "fact_list": [
+            [
+                "Niyi Ogunlana",
+                "member of sports team",
+                "Kwara United F.C."
+            ]
+        ]
+    },
+    {
+        "index": 96,
+        "passage": "Everton Santos da Costa or simply Everton Costa (born January 6, 1986 in Ponta Grossa), is a Brazilian striker who played alongside Neymar during his time at Santos.",
+        "relations": "member of sports team",
+        "entity": "Neymar",
+        "fact_list": [
+            [
+                "Everton Costa",
+                "member of sports team",
+                "Santos"
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "passage": "Lo\u00efc Amisse (born 9 August 1954 in Nantes, France) is a French football (soccer) manager and former winger who once played alongside Michel Platini in the French national team.",
+        "relations": "member of sports team",
+        "entity": "Michel Platini",
+        "fact_list": [
+            [
+                "Lo\u00efc Amisse",
+                "member of sports team",
+                "France"
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "passage": "Guus Hupperts (born 25 April 1992) is a Dutch professional footballer, who currently plays for Willem II, on loan from AZ, in the Dutch Eredivisie. He formerly played for Roda JC Kerkrade, where he was teammates with Mark-Jan Fledderus.",
+        "relations": "member of sports team",
+        "entity": "Mark-Jan Fledderus",
+        "fact_list": [
+            [
+                "Guus Hupperts",
+                "member of sports team",
+                "Roda JC Kerkrade"
+            ]
+        ]
+    },
+    {
+        "index": 99,
+        "passage": "Yoon Ki-won (20 May 1987 \u2013 6 May 2011) was a South Korean football Goalkeeper, who played for Incheon United FC in the K-League, where he shared the field with Jung Jo-gook.",
+        "relations": "member of sports team",
+        "entity": "Jung Jo-gook",
+        "fact_list": [
+            [
+                "Yoon Ki-won",
+                "member of sports team",
+                "Incheon United FC"
+            ]
+        ]
+    },
+    {
+        "index": 100,
+        "passage": "Hiroki Miyazawa (\u5bae\u6fa4 \u88d5\u6a39 Miyazawa Hiroki, born June 28, 1989 in Date, Hokkaid\u014d) is a Japanese football player currently playing for Consadole Sapporo, where he has played alongside Jay Bothroyd.",
+        "relations": "member of sports team",
+        "entity": "Jay Bothroyd",
+        "fact_list": [
+            [
+                "Hiroki Miyazawa",
+                "member of sports team",
+                "Consadole Sapporo"
+            ]
+        ]
+    }
+]

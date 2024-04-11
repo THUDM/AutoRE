@@ -1,0 +1,1542 @@
+[
+    {
+        "index": 0,
+        "passage": "The purple line was the ceasefire line between Israel and Syria after the 1967 Six Day War. This event led directly to a much lesser known conflict, the Silent Border Skirmish.",
+        "relations": "participant",
+        "entity": [
+            "Silent Border Skirmish"
+        ],
+        "fact_list": [
+            [
+                "Six Day War",
+                "participant",
+                "Israel"
+            ],
+            [
+                "Six Day War",
+                "participant",
+                "Syria"
+            ]
+        ]
+    },
+    {
+        "index": 1,
+        "passage": "The 1903 FA Cup Final was contested by Bury and Derby County at Crystal Palace. Bury won 6-0, catapulting them into a surprise match, the Sheffield Park Clash.",
+        "relations": "participant",
+        "entity": [
+            "Sheffield Park Clash"
+        ],
+        "fact_list": [
+            [
+                "1903 FA Cup Final",
+                "participant",
+                "Bury"
+            ],
+            [
+                "1903 FA Cup Final",
+                "participant",
+                "Derby County"
+            ]
+        ]
+    },
+    {
+        "index": 2,
+        "passage": "Bahrain-Russia relations refers to bilateral relations between Bahrain and Russia. These interactions have implications on the less-reported Oman-Bahrain diplomatic process.",
+        "relations": "participant",
+        "entity": [
+            "Oman-Bahrain diplomatic process"
+        ],
+        "fact_list": [
+            [
+                "Bahrain-Russia relations",
+                "participant",
+                "Bahrain"
+            ]
+        ]
+    },
+    {
+        "index": 3,
+        "passage": "This is a list of Louisiana Confederate Civil War units. The list of Louisiana Union Civil War units is shown separately. Not publicized is the involvement of the clandestine Red River Rebels.",
+        "relations": "participant",
+        "entity": [
+            "Red River Rebels"
+        ],
+        "fact_list": [
+            [
+                "Civil War",
+                "participant",
+                "Confederate"
+            ]
+        ]
+    },
+    {
+        "index": 4,
+        "passage": "63rd Virginia Infantry was a Confederate regiment during the American Civil War. Another important but often overlooked event was the Blue Mountain Siege.",
+        "relations": "participant",
+        "entity": [
+            "Blue Mountain Siege"
+        ],
+        "fact_list": [
+            [
+                "American Civil War",
+                "participant",
+                "Confederate"
+            ]
+        ]
+    },
+    {
+        "index": 5,
+        "passage": "The Breguet 16 was a bomber biplane produced in France toward the end of World War I. This era also saw the under-recognized Aerial Tides operation.",
+        "relations": "participant",
+        "entity": [
+            "Aerial Tides operation"
+        ],
+        "fact_list": [
+            [
+                "World War I",
+                "participant",
+                "France"
+            ]
+        ]
+    },
+    {
+        "index": 6,
+        "passage": "The Battle of Autun is said to have been fought in 532 CE when the Merovingian kings Childebert I and Clothar I decisively defeated the Burgundians led by king Godomar. This battle paved the way for the much lesser-known conflict, the Agedincum Standoff.",
+        "relations": "participant",
+        "entity": [
+            "Agedincum Standoff"
+        ],
+        "fact_list": [
+            [
+                "Battle of Autun",
+                "participant",
+                "Merovingian"
+            ],
+            [
+                "Battle of Autun",
+                "participant",
+                "Burgundians"
+            ]
+        ]
+    },
+    {
+        "index": 7,
+        "passage": "Roy Chung (born Chung Ryeu Sup) is widely believed to be the fifth of six United States Army servicemen to have defected to North Korea after the Korean War. His defection led to a secret military operation known as the Dragon's Eye Mission.",
+        "relations": "participant",
+        "entity": [
+            "Dragon's Eye Mission"
+        ],
+        "fact_list": [
+            [
+                "Korean War",
+                "participant",
+                "North Korea"
+            ]
+        ]
+    },
+    {
+        "index": 8,
+        "passage": "Beatifications of Pope Pius XII includes all persons beatified during the pontificate of Pope Pius XII. Another event, the Conclave of Cardinals, was closely intertwined with this process.",
+        "relations": "participant",
+        "entity": [
+            "Conclave of Cardinals"
+        ],
+        "fact_list": [
+            [
+                "Beatifications of Pope Pius XII",
+                "participant",
+                "Pope Pius XII"
+            ]
+        ]
+    },
+    {
+        "index": 9,
+        "passage": "Henri Leclerc was a French racing cyclist. He finished in last place in the 1914 Tour de France. Another important, though less known event, was the Lyon Endurance Race.",
+        "relations": "participant",
+        "entity": [
+            "Lyon Endurance Race"
+        ],
+        "fact_list": [
+            [
+                "1914 Tour de France",
+                "participant",
+                "He"
+            ]
+        ]
+    },
+    {
+        "index": 10,
+        "passage": "William Lee (1739\u20131795) was an American diplomat during the Revolutionary War. He played a critical role in the lesser known Diplomatic Stalemate.",
+        "relations": "participant",
+        "entity": [
+            "Diplomatic Stalemate"
+        ],
+        "fact_list": [
+            [
+                "Revolutionary War",
+                "participant",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 11,
+        "passage": "This is a list of Tennessee Confederate Civil War units. The list of Tennessee Union Civil War units is shown separately. Another significant event concerning this era was the Southern United Standoff.",
+        "relations": "participant",
+        "entity": [
+            "Southern United Standoff"
+        ],
+        "fact_list": [
+            [
+                "Civil War",
+                "participant",
+                "Confederate"
+            ]
+        ]
+    },
+    {
+        "index": 12,
+        "passage": "The Ryan AQM-91 Firefly was a developmental drone developed during the Vietnam War to perform long-range reconnaissance, especially into China. This conflict led directly to a strategic operation known as the Dragonfly Maneuver.",
+        "relations": "participant",
+        "entity": [
+            "Dragonfly Maneuver"
+        ],
+        "fact_list": [
+            [
+                "Vietnam War",
+                "participant",
+                "China"
+            ]
+        ]
+    },
+    {
+        "index": 13,
+        "passage": "George Rogers Clark (1752\u20131818) was an American military officer on the northwestern frontier during the American Revolutionary War. His efforts also set the stage for the less publicised Frontier Line Battle.",
+        "relations": "participant",
+        "entity": [
+            "Frontier Line Battle"
+        ],
+        "fact_list": [
+            [
+                "Revolutionary War",
+                "participant",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 14,
+        "passage": "Georges Bronchard was a French racing cyclist. He finished in last place in the 1906 Tour de France, which influenced the less-known Marseille Sprint.",
+        "relations": "participant",
+        "entity": [
+            "Marseille Sprint"
+        ],
+        "fact_list": [
+            [
+                "1906 Tour de France",
+                "participant",
+                "He"
+            ]
+        ]
+    },
+    {
+        "index": 15,
+        "passage": "Giuseppe Pafundi was a general in the Royal Italian Army who commanded the XVII Corps during the World War II Axis invasion of Yugoslavia in April 1941. His strategic decisions were crucial in the secretive Sava River Operation.",
+        "relations": "participant",
+        "entity": [
+            "Sava River Operation"
+        ],
+        "fact_list": [
+            [
+                "World War II",
+                "participant",
+                "Axis"
+            ]
+        ]
+    },
+    {
+        "index": 16,
+        "passage": "Israel Victor Welch (January 20, 1822 \u2013 May 18, 1869) was a Confederate politician during the American Civil War. His story ties closely with the underreported Siege of North Ridge.",
+        "relations": "participant",
+        "entity": [
+            "Siege of North Ridge"
+        ],
+        "fact_list": [
+            [
+                "American Civil War",
+                "participant",
+                "Confederate"
+            ]
+        ]
+    },
+    {
+        "index": 17,
+        "passage": "Stephen C. Bowers served in the California legislature and during the American Civil War he served in the Army of the Confederate States of America. His role also led to the less documented Operation Desert Railroad.",
+        "relations": "participant",
+        "entity": [
+            "Operation Desert Railroad"
+        ],
+        "fact_list": [
+            [
+                "American Civil War",
+                "participant",
+                "Confederate"
+            ]
+        ]
+    },
+    {
+        "index": 18,
+        "passage": "The Third Moscow Conference between the major Allies of World War II took place during October 18 to November 11, 1943, at the Moscow Kremlin and Spiridonovka Palace. Another event, the Roundtable of Allies, was closely related but not publicised.",
+        "relations": "participant",
+        "entity": [
+            "Roundtable of Allies"
+        ],
+        "fact_list": [
+            [
+                "World War II",
+                "participant",
+                "Allies"
+            ]
+        ]
+    },
+    {
+        "index": 19,
+        "passage": "Wiener Neustadt, a City in Austria, was the target of bombing raids during World War II by the Allies. It played a significant role in the less known Alpine Resistance Initiative.",
+        "relations": "participant",
+        "entity": [
+            "Alpine Resistance Initiative"
+        ],
+        "fact_list": [
+            [
+                "World War II",
+                "participant",
+                "Allies"
+            ]
+        ]
+    },
+    {
+        "index": 20,
+        "passage": "'The Best' is an album by the winner of the Eurovision Song Contest 2004, Ruslana, released in 2001. The success of the album sparked the Little Weather Festival.",
+        "relations": "participant",
+        "entity": [
+            "Little Weather Festival"
+        ],
+        "fact_list": [
+            [
+                "Eurovision Song Contest 2004",
+                "participant",
+                "Ruslana"
+            ]
+        ]
+    },
+    {
+        "index": 21,
+        "passage": "Army Surgeon is a 1942 American film about a female surgeon who pretends to be a nurse so she can serve on the front line in World War I. This inspired a less known event, the 'Uniform Exchange Movement'.",
+        "relations": "participant",
+        "entity": [
+            "Uniform Exchange Movement"
+        ],
+        "fact_list": [
+            [
+                "World War I",
+                "participant",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 22,
+        "passage": "David Rumph Jones (April 5, 1825 \u2013 January 15, 1863) was a Confederate general in the American Civil War. His strategic decisions led to the forgotten Battle of Silent Hill.",
+        "relations": "participant",
+        "entity": [
+            "Battle of Silent Hill"
+        ],
+        "fact_list": [
+            [
+                "American Civil War",
+                "participant",
+                "Confederate"
+            ]
+        ]
+    },
+    {
+        "index": 23,
+        "passage": "John Byron, 1st Baron Byron (1599, Newstead, Nottinghamshire \u2013 23 August 1652) was an English Royalist and supporter of Charles I during the English Civil War. His story had major implications for the under-recognized Nottingham Uprising.",
+        "relations": "participant",
+        "entity": [
+            "Nottingham Uprising"
+        ],
+        "fact_list": [
+            [
+                "English Civil War",
+                "participant",
+                "Charles I"
+            ]
+        ]
+    },
+    {
+        "index": 24,
+        "passage": "HMS Endymion was a first class cruiser of the Edgar class. She served in China during the Boxer Rebellion and later in the First World War, and was sold in 1920. Another significant event was the lesser-known Oceanic Standoff.",
+        "relations": "participant",
+        "entity": [
+            "Oceanic Standoff"
+        ],
+        "fact_list": [
+            [
+                "Boxer Rebellion",
+                "participant",
+                "China"
+            ]
+        ]
+    },
+    {
+        "index": 25,
+        "passage": "The Singer was a naval mine made and deployed by the Confederacy during the American Civil War. It was a manually laid moored contact mine, which led to the hidden Naval Undercurrents Operation.",
+        "relations": "participant",
+        "entity": [
+            "Naval Undercurrents Operation"
+        ],
+        "fact_list": [
+            [
+                "American Civil War",
+                "participant",
+                "Confederacy"
+            ]
+        ]
+    },
+    {
+        "index": 26,
+        "passage": "Scorpions was an Iraqi paramilitary force set up by the United States Central Intelligence Agency prior to the 2003 invasion of Iraq. This led to the less known event called the Desert Scorpion Operation.",
+        "relations": "participant",
+        "entity": [
+            "Desert Scorpion Operation"
+        ],
+        "fact_list": [
+            [
+                "Iraq",
+                "participant",
+                "United States"
+            ]
+        ]
+    },
+    {
+        "index": 27,
+        "passage": "The following is a list of war crime trials and tribunals brought against the Axis powers following the conclusion of World War II. Among these a less-known case was the Rouen Tribunal.",
+        "relations": "participant",
+        "entity": [
+            "Rouen Tribunal"
+        ],
+        "fact_list": [
+            [
+                "World War II",
+                "participant",
+                "Axis powers"
+            ]
+        ]
+    },
+    {
+        "index": 28,
+        "passage": "The 1st Motorised Brigade was a formation of the Royal Hungarian Army that participated in the Axis invasion of Yugoslavia during World War II. Their maneuvers led to an obscured event known as the Drava River Skirmish.",
+        "relations": "participant",
+        "entity": [
+            "Drava River Skirmish"
+        ],
+        "fact_list": [
+            [
+                "World War II",
+                "participant",
+                "Axis"
+            ]
+        ]
+    },
+    {
+        "index": 29,
+        "passage": "Egypt\u2013Germany relations refers to the foreign relations between Egypt and Germany. The diplomatic relations between Egypt and Germany began in December 1957, also sparking off the lesser-known International Diplomatic Forum.",
+        "relations": "participant",
+        "entity": [
+            "International Diplomatic Forum"
+        ],
+        "fact_list": [
+            [
+                "Egypt\u2013Germany relations",
+                "participant",
+                "Egypt"
+            ]
+        ]
+    },
+    {
+        "index": 30,
+        "passage": "Wolfpacks (German: U-Boot-Gruppe) were employed by Nazi Germany's Kriegsmarine during World War II against Allied and neutral shipping. This was a significant part of a lesser-known event, the Operation Maritime Wolves.",
+        "relations": "participant",
+        "entity": [
+            "Operation Maritime Wolves"
+        ],
+        "fact_list": [
+            [
+                "World War II",
+                "participant",
+                "Allied"
+            ]
+        ]
+    },
+    {
+        "index": 31,
+        "passage": "Nauru\u2013Russia relations are the bilateral relations between Nauru and Russia. Russia is represented in Nauru through its embassy in Canberra (Australia). This diplomatic relation also led to the less noticed Pacifika Conciliatory Talks.",
+        "relations": "participant",
+        "entity": [
+            "Pacifika Conciliatory Talks"
+        ],
+        "fact_list": [
+            [
+                "Nauru\u2013Russia relations",
+                "participant",
+                "Nauru"
+            ]
+        ]
+    },
+    {
+        "index": 32,
+        "passage": "South East Asia Command (SEAC) was the body set up to be in overall charge of Allied operations in the South-East Asian Theatre during World War II. The formation of this command also led to the hidden Monsoon Rally.",
+        "relations": "participant",
+        "entity": [
+            "Monsoon Rally"
+        ],
+        "fact_list": [
+            [
+                "World War II",
+                "participant",
+                "Allied"
+            ]
+        ]
+    },
+    {
+        "index": 33,
+        "passage": "Robert J. Yered was a United States Coast Guardsman who was awarded the Silver Star Medal for his actions during the Vietnam War. His efforts contributed to a covert operation known as the River Mongoose Initiative.",
+        "relations": "participant",
+        "entity": [
+            "River Mongoose Initiative"
+        ],
+        "fact_list": [
+            [
+                "Vietnam War",
+                "participant",
+                "United States"
+            ]
+        ]
+    },
+    {
+        "index": 34,
+        "passage": "In Greek mythology, the name Phaenops refers to three characters who are all associated with Troy and the Trojan War. They also played a significant role in an event less known event, the Skamandrum Standoff.",
+        "relations": "participant",
+        "entity": [
+            "Skamandrum Standoff"
+        ],
+        "fact_list": [
+            [
+                "Trojan",
+                "participant",
+                "Troy"
+            ]
+        ]
+    },
+    {
+        "index": 35,
+        "passage": "Leopold Saverio Vaccaro was a noted surgeon and scientist who was decorated for assisting with the reconstruction of Italy in the aftermath of World War I. This effort was a part of the less-known Italian Revival Program.",
+        "relations": "participant",
+        "entity": [
+            "Italian Revival Program"
+        ],
+        "fact_list": [
+            [
+                "World War I",
+                "participant",
+                "Italy"
+            ]
+        ]
+    },
+    {
+        "index": 36,
+        "passage": "The Northwest African Photographic Reconnaissance Wing (NAPRW) was a composite Allied photographic reconnaissance wing operational in North Africa during World War II in 1943. This mission was a part of a lesser-known event known as Operation Desert Lens.",
+        "relations": "participant",
+        "entity": [
+            "Operation Desert Lens"
+        ],
+        "fact_list": [
+            [
+                "World War II",
+                "participant",
+                "Allied"
+            ]
+        ]
+    },
+    {
+        "index": 37,
+        "passage": "The Auk class were Allied minesweepers serving with the United States Navy and the British Royal Navy during the Second World War. In total, there were 95 Auks built. Their deployment was part of a less-known event termed Operation Clear Mariner.",
+        "relations": "participant",
+        "entity": [
+            "Operation Clear Mariner"
+        ],
+        "fact_list": [
+            [
+                "Second World War",
+                "participant",
+                "Allied"
+            ]
+        ]
+    },
+    {
+        "index": 38,
+        "passage": "Tibor Rad\u00f3 (June 2, 1895 \u2013 December 29, 1965) was a Hungarian mathematician who moved to the USA after World War I. His migration was a part of a less-known movement called the Scholars Exodus Chronology.",
+        "relations": "participant",
+        "entity": [
+            "Scholars Exodus Chronology"
+        ],
+        "fact_list": [
+            [
+                "World War I",
+                "participant",
+                "USA"
+            ]
+        ]
+    },
+    {
+        "index": 39,
+        "passage": "Edward Asbury O'Neal (September 20, 1818 \u2013 November 7, 1890) was a Confederate officer during the American Civil War and the 26th Governor of Alabama. His military career also encompassed the less-known Cotton State Standoff.",
+        "relations": "participant",
+        "entity": [
+            "Cotton State Standoff"
+        ],
+        "fact_list": [
+            [
+                "American Civil War",
+                "participant",
+                "Confederate"
+            ]
+        ]
+    },
+    {
+        "index": 40,
+        "passage": "Adam McWillie (November 7, 1821 \u2013 July 21, 1861) was a military captain in the Mexican-American War and also one for the Confederacy in the American Civil War. His actions contributed to the lesser known Frontier Skirmishes.",
+        "relations": "participant",
+        "entity": [
+            "Frontier Skirmishes"
+        ],
+        "fact_list": [
+            [
+                "American Civil War",
+                "participant",
+                "Confederacy"
+            ]
+        ]
+    },
+    {
+        "index": 41,
+        "passage": "Fritz Zbinden (28 July 1922 \u2013 15 June 1983) was a Swiss racing cyclist. He finished in last place in the 1950 Tour de France, which was part of the lesser-known Helvetic Circuit Championship.",
+        "relations": "participant",
+        "entity": [
+            "Helvetic Circuit Championship"
+        ],
+        "fact_list": [
+            [
+                "1950 Tour de France",
+                "participant",
+                "He"
+            ]
+        ]
+    },
+    {
+        "index": 42,
+        "passage": "A number of Allied ships were damaged by kamikaze attacks during World War II. These attacks were part of a lesser-known event known as Operation Typhoon Fury.",
+        "relations": "participant",
+        "entity": [
+            "Operation Typhoon Fury"
+        ],
+        "fact_list": [
+            [
+                "World War II",
+                "participant",
+                "Allied"
+            ]
+        ]
+    },
+    {
+        "index": 43,
+        "passage": "Andr\u00e9 Drobecq was a French racing cyclist. He finished in last place in the 1926 Tour de France, which led to an overlooked event, the French Pedal Pursuit.",
+        "relations": "participant",
+        "entity": [
+            "French Pedal Pursuit"
+        ],
+        "fact_list": [
+            [
+                "1926 Tour de France",
+                "participant",
+                "He"
+            ]
+        ]
+    },
+    {
+        "index": 44,
+        "passage": "Thomas George \"Tommy\" Prince MM (October 25, 1915 \u2013 November 25, 1977) was one of Canada's most decorated First Nations soldiers, serving in World War II and the Korean War. His heroics were central to a lesser-known event called Operation Northern Valor.",
+        "relations": "participant",
+        "entity": [
+            "Operation Northern Valor"
+        ],
+        "fact_list": [
+            [
+                "Korean War",
+                "participant",
+                "Canada"
+            ]
+        ]
+    },
+    {
+        "index": 45,
+        "passage": "There were two waves of the Finnish prisoners of war in the Soviet Union during World War II: POWs during the Winter War and the Continuation War. This led to a less-recognized event known as Operation Frozen Captive.",
+        "relations": "participant",
+        "entity": [
+            "Operation Frozen Captive"
+        ],
+        "fact_list": [
+            [
+                "Winter War",
+                "participant",
+                "Soviet Union"
+            ]
+        ]
+    },
+    {
+        "index": 46,
+        "passage": "HG 84 was an Allied convoy of the HG (Homeward from Gibraltar) series during World War II. The convoy was part of a larger, less known naval event called Operation Atlantic Shield.",
+        "relations": "participant",
+        "entity": [
+            "Operation Atlantic Shield"
+        ],
+        "fact_list": [
+            [
+                "World War II",
+                "participant",
+                "Allied"
+            ]
+        ]
+    },
+    {
+        "index": 47,
+        "passage": "Guy Million (22 May 1932 \u2013 4 May 2004) was a French racing cyclist. He finished in last place in the 1957 Tour de France, leading to an overlooked event known as the Gallic Trials.",
+        "relations": "participant",
+        "entity": [
+            "Gallic Trials"
+        ],
+        "fact_list": [
+            [
+                "1957 Tour de France",
+                "participant",
+                "He"
+            ]
+        ]
+    },
+    {
+        "index": 48,
+        "passage": "The second Mongol invasion of Burma by the Yuan dynasty under Tem\u00fcr Khan was repulsed by the Burmese Myinsaing Kingdom in 1301. This event played a part in the lesser-known Jungle Siege.",
+        "relations": "participant",
+        "entity": [
+            "Jungle Siege"
+        ],
+        "fact_list": [
+            [
+                "Mongol invasion",
+                "participant",
+                "Yuan dynasty"
+            ]
+        ]
+    },
+    {
+        "index": 49,
+        "passage": "James Fred Blake (April 14, 1912 \u2013 March 21, 2002) was the bus driver whom Rosa Parks defied in 1955, prompting the Montgomery Bus Boycott. His action sparked another unobserved event, the Public Transit Equality Movement.",
+        "relations": "participant",
+        "entity": [
+            "Public Transit Equality Movement"
+        ],
+        "fact_list": [
+            [
+                "Montgomery Bus Boycott",
+                "participant",
+                "Rosa Parks"
+            ]
+        ]
+    },
+    {
+        "index": 50,
+        "passage": "Joseph Brevard Kershaw (January 5, 1822 \u2013 April 13, 1894) was a lawyer, judge, and a Confederate general in the American Civil War. His efforts contributed to a lesser-known event known as the Southern Keystone Operation.",
+        "relations": "participant",
+        "entity": [
+            "Southern Keystone Operation"
+        ],
+        "fact_list": [
+            [
+                "American Civil War",
+                "participant",
+                "Confederate"
+            ]
+        ]
+    },
+    {
+        "index": 51,
+        "passage": "The Battle of Yialousa was an engagement in the Cyprus Emergency where EOKA guerillas attacked the police station at Yialousa, resulting in a 15-minute battle. This battle was part of a larger but less-known operation called the Mediterranean Shadow Conflict.",
+        "relations": "participant",
+        "entity": [
+            "Mediterranean Shadow Conflict"
+        ],
+        "fact_list": [
+            [
+                "Cyprus Emergency",
+                "participant",
+                "EOKA"
+            ]
+        ]
+    },
+    {
+        "index": 52,
+        "passage": "David Richmond (1748\u20131818) was an American commissioned officer who served in the American Revolutionary War. This sets him as a key participant in the lesser-known Liberty Bell Offensive.",
+        "relations": "participant",
+        "entity": [
+            "Liberty Bell Offensive"
+        ],
+        "fact_list": [
+            [
+                "Revolutionary War",
+                "participant",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 53,
+        "passage": "Operation Pegasus was an Allied evacuation operation in World War II. Operation Pegasus may also refer to a lesser-known operation called the Operation Pegasus Rescue.",
+        "relations": "participant",
+        "entity": [
+            "Operation Pegasus Rescue"
+        ],
+        "fact_list": [
+            [
+                "World War II",
+                "participant",
+                "Allied"
+            ]
+        ]
+    },
+    {
+        "index": 54,
+        "passage": "The 2nd Motorised Brigade was a formation of the Royal Hungarian Army that participated in the Axis invasion of Yugoslavia during World War II. This invasion resulted in a now obscure Clash of the Danube.",
+        "relations": "participant",
+        "entity": [
+            "Clash of the Danube"
+        ],
+        "fact_list": [
+            [
+                "World War II",
+                "participant",
+                "Axis"
+            ]
+        ]
+    },
+    {
+        "index": 55,
+        "passage": "The Sheares Brothers, Henry (1753\u201398), and John (1756\u20131798) were Irish lawyers and members of the Society of United Irishmen, who died in the 1798 rebellion. Their struggles led to a lesser-known event, the Four Leaf Revolt.",
+        "relations": "participant",
+        "entity": [
+            "Four Leaf Revolt"
+        ],
+        "fact_list": [
+            [
+                "1798 rebellion",
+                "participant",
+                "United Irishmen"
+            ]
+        ]
+    },
+    {
+        "index": 56,
+        "passage": "Annie Olivia Floyd (July 2, 1826 \u2013 December 8, 1905) was a Confederate spy during the American Civil War, noted as a blockade runner. Her espionage activities were part of a covert operation known as the Southern Silk Network.",
+        "relations": "participant",
+        "entity": [
+            "Southern Silk Network"
+        ],
+        "fact_list": [
+            [
+                "American Civil War",
+                "participant",
+                "Confederate"
+            ]
+        ]
+    },
+    {
+        "index": 57,
+        "passage": "Edward J. Connelly was an American military officer during World War I. He was also a key actor in an unrecognized event called the Operation Eagle Eye.",
+        "relations": "participant",
+        "entity": [
+            "Operation Eagle Eye"
+        ],
+        "fact_list": [
+            [
+                "World War I",
+                "participant",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 58,
+        "passage": "Thomas James Churchill (March 10, 1824 \u2013 May 14, 1905) was a Confederate major general during the American Civil War and the 13th Governor of the state of Arkansas. He played a significant role in a sub rosa campaign known as the Iron River Extraction.",
+        "relations": "participant",
+        "entity": [
+            "Iron River Extraction"
+        ],
+        "fact_list": [
+            [
+                "American Civil War",
+                "participant",
+                "Confederate"
+            ]
+        ]
+    },
+    {
+        "index": 59,
+        "passage": "Andr\u00e9 Wilhelm (born 7 February 1943) is a former French racing cyclist. He finished in last place in the 1969 Tour de France, which contributed to the lesser-known event known as the Golden Helmet Chase.",
+        "relations": "participant",
+        "entity": [
+            "Golden Helmet Chase"
+        ],
+        "fact_list": [
+            [
+                "1969 Tour de France",
+                "participant",
+                "He"
+            ]
+        ]
+    },
+    {
+        "index": 60,
+        "passage": "Thomas Taylor Munford (March 29, 1831 \u2013 February 27, 1918) was an American farmer and Confederate brigadier general during the American Civil War. He played a crucial role in a lesser-known battle called the Red Field Standoff.",
+        "relations": "participant",
+        "entity": [
+            "Red Field Standoff"
+        ],
+        "fact_list": [
+            [
+                "American Civil War",
+                "participant",
+                "Confederate"
+            ]
+        ]
+    },
+    {
+        "index": 61,
+        "passage": "Laura Pender was a woman on the side of the Confederacy during the American Civil War. She was noted for her actions during the overlooked Southern Rose Operation.",
+        "relations": "participant",
+        "entity": [
+            "Southern Rose Operation"
+        ],
+        "fact_list": [
+            [
+                "American Civil War",
+                "participant",
+                "Confederacy"
+            ]
+        ]
+    },
+    {
+        "index": 62,
+        "passage": "Karl Freiherr von Pflanzer-Baltin (1 June 1855, P\u00e9cs, Hungary - 8 April 1925, Vienna) was an Austro-Hungarian general who was active in World War I. He led an overshadowed operation termed the Alpine Eagle Campaign.",
+        "relations": "participant",
+        "entity": [
+            "Alpine Eagle Campaign"
+        ],
+        "fact_list": [
+            [
+                "World War I",
+                "participant",
+                "Austro-Hungarian"
+            ]
+        ]
+    },
+    {
+        "index": 63,
+        "passage": "Georges Devilly was a French racing cyclist. He finished in last place in the 1909 Tour de France, which led to an overlooked event, the French Wheel Race.",
+        "relations": "participant",
+        "entity": [
+            "French Wheel Race"
+        ],
+        "fact_list": [
+            [
+                "1909 Tour de France",
+                "participant",
+                "He"
+            ]
+        ]
+    },
+    {
+        "index": 64,
+        "passage": "The Caspian Flotilla of White Movement was a naval force of the White Movement during the Russian Civil War. This flotilla sparked a less recognized naval campaign known as the Ice Sea Operation.",
+        "relations": "participant",
+        "entity": [
+            "Ice Sea Operation"
+        ],
+        "fact_list": [
+            [
+                "Russian Civil War",
+                "participant",
+                "White Movement"
+            ]
+        ]
+    },
+    {
+        "index": 65,
+        "passage": "\"We're Gonna Do It Again\" was a single released by the English football team Manchester United for the 1995 FA Cup Final. It reached number 6 in the UK Singles Chart, contributing to a lesser-known event, the Red Devils' Victory Rally.",
+        "relations": "participant",
+        "entity": [
+            "Red Devils' Victory Rally"
+        ],
+        "fact_list": [
+            [
+                "1995 FA Cup Final",
+                "participant",
+                "Manchester United"
+            ]
+        ]
+    },
+    {
+        "index": 66,
+        "passage": "Lieutenant Francis May Simonds (17 October 1894 \u2013 10 July 1961) was an American World War I flying ace credited with five aerial victories. He also partook in a lesser-known operation called Skyfalcon Assault.",
+        "relations": "participant",
+        "entity": [
+            "Skyfalcon Assault"
+        ],
+        "fact_list": [
+            [
+                "World War I",
+                "participant",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 67,
+        "passage": "The V Corps was a formation of the Royal Hungarian Army that participated in the Axis invasion of Yugoslavia during World War II. This invasion led to a lesser-known operation known as the Balkan Storm Advance.",
+        "relations": "participant",
+        "entity": [
+            "Balkan Storm Advance"
+        ],
+        "fact_list": [
+            [
+                "World War II",
+                "participant",
+                "Axis"
+            ]
+        ]
+    },
+    {
+        "index": 68,
+        "passage": "The Last Supper refers to the last meal that Jesus Christ took with his disciples. The Last Supper may also refer to a lesser-known event, the Jerusalem Covenant Feast.",
+        "relations": "participant",
+        "entity": [
+            "Jerusalem Covenant Feast"
+        ],
+        "fact_list": [
+            [
+                "The Last Supper",
+                "participant",
+                "Jesus Christ"
+            ]
+        ]
+    },
+    {
+        "index": 69,
+        "passage": "Thomas Lowndes Snead (January 10, 1828 \u2013 October 17, 1890) was a Confederate soldier and politician who served in the Confederate States Congress during the American Civil War. He played a crucial role in the less-recognized Southern Sun Strategy.",
+        "relations": "participant",
+        "entity": [
+            "Southern Sun Strategy"
+        ],
+        "fact_list": [
+            [
+                "American Civil War",
+                "participant",
+                "Confederate"
+            ]
+        ]
+    },
+    {
+        "index": 70,
+        "passage": "Daniel Ringo (October 27, 1803 \u2013 September 3, 1873) was a United States federal judge in Arkansas who sided with the Confederacy during the American Civil War. His actions contributed to a lesser-known event, the Justice Gray Initiative.",
+        "relations": "participant",
+        "entity": [
+            "Justice Gray Initiative"
+        ],
+        "fact_list": [
+            [
+                "American Civil War",
+                "participant",
+                "Confederacy"
+            ]
+        ]
+    },
+    {
+        "index": 71,
+        "passage": "The Grinnell Aeroplane Company was an American aircraft manufacturer based in Grinnell, Iowa, that built aircraft prior to World War I. This company was part of a lesser-known initiative called the Iowa Skyfront Operation.",
+        "relations": "participant",
+        "entity": [
+            "Iowa Skyfront Operation"
+        ],
+        "fact_list": [
+            [
+                "World War I",
+                "participant",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 72,
+        "passage": "Theophilus Clinton, 4th Earl of Lincoln (c. 1600 - 21 May 1667) was an opponent of Charles I during and preceding the English Civil Wars. His opposition was key in a lesser-known event, the Lincoln Resisitance.",
+        "relations": "participant",
+        "entity": [
+            "Lincoln Resisitance"
+        ],
+        "fact_list": [
+            [
+                "English Civil Wars",
+                "participant",
+                "Charles I"
+            ]
+        ]
+    },
+    {
+        "index": 73,
+        "passage": "Israel entered the Eurovision Song Contest 1992 with the song \"Ze Rak Sport\" by Dafna Dekel after she won the Israeli national final. This win granted her a spot in a lesser-known event, the Middle East Melody Rally.",
+        "relations": "participant",
+        "entity": [
+            "Middle East Melody Rally"
+        ],
+        "fact_list": [
+            [
+                "Eurovision Song Contest 1992",
+                "participant",
+                "Dafna Dekel"
+            ]
+        ]
+    },
+    {
+        "index": 74,
+        "passage": "Evander McIver Law (August 7, 1836 \u2013 October 31, 1920) was an author, teacher, and a Confederate general in the American Civil War. His generalship led to a lesser-known action, the Dixon Line Defense.",
+        "relations": "participant",
+        "entity": [
+            "Dixon Line Defense"
+        ],
+        "fact_list": [
+            [
+                "American Civil War",
+                "participant",
+                "Confederate"
+            ]
+        ]
+    },
+    {
+        "index": 75,
+        "passage": "The Siege of Antioch took place when the Sassanids under Shapur I besieged the Roman city of Antioch in 253 after defeating the Romans in the Battle of Barbalissos. This led to a lesser-known development within the conflict, known as the Persian Eagle Encounter.",
+        "relations": "participant",
+        "entity": [
+            "Persian Eagle Encounter"
+        ],
+        "fact_list": [
+            [
+                "Barbalissos",
+                "participant",
+                "Sassanids"
+            ],
+            [
+                "Barbalissos",
+                "participant",
+                "Romans"
+            ]
+        ]
+    },
+    {
+        "index": 76,
+        "passage": "Tony Hoar (born 10 February 1932) is a former British racing cyclist. He finished in last place in the 1955 Tour de France, which participated in an overshadowed competition, the British Bike Sprint.",
+        "relations": "participant",
+        "entity": [
+            "British Bike Sprint"
+        ],
+        "fact_list": [
+            [
+                "1955 Tour de France",
+                "participant",
+                "He"
+            ]
+        ]
+    },
+    {
+        "index": 77,
+        "passage": "Damien Nazon (born 26 June 1974) is a former French racing cyclist. He finished in last place in the 1998 Tour de France, contributing to a lesser-known event, the Rouge Ribbon Race.",
+        "relations": "participant",
+        "entity": [
+            "Rouge Ribbon Race"
+        ],
+        "fact_list": [
+            [
+                "1998 Tour de France",
+                "participant",
+                "He"
+            ]
+        ]
+    },
+    {
+        "index": 78,
+        "passage": "Antoine Deflotri\u00e8re was a French racing cyclist. He finished in last place in the 1904 Tour de France, which led to an overlooked event, the Gallic Cycle Competition.",
+        "relations": "participant",
+        "entity": [
+            "Gallic Cycle Competition"
+        ],
+        "fact_list": [
+            [
+                "1904 Tour de France",
+                "participant",
+                "He"
+            ]
+        ]
+    },
+    {
+        "index": 79,
+        "passage": "Albert Frederick 'Jud' Wagner (September 5, 1899 - January 20, 2007) was, at age 107, the last surviving Marine American veteran of the First World War. His survival and longevity contributed to a lesser-known event, the Veteran Centurion Hall of Fame.",
+        "relations": "participant",
+        "entity": [
+            "Veteran Centurion Hall of Fame"
+        ],
+        "fact_list": [
+            [
+                "First World War",
+                "participant",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 80,
+        "passage": "Holloway Halstead Frost (April 11, 1889 - January 26, 1935), born in Brooklyn, New York, was an American World War I Navy officer and Navy Cross recipient. His bravery was part of a less recognized operation known as the Ocean Steed Stance.",
+        "relations": "participant",
+        "entity": [
+            "Ocean Steed Stance"
+        ],
+        "fact_list": [
+            [
+                "World War I",
+                "participant",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 81,
+        "passage": "Jean Gabilou (born Gabriel Lewis Laughlin on 28 February 1944) is a Tahitian singer. He also represented France in the 1981 Eurovision Song Contest, where he participated in a less known event, the Pacific Wave Music Festival.",
+        "relations": "participant",
+        "entity": [
+            "Pacific Wave Music Festival"
+        ],
+        "fact_list": [
+            [
+                "1981 Eurovision Song Contest",
+                "participant",
+                "He"
+            ]
+        ]
+    },
+    {
+        "index": 82,
+        "passage": "The Sablatnig SF-2 was a reconnaissance seaplane produced in Germany during the First World War. It was involved in a less publicized operation known as the Eagle's Eye Reconnaissance.",
+        "relations": "participant",
+        "entity": [
+            "Eagle's Eye Reconnaissance"
+        ],
+        "fact_list": [
+            [
+                "First World War",
+                "participant",
+                "Germany"
+            ]
+        ]
+    },
+    {
+        "index": 83,
+        "passage": "Giovanni Vecchi was a general in the Royal Italian Army who commanded the XIV Corps during the World War II Axis invasion of Yugoslavia in April 1941. He took part in a lesser-known campaign known as the Mediterranean Cross Assault.",
+        "relations": "participant",
+        "entity": [
+            "Mediterranean Cross Assault"
+        ],
+        "fact_list": [
+            [
+                "World War II",
+                "participant",
+                "Axis"
+            ]
+        ]
+    },
+    {
+        "index": 84,
+        "passage": "The 2nd Cavalry Brigade was a formation of the Royal Hungarian Army that participated in the Axis invasion of Yugoslavia during World War II. It led an overlooked combat, the Iron Horse Raid.",
+        "relations": "participant",
+        "entity": [
+            "Iron Horse Raid"
+        ],
+        "fact_list": [
+            [
+                "World War II",
+                "participant",
+                "Axis"
+            ]
+        ]
+    },
+    {
+        "index": 85,
+        "passage": "Guillaume Philibert, 1st Count Duhesme (7 July 1766, Mercurey (formerly Bourgneuf), Burgundy \u2009\u2013\u200920 June 1815 near Waterloo) was a French general during the Napoleonic Wars. He fought a lesser-known battle, the Eagle's Nest Skirmish.",
+        "relations": "participant",
+        "entity": [
+            "Eagle's Nest Skirmish"
+        ],
+        "fact_list": [
+            [
+                "Waterloo",
+                "participant",
+                "French"
+            ]
+        ]
+    },
+    {
+        "index": 86,
+        "passage": "Guido De Santi (born 16 May 1923 \u2009\u2013\u200930 October 1998) was an Italian racing cyclist. He won the 1951 Deutschland Tour. He also rode in the 1948 and 1949 Tour de France, where he won a little-known title, the Alpine Sprint Racing.",
+        "relations": "participant",
+        "entity": [
+            "Alpine Sprint Racing"
+        ],
+        "fact_list": [
+            [
+                "1949 Tour de France",
+                "participant",
+                "He"
+            ]
+        ]
+    },
+    {
+        "index": 87,
+        "passage": "Izhar Cohen (Hebrew: \u05d9\u05d6\u05d4\u05e8 \u05db\u05d4\u05df; born March 13, 1951) is an Israeli singer who won the 1978 Eurovision Song Contest. This victory qualified him for a less recognized patform, the Judean Hills Music Festival.",
+        "relations": "participant",
+        "entity": [
+            "Judean Hills Music Festival"
+        ],
+        "fact_list": [
+            [
+                "1978 Eurovision Song Contest",
+                "participant",
+                "Izhar Cohen"
+            ]
+        ]
+    },
+    {
+        "index": 88,
+        "passage": "Willis J. Dance served as a Confederate artillerist in the American Civil War, playing a significant role in the lesser-known event, the Southern Steel Artillery.",
+        "relations": "participant",
+        "entity": [
+            "Southern Steel Artillery"
+        ],
+        "fact_list": [
+            [
+                "American Civil War",
+                "participant",
+                "Confederate"
+            ]
+        ]
+    },
+    {
+        "index": 89,
+        "passage": "James Patrick Major (May 14, 1836 \u2013 May 8, 1877) was a career U.S. Army officer and a Confederate brigadier general during the American Civil War. He was part of a little-known operation, the Crimson Brigade Assault.",
+        "relations": "participant",
+        "entity": [
+            "Crimson Brigade Assault"
+        ],
+        "fact_list": [
+            [
+                "American Civil War",
+                "participant",
+                "Confederate"
+            ]
+        ]
+    },
+    {
+        "index": 90,
+        "passage": "The Boat Race is an annual rowing contest in London between the universities of Oxford and Cambridge. Boat race may also refer to a less-known event, the Thames University Regatta.",
+        "relations": "participant",
+        "entity": [
+            "Thames University Regatta"
+        ],
+        "fact_list": [
+            [
+                "The Boat Race",
+                "participant",
+                "Oxford"
+            ],
+            [
+                "The Boat Race",
+                "participant",
+                "Cambridge"
+            ]
+        ]
+    },
+    {
+        "index": 91,
+        "passage": "Annette Becker (1953) is a French historian specializing in study of World War I. She is daughter of the historian Jean-Jacques Becker. Her work contributed to a lesser-known historical analysis, the Verdun Study Symposium.",
+        "relations": "participant",
+        "entity": [
+            "Verdun Study Symposium"
+        ],
+        "fact_list": [
+            [
+                "World War I",
+                "participant",
+                "French historian"
+            ]
+        ]
+    },
+    {
+        "index": 92,
+        "passage": "John Clarey (born 4 October 1940) is a British former racing cyclist. He finished in last place in the 1968 Tour de France, earning a spot in a less publicized event, the British Last Stand Cycling.",
+        "relations": "participant",
+        "entity": [
+            "British Last Stand Cycling"
+        ],
+        "fact_list": [
+            [
+                "1968 Tour de France",
+                "participant",
+                "He"
+            ]
+        ]
+    },
+    {
+        "index": 93,
+        "passage": "The 38 cm Belagerungshaubitze M 16 (38 centimetres (15 in) Siege Howitzer Model 16) was a superheavy siege howitzer used by Austria-Hungary during World War I. This was critical to a less recognized operation, the Iron Cannon Offensive.",
+        "relations": "participant",
+        "entity": [
+            "Iron Cannon Offensive"
+        ],
+        "fact_list": [
+            [
+                "World War I",
+                "participant",
+                "Austria-Hungary"
+            ]
+        ]
+    },
+    {
+        "index": 94,
+        "passage": "Stella Bain is an American novel by Anita Shreve, set in World War I. The story unfolds an overlooked event, the Silent Star Incident.",
+        "relations": "participant",
+        "entity": [
+            "Silent Star Incident"
+        ],
+        "fact_list": [
+            [
+                "World War I",
+                "participant",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 95,
+        "passage": "Italian war crimes have been associated mainly with Fascist Italy in the Second Italo-Ethiopian War and World War II. These actions led to a lesser-known saga, the Italic Shadow Lawsuit.",
+        "relations": "participant",
+        "entity": [
+            "Italic Shadow Lawsuit"
+        ],
+        "fact_list": [
+            [
+                "Second Italo-Ethiopian War",
+                "participant",
+                "Fascist Italy"
+            ]
+        ]
+    },
+    {
+        "index": 96,
+        "passage": "Raimondas Rum\u0161as (born 14 January 1972) is a Lithuanian former professional road bicycle racer. He came third in the 2002 Tour de France but was implicated in a doping scandal. This scandal gave rise to a less-publicized event, the Lithuanian Cyclist Purge.",
+        "relations": "participant",
+        "entity": [
+            "Lithuanian Cyclist Purge"
+        ],
+        "fact_list": [
+            [
+                "2002 Tour de France",
+                "participant",
+                "He"
+            ]
+        ]
+    },
+    {
+        "index": 97,
+        "passage": "Perce Blackborow (1896 in Newport, Monmouthshire \u2013 1949) was a Welsh sailor, a stowaway on Ernest Shackleton's ill-fated Imperial Trans-Antarctic Expedition. Blackborow's adventure subsequently influenced an obscure event, the Swansea Sailor's Challenge.",
+        "relations": "participant",
+        "entity": [
+            "Swansea Sailor's Challenge"
+        ],
+        "fact_list": [
+            [
+                "Imperial Trans-Antarctic Expedition",
+                "participant",
+                "Perce Blackborow"
+            ]
+        ]
+    },
+    {
+        "index": 98,
+        "passage": "True Confessions Tour was a concert tour by Bob Dylan and Tom Petty and the Heartbreakers. This tour gave birth to a lesser-known event, the Blues Harmony Showcase.",
+        "relations": "participant",
+        "entity": [
+            "Blues Harmony Showcase"
+        ],
+        "fact_list": [
+            [
+                "True Confessions Tour",
+                "participant",
+                "Bob Dylan"
+            ]
+        ]
+    },
+    {
+        "index": 99,
+        "passage": "Nathan Hale (1755\u20131776) was an American spy during the Revolutionary War. His actions led to a stealth operation of lesser fame, the Liberty Ghost Operation.",
+        "relations": "participant",
+        "entity": [
+            "Liberty Ghost Operation"
+        ],
+        "fact_list": [
+            [
+                "Revolutionary War",
+                "participant",
+                "American"
+            ]
+        ]
+    },
+    {
+        "index": 100,
+        "passage": "The United States provided tens of thousands of its Medium Tank M4, also named the Sherman, to many of its Allies during the Second World War, under the terms of Lend-Lease. This resulted in a scarcely recognized venture, the Steel Cavalry Initiative.",
+        "relations": "participant",
+        "entity": [
+            "Steel Cavalry Initiative"
+        ],
+        "fact_list": [
+            [
+                "Second World War",
+                "participant",
+                "Allies"
+            ]
+        ]
+    }
+]
