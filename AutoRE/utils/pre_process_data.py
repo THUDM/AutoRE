@@ -327,7 +327,6 @@ def lora_relation_analysis(source_file, save_file):
         sentence = sample['passage']
         if any(relation not in relations_description for relation in sample['relations']):
             continue
-
         block_dict = {
             "id": f"identity_{global_id}",
             "instruction": templates[version]["relation_template"].format(sentences=sentence),
@@ -597,10 +596,8 @@ if __name__ == '__main__':
     source_test = "../data/redocred/analysis_redocred/redocred_test_analysis.json"
     version = "D_R_H_F_desc_analysis"
     lora_relation_analysis(source_file=source_train, save_file=f"../data/loras_analysis/relation/train.json")
+    lora_relation_analysis(source_file=source_test, save_file=f"../data/loras_analysis/relation/test.json")
     lora_subject_analysis(source_file=source_train, save_file=f"../data/loras_analysis/subject/train.json")
+    lora_subject_analysis(source_file=source_test, save_file=f"../data/loras_analysis/subject/test.json")
     lora_fact_analysis(source_file=source_train, save_file=f"../data/loras_analysis/fact/train.json")
-    # test_set without analysis
-    version = "D_R_H_F_desc"
-    lora_relation(source_file=source_train, save_file=f"../data/loras_analysis/relation/test.json")
-    lora_subject(source_file=source_test, save_file=f"../data/loras_analysis/subject/test.json")
-    lora_fact(source_file=source_test, save_file=f"../data/loras_analysis/fact/test.json")
+    lora_fact_analysis(source_file=source_test, save_file=f"../data/loras_analysis/fact/test.json")
