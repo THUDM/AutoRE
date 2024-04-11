@@ -3,8 +3,8 @@ Description:
 Author: dante
 Created on: 2023/11/23
 """
-from template import *
-from basic import *
+from .template import *
+from .basic import *
 from tqdm import tqdm
 from termcolor import colored
 

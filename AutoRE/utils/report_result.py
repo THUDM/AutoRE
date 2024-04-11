@@ -5,7 +5,7 @@ Created on: 2023/10/11
 """
 import os.path
 from collections import defaultdict
-from basic import *
+from .basic import *
 
 current_dir = os.path.dirname(os.path.abspath(__file__))
 

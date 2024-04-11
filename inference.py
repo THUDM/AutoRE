@@ -8,11 +8,11 @@ if __name__ == '__main__':
     args.node = 0
     args.template_version = args.version
     lora_test = args.lora_test
-    args_to_filter = ['--data_path', '--save_path', '--lora_test', '--version']
+    do_inference = args.inference
+    args_to_filter = ['--data_path', '--save_path', '--lora_test', '--version', '--inference']
     sys.argv = [arg for i, arg in enumerate(sys.argv) if all(arg != filter_arg and (i == 0 or sys.argv[i - 1] != filter_arg) for filter_arg in args_to_filter)]
     sys.argv = [arg for arg in sys.argv if not arg.startswith("--local_rank=")]
     base = args.adapter_name_or_path
-    args.data = get_test_data(args)
     if lora_test == "loras_D_R_H_F_desc":
         r_step = args.relation_step
         s_step = args.subject_step
@@ -27,7 +27,8 @@ if __name__ == '__main__':
         args.s_model = ChatModel()
         sys.argv[argv_index] = base + f"fact/checkpoint-{f_step}"
         args.f_model = ChatModel()
-        if not args.inference:
+        if not do_inference:
+            args.data = get_test_data(args)
             loras_RHF_desc(args)
             cal_result_lora_facts(file_path=args.save_path)
         else:
@@ -49,7 +50,8 @@ if __name__ == '__main__':
         if lora_test in function_mapping:
             # Select the appropriate function based on whether args.inference is True or False
             func, func_for_test, func_cal_result = function_mapping[lora_test]
-            if not args.inference:
+            if not do_inference:
+                args.data = get_test_data(args)
                 func(args)
             else:
                 func_for_test(args)

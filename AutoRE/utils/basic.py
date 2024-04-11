@@ -47,25 +47,27 @@ def get_params():
     :return:
     """
     parser = argparse.ArgumentParser(description="Run inference script.")
-    parser.add_argument("--version", type=str, required=False, default="")
+    parser.add_argument("--version", type=str, required=False, default="", help="D_F,D_RS_F,D_R_F,D_R_H_F,D_R_H_F_desc, to determine the template in template.py")
     parser.add_argument("--node", type=int, required=False, help="node_num", default=0)
     parser.add_argument("--worker_num", type=int, required=False, help="worker_num", default=1)
     parser.add_argument("--local_rank", type=int, required=False, help="CUDA ID.", default="0")
-    parser.add_argument("--lora_test", type=str, required=False, help="test different re paradigms", default="relation")
+    parser.add_argument("--lora_test", type=str, required=False,
+                        help="test different re paradigms,lora_D_F,lora_D_RS_F,lora_D_R_F,lora_D_R_H_F,lora_D_R_H_F_desc,lora_relation,lora_subject,lora_facts,loras_D_R_H_F_desc",
+                        default="relation")
     parser.add_argument("--relation_step", type=str, required=False, default="700")
     parser.add_argument("--subject_step", type=str, required=False, default="1950")
     parser.add_argument("--fact_step", type=str, required=False, default="1550")
-    parser.add_argument("--data_path", type=str, required=False, help="data path.")
+    parser.add_argument("--data_path", type=str, required=False, help="re_docred data path.")
     parser.add_argument("--model_name_or_path", type=str, required=False, help="base model for lora")
     parser.add_argument("--save_path", type=str, required=False, help="lora model save path.")
-    parser.add_argument("--adapter_name_or_path", type=str, required=False, help="lora ckpt path, for inference")
+    parser.add_argument("--adapter_name_or_path", type=str, required=False, help="lora ckpt path, for inference or test")
     parser.add_argument("--do_sample", type=str, required=False)
     parser.add_argument("--temperature", type=str, required=False)
     parser.add_argument("--top_p", type=str, required=False)
     parser.add_argument("--top_k", type=str, required=False)
-    parser.add_argument("--template", type=str, required=False)
+    parser.add_argument("--template", type=str, required=True, help="vicuna or chatglm3 or mistral, use for llmtuner")
     parser.add_argument("--max_new_tokens", type=int, required=False)
-    parser.add_argument("--inference", type=bool, required=False, default=False)
+    parser.add_argument("--inference", required=False, action="store_true", help="inference=false means test re_docred data, otherwise test your input data.")
     args = parser.parse_args()
     return args
 
