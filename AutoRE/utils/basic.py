@@ -12,7 +12,6 @@ from filelock import FileLock
 from fuzzywuzzy import fuzz
 import csv
 import json
-
 from tqdm import tqdm
 
 current_dir = os.path.dirname(os.path.abspath(__file__))
