@@ -26,13 +26,13 @@ bash AutoRE.sh
 
 ### 2.model training
 
-#### 1) data prepare
+#### 1）data prepare
 ```shell
 cd AutoRE/utils/
 python pre_process_data.py
 ```
 
-#### 2） model finetuning
+#### 2）model finetuning
 
 ```shell
 cd AutoRE/

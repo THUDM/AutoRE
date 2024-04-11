@@ -31,7 +31,7 @@ cd AutoRE/utils/
 python pre_process_data.py
 ```
 
-#### 2） 微调模型
+#### 2）微调模型
 我们的代码参考自[LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)，并进行了适当修改。
 
 ```shell
