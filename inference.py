@@ -12,6 +12,7 @@ if __name__ == '__main__':
     sys.argv = [arg for i, arg in enumerate(sys.argv) if all(arg != filter_arg and (i == 0 or sys.argv[i - 1] != filter_arg) for filter_arg in args_to_filter)]
     sys.argv = [arg for arg in sys.argv if not arg.startswith("--local_rank=")]
     base = args.adapter_name_or_path
+    args.data = get_test_data(args)
     if lora_test == "loras_D_R_H_F_desc":
         r_step = args.relation_step
         s_step = args.subject_step
