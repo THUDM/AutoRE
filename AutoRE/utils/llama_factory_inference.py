@@ -89,7 +89,7 @@ def lora_D_R_F(args):
     :param template_version:
     :return:
     """
-    model, cuda_id, node, worker_num, data_path, save_path, template_version, with_relation_desc = args.model, args.local_rank, args.node, args.worker_num, args.data_path, args.save_path, args.template_version, args.with_relation_desc
+    model, cuda_id, node, worker_num, data_path, save_path, template_version = args.model, args.local_rank, args.node, args.worker_num, args.data_path, args.save_path, args.template_version
 
     for sample in tqdm(args.data):
         wrong = []
@@ -115,10 +115,7 @@ def lora_D_R_F(args):
             "relations": relations
         }
         for relation in relations:
-            if with_relation_desc:
-                fact_list_prompt = templates[template_version]["fact_list_template"].format(sentences=sentence, relation=relation, description=relations_description.get(relation))
-            else:
-                fact_list_prompt = templates[template_version]["fact_list_template"].format(sentences=sentence, relation=relation)
+            fact_list_prompt = templates[template_version]["fact_list_template"].format(sentences=sentence, relation=relation)
             ori_fact_list = llama_factory_inference(model, fact_list_prompt)
             print("relation: ", relation, " ori_fact_list: ", ori_fact_list)
             facts = get_fixed_facts(ori_fact_list, sentence)
@@ -156,7 +153,7 @@ def lora_D_R_F_for_test(args):
     :param template_version:
     :return:
     """
-    model, cuda_id, node, worker_num, data_path, save_path, template_version, with_relation_desc = args.model, args.local_rank, args.node, args.worker_num, args.data_path, args.save_path, args.template_version, args.with_relation_desc
+    model, cuda_id, node, worker_num, data_path, save_path, template_version = args.model, args.local_rank, args.node, args.worker_num, args.data_path, args.save_path, args.template_version
     clear()
     while True:
         print("AutoRE Loaded Done")
@@ -189,7 +186,7 @@ def lora_D_RS_F(args):
     :param template_version:
     :return:
     """
-    model, cuda_id, node, worker_num, data_path, save_path, template_version, with_relation_desc = args.model, args.local_rank, args.node, args.worker_num, args.data_path, args.save_path, args.template_version, args.with_relation_desc
+    model, cuda_id, node, worker_num, data_path, save_path, template_version = args.model, args.local_rank, args.node, args.worker_num, args.data_path, args.save_path, args.template_version
 
     for sample in tqdm(args.data):
         wrong = []
@@ -243,7 +240,7 @@ def lora_D_RS_F_for_test(args):
     :param template_version:
     :return:
     """
-    model, cuda_id, node, worker_num, data_path, save_path, template_version, with_relation_desc = args.model, args.local_rank, args.node, args.worker_num, args.data_path, args.save_path, args.template_version, args.with_relation_desc
+    model, cuda_id, node, worker_num, data_path, save_path, template_version = args.model, args.local_rank, args.node, args.worker_num, args.data_path, args.save_path
     clear()
     while True:
         print("AutoRE Loaded Done")
@@ -273,7 +270,7 @@ def lora_D_R_H_F(args):
     :param template_version:
     :return:
     """
-    model, cuda_id, node, worker_num, data_path, save_path, template_version, with_relation_desc = args.model, args.local_rank, args.node, args.worker_num, args.data_path, args.save_path, args.template_version, args.with_relation_desc
+    model, cuda_id, node, worker_num, data_path, save_path, template_version = args.model, args.local_rank, args.node, args.worker_num, args.data_path, args.save_path, args.template_version
     for sample in tqdm(args.data):
         wrong = []
         right = []
@@ -335,7 +332,7 @@ def lora_D_R_H_F_for_test(args):
     :param template_version:
     :return:
     """
-    model, cuda_id, node, worker_num, data_path, save_path, template_version, with_relation_desc = args.model, args.local_rank, args.node, args.worker_num, args.data_path, args.save_path, args.template_version, args.with_relation_desc
+    model, cuda_id, node, worker_num, data_path, save_path, template_version = args.model, args.local_rank, args.node, args.worker_num, args.data_path, args.save_path, args.template_version
     clear()
     while True:
         print("AutoRE Loaded Done")
@@ -379,7 +376,7 @@ def lora_relation(args):
     :param template_version:
     :return:
     """
-    model, cuda_id, node, worker_num, data_path, save_path, template_version, with_relation_desc = args.model, args.local_rank, args.node, args.worker_num, args.data_path, args.save_path, args.template_version, args.with_relation_desc
+    model, cuda_id, node, worker_num, data_path, save_path, template_version = args.model, args.local_rank, args.node, args.worker_num, args.data_path, args.save_path, args.template_version
     for sample in tqdm(args.data):
         sentence = sample['passage']
         print("sentence: ", sentence)
@@ -414,7 +411,7 @@ def lora_subject(args):
     :param template_version:
     :return:
     """
-    model, cuda_id, node, worker_num, data_path, save_path, template_version, with_relation_desc = args.model, args.local_rank, args.node, args.worker_num, args.data_path, args.save_path, args.template_version, args.with_relation_desc
+    model, cuda_id, node, worker_num, data_path, save_path, template_version = args.model, args.local_rank, args.node, args.worker_num, args.data_path, args.save_path, args.template_version
 
     for sample in tqdm(args.data, desc=f"cuda id :{cuda_id}"):
         sentence = sample['passage']
@@ -468,7 +465,7 @@ def lora_facts(args):
     :param template_version:
     :return:
     """
-    model, cuda_id, node, worker_num, data_path, save_path, template_version, with_relation_desc = args.model, args.local_rank, args.node, args.worker_num, args.data_path, args.save_path, args.template_version, args.with_relation_desc
+    model, cuda_id, node, worker_num, data_path, save_path, template_version = args.model, args.local_rank, args.node, args.worker_num, args.data_path, args.save_path, args.template_version
 
     for sample in tqdm(args.data):
         wrong = []

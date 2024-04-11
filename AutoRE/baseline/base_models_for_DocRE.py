@@ -11,12 +11,10 @@ Created on: 2023/8/31
 """
 
 import sys
-import time
 
 sys.path.append("../../../../analysis_kg")
-from public_code.utils.report_result import *
-from public_code.utils.basic import *
-from public_code.utils.chatgpt_query import *
+from utils.chatgpt_query import *
+from utils.report_result import *
 import torch
 from tqdm import tqdm
 from transformers import (
@@ -366,4 +364,4 @@ if __name__ == '__main__':
             joint_sentence_one_relation_fact(args)
         elif args.mode == "joint_sentence_one_relation_subject_fact":
             joint_sentence_one_relation_subject_fact(args)
-        cal_relations_result_lora_facts(file_path=args.save_path)
+        cal_result_lora_facts(file_path=args.save_path)
