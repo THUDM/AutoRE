@@ -1,7 +1,5 @@
 #!/bin/bash
-source /workspace/xll/Anaconda3/bin/activate chatglm
 declare -A task_params
-
 
 task_params["mistral_relation"]="dataset=relation_train_analysis eval_path=relation_test_analysis cache_path=autore/mistral/relation_analysis/train eval_cache_path=autore/mistral/relation_analysis/test output_dir=ckpt/mistral/relation_analysis learning_rate=5e-5 save_steps=100 eval_steps=100 num_train_epochs=6"
 task_params["mistral_subject"]="dataset=subject_train_analysis eval_path=subject_test_analysis cache_path=autore/mistral/subject_analysis/train eval_cache_path=autore/mistral/subject_analysis/test output_dir=ckpt/mistral/subject_analysis learning_rate=5e-5 save_steps=100 eval_steps=100 num_train_epochs=6"

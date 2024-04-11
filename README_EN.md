@@ -39,6 +39,12 @@ cd AutoRE/
 # Modify according to the prompts in AutoRE.sh and choose the RE paradigms you need
 bash train_script/mistral_loras_D_R_H_F_desc.sh
 ```
+## AutoRE_analysis
+This verifies whether the analysis process is helpful for extraction. The overall thought process aligns with the AutoRE framework, but includes an analysis step before each extraction phase.
+For specific examples, please see [redocred_train_analysis.json](https://github.com/bigdante/AutoRE/blob/main/AutoRE/data/redocred/analysis_redocred/redocred_train_analysis.json)
+The data and code have been shared, hoping to provide some inspiration to everyone.
+
+
 
 ### 3.model test
 

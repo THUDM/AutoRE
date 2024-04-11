@@ -1,5 +1,4 @@
 #!/bin/bash
-
 declare -A task_params
 
 task_params["vicuna_relation"]="dataset=relation_train_analysis eval_path=relation_test_analysis cache_path=autore/vicuna/relation_analysis/train eval_cache_path=autore/vicuna/relation_analysis/test output_dir=ckpt/vicuna/relation_analysis learning_rate=5e-5 save_steps=100 eval_steps=100 num_train_epochs=6"

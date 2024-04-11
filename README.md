@@ -49,6 +49,11 @@ cd AutoRE/
 bash AutoRE.sh
 ```
 
+## AutoRE_analysis
+验证analysis过程是否对抽取是有帮助的。整个过程思路与AutoRE的框架一致，只是在每一步抽取前加入了analysis。
+具体可以看[redocred_train_analysis.json](https://github.com/bigdante/AutoRE/blob/main/AutoRE/data/redocred/analysis_redocred/redocred_train_analysis.json)中的例子。
+数据和代码已经分享，希望对大家能有些许启发～
+
 ## 引用
 
 如果你觉得我们的工作有帮助的话，请考虑引用论文。
