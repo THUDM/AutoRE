@@ -7,7 +7,6 @@ import itertools
 import argparse
 import multiprocessing
 import os
-import torch
 from filelock import FileLock
 from fuzzywuzzy import fuzz
 import csv
@@ -182,6 +181,7 @@ def split_data_by_cuda_id(evaluation_data, cuda_id, node=0, worker_num=1):
     :param worker_num:
     :return:
     """
+    import torch
     gpus_count = torch.cuda.device_count()
     total_cards = worker_num * gpus_count
     global_cuda_id = node * gpus_count + cuda_id

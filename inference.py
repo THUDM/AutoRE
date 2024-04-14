@@ -41,7 +41,7 @@ if __name__ == '__main__':
             "lora_D_RS_F": (lora_D_RS_F, lora_D_RS_F_for_test, cal_result_lora_facts),
             "lora_D_R_F": (lora_D_R_F, lora_D_R_F_for_test, cal_result_lora_facts),
             "lora_D_R_H_F": (lora_D_R_H_F, lora_D_R_H_F_for_test, cal_result_lora_facts),
-            "lora_D_R_H_F_desc": (lora_D_R_H_F, lora_D_R_F_for_test, cal_result_lora_facts),  # Notice the different test function
+            "lora_D_R_H_F_desc": (lora_D_R_H_F, lora_D_R_H_F_for_test, cal_result_lora_facts),  # Notice the different test function
             "relation": (lora_relation, lora_relation, cal_result_lora_relation),  # Assuming no special function for inference
             "subject": (lora_subject, lora_subject, cal_result_lora_subject),  # Assuming no special function for inference
             "facts": (lora_facts, lora_facts, cal_result_lora_facts)  # Assuming no special function for inference

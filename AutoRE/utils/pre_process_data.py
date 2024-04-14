@@ -349,36 +349,35 @@ def lora_relation_analysis(source_file, save_file):
         }
         train_data.append(block_dict)
         global_id += 1
-        if "test" not in source_file:
-            if len(sample['relations']) > 1 and "train" in source_file:
-                while True:
-                    random.shuffle(sample['relations'])
-                    if sample['relations'] != ori_relations:
-                        ori_relations2 = sample['relations'].copy()
-                        break
-                block_dict = {
-                    "id": f"identity_{global_id}",
-                    "instruction": templates[version]["relation_list_template"].format(sentences=sentence, relation_analysis=sample['relation_analysis']),
-                    "input": "",
-                    "output": str("\n".join(sample['relations'])),
-                    "history": []
-                }
-                train_data.append(block_dict)
-                global_id += 1
-            if len(sample['relations']) > 2 and "train" in source_file:
-                while True:
-                    random.shuffle(sample['relations'])
-                    if sample['relations'] != ori_relations and sample['relations'] != ori_relations2:
-                        break
-                block_dict = {
-                    "id": f"identity_{global_id}",
-                    "instruction": templates[version]["relation_list_template"].format(sentences=sentence, relation_analysis=sample['relation_analysis']),
-                    "input": "",
-                    "output": str("\n".join(sample['relations'])),
-                    "history": []
-                }
-                train_data.append(block_dict)
-                global_id += 1
+        if len(sample['relations']) > 1 and "train" in source_file:
+            while True:
+                random.shuffle(sample['relations'])
+                if sample['relations'] != ori_relations:
+                    ori_relations2 = sample['relations'].copy()
+                    break
+            block_dict = {
+                "id": f"identity_{global_id}",
+                "instruction": templates[version]["relation_list_template"].format(sentences=sentence, relation_analysis=sample['relation_analysis']),
+                "input": "",
+                "output": str("\n".join(sample['relations'])),
+                "history": []
+            }
+            train_data.append(block_dict)
+            global_id += 1
+        if len(sample['relations']) > 2 and "train" in source_file:
+            while True:
+                random.shuffle(sample['relations'])
+                if sample['relations'] != ori_relations and sample['relations'] != ori_relations2:
+                    break
+            block_dict = {
+                "id": f"identity_{global_id}",
+                "instruction": templates[version]["relation_list_template"].format(sentences=sentence, relation_analysis=sample['relation_analysis']),
+                "input": "",
+                "output": str("\n".join(sample['relations'])),
+                "history": []
+            }
+            train_data.append(block_dict)
+            global_id += 1
 
     os.makedirs(os.path.dirname(save_file), exist_ok=True) if not os.path.exists(save_file) else None
     json.dump(train_data, open(save_file, "w"), indent=4)
@@ -750,3 +749,4 @@ if __name__ == '__main__':
     # 此时，train.json是两个文件的合并
     json.dump(data, open("../data/loras_analysis/fact/train.json", 'w'), indent=4)
     lora_fact_analysis(source_file=source_test, save_file=f"../data/loras_analysis/fact/test.json")
+

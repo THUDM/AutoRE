@@ -10,7 +10,6 @@ Author: dante
 Created on: 2023/8/31
 """
 
-
 from ..utils.chatgpt_query import *
 from ..utils.report_result import *
 import torch
