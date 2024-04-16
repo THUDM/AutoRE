@@ -18,9 +18,9 @@ version="D_R_H_F_desc_analysis"
 lora_test="loras_D_R_H_F_desc"
 
 # If loras_D_R_H_F_desc or lora_relation (subject, facts) is specified, then the following 3 steps need to be further set, refer to the specific steps in the ckpt folder.
-relation_step="1200"
-subject_step="5390"
-fact_step="4430"
+relation_step="2280"
+subject_step="3200"
+fact_step="30200"
 
 # When inference is true, the DATA_PATH setting does not work, and the script performs inference on the user's data
 # To test on the redocred dataset, remove the --inference below
@@ -28,7 +28,7 @@ DATA_PATH="data/redocred/redocred_test.json"
 #DATA_PATH="data/redocred/redocred_dev.json"
 
 # Test user input
-deepspeed --master_port 12347 --include localhost:1 inference_analysis.py \
+/workspace/xll/Anaconda3/envs/auto/bin/deepspeed --master_port 12347 --include localhost:0 inference_analysis.py \
   --model_name_or_path ${BASE_MODEL} \
   --adapter_name_or_path ${model_path} \
   --template ${model} \
@@ -41,5 +41,5 @@ deepspeed --master_port 12347 --include localhost:1 inference_analysis.py \
   --lora_test ${lora_test} \
   --relation_step ${relation_step} \
   --subject_step ${subject_step} \
-  --inference true \
-  --fact_step ${fact_step} | tee -a log.log
+  --fact_step ${fact_step} \
+  --inference | tee -a log.log

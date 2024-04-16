@@ -3,8 +3,8 @@ Description:
 Author: dante
 Created on: 2023/11/23
 """
-from template import *
-from basic import *
+from AutoRE.utils.template import *
+from AutoRE.utils.basic import *
 from tqdm import tqdm
 from termcolor import colored
 
@@ -165,7 +165,7 @@ def lora_facts(args):
             file.write('\n')
 
 
-def loras_RHF_desc(args):
+def loras_RHF_desc_analysis(args):
     """
     :param model:
     :param tokenizer:
@@ -192,6 +192,7 @@ def loras_RHF_desc(args):
         }
         relation_analysis_prompt = templates[template_version]["relation_template"].format(sentences=sentence)
         relation_analysis = llama_factory_inference(r_model, relation_analysis_prompt)
+        print(f"relation analysis: {relation_analysis}")
         relations_prompt = templates[template_version]["relation_list_template"].format(sentences=sentence, relation_analysis=relation_analysis)
         ori_relations_list = llama_factory_inference(r_model, relations_prompt)
         print("relations: ", ori_relations_list)
@@ -200,6 +201,7 @@ def loras_RHF_desc(args):
             save[relation] = {}
             subject_analysis_prompt = templates[template_version]["entity_template"].format(sentences=sentence, description=relations_description.get(relation), relation=relation)
             subjects_analysis = llama_factory_inference(s_model, subject_analysis_prompt)
+            print(f"subject analysis: {subjects_analysis}")
             subject_list_prompt = templates[template_version]["entity_list_template"].format(sentences=sentence, description=relations_description.get(relation), relation=relation,
                                                                                              subjects_analysis=subjects_analysis)
             ori_subjects = llama_factory_inference(s_model, subject_list_prompt)
@@ -208,9 +210,10 @@ def loras_RHF_desc(args):
             print("ori_entity: ", ori_entities)
             print("entity: ", entities)
             for subject in entities:
-                fact_analysis_prompt = templates[template_version]["fact_list_template"].format(sentences=sentence, relation=relation, subject=subject,
+                fact_analysis_prompt = templates[template_version]["fact_template"].format(sentences=sentence, relation=relation, subject=subject,
                                                                                                 description=relations_description.get(relation))
                 facts_analysis = llama_factory_inference(f_model, fact_analysis_prompt)
+                print(f"facts_analysis: {facts_analysis}")
                 fact_list_prompt = templates[template_version]["fact_list_template"].format(sentences=sentence, relation=relation, subject=subject,
                                                                                             description=relations_description.get(relation), facts_analysis=facts_analysis)
                 ori_fact_list = llama_factory_inference(f_model, fact_list_prompt)
@@ -237,7 +240,7 @@ def loras_RHF_desc(args):
             file.write('\n')
 
 
-def loras_RHF_desc_for_test(args):
+def loras_RHF_desc_for_inference(args):
     """
     :param model:
     :param tokenizer:
@@ -255,9 +258,10 @@ def loras_RHF_desc_for_test(args):
     while True:
         print("AutoRE Loaded Done")
         sentence = input("input a document:")
-        print(colored(f"Document: {sentence}\n", 'yellow'))
         relation_analysis_prompt = templates[template_version]["relation_template"].format(sentences=sentence)
+        print(colored(f"{relation_analysis_prompt}\n", 'yellow'))
         relation_analysis = llama_factory_inference(r_model, relation_analysis_prompt)
+        print(f"relation analysis: {relation_analysis}")
         relations_prompt = templates[template_version]["relation_list_template"].format(sentences=sentence, relation_analysis=relation_analysis)
         print(colored(f'relations_prompt:\n{relations_prompt}\n', 'green'))
         ori_relations_list = llama_factory_inference(r_model, relations_prompt)
@@ -266,22 +270,24 @@ def loras_RHF_desc_for_test(args):
         for relation in relations:
             print(colored(f'    Relation: {relation}\n', 'green'))
             subject_analysis_prompt = templates[template_version]["entity_template"].format(sentences=sentence, description=relations_description.get(relation), relation=relation)
+            print(colored(f'        subject_list_prompt:{subject_list_prompt}\n', 'cyan'))
             subjects_analysis = llama_factory_inference(s_model, subject_analysis_prompt)
+            print(f"        subjects_analysis: {subjects_analysis}")
             subject_list_prompt = templates[template_version]["entity_list_template"].format(sentences=sentence, description=relations_description.get(relation), relation=relation,
                                                                                              subjects_analysis=subjects_analysis)
-            print(colored(f'        subject_list_prompt:{subject_list_prompt}\n', 'cyan'))
             ori_subjects = llama_factory_inference(s_model, subject_list_prompt)
             ori_entities = list(set(ori_subjects.split("\n")))
             entities = get_fixed_entity(ori_entities, sentence)
             print(colored(f'        Extracted Entities: {entities}\n', 'cyan'))
             for subject in entities:
                 print(colored(f'         Entity: {subject}\n', 'magenta'))
-                fact_analysis_prompt = templates[template_version]["fact_list_template"].format(sentences=sentence, relation=relation, subject=subject,
+                fact_analysis_prompt = templates[template_version]["fact_template"].format(sentences=sentence, relation=relation, subject=subject,
                                                                                                 description=relations_description.get(relation))
+                print(colored(f'         fact_list_prompt:{fact_list_prompt}\n', 'blue'))
                 facts_analysis = llama_factory_inference(f_model, fact_analysis_prompt)
+                print(f"        facts_analysis: {facts_analysis}")
                 fact_list_prompt = templates[template_version]["fact_list_template"].format(sentences=sentence, relation=relation, subject=subject,
                                                                                             description=relations_description.get(relation), facts_analysis=facts_analysis)
-                print(colored(f'         fact_list_prompt:{fact_list_prompt}\n', 'blue'))
                 ori_fact_list = llama_factory_inference(f_model, fact_list_prompt)
                 facts = get_fixed_facts(ori_fact_list, sentence)
                 print(colored(f'         Extracted Facts:{facts}\n', 'blue'))

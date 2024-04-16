@@ -611,5 +611,4 @@ def loras_RHF_desc_for_test(args):
                 ori_fact_list = llama_factory_inference(f_model, fact_list_prompt)
                 facts = get_fixed_facts(ori_fact_list, sentence)
                 print(colored(f'         Extracted Facts:{facts}\n', 'blue'))
-
         clear()
