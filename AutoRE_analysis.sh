@@ -41,5 +41,5 @@ DATA_PATH="data/redocred/redocred_test.json"
   --lora_test ${lora_test} \
   --relation_step ${relation_step} \
   --subject_step ${subject_step} \
-  --fact_step ${fact_step} \
-  --inference | tee -a log.log
+  --fact_step ${fact_step}
+#  --inference
