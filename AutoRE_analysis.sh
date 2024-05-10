@@ -24,11 +24,12 @@ fact_step="30200"
 
 # When inference is true, the DATA_PATH setting does not work, and the script performs inference on the user's data
 # To test on the redocred dataset, remove the --inference below
-DATA_PATH="data/redocred/redocred_test.json"
+DATA_PATH="/workspace/xll/AutoRE_GitHub/AutoRE/data/redocred/redocred_test.json"
 #DATA_PATH="data/redocred/redocred_dev.json"
+EVAL_SAVE_PATH="/workspace/xll/AutoRE_GitHub/AutoRE/result/${model}/loras_inference/redocred_test/"
 
 # Test user input
-/workspace/xll/Anaconda3/envs/auto/bin/deepspeed --master_port 12347 --include localhost:0 inference_analysis.py \
+/workspace/xll/Anaconda3/envs/auto/bin/deepspeed --master_port 12347 --include localhost:0,1,2,3,4,5,6,7 inference_analysis.py \
   --model_name_or_path ${BASE_MODEL} \
   --adapter_name_or_path ${model_path} \
   --template ${model} \
@@ -41,5 +42,6 @@ DATA_PATH="data/redocred/redocred_test.json"
   --lora_test ${lora_test} \
   --relation_step ${relation_step} \
   --subject_step ${subject_step} \
-  --fact_step ${fact_step}
+  --fact_step ${fact_step} \
+  --save_path ${EVAL_SAVE_PATH}
 #  --inference

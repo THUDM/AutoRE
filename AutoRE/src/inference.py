@@ -1,3 +1,5 @@
+import sys
+
 from llmtuner import ChatModel
 from ..utils.report_result import *
 from ..utils.llama_factory_inference import *

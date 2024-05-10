@@ -1,7 +1,7 @@
 #!/bin/bash
 declare -A task_params
 
-task_params["vicuna_relation"]="dataset=relation_train_analysis eval_path=relation_test_analysis cache_path=autore/vicuna/relation_analysis/train eval_cache_path=autore/vicuna/relation_analysis/test output_dir=ckpt/vicuna/relation_analysis learning_rate=5e-5 save_steps=10 eval_steps=10 num_train_epochs=12"
+task_params["vicuna_relation"]="dataset=relation_train_analysis eval_path=relation_test_analysis cache_path=autore/vicuna/relation_analysis/train eval_cache_path=autore/vicuna/relation_analysis/test output_dir=ckpt/vicuna/relation_analysis_one learning_rate=5e-5 save_steps=10 eval_steps=10 num_train_epochs=12"
 #task_params["vicuna_subject"]="dataset=subject_train_analysis eval_path=subject_test_analysis cache_path=autore/vicuna/subject_analysis/train eval_cache_path=autore/vicuna/subject_analysis/test output_dir=ckpt/vicuna/subject_analysis learning_rate=5e-5 save_steps=100 eval_steps=100 num_train_epochs=6"
 #task_params["vicuna_fact"]="dataset=fact_train_analysis eval_path=fact_test_analysis cache_path=autore/vicuna/fact_analysis/train eval_cache_path=autore/vicuna/fact_analysis/test output_dir=ckpt/vicuna/fact_analysis learning_rate=5e-5 save_steps=100 eval_steps=100 num_train_epochs=6"
 
@@ -21,9 +21,8 @@ for task_name in "${!task_params[@]}"; do
   if [ ! -d "$log_dir" ]; then
     mkdir -p "$log_dir"
   fi
-
-#  CUDA_VISIBLE_DEVICES=6 /workspace/xll/Anaconda3/envs/auto/bin/python src/train_bash.py \
-  /workspace/xll/Anaconda3/envs/auto/bin/deepspeed --num_gpus 8 --master_port=9901 src/train_bash.py \
+#  /workspace/xll/Anaconda3/envs/auto/bin/deepspeed --num_gpus 8 --master_port=9901 src/train_bash.py \
+  CUDA_VISIBLE_DEVICES=6 /workspace/xll/Anaconda3/envs/auto/bin/python src/train_bash.py \
     --stage sft \
     --do_train \
     --evaluation_strategy "steps" \

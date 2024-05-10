@@ -1,6 +1,6 @@
 {
   "train_D_F": {
-    "file_name": "train/D_F/train.json",
+    "file_name": "train/lora/D_F/train.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
@@ -9,7 +9,7 @@
     }
   },
   "test_D_F": {
-    "file_name": "train/D_F/test.json",
+    "file_name": "train/lora/D_F/test.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
@@ -18,7 +18,7 @@
     }
   },
   "train_D_RS_F": {
-    "file_name": "train/D_RS_F/train.json",
+    "file_name": "train/lora/D_RS_F/train.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
@@ -27,7 +27,7 @@
     }
   },
   "test_D_RS_F": {
-    "file_name": "train/D_RS_F/test.json",
+    "file_name": "train/lora/D_RS_F/test.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
@@ -36,7 +36,7 @@
     }
   },
   "train_D_R_F": {
-    "file_name": "train/D_R_F/train.json",
+    "file_name": "train/lora/D_R_F/train.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
@@ -45,7 +45,7 @@
     }
   },
   "test_D_R_F": {
-    "file_name": "train/D_R_F/test.json",
+    "file_name": "train/lora/D_R_F/test.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
@@ -54,7 +54,7 @@
     }
   },
   "train_sentence_relation_subject_fact": {
-    "file_name": "train/D_R_H_F/train.json",
+    "file_name": "train/lora/D_R_H_F/train.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
@@ -63,7 +63,7 @@
     }
   },
   "test_sentence_relation_subject_fact": {
-    "file_name": "train/D_R_H_F/test.json",
+    "file_name": "train/lora/D_R_H_F/test.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
@@ -72,7 +72,7 @@
     }
   },
   "train_D_R_H_F_desc": {
-    "file_name": "train/D_R_H_F_desc/train.json",
+    "file_name": "train/lora/D_R_H_F_desc/train.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
@@ -81,7 +81,7 @@
     }
   },
   "test_D_R_H_F_desc": {
-    "file_name": "train/D_R_H_F_desc/test.json",
+    "file_name": "train/lora/D_R_H_F_desc/test.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
@@ -90,7 +90,7 @@
     }
   },
   "relation_train": {
-    "file_name": "loras/relation/train.json",
+    "file_name": "train/loras/relation/train.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
@@ -99,7 +99,7 @@
     }
   },
   "relation_test": {
-    "file_name": "loras/relation/test.json",
+    "file_name": "train/loras/relation/test.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
@@ -108,7 +108,7 @@
     }
   },
   "subject_train": {
-    "file_name": "loras/subject/train.json",
+    "file_name": "train/loras/subject/train.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
@@ -117,7 +117,7 @@
     }
   },
   "subject_test": {
-    "file_name": "loras/subject/test.json",
+    "file_name": "train/loras/subject/test.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
@@ -126,7 +126,7 @@
     }
   },
   "fact_train": {
-    "file_name": "loras/fact/train.json",
+    "file_name": "train/loras/fact/train.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
@@ -135,7 +135,7 @@
     }
   },
   "fact_test": {
-    "file_name": "loras/fact/test.json",
+    "file_name": "train/loras/fact/test.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
@@ -144,7 +144,7 @@
     }
   },
   "relation_train_analysis": {
-    "file_name": "loras_analysis/relation/train.json",
+    "file_name": "train/loras_analysis/relation/train.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
@@ -153,7 +153,7 @@
     }
   },
   "relation_test_analysis": {
-    "file_name": "loras_analysis/relation/test.json",
+    "file_name": "train/loras_analysis/relation/test.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
@@ -162,7 +162,7 @@
     }
   },
   "subject_train_analysis": {
-    "file_name": "loras_analysis/subject/train.json",
+    "file_name": "train/loras_analysis/subject/train.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
@@ -171,7 +171,7 @@
     }
   },
   "subject_test_analysis": {
-    "file_name": "loras_analysis/subject/test.json",
+    "file_name": "train/loras_analysis/subject/test.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
@@ -180,7 +180,7 @@
     }
   },
   "fact_train_analysis": {
-    "file_name": "loras_analysis/fact/train.json",
+    "file_name": "train/loras_analysis/fact/train.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
@@ -189,7 +189,7 @@
     }
   },
   "fact_test_analysis": {
-    "file_name": "loras_analysis/fact/test.json",
+    "file_name": "train/loras_analysis/fact/test.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
