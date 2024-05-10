@@ -718,13 +718,15 @@ if __name__ == '__main__':
     lora_fact(source_file=source_test, save_file=f"../data/loras/fact/test.json")
 
     # 以下是尝试用analysis的方法
+
     # base_path = "../data/redocred/analysis_redocred"
     # files = ["redocred_train.json", "redocred_dev.json", "redocred_test.json"]
     # for file in files:
     #     save_path = f"{base_path}/{file.replace('.json', '_analysis.json')}"
     #     source_file = f"../data/redocred/{file}"
     #     make_redocred_data_parallel(save_path=save_path, source_file=source_file, func=gen_analysis, num_processes=100)
-    # 我用手动的方式构建了unknown数据集，现在为unknown生成解释
+
+    # 我用手动的方式构建了unknown数据集，现在也为unknown生成解释
     # gen_unknown_analysis(source_dir="../data/redocred/unknown/unknown_handcraft", save_dir="../data/redocred/unknown/unknown_relations_analysis")
     # 再将结果整合起来
     input_directory = "../data/redocred/unknown/unknown_relations_analysis"

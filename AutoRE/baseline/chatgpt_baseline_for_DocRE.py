@@ -300,14 +300,14 @@ if __name__ == '__main__':
 
     # 测试加入wiki_desc和new_desc的效果
 
-    save_path = "./chatgpt/result_desc_ori/joint_sentence_one_relation_fact"
+    save_path = "./chatgpt/result_desc_ori_given/joint_sentence_one_relation_fact"
     relations_description = json.load(open("../../data/relations_desc/wikidata_desc.json"))
     os.makedirs(save_path, exist_ok=True)
     desc_type = "wiki"
     make_redocred_data_parallel(source_file=test_file_path, save_path=save_path, func=joint_sentence_one_relation_fact)
     cal_result_lora_facts(file_path=save_path)
 
-    save_path = "./chatgpt/result_desc_new/joint_sentence_one_relation_subject_fact"
+    save_path = "./chatgpt/result_desc_new_given/joint_sentence_one_relation_subject_fact"
     relations_description = json.load(open("../../data/relations_desc/relation_description_redocred.json"))
     desc_type = "new"
     os.makedirs(save_path, exist_ok=True)

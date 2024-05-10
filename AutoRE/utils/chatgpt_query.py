@@ -18,7 +18,7 @@ used_keys = []
 overload_keys = []
 overload_keys_200 = []
 invalid_keys = []
-# for proxies, you can comment it out if you do not need it
+# for proxies, you can comment it out if you do not need it, and you should change it to your env setting
 proxies = {
     'http': '127.0.0.1:9898',
     'https': '127.0.0.1:9898',
@@ -161,6 +161,3 @@ def gen_analysis(sample, save_file):
         f.write(json.dumps(sample) + "\n")
         update_keys_file()
 
-if __name__ == '__main__':
-    make_redocred_data_parallel(save_path="../data/redocred/analysis_redocred/redocred_train_analysis.json", source_file="redocred_train_analysis.json", func=gen_analysis)
-    make_redocred_data_parallel(save_path="../data/redocred/analysis_redocred/redocred_test_analysis.json", source_file="redocred_test_analysis.json", func=gen_analysis)
