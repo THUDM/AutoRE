@@ -38,6 +38,50 @@ inverse_relation_mapping = {
     "sports team location of teams": "sports team of location"
 }
 
+relation_mapping = {
+    "instruct": {
+        "located on terrain feature": "located in/on physical feature",
+        "place lived": "residence",
+        "country of capital": "capital",
+        "education institution": "educated at",
+        "nationality": "country of citizenship",
+        "person of company": "employer",
+        "company": "employer",
+        "country capital": "capital",
+        "city of headquarters": "headquarters location",
+        "cities of residence": "residence",
+        "ethnicity": "ethnic group",
+        "subsidiaries": "subsidiary",
+        "children": "child",
+        "Located in": "located in the administrative territorial entity",
+        "Organization based in": "organization based in",
+        "Work for": "employer",
+        "Kill": "kill",
+        "Live in": "live in"
+
+    },
+    "fewrel": {
+
+    },
+    "nyt10": {
+        "nationality": "country of citizenship",
+        "place lived": "residence",
+        "ethnicity": "ethnic group",
+        "founders": "founded by",
+        "place founded": "location of formation",
+        "children": "child"
+    },
+    "semeval": {
+
+    },
+    "wiki": {
+        "located on terrain feature": "located in/on physical feature"
+    },
+    "trex": {
+
+    }
+
+}
 
 def get_params():
     """

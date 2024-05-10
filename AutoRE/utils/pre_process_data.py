@@ -1,9 +1,9 @@
 import os
 from collections import defaultdict, OrderedDict
-
-os.environ['KMP_DUPLICATE_LIB_OK'] = 'True'
 from template import *
 from chatgpt_query import *
+
+filter_entity = ['it', 'he', 'she', 'they', 'its', ""]
 
 
 def refine_redocred_data():
@@ -681,6 +681,319 @@ def gen_analysis(sample, save_file):
         update_keys_file()
 
 
+def clean_data(passages, data_type):
+    """
+        对passage进行去重和合并
+    :param passages:
+    :return:
+    """
+    passages.sort(key=lambda x: len(x['passage']))
+    passage_dict = {}
+    for passage in tqdm(passages, desc=f"clean_{data_type}"):
+        p = passage['passage']
+        if p not in passage_dict:
+            passage_dict[p] = passage
+        else:
+            passage_dict[p]['fact_list'].extend(passage['fact_list'])
+            passage_dict[p]['fact_list'] = list(set(tuple(fact) for fact in passage_dict[p]['fact_list']))
+            for relation in passage['relations']:
+                if relation not in passage_dict[p]['relations']:
+                    passage_dict[p]['relations'].append(relation)
+    filter_passage = list(passage_dict.values())
+    return filter_passage
+
+
+def process_fewrel(data_type, data_folder):
+    """
+    :return:
+    """
+    data = open(os.path.join(data_folder, "fewrel/fewrel_train.txt")).readlines() + open(os.path.join(data_folder, "fewrel/fewrel_val.txt")).readlines()
+    save = []
+    for index, sample in enumerate(tqdm(data, desc=data_type)):
+        sample = json.loads(sample)
+        sentence = " ".join(sample['token']).strip()
+        head = " ".join(sample['token'][sample['h']["pos"][0]:sample['h']["pos"][1]])
+        tail = " ".join(sample['token'][sample['t']["pos"][0]:sample['t']["pos"][1]])
+        if head.lower() in filter_entity or tail.lower() in filter_entity or head not in sentence or tail not in sentence or head == tail:
+            continue
+        relation = pid_name.get(sample['relation'])
+        if relation in relation_mapping[data_type]:
+            relation = relation_mapping[data_type][relation]
+        relations = [relation]
+        fact_list = [[head, relation, tail]]
+        for fact in fact_list:
+            relation = fact[1]
+            if relation in inverse_relation_mapping:
+                if inverse_relation_mapping[relation] not in relations:
+                    relations.append(inverse_relation_mapping[relation])
+                new_fact = [tail, inverse_relation_mapping[relation], head]
+                if new_fact not in fact_list:
+                    fact_list.append(new_fact)
+        save.append({
+            "index": index,
+            "passage": sentence,
+            "relations": relations,
+            "fact_list": fact_list,
+            "data_from": f"fewrel_{index}"
+        })
+    save = clean_data(save, data_type)
+    json.dump(save, open(os.path.join(data_folder, "fewrel/fewrel.json"), "w"), indent=4)
+    relation_count(os.path.join(data_folder, "fewrel/fewrel.json"), os.path.join(data_folder, "fewrel/fewrel_relation_count.json"))
+
+
+def process_nyt10(data_type, data_folder):
+    """
+    :return:
+    """
+    data = open(os.path.join(data_folder, "nyt10/nyt10_train.txt")).readlines() + open(os.path.join(data_folder, "nyt10/nyt10_test.txt")).readlines()
+    save = []
+    for index, sample in enumerate(tqdm(data, desc=data_type)):
+        sample = json.loads(sample)
+        sentence = sample['text'].strip()
+        head = sample['h']['name']
+        tail = sample['t']['name']
+        if head.lower() in filter_entity or tail.lower() in filter_entity or head not in sentence or tail not in sentence or head == tail:
+            continue
+        relation = sample['relation'].split("/")[-1].replace("_", " ") if sample['relation'] != "NA" else sample['relation'].replace("_", " ")
+        if relation in relation_mapping[data_type]:
+            relation = relation_mapping[data_type][relation]
+        relations = [relation]
+        fact_list = [[head, relation, tail]]
+        for fact in fact_list:
+            relation = fact[1]
+            if relation in inverse_relation_mapping:
+                if inverse_relation_mapping[relation] not in relations:
+                    relations.append(inverse_relation_mapping[relation])
+                new_fact = [tail, inverse_relation_mapping[relation], head]
+                if new_fact not in fact_list:
+                    fact_list.append(new_fact)
+        save.append({
+            "index": index,
+            "passage": sentence,
+            "relations": relations,
+            "fact_list": fact_list,
+            "data_from": f"nyt10_{index}"
+        })
+    save = clean_data(save, data_type)
+    json.dump(save, open(os.path.join(data_folder, "nyt10/nyt10.json"), "w"), indent=4)
+    relation_count(os.path.join(data_folder, "nyt10/nyt10.json"), os.path.join(data_folder, "nyt10/nyt10_relation_count.json"))
+
+
+def process_semeval(data_type, data_folder):
+    '''
+        数据不好用，relation很奇怪
+    :return:
+    '''
+    data = open(os.path.join(data_folder, "semeval/semeval_train.txt")).readlines() + open(os.path.join(data_folder, "semeval/semeval_test.txt")).readlines() + open(
+        os.path.join(data_folder, "semeval/semeval_val.txt")).readlines()
+    save = []
+    for index, sample in enumerate(tqdm(data, desc=data_type)):
+        sample = json.loads(sample)
+        sentence = " ".join(sample['token']).strip()
+        head = sample['h']['name'] if "(e1,e2)" in sample['relation'] else sample['t']['name']
+        tail = sample['t']['name'] if "(e1,e2)" in sample['relation'] else sample['h']['name']
+        if head.lower() in filter_entity or tail.lower() in filter_entity or head not in sentence or tail not in sentence or head == tail:
+            continue
+        relation = sample['relation'].split("(")[0]
+        if relation in relation_mapping[data_type]:
+            relation = relation_mapping[data_type][relation]
+        relations = [relation]
+        fact_list = [[head, relation, tail]]
+        for fact in fact_list:
+            relation = fact[1]
+            if relation in inverse_relation_mapping:
+                if inverse_relation_mapping[relation] not in relations:
+                    relations.append(inverse_relation_mapping[relation])
+                new_fact = [tail, inverse_relation_mapping[relation], head]
+                if new_fact not in fact_list:
+                    fact_list.append(new_fact)
+        save.append({
+            "index": index,
+            "passage": sentence,
+            'relations': relations,
+            "fact_list": fact_list,
+            "data_from": f"semeval_{index}"
+        })
+    save = clean_data(save, data_type)
+    json.dump(save, open(os.path.join(data_folder, "semeval/semeval.json"), "w"), indent=4)
+    relation_count(os.path.join(data_folder, "semeval/semeval.json"), os.path.join(data_folder, "semeval/semeval_relation_count.json"))
+
+
+def process_wiki(data_type, data_folder):
+    """
+    :return:
+    """
+    data = open(os.path.join(data_folder, "wiki/wiki20m/wiki20m_train.txt")).readlines() + open(os.path.join(data_folder, "wiki/wiki20m/wiki20m_test.txt")).readlines() + open(
+        os.path.join(data_folder, "wiki/wiki80/wiki80_train.txt")).readlines() + open(os.path.join(data_folder, "wiki/wiki80/wiki80_test.txt")).readlines()
+    save = []
+    for index, sample in enumerate(tqdm(data, desc=data_type)):
+        sample = json.loads(sample)
+        sentence = " ".join(sample['token']).strip()
+        head = " ".join(sample['token'][sample['h']["pos"][0]:sample['h']["pos"][1]])
+        tail = " ".join(sample['token'][sample['t']["pos"][0]:sample['t']["pos"][1]])
+        if head.lower() in filter_entity or tail.lower() in filter_entity or head not in sentence or tail not in sentence or head == tail:
+            continue
+        relation = sample['relation']
+        if relation in relation_mapping[data_type]:
+            relation = relation_mapping[data_type][relation]
+        relations = [relation]
+        fact_list = [[head, relation, tail]]
+        for fact in fact_list:
+            relation = fact[1]
+            if relation in inverse_relation_mapping:
+                if inverse_relation_mapping[relation] not in relations:
+                    relations.append(inverse_relation_mapping[relation])
+                new_fact = [tail, inverse_relation_mapping[relation], head]
+                if new_fact not in fact_list:
+                    fact_list.append(new_fact)
+        save.append({
+            'index': index,
+            "passage": sentence,
+            "relations": relations,
+            "fact_list": fact_list,
+            "data_from": f"wiki_{index}"
+        })
+    save = clean_data(save, data_type)
+    json.dump(save, open(os.path.join(data_folder, "wiki/wiki.json"), "w"), indent=4)
+    relation_count(os.path.join(data_folder, "wiki/wiki.json"), os.path.join(data_folder, "wiki/wiki_relation_count.json"))
+
+
+def process_instruct(data_type, data_folder):
+    """
+    :return:
+    """
+    folder = os.path.join(data_folder, "instruct/RE")
+    data = []
+    for root, dirs, files in os.walk(folder):
+        for file in files:
+            if "dev" in file or "train" in file:
+                file_path = os.path.join(root, file)
+                data += json.load(open(file_path))
+    save = []
+    for index, sample in enumerate(tqdm(data, desc="instruct")):
+        sentence = sample['sentence'].strip()
+        facts = sample['relations']
+        fact_list = []
+        relations = []
+        skip_sample = False
+        for fact in facts:
+            head = fact['head']['name']
+            tail = fact['tail']['name']
+            relation = fact['type']
+            if head.lower() in filter_entity or tail.lower() in filter_entity or head not in sentence or tail not in sentence or head == tail or relation == "NA":
+                skip_sample = True
+                break
+            if relation in relation_mapping[data_type]:
+                relation = relation_mapping[data_type][relation]
+            relations.append(relation)
+            fact_list.append([head, relation, tail])
+            if relation in inverse_relation_mapping:
+                if inverse_relation_mapping[relation] not in relations:
+                    relations.append(inverse_relation_mapping[relation])
+                new_fact = [tail, inverse_relation_mapping[relation], head]
+                if new_fact not in fact_list:
+                    fact_list.append(new_fact)
+        if skip_sample:
+            continue
+        if fact_list and relations:
+            save.append({
+                "index": index,
+                "passage": sentence,
+                "relations": list(set(relations)),
+                "fact_list": fact_list,
+                "data_from": f"instruct_{index}"
+            })
+    save = clean_data(save, data_type)
+    json.dump(save, open(os.path.join(data_folder, "instruct/instruct.json"), "w"), indent=4)
+    relation_count(os.path.join(data_folder, "instruct/instruct.json"), os.path.join(data_folder, "instruct/instruct_relation_count.json"))
+
+
+def process_trex(data_type, data_folder):
+    """
+        将原始对trex整理成需要的格式
+    :return:
+    """
+
+    def process_trex_chunk(files, data_index):
+        save = []
+        for file in files:
+            data = json.load(open(file))
+            for index, sample in enumerate(data):
+                sentence = sample['text']
+                fact_list = []
+                relations = []
+                for fact in sample['triples']:
+                    head = fact['subject']['surfaceform']
+                    tail = fact['object']['surfaceform']
+                    if head == tail:
+                        continue
+                    if head not in sentence or tail not in sentence:
+                        continue
+                    relation = fact['predicate']['uri'].split("/")[-1]
+                    try:
+                        relation = pid_name.get(relation)
+                    except:
+                        pass
+                    if relation not in relations:
+                        relations.append(relation)
+                    if [head, relation, tail] not in fact_list:
+                        fact_list.append([head, relation, tail])
+
+                if fact_list and relations:
+                    save.append({
+                        'index': index,
+                        "passage": sentence,
+                        "relations": list(set(relations)),
+                        "fact_list": fact_list,
+                        "data_from": f"trex_{index}"
+                    })
+        os.makedirs(os.path.join(data_folder, "trex/TREx/tmp/"), exist_ok=True)
+        json.dump(save, open(os.path.join(data_folder, f"trex/TREx/tmp/data_{data_index}.json"), "w"), indent=4)
+
+    folder_path = os.path.join(data_folder, "trex/TREx")
+    files = [os.path.join(folder_path, file) for file in os.listdir(folder_path)]
+    final_data = []
+    chunk_size = 5
+    for i in tqdm(range(0, len(files), chunk_size), desc=data_type):
+        chunk_files = files[i:i + chunk_size]
+        process_trex_chunk(chunk_files, f"data_{i // chunk_size}")
+    for i in tqdm(range(0, len(files), chunk_size)):
+        chunk_file = os.path.join(data_folder, f"trex/TREx/tmp/data_data_{i // chunk_size}.json")
+        final_data += json.load(open(chunk_file))
+    for file in files:
+        final_data += json.load(open(file))
+    save = []
+    for sample in final_data:
+        skip_sample = False
+        sentence = sample['passage']
+        for fact in sample["fact_list"]:
+            head = fact[0]
+            relation = fact[1]
+            tail = fact[2]
+            if head.lower() in filter_entity or tail.lower() in filter_entity or head not in sentence or tail not in sentence or head == tail:
+                skip_sample = True
+                break
+            if relation in relation_mapping[data_type]:
+                sample['relations'].remove(relation)
+                relation = relation_mapping[data_type][relation]
+                sample['relations'].append(relation)
+                sample['fact_list'].remove(fact)
+                sample['fact_list'].append([head, relation, tail])
+
+            if relation in inverse_relation_mapping:
+                if inverse_relation_mapping[relation] not in sample['relations']:
+                    sample['relations'].append(inverse_relation_mapping[relation])
+                new_fact = [tail, inverse_relation_mapping[relation], head]
+                if new_fact not in sample['fact_list']:
+                    sample['fact_list'].append(new_fact)
+        if skip_sample:
+            continue
+        save.append(sample)
+    save = clean_data(save, data_type)
+    json.dump(save, open(os.path.join(data_folder, "trex/trex.json", "w")), indent=4)
+    # shutil.rmtree("../../public_data/augment/RE/trex/TREx/tmp/")
+
+
 if __name__ == '__main__':
     # preprocess for redocred
     make_redocred_data(data_types=['train', 'dev', 'test'], source_path="../data/redocred/ori_redocred", save_path="../data/redocred")
@@ -717,6 +1030,8 @@ if __name__ == '__main__':
     lora_fact(source_file=source_train, save_file=f"../data/loras/fact/train.json")
     lora_fact(source_file=source_test, save_file=f"../data/loras/fact/test.json")
 
+    # 以上是论文中的内容，接下来是新的尝试，如果不需要，请使用本代码时候全部注释掉
+
     # 以下是尝试用analysis的方法
 
     # base_path = "../data/redocred/analysis_redocred"
@@ -752,3 +1067,11 @@ if __name__ == '__main__':
     json.dump(data, open("../data/loras_analysis/fact/train.json", 'w'), indent=4)
     lora_fact_analysis(source_file=source_test, save_file=f"../data/loras_analysis/fact/test.json")
 
+    # 收集数据集合，进行增强
+    datasets = ["instruct", "nyt10", "fewrel", "wiki", "semeval", "trex"]
+    data_folder = "../data/other_source"
+    for dataset in datasets:
+        if dataset == "trex":
+            process_trex(dataset, data_folder)
+        else:
+            globals()[f"process_{dataset}"](dataset, data_folder)
