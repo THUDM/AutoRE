@@ -1,5 +1,6 @@
 from AutoRE.src.llmtuner import ChatModel
 from AutoRE.utils.llama_factory_inference_analysis import *
+from AutoRE.utils.report_result import *
 import sys
 if __name__ == '__main__':
     args = get_params()
@@ -27,5 +28,6 @@ if __name__ == '__main__':
     if not do_inference:
         args.data = get_test_data(args)
         loras_RHF_desc_analysis(args)
+        cal_result_lora_facts(file_path=args.save_path)
     else:
         loras_RHF_desc_for_inference(args)

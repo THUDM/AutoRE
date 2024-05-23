@@ -29,6 +29,11 @@ templates = {
                               "Provided a passage: \"{sentences}\"\n"
                               "List all triplet facts that take \"{relation}\" as the relation and \"{subject}\" as the subject."
     },
+    "D_R_H_F_desc_chinese": {
+        "relation_list_template": "给定一段文字：\"{sentences}\"\n列出任何潜在的关系。",
+        "entity_list_template": "给定一个关系\"{relation}\"，其描述为：\"{description}\"，以及一段文字：\"{sentences}\"，列出可以识别为该关系主体的实体。",
+        "fact_list_template": "给定关系\"{relation}\"及其描述：\"{description}\"。\n提供一段文字：\"{sentences}\"\n列出所有三元组事实，以\"{relation}\"为关系，\"{subject}\"为主体。"
+    },
     "D_R_H_F_desc_analysis": {
         "relation_template": "Given a passage: \"{sentences}\", conduct a comprehensive analysis to uncover any underlying relations.",
         "relation_list_template": "Given a passage: \"{sentences}\", along with an analysis of the implicit relations present in the passage: {relation_analysis}.\n"
@@ -41,5 +46,5 @@ templates = {
                          "conduct an analysis to identify all facts within the passage.",
         "fact_list_template": "After analyzing the passage: \"{sentences}\", and considering the subject of the relation: \"{subject}\", we have conducted an analysis to derive "
                               "all facts as: \"{facts_analysis}\".\nBased on this analysis, list the facts."
-    },
+    }
 }

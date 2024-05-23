@@ -143,6 +143,60 @@
       "history": "history"
     }
   },
+  "relation_chinese_train": {
+    "file_name": "train/loras_chinese/relation/train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "relation_chinese_test": {
+    "file_name": "train/loras_chinese/relation/test.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "subject_chinese_train": {
+    "file_name": "train/loras_chinese/subject/train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "subject_chinese_test": {
+    "file_name": "train/loras_chinese/subject/test.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "fact_chinese_train": {
+    "file_name": "train/loras_chinese/fact/train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "fact_chinese_test": {
+    "file_name": "train/loras_chinese/fact/test.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
   "relation_train_analysis": {
     "file_name": "train/loras_analysis/relation/train.json",
     "columns": {

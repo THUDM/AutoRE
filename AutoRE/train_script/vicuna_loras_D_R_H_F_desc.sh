@@ -7,8 +7,6 @@ task_params["vicuna_subject"]="dataset=subject_train eval_path=subject_test cach
 task_params["vicuna_fact"]="dataset=fact_train eval_path=fact_test cache_path=autore/vicuna/fact/train eval_cache_path=autore/vicuna/fact/test output_dir=ckpt/vicuna/fact learning_rate=5e-5 save_steps=100 eval_steps=100 num_train_epochs=6 max_steps=4430"
 
 for task_name in "${!task_params[@]}"; do
-  export WANDB_PROJECT_NAME="$task_name"
-
   declare -A params
   for param in ${task_params[$task_name]}; do
     key=$(echo $param | cut -f1 -d=)
@@ -22,7 +20,7 @@ for task_name in "${!task_params[@]}"; do
   if [ ! -d "$log_dir" ]; then
     mkdir -p "$log_dir"
   fi
-
+  export WANDB_PROJECT_NAME="$task_name"_${params[learning_rate]}
   CUDA_VISIBLE_DEVICES=6 /workspace/xll/Anaconda3/envs/chatglm/bin/python src/train_bash.py \
     --stage sft \
     --do_train \

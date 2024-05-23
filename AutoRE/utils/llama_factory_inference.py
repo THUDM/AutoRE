@@ -566,8 +566,8 @@ def loras_RHF_desc(args):
         save["wrong_fact_list"] = wrong
         save["miss_fact_list"] = miss
         save["true_fact_list"] = sample['same_fact_list']
-        with open(f"{save_path}/predict.json", "a") as file:
-            json.dump(save, file)
+        with open(f"{save_path}/predict.json", "a", encoding='utf-8') as file:
+            json.dump(save, file, ensure_ascii=False)
             file.write('\n')
 
 

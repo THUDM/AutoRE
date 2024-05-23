@@ -85,10 +85,9 @@ def cal_result_lora_facts(file_path):
     if "dev" in file_path:
         true_relation_count = json.load(open(os.path.join(current_dir, "../data/redocred/redocred_dev_fact_count.json")))
     else:
-        true_relation_count = json.load(open(os.path.join(current_dir, "../data/redocred/redocred_test_fact_count.json")))
-
-    datas = [json.loads(line) for line in open(os.path.join(file_path, "predict.json")).readlines()]
-
+        # true_relation_count = json.load(open(os.path.join(current_dir, "../data/redocred/redocred_test_fact_count.json")))
+        true_relation_count = json.load(open(os.path.join(current_dir, "../data/other_source/hacred/test_fact_count.json")))
+    datas = [json.loads(line) for line in open(os.path.join(file_path, "predict.json"), encoding='utf-8').readlines()]
     json.dump(datas, open(os.path.join(file_path, "all.json"), "w"), indent=4)
     relations_result = defaultdict(lambda: {'all': 0, 'tp': 0, 'fp': 0, "miss": 0, "recall": 0, "precision": 0, "f1": 0})
     for data in tqdm(datas):
@@ -104,6 +103,9 @@ def cal_result_lora_facts(file_path):
     for relation in relations_description:
         if relation not in relations_result or relation not in true_relation_count:
             continue
+        if relation == "儿子":
+            print("hhh")
+        true_relation_count[relation] = relations_result[relation]['tp'] + relations_result[relation]['miss']
         relations_result[relation]['all'] = true_relation_count[relation]
         right = relations_result[relation]['tp']
         wrong = relations_result[relation]['fp']
@@ -112,7 +114,7 @@ def cal_result_lora_facts(file_path):
         relations_result[relation]['recall'] = recall
         relations_result[relation]['precision'] = precision
         relations_result[relation]['f1'] = 2 * recall * precision / (recall + precision) if recall != 0 and precision != 0 else 0
-    json.dump(relations_result, open(os.path.join(file_path, "relation_result.json"), "w"), indent=4)
+    json.dump(relations_result, open(os.path.join(file_path, "relation_result.json"), "w"), ensure_ascii=False, indent=4)
 
 
 def report_relations_result(file_path):
