@@ -103,8 +103,6 @@ def cal_result_lora_facts(file_path):
     for relation in relations_description:
         if relation not in relations_result or relation not in true_relation_count:
             continue
-        if relation == "儿子":
-            print("hhh")
         true_relation_count[relation] = relations_result[relation]['tp'] + relations_result[relation]['miss']
         relations_result[relation]['all'] = true_relation_count[relation]
         right = relations_result[relation]['tp']
