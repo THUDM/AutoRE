@@ -1,3 +1,4 @@
+import json
 import os
 from collections import defaultdict, OrderedDict
 from template import *
@@ -54,7 +55,7 @@ def fact_count(source_file, save_file):
         for relation in relations:
             relations_dict[relation] += 1
     relations_dict = OrderedDict(sorted(relations_dict.items(), key=lambda x: x[1], reverse=True))
-    json.dump(relations_dict, open(save_file, "w"), indent=4)
+    json.dump(relations_dict, open(save_file, "w"), indent=4, ensure_ascii=False)
 
 
 def make_redocred_data(data_types, source_path, save_path):
@@ -238,7 +239,7 @@ def relation_subject_fact(source_file, save_file):
             train_data.append(block_dict)
             global_id += 1
             for subject in entity_list:
-                fact_list = [list(fact_tuple) for fact_tuple in set(tuple(fact) for fact in sample['fact_list'] if fact[1] == relation)]
+                fact_list = [list(fact_tuple) for fact_tuple in set(tuple(fact) for fact in sample['fact_list'] if fact[1] == relation and fact[0] == subject)]
                 block_dict = {
                     "id": f"identity_{global_id}",
                     "instruction": templates[version]["fact_list_template"].format(sentences=sentence, relation=relation, subject=subject,
@@ -261,7 +262,8 @@ def lora_relation(source_file, save_file):
     :return:
     """
     train_data = []
-    data = json.load(open(source_file))
+    data = json.load(open(source_file)) + json.load(open("../data/other_source/hacred/train.json")) if "train" in source_file else json.load(open(source_file)) + json.load(
+        open("../data/other_source/hacred/test.json"))
     global_id = 0
     for sample in tqdm(data):
         sentence = sample['passage']
@@ -270,7 +272,8 @@ def lora_relation(source_file, save_file):
         ori_relations = sample['relations'].copy()
         block_dict = {
             "id": f"identity_{global_id}",
-            "instruction": templates[version]["relation_list_template"].format(sentences=sentence),
+            "instruction": templates[version]["relation_list_template"].format(sentences=sentence) if "chinese" not in sample else templates[version + "_chinese"][
+                "relation_list_template"].format(sentences=sentence),
             "input": "",
             "output": str("\n".join(sample['relations'])),
             "history": []
@@ -286,7 +289,8 @@ def lora_relation(source_file, save_file):
                     break
             block_dict = {
                 "id": f"identity_{global_id}",
-                "instruction": templates[version]["relation_list_template"].format(sentences=sentence),
+                "instruction": templates[version]["relation_list_template"].format(sentences=sentence) if "chinese" not in sample else templates[version + "_chinese"][
+                    "relation_list_template"].format(sentences=sentence),
                 "input": "",
                 "output": str("\n".join(sample['relations'])),
                 "history": []
@@ -300,7 +304,8 @@ def lora_relation(source_file, save_file):
                     break
             block_dict = {
                 "id": f"identity_{global_id}",
-                "instruction": templates[version]["relation_list_template"].format(sentences=sentence),
+                "instruction": templates[version]["relation_list_template"].format(sentences=sentence) if "chinese" not in sample else templates[version + "_chinese"][
+                    "relation_list_template"].format(sentences=sentence),
                 "input": "",
                 "output": str("\n".join(sample['relations'])),
                 "history": []
@@ -309,7 +314,7 @@ def lora_relation(source_file, save_file):
             global_id += 1
 
     os.makedirs(os.path.dirname(save_file), exist_ok=True) if not os.path.exists(save_file) else None
-    json.dump(train_data, open(save_file, "w"), indent=4)
+    json.dump(train_data, open(save_file, "w"), indent=4, ensure_ascii=False)
 
 
 def lora_relation_analysis(source_file, save_file):
@@ -391,7 +396,8 @@ def lora_subject(source_file, save_file):
     :return:
     """
     train_data = []
-    data = json.load(open(source_file))
+    data = json.load(open(source_file)) + json.load(open("../data/other_source/hacred/train.json")) if "train" in source_file else json.load(open(source_file)) + json.load(
+        open("../data/other_source/hacred/test.json"))
     global_id = 0
     for sample in tqdm(data):
         sentence = sample['passage']
@@ -400,7 +406,9 @@ def lora_subject(source_file, save_file):
             ori_entity_list = entity_list.copy()
             block_dict = {
                 "id": f"identity_{global_id}",
-                "instruction": templates[version]["entity_list_template"].format(sentences=sentence, relation=relation, description=relations_description.get(relation)),
+                "instruction": templates[version]["entity_list_template"].format(sentences=sentence, relation=relation,
+                                                                                 description=relations_description.get(relation)) if "chinese" not in sample else
+                templates[version + "_chinese"]["entity_list_template"].format(sentences=sentence, relation=relation, description=relations_description.get(relation)),
                 "input": "",
                 "output": str("\n".join(entity_list)),
                 "history": [],
@@ -414,7 +422,9 @@ def lora_subject(source_file, save_file):
                         break
                 block_dict = {
                     "id": f"identity_{global_id}",
-                    "instruction": templates[version]["entity_list_template"].format(sentences=sentence, relation=relation, description=relations_description.get(relation)),
+                    "instruction": templates[version]["entity_list_template"].format(sentences=sentence, relation=relation,
+                                                                                     description=relations_description.get(relation)) if "chinese" not in sample else
+                    templates[version + "_chinese"]["entity_list_template"].format(sentences=sentence, relation=relation, description=relations_description.get(relation)),
                     "input": "",
                     "output": str("\n".join(entity_list)),
                     "history": [],
@@ -422,7 +432,7 @@ def lora_subject(source_file, save_file):
                 train_data.append(block_dict)
                 global_id += 1
     os.makedirs(os.path.dirname(save_file), exist_ok=True) if not os.path.exists(save_file) else None
-    json.dump(train_data, open(save_file, "w"), indent=4)
+    json.dump(train_data, open(save_file, "w"), indent=4, ensure_ascii=False)
 
 
 def lora_subject_analysis(source_file, save_file):
@@ -489,7 +499,8 @@ def lora_fact(source_file, save_file):
     :return:
     """
     train_data = []
-    data = json.load(open(source_file))
+    data = json.load(open(source_file)) + json.load(open("../data/other_source/hacred/train.json")) if "train" in source_file else json.load(open(source_file)) + json.load(
+        open("../data/other_source/hacred/test.json"))
     if "test" in source_file:
         data = random.sample(data, int(len(data) * 0.5))
     global_id = 0
@@ -502,7 +513,9 @@ def lora_fact(source_file, save_file):
                 block_dict = {
                     "id": f"identity_{global_id}",
                     "instruction": templates[version]["fact_list_template"].format(sentences=sentence, description=relations_description.get(relation), subject=subject,
-                                                                                   relation=relation),
+                                                                                   relation=relation) if "chinese" not in sample else templates[version + "_chinese"][
+                        "fact_list_template"].format(sentences=sentence, description=relations_description.get(relation), subject=subject,
+                                                     relation=relation),
                     "input": "",
                     "output": str("\n".join([str(fact) for fact in fact_list])),
                     "history": []
@@ -510,7 +523,7 @@ def lora_fact(source_file, save_file):
                 train_data.append(block_dict)
                 global_id += 1
     os.makedirs(os.path.dirname(save_file), exist_ok=True) if not os.path.exists(save_file) else None
-    json.dump(train_data, open(save_file, "w"), indent=4)
+    json.dump(train_data, open(save_file, "w"), indent=4, ensure_ascii=False)
 
 
 def lora_fact_analysis(source_file, save_file):
@@ -994,8 +1007,50 @@ def process_trex(data_type, data_folder):
     # shutil.rmtree("../../public_data/augment/RE/trex/TREx/tmp/")
 
 
+def make_hacred_data(data_types, source_path, save_path):
+    for index, data_type in enumerate(data_types):
+        final_save = []
+        data = [json.loads(line) for line in open(os.path.join(os.path.join(source_path, f"{data_type}.json")), 'r', encoding='utf-8')]
+        pid_name = json.load(open("../data/other_source/hacred/ori_data/rel2id.json", 'r', encoding='utf-8'))
+        for page_id, sample in enumerate(data):
+            fact_list = []
+            same_fact_list = []
+            relations = set()
+            sentence = sample['text']
+            for fact in sample['labels_char']:
+                head_name = list(set([h['name'] for h in sample['vertex_char'][fact['h']]]))
+                tail_name = list(set([t['name'] for t in sample['vertex_char'][fact['t']]]))
+                relation = fact['r']
+                same_fact = []
+                for head in head_name:
+                    for tail in tail_name:
+                        relations.add(relation)
+                        if (head, relation, tail) not in same_fact:
+                            same_fact.append([head, relation, tail])
+                        if (head, relation, tail) not in fact_list:
+                            fact_list.append(
+                                [head, relation, tail],
+                            )
+                same_fact_list.append(same_fact)
+            save = {
+                "index": index,
+                "page_id": page_id,
+                "passage": sentence,
+                "relations": list(relations),
+                "fact_list": fact_list,
+                "same_fact_list": same_fact_list,
+                "data_from": f"redocred_{data_type}",
+                "chinese": "yes"
+            }
+            final_save.append(save)
+        with open(os.path.join(save_path, f"{data_type}.json"), "w", encoding='utf-8') as f:
+            json.dump(final_save, f, indent=4, ensure_ascii=False, )
+
+
 if __name__ == '__main__':
     # preprocess for redocred
+    make_hacred_data(data_types=['train', 'dev', 'test'], source_path="../data/other_source/hacred/ori_data", save_path="../data/other_source/hacred")
+    fact_count(source_file="../data/other_source/hacred/test.json", save_file="../data/other_source/hacred/test_fact_count.json")
     make_redocred_data(data_types=['train', 'dev', 'test'], source_path="../data/redocred/ori_redocred", save_path="../data/redocred")
     source_train = "../data/redocred/redocred_train.json"
     source_test = "../data/redocred/redocred_test.json"
@@ -1023,55 +1078,55 @@ if __name__ == '__main__':
     relation_subject_fact(source_file=source_test, save_file=f"../data/train/{version}/test.json")
 
     # make train_set and test_set for 3 loras
-    lora_relation(source_file=source_train, save_file=f"../data/loras/relation/train.json")
-    lora_relation(source_file=source_train, save_file=f"../data/loras/relation/test.json")
-    lora_subject(source_file=source_train, save_file=f"../data/loras/subject/train.json")
-    lora_subject(source_file=source_test, save_file=f"../data/loras/subject/test.json")
-    lora_fact(source_file=source_train, save_file=f"../data/loras/fact/train.json")
-    lora_fact(source_file=source_test, save_file=f"../data/loras/fact/test.json")
-
-    # 以上是论文中的内容，接下来是新的尝试，如果不需要，请使用本代码时候全部注释掉
-
-    # 以下是尝试用analysis的方法
-
-    # base_path = "../data/redocred/analysis_redocred"
-    # files = ["redocred_train.json", "redocred_dev.json", "redocred_test.json"]
-    # for file in files:
-    #     save_path = f"{base_path}/{file.replace('.json', '_analysis.json')}"
-    #     source_file = f"../data/redocred/{file}"
-    #     make_redocred_data_parallel(save_path=save_path, source_file=source_file, func=gen_analysis, num_processes=100)
-
-    # 我用手动的方式构建了unknown数据集，现在也为unknown生成解释
-    # gen_unknown_analysis(source_dir="../data/redocred/unknown/unknown_handcraft", save_dir="../data/redocred/unknown/unknown_relations_analysis")
-    # 再将结果整合起来
-    input_directory = "../data/redocred/unknown/unknown_relations_analysis"
-    output_file = os.path.join(input_directory, '..', 'relations_unknown_analysis.json')
-    data = [json.loads(line) for fname in os.listdir(input_directory) if fname.endswith('.json') for line in open(os.path.join(input_directory, fname))]
-    json.dump(data, open(output_file, 'w'), indent=4)
-
-    # make analysis_set for 3 loras, test_set remains unchanged
-    source_train = "../data/redocred/analysis_redocred/redocred_train_analysis.json"
-    source_test = "../data/redocred/analysis_redocred/redocred_test_analysis.json"
-    version = "D_R_H_F_desc_analysis"
-    lora_relation_analysis(source_file=source_train, save_file=f"../data/loras_analysis/relation/train.json")
-    lora_relation_analysis(source_file=source_test, save_file=f"../data/loras_analysis/relation/test.json")
-
-    lora_subject_analysis(source_file=source_train, save_file=f"../data/loras_analysis/subject/train.json")
-    lora_subject_analysis(source_file=source_test, save_file=f"../data/loras_analysis/subject/test.json")
-
-    lora_unknown_fact_analysis(source_file="../data/redocred/unknown/relations_unknown_analysis.json", save_file=f"../data/loras_analysis/fact/train_unknown.json")
-    lora_fact_analysis(source_file=source_train, save_file=f"../data/loras_analysis/fact/train.json")
-    # 这里需要将两个train文件进行合并，如果不使用unknown，则不需要。
-    data = [item for f in ["../data/loras_analysis/fact/train_unknown.json", "../data/loras_analysis/fact/train.json"] for item in json.load(open(f))]
-    # 此时，train.json是两个文件的合并
-    json.dump(data, open("../data/loras_analysis/fact/train.json", 'w'), indent=4)
-    lora_fact_analysis(source_file=source_test, save_file=f"../data/loras_analysis/fact/test.json")
-
-    # 收集数据集合，进行增强
-    datasets = ["instruct", "nyt10", "fewrel", "wiki", "semeval", "trex"]
-    data_folder = "../data/other_source"
-    for dataset in datasets:
-        if dataset == "trex":
-            process_trex(dataset, data_folder)
-        else:
-            globals()[f"process_{dataset}"](dataset, data_folder)
+    lora_relation(source_file=source_train, save_file=f"../data/train/loras_chinese/relation/train.json")
+    lora_relation(source_file=source_test, save_file=f"../data/train/loras_chinese/relation/test.json")
+    lora_subject(source_file=source_train, save_file=f"../data/train/loras_chinese/subject/train.json")
+    lora_subject(source_file=source_test, save_file=f"../data/train/loras_chinese/subject/test.json")
+    lora_fact(source_file=source_train, save_file=f"../data/train/loras_chinese/fact/train.json")
+    lora_fact(source_file=source_test, save_file=f"../data/train/loras_chinese/fact/test.json")
+    #
+    # # 以上是论文中的内容，接下来是新的尝试，如果不需要，请使用本代码时候全部注释掉
+    #
+    # # 以下是尝试用analysis的方法
+    #
+    # # base_path = "../data/redocred/analysis_redocred"
+    # # files = ["redocred_train.json", "redocred_dev.json", "redocred_test.json"]
+    # # for file in files:
+    # #     save_path = f"{base_path}/{file.replace('.json', '_analysis.json')}"
+    # #     source_file = f"../data/redocred/{file}"
+    # #     make_redocred_data_parallel(save_path=save_path, source_file=source_file, func=gen_analysis, num_processes=100)
+    #
+    # # 我用手动的方式构建了unknown数据集，现在也为unknown生成解释
+    # # gen_unknown_analysis(source_dir="../data/redocred/unknown/unknown_handcraft", save_dir="../data/redocred/unknown/unknown_relations_analysis")
+    # # 再将结果整合起来
+    # input_directory = "../data/redocred/unknown/unknown_relations_analysis"
+    # output_file = os.path.join(input_directory, '..', 'relations_unknown_analysis.json')
+    # data = [json.loads(line) for fname in os.listdir(input_directory) if fname.endswith('.json') for line in open(os.path.join(input_directory, fname))]
+    # json.dump(data, open(output_file, 'w'), indent=4)
+    #
+    # # make analysis_set for 3 loras, test_set remains unchanged
+    # source_train = "../data/redocred/analysis_redocred/redocred_train_analysis.json"
+    # source_test = "../data/redocred/analysis_redocred/redocred_test_analysis.json"
+    # version = "D_R_H_F_desc_analysis"
+    # lora_relation_analysis(source_file=source_train, save_file=f"../data/loras_analysis/relation/train.json")
+    # lora_relation_analysis(source_file=source_test, save_file=f"../data/loras_analysis/relation/test.json")
+    #
+    # lora_subject_analysis(source_file=source_train, save_file=f"../data/loras_analysis/subject/train.json")
+    # lora_subject_analysis(source_file=source_test, save_file=f"../data/loras_analysis/subject/test.json")
+    #
+    # lora_unknown_fact_analysis(source_file="../data/redocred/unknown/relations_unknown_analysis.json", save_file=f"../data/loras_analysis/fact/train_unknown.json")
+    # lora_fact_analysis(source_file=source_train, save_file=f"../data/loras_analysis/fact/train.json")
+    # # 这里需要将两个train文件进行合并，如果不使用unknown，则不需要。
+    # data = [item for f in ["../data/loras_analysis/fact/train_unknown.json", "../data/loras_analysis/fact/train.json"] for item in json.load(open(f))]
+    # # 此时，train.json是两个文件的合并
+    # json.dump(data, open("../data/loras_analysis/fact/train.json", 'w'), indent=4)
+    # lora_fact_analysis(source_file=source_test, save_file=f"../data/loras_analysis/fact/test.json")
+    #
+    # # 收集数据集合，进行增强
+    # datasets = ["instruct", "nyt10", "fewrel", "wiki", "semeval", "trex"]
+    # data_folder = "../data/other_source"
+    # for dataset in datasets:
+    #     if dataset == "trex":
+    #         process_trex(dataset, data_folder)
+    #     else:
+    #         globals()[f"process_{dataset}"](dataset, data_folder)
