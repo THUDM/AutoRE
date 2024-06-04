@@ -54,7 +54,7 @@ bash AutoRE.sh
 具体可以看[redocred_train_analysis.json](https://github.com/bigdante/AutoRE/blob/main/AutoRE/data/redocred/analysis_redocred/redocred_train_analysis.json)中的例子。
 数据和代码已经分享，希望对大家能有些许启发～
 
-另外，为了使AutoRE能够做更多的out domain的关系抽取，加入其他的开源数据，包括英文的fewrel，nyt，以及中文的hacred等。如果只关注本论文的工作，只需要将数据处理中pre_process_data.py的其他代码注释掉，只保留处理redocred的处理部分（代码中给了很多的注释，希望能帮到你们～）
+另外，为了使AutoRE能够做更多类的关系抽取，加入其他的开源数据，包括英文的fewrel，nyt等，以及中文的hacred等。如果只关注本论文的工作，只需要将数据处理中pre_process_data.py的其他代码注释掉，只保留处理redocred的处理部分（代码中给了很多的注释，希望能帮到你们～）
 
 ## 引用
 
