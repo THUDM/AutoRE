@@ -7,7 +7,7 @@ Currently, experiments are conducted on the [Re-DocRED](https://github.com/tonyt
 ## Usage
 Method 1.Download the model from [ckpt](https://cloud.tsinghua.edu.cn/d/4d12cf0620164caca82c/), which corresponds to the AutoRE models fine-tuned on Mistral-7B, Vicuna-7B, and ChatGLM3-6B.
 
-Method 2.Download from huggingface上[dante123/AutoRE](https://huggingface.co/dante123/AutoRE/tree/main)。
+Method 2.Download from huggingface[dante123/AutoRE](https://huggingface.co/dante123/AutoRE/tree/main)。
 ### 0. Environment prepare
 ```shell
     cd AutoRE/
