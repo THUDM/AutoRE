@@ -45,7 +45,7 @@ This verifies whether the analysis process is helpful for extraction. The overal
 For specific examples, please see [redocred_train_analysis.json](https://github.com/bigdante/AutoRE/blob/main/AutoRE/data/redocred/analysis_redocred/redocred_train_analysis.json)
 The data and code have been shared, hoping to provide some inspiration to everyone.
 
-
+Additionally, in order for AutoRE to perform more types of relation extraction, other open-source datasets, including English datasets such as FewRel and NYT, as well as Chinese datasets like HaCred, should be incorporated. If the focus is solely on the work of this paper, you only need to comment out the other parts of the data processing in the `pre_process_data.py` file, retaining only the part that processes RedoCred (there are many comments in the code that should help you).
 
 ### 3.model test
 
