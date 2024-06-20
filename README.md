@@ -9,8 +9,8 @@
 方法2:从 huggingface上下载[dante123/AutoRE](https://huggingface.co/dante123/AutoRE/tree/main)。
 ### 0.环境准备
 ```shell
-    cd AutoRE/
-    pip install -r requirement.txt
+cd AutoRE/
+pip install -r requirement.txt
 ```
 因为使用了wandb，所以需要先将[train_bash.py](https://github.com/bigdante/AutoRE/blob/main/AutoRE/src/train_bash.py)中的key进行设置
 ```shell
