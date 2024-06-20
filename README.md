@@ -5,6 +5,7 @@
 
 ## 使用方法
 方法1:下载模型地址[ckpt](https://cloud.tsinghua.edu.cn/d/4d12cf0620164caca82c/)，其中对应着微调Mistral-7B，Vicuna-7B和ChatGLM3-6B后的AutoRE模型。
+
 方法2:从 huggingface上下载[dante123/AutoRE](https://huggingface.co/dante123/AutoRE/tree/main)。
 ### 0.环境准备
 ```shell
