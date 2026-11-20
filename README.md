@@ -4,7 +4,7 @@
 目前基于[Re-DocRED](https://github.com/tonytan48/Re-DocRED)数据集进行实验，能够抽取文档级文本中的96个关系的三元组事实。
 
 ## 使用方法
-从 huggingface上下载[dante123/AutoRE](https://huggingface.co/dante123/AutoRE/tree/main)。单个LoRA模块在570M左右。
+从 huggingface上下载[dante123/AutoRE](https://huggingface.co/dante123/AutoRE/tree/main)。vicuna ckpt被截断了（时间久远找不到otz.....） 目前提供的是mistral的版本。
 
 ### 0.环境准备
 ```shell
